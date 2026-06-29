@@ -1,6 +1,6 @@
 "use client";
 
-import { FormEvent, useMemo, useState } from "react";
+import { FormEvent, useEffect, useMemo, useState } from "react";
 import type { SportsMoment } from "@/lib/sports";
 import { getTodaysMoments, leagues, sources } from "@/lib/sports";
 
@@ -10,6 +10,18 @@ type Props = {
 
 type SortMode = "today" | "heat" | "newest" | "title";
 type Notice = "idle" | "copied" | "subscribed" | "submitted";
+type FormStatus = "idle" | "submitting" | "success" | "error";
+
+type ErrorResponse = {
+  error?: string;
+  issues?: Record<string, string[] | undefined>;
+};
+
+const submissionTypes = [
+  ["submit-find", "Submit find"],
+  ["request-coverage", "Request coverage"],
+  ["improve-note", "Improve note"],
+] as const;
 
 const sortOptions: Array<[SortMode, string]> = [
   ["today", "Radar order"],
@@ -17,6 +29,24 @@ const sortOptions: Array<[SortMode, string]> = [
   ["newest", "Newest"],
   ["title", "A-Z"],
 ];
+
+const issueLabels: Record<string, string> = {
+  title: "Find or topic",
+  outcome: "Why this belongs",
+  notes: "Rough note",
+  context: "Link or source",
+  handle: "Handle",
+};
+
+const skillInstallCommand = "npx skills add georgewangyu/sports-radar --skill sports-radar -g";
+const skillRepoUrl = "https://github.com/georgewangyu/sports-radar";
+const leadStorageKey = "sports-radar-install-unlocked";
+
+const leadLabels: Record<string, string> = {
+  email: "Email",
+  name: "Name",
+  website: "Website",
+};
 
 function SearchIcon() {
   return (
@@ -63,6 +93,38 @@ function sortMoments(items: SportsMoment[], sortMode: SortMode) {
   return [...items].sort((left, right) => left.rank - right.rank);
 }
 
+async function errorMessageFor(response: Response) {
+  if (response.status !== 400) {
+    return "Something went wrong. Try again or send the find another way.";
+  }
+
+  const body = (await response.json().catch(() => null)) as ErrorResponse | null;
+  const fieldMessages = Object.entries(body?.issues || {}).flatMap(
+    ([field, messages]) =>
+      (messages || []).map((message) => `${issueLabels[field] || field}: ${message}`),
+  );
+
+  return fieldMessages.length > 0
+    ? fieldMessages.join(" ")
+    : body?.error || "Please check the form and try again.";
+}
+
+async function leadErrorMessageFor(response: Response) {
+  if (response.status !== 400) {
+    return "Could not unlock the install command. Try again in a moment.";
+  }
+
+  const body = (await response.json().catch(() => null)) as ErrorResponse | null;
+  const fieldMessages = Object.entries(body?.issues || {}).flatMap(
+    ([field, messages]) =>
+      (messages || []).map((message) => `${leadLabels[field] || field}: ${message}`),
+  );
+
+  return fieldMessages.length > 0
+    ? fieldMessages.join(" ")
+    : body?.error || "Please check your email and try again.";
+}
+
 export function SportsRadarApp({ moments }: Props) {
   const todaysMoments = getTodaysMoments();
   const [selectedId, setSelectedId] = useState(todaysMoments[0]?.id || moments[0]?.id);
@@ -71,6 +133,13 @@ export function SportsRadarApp({ moments }: Props) {
   const [source, setSource] = useState("All");
   const [sortMode, setSortMode] = useState<SortMode>("today");
   const [notice, setNotice] = useState<Notice>("idle");
+  const [submissionType, setSubmissionType] = useState("submit-find");
+  const [formStatus, setFormStatus] = useState<FormStatus>("idle");
+  const [error, setError] = useState("");
+  const [copiedCommand, setCopiedCommand] = useState(false);
+  const [leadStatus, setLeadStatus] = useState<FormStatus>("idle");
+  const [leadUnlocked, setLeadUnlocked] = useState(false);
+  const [leadError, setLeadError] = useState("");
 
   const selectedMoment =
     moments.find((moment) => moment.id === selectedId) || todaysMoments[0] || moments[0];
@@ -107,6 +176,10 @@ export function SportsRadarApp({ moments }: Props) {
     [filteredMoments, sortMode],
   );
 
+  useEffect(() => {
+    setLeadUnlocked(window.localStorage.getItem(leadStorageKey) === "true");
+  }, []);
+
   function flash(nextNotice: Notice) {
     setNotice(nextNotice);
     window.setTimeout(() => setNotice("idle"), 1800);
@@ -119,16 +192,88 @@ export function SportsRadarApp({ moments }: Props) {
     flash("copied");
   }
 
+  async function copySetupCommand() {
+    await navigator.clipboard.writeText(skillInstallCommand);
+    setCopiedCommand(true);
+    window.setTimeout(() => setCopiedCommand(false), 1400);
+  }
+
+  async function submitLead(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    const formElement = event.currentTarget;
+    const payload = Object.fromEntries(new FormData(formElement).entries());
+
+    setLeadStatus("submitting");
+    setLeadError("");
+
+    try {
+      const response = await fetch("/api/leads", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      });
+
+      if (!response.ok) {
+        setLeadStatus("error");
+        setLeadError(await leadErrorMessageFor(response));
+        return;
+      }
+
+      window.localStorage.setItem(leadStorageKey, "true");
+      setLeadUnlocked(true);
+      setLeadStatus("success");
+      formElement.reset();
+    } catch {
+      setLeadStatus("error");
+      setLeadError("Could not unlock the install command. Try again in a moment.");
+    }
+  }
+
   function handleSubscribe(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
     event.currentTarget.reset();
     flash("subscribed");
   }
 
-  function handleSubmitFind(event: FormEvent<HTMLFormElement>) {
+  async function handleSubmitFind(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
-    event.currentTarget.reset();
-    flash("submitted");
+    const formElement = event.currentTarget;
+    setFormStatus("submitting");
+    setError("");
+
+    const form = new FormData(formElement);
+    const payload = {
+      submissionType: String(form.get("submissionType") || submissionType),
+      visibility: String(form.get("visibility") || "public"),
+      title: String(form.get("title") || ""),
+      outcome: String(form.get("outcome") || ""),
+      notes: String(form.get("notes") || ""),
+      context: String(form.get("context") || ""),
+      handle: String(form.get("handle") || ""),
+      website: String(form.get("website") || ""),
+    };
+
+    try {
+      const response = await fetch("/api/submit", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      });
+
+      if (!response.ok) {
+        setFormStatus("error");
+        setError(await errorMessageFor(response));
+        return;
+      }
+
+      formElement.reset();
+      setSubmissionType("submit-find");
+      setFormStatus("success");
+      flash("submitted");
+    } catch {
+      setFormStatus("error");
+      setError("Something went wrong. Try again or send the find another way.");
+    }
   }
 
   return (
@@ -142,6 +287,7 @@ export function SportsRadarApp({ moments }: Props) {
           <a href="#today">Today</a>
           <a href="#top-five">Top 5</a>
           <a href="#archive">Archive</a>
+          <a href="#skill">Skill</a>
           <a href="#submit">Submit</a>
         </nav>
         <a className="primary nav-cta" href="#subscribe">
@@ -238,6 +384,49 @@ export function SportsRadarApp({ moments }: Props) {
         </div>
       </section>
 
+      <section className="agent-setup" id="skill" aria-labelledby="skill-title">
+        <div>
+          <div className="section-heading">
+            <span>Agent skill</span>
+            <h2 id="skill-title">Use Sports Radar in your agent.</h2>
+          </div>
+          <p>
+            Install the skill to ask for today's sports internet pick, search the
+            archive, or turn a weird moment into a concise shareable summary.
+          </p>
+        </div>
+        {leadUnlocked ? (
+          <div className="setup-command">
+            <code>{skillInstallCommand}</code>
+            <div className="setup-actions">
+              <button className="primary" onClick={copySetupCommand} type="button">
+                {copiedCommand ? "Copied" : "Copy command"}
+              </button>
+              <a href={skillRepoUrl}>Star the repo</a>
+            </div>
+            <p>Star Sports Radar to save it and support the project.</p>
+          </div>
+        ) : (
+          <form className="unlock-form" onSubmit={submitLead}>
+            <label>
+              Name
+              <input name="name" autoComplete="name" required />
+            </label>
+            <label>
+              Email
+              <input name="email" type="email" autoComplete="email" required />
+            </label>
+            <input type="text" name="website" tabIndex={-1} autoComplete="off" className="honeypot" />
+            <button className="primary" disabled={leadStatus === "submitting"} type="submit">
+              <SendIcon />
+              {leadStatus === "submitting" ? "Unlocking..." : "Unlock install command"}
+            </button>
+            <p>Unlocks the skill command and occasional updates. No spam.</p>
+            {leadStatus === "error" && <p className="error">{leadError}</p>}
+          </form>
+        )}
+      </section>
+
       <section className="archive-section" id="archive" aria-labelledby="archive-title">
         <div className="archive-head">
           <div className="section-heading">
@@ -327,13 +516,53 @@ export function SportsRadarApp({ moments }: Props) {
           </p>
         </div>
         <form className="submit-form" onSubmit={handleSubmitFind}>
+          <input type="text" name="website" tabIndex={-1} autoComplete="off" className="honeypot" />
+          <div className="segmented" role="group" aria-label="Submission type">
+            {submissionTypes.map(([value, label]) => (
+              <label key={value}>
+                <input
+                  type="radio"
+                  name="submissionType"
+                  value={value}
+                  checked={submissionType === value}
+                  onChange={() => setSubmissionType(value)}
+                />
+                <span>{label}</span>
+              </label>
+            ))}
+          </div>
           <input name="title" placeholder="Short title" required />
-          <input name="context" placeholder="Link or source" required />
-          <textarea name="why" placeholder="Why is this funny?" required rows={4} />
-          <button className="primary" type="submit">
+          <textarea
+            name="outcome"
+            placeholder="Why does this belong on Sports Radar?"
+            required
+            rows={3}
+          />
+          <textarea
+            name="notes"
+            placeholder="Drop the quote, joke, thread context, or rough explanation."
+            required
+            rows={4}
+          />
+          <input name="context" placeholder="Link or source" />
+          <input name="handle" placeholder="Your handle, optional" />
+          <fieldset>
+            <legend>Visibility</legend>
+            <label>
+              <input type="radio" name="visibility" value="public" defaultChecked />
+              Public issue
+            </label>
+            <label>
+              <input type="radio" name="visibility" value="private" />
+              Private review
+            </label>
+          </fieldset>
+          <button className="primary" type="submit" disabled={formStatus === "submitting"}>
             <SendIcon />
-            Submit find
+            {formStatus === "submitting" ? "Sending..." : "Submit find"}
           </button>
+          {formStatus === "success" && <p className="success">Find sent for review.</p>}
+          {formStatus === "error" && <p className="error">{error}</p>}
         </form>
       </section>
 

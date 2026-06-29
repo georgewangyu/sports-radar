@@ -1,0 +1,4 @@
+version: 1
+name: sports-radar
+description: Sports internet picks and archive search from Sports Radar.
+instructions: SKILL.md

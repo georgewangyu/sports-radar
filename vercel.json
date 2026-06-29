@@ -1,0 +1,48 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "sports-radar-alpha.vercel.app"
+        }
+      ],
+      "destination": "https://sportsradar.snackoverflowgeorge.com",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "sports-radar-alpha.vercel.app"
+        }
+      ],
+      "destination": "https://sportsradar.snackoverflowgeorge.com/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "sports-radar.vercel.app"
+        }
+      ],
+      "destination": "https://sportsradar.snackoverflowgeorge.com",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "sports-radar.vercel.app"
+        }
+      ],
+      "destination": "https://sportsradar.snackoverflowgeorge.com/:path*",
+      "permanent": true
+    }
+  ]
+}

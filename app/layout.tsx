@@ -2,9 +2,20 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://sportsradar.snackoverflowgeorge.com"),
   title: "Sports Radar",
   description:
     "A daily top five of funny sports internet finds, comments, lore, and group-chat fuel.",
+  alternates: {
+    canonical: "/",
+  },
+  openGraph: {
+    title: "Sports Radar",
+    description:
+      "A daily top five of funny sports internet finds, comments, lore, and group-chat fuel.",
+    url: "https://sportsradar.snackoverflowgeorge.com",
+    type: "website",
+  },
 };
 
 export default function RootLayout({

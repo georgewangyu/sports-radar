@@ -177,6 +177,7 @@ h2 {
 .daily-board,
 .feature-detail,
 .archive-section,
+.agent-setup,
 .submit-section {
   border: 1px solid rgba(17, 17, 17, 0.13);
   background: var(--paper);
@@ -210,6 +211,7 @@ h2 {
 .subscribe-form input,
 .submit-form input,
 .submit-form textarea,
+.submit-form fieldset,
 .filters input,
 .filters select {
   width: 100%;
@@ -224,6 +226,7 @@ h2 {
 .subscribe-form input:focus,
 .submit-form input:focus,
 .submit-form textarea:focus,
+.submit-form fieldset:focus-within,
 .filters input:focus,
 .filters select:focus {
   border-color: var(--ink);
@@ -397,6 +400,77 @@ h2 {
   align-items: stretch;
   margin-top: 18px;
   padding: 18px;
+}
+
+.agent-setup {
+  display: grid;
+  grid-template-columns: minmax(0, 0.95fr) minmax(320px, 1.05fr);
+  gap: 22px;
+  align-items: start;
+  margin-top: 18px;
+  padding: 24px;
+}
+
+.agent-setup > div > p,
+.setup-command p,
+.unlock-form p {
+  color: #414141;
+  line-height: 1.5;
+}
+
+.setup-command,
+.unlock-form {
+  display: grid;
+  gap: 12px;
+}
+
+.setup-command code {
+  display: block;
+  overflow-wrap: anywhere;
+  border: 1px solid var(--line);
+  background: var(--wash);
+  padding: 13px;
+  font-family: var(--mono);
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.setup-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.setup-actions a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--line);
+  background: #fff;
+  color: var(--ink);
+  padding: 11px 14px;
+  font-size: 13px;
+  font-weight: 850;
+  line-height: 1;
+}
+
+.unlock-form label {
+  display: grid;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 850;
+  text-transform: uppercase;
+}
+
+.unlock-form input {
+  width: 100%;
+  border: 1px solid var(--line);
+  background: #fff;
+  color: var(--ink);
+  padding: 12px 13px;
+  font-size: 14px;
+  outline: none;
 }
 
 .poster-tile {
@@ -606,6 +680,101 @@ blockquote {
   resize: vertical;
 }
 
+.submit-form fieldset {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+  margin: 0;
+}
+
+.submit-form legend {
+  margin-bottom: 8px;
+  color: var(--muted);
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.submit-form fieldset label {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  color: #2f2f2f;
+  font-size: 13px;
+  font-weight: 760;
+}
+
+.segmented {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 6px;
+}
+
+.segmented label {
+  min-width: 0;
+}
+
+.segmented input {
+  position: absolute;
+  width: auto;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.submit-form fieldset input {
+  width: auto;
+}
+
+.segmented span {
+  display: flex;
+  min-height: 42px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--line);
+  background: #fff;
+  padding: 8px 10px;
+  color: #3c3c3c;
+  font-size: 12px;
+  font-weight: 820;
+  text-align: center;
+}
+
+.segmented input:checked + span {
+  border-color: var(--ink);
+  background: var(--ink);
+  color: #fff;
+}
+
+.segmented input:focus-visible + span {
+  box-shadow: 0 0 0 3px rgba(255, 77, 24, 0.18);
+}
+
+.success,
+.error {
+  margin: 0;
+  font-size: 13px;
+  font-weight: 780;
+}
+
+.success {
+  color: #276d35;
+}
+
+.error {
+  color: #a62917;
+}
+
+.honeypot {
+  position: absolute;
+  left: -10000px;
+  width: 1px !important;
+  height: 1px;
+  opacity: 0;
+  pointer-events: none;
+}
+
 .footer {
   justify-content: space-between;
   gap: 16px;
@@ -662,6 +831,7 @@ blockquote {
   .topbar,
   .hero,
   .feature-detail,
+  .agent-setup,
   .archive-head,
   .submit-section {
     grid-template-columns: 1fr;
@@ -722,6 +892,7 @@ blockquote {
 
   .hero-copy,
   .daily-board,
+  .agent-setup,
   .archive-section,
   .submit-section {
     padding: 18px;
