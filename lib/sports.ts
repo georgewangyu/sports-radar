@@ -1,5 +1,12 @@
 import sportsMoments from "@/data/sports-moments.json";
 
+export type CommentHighlight = {
+  label: string;
+  summary: string;
+  whyFunny: string;
+  sourceUrl?: string;
+};
+
 export type SportsMoment = {
   id: string;
   rank: number;
@@ -12,6 +19,8 @@ export type SportsMoment = {
   summary: string;
   whyFunny: string;
   quote: string;
+  sourceUrl?: string;
+  commentHighlights?: CommentHighlight[];
   tags: string[];
   markdown: string;
 };

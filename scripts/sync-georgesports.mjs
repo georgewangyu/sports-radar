@@ -86,6 +86,58 @@ function section(body, heading, filePath) {
   return body.slice(contentStart + 1, contentEnd).trim();
 }
 
+function optionalSection(body, heading) {
+  const headingLine = `## ${heading}`;
+  const start = body.indexOf(headingLine);
+
+  if (start === -1) {
+    return "";
+  }
+
+  const contentStart = body.indexOf("\n", start + headingLine.length);
+  const nextHeading = body.indexOf("\n## ", contentStart + 1);
+  const contentEnd = nextHeading === -1 ? body.length : nextHeading;
+
+  return body.slice(contentStart + 1, contentEnd).trim();
+}
+
+function bulletBlocks(sectionText) {
+  const blocks = [];
+  let current = [];
+
+  for (const line of sectionText.split("\n")) {
+    if (line.startsWith("- ")) {
+      if (current.length > 0) blocks.push(current.join("\n"));
+      current = [line];
+    } else if (current.length > 0 && (line.startsWith("  ") || line.trim() === "")) {
+      current.push(line);
+    }
+  }
+
+  if (current.length > 0) blocks.push(current.join("\n"));
+  return blocks;
+}
+
+function valueFrom(block, label) {
+  const pattern = new RegExp(`^\\s*(?:-\\s*)?${label}:\\s*(.+)$`, "m");
+  return block.match(pattern)?.[1]?.trim() || "";
+}
+
+function sourceUrlFrom(body) {
+  return optionalSection(body, "Source Notes").match(/^- Source URL:\s*(.+)$/m)?.[1]?.trim() || "";
+}
+
+function commentHighlightsFrom(body) {
+  return bulletBlocks(optionalSection(body, "Comment Highlights"))
+    .map((block) => ({
+      label: valueFrom(block, "Label"),
+      summary: valueFrom(block, "Summary"),
+      whyFunny: valueFrom(block, "Why funny"),
+      sourceUrl: valueFrom(block, "Source URL"),
+    }))
+    .filter((item) => item.label && item.summary && item.whyFunny);
+}
+
 function validateMoment(moment, filePath) {
   for (const field of requiredFields) {
     if (moment[field] === undefined || moment[field] === "") {
@@ -108,6 +160,10 @@ function validateMoment(moment, filePath) {
   if (moment.quote.split(/\s+/).length > 30) {
     throw new Error(`${filePath}: quote is too long for public use`);
   }
+
+  if (moment.source === "Reddit" && !moment.sourceUrl) {
+    throw new Error(`${filePath}: Reddit finds must include a Source URL`);
+  }
 }
 
 async function main() {
@@ -123,6 +179,8 @@ async function main() {
       summary: section(body, "Summary", filePath),
       whyFunny: section(body, "Why It Is Funny", filePath),
       quote: section(body, "Quote", filePath),
+      sourceUrl: sourceUrlFrom(body),
+      commentHighlights: commentHighlightsFrom(body),
       markdown,
     };
 

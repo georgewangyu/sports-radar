@@ -78,6 +78,14 @@ h2 {
   line-height: 0.98;
 }
 
+h3 {
+  margin: 0;
+  font-size: 19px;
+  font-weight: 880;
+  letter-spacing: 0;
+  line-height: 1.05;
+}
+
 .shell {
   width: min(1240px, calc(100vw - 32px));
   margin: 18px auto 52px;
@@ -307,6 +315,10 @@ h2 {
   margin-bottom: 22px;
 }
 
+.section-heading.compact {
+  margin-bottom: 12px;
+}
+
 .section-heading > span,
 .detail-meta,
 .why-box > span,
@@ -432,8 +444,38 @@ h2 {
   line-height: 1.35;
 }
 
+.row-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  align-items: center;
+}
+
 .top-five-row.is-active small {
   color: #cfcfcf;
+}
+
+.heat-pill {
+  display: inline-flex;
+  width: fit-content;
+  align-items: center;
+  gap: 5px;
+  border: 1px solid currentColor;
+  color: var(--accent);
+  padding: 4px 6px;
+  font-family: var(--mono);
+  font-size: 10px;
+  font-weight: 900;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.top-five-row.is-active .heat-pill {
+  color: var(--lime);
+}
+
+.heat-pill strong {
+  font-size: 12px;
 }
 
 .feature-detail {
@@ -590,6 +632,60 @@ blockquote {
   font-size: 15px;
 }
 
+.comment-highlights {
+  margin-top: 20px;
+  border-top: 1px solid var(--line);
+  padding-top: 16px;
+}
+
+.comment-list {
+  display: grid;
+  gap: 10px;
+}
+
+.comment-card {
+  border: 1px solid var(--line);
+  background: #fff;
+  padding: 13px;
+}
+
+.comment-card > div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.comment-card span {
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 860;
+  line-height: 1.2;
+}
+
+.comment-card a {
+  color: var(--accent);
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.comment-card p {
+  margin: 0 0 7px;
+  color: #333;
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+.comment-card small {
+  display: block;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.4;
+}
+
 .tag-row {
   flex-wrap: wrap;
   gap: 8px;
@@ -613,6 +709,15 @@ blockquote {
 .icon-button:hover {
   background: var(--ink);
   color: #fff;
+}
+
+.source-link {
+  background: var(--ink);
+  color: #fff;
+}
+
+.source-link:hover {
+  background: var(--accent-strong);
 }
 
 .icon {
@@ -698,12 +803,8 @@ blockquote {
   font-size: 13px;
 }
 
-.heat {
-  color: var(--accent);
-  font-family: var(--mono);
-  font-size: 12px;
-  font-weight: 900;
-  text-align: right;
+.archive-heat {
+  justify-self: end;
 }
 
 .submit-section {
@@ -906,7 +1007,7 @@ blockquote {
   }
 
   .archive-chip,
-  .heat {
+  .archive-heat {
     justify-self: start;
     margin-left: 54px;
   }
@@ -973,7 +1074,7 @@ blockquote {
   }
 
   .archive-chip,
-  .heat {
+  .archive-heat {
     margin-left: 0;
   }
 

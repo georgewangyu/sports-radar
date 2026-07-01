@@ -1,6 +1,6 @@
 "use client";
 
-import { FormEvent, useEffect, useMemo, useState } from "react";
+import { FormEvent, useEffect, useMemo, useRef, useState } from "react";
 import type { SportsMoment } from "@/lib/sports";
 import { getTodaysMoments, leagues, sources } from "@/lib/sports";
 
@@ -146,6 +146,7 @@ async function leadErrorMessageFor(response: Response) {
 export function SportsRadarApp({ moments }: Props) {
   const todaysMoments = getTodaysMoments();
   const [selectedId, setSelectedId] = useState(todaysMoments[0]?.id || moments[0]?.id);
+  const detailRef = useRef<HTMLElement>(null);
   const [query, setQuery] = useState("");
   const [league, setLeague] = useState("All");
   const [source, setSource] = useState("All");
@@ -201,6 +202,16 @@ export function SportsRadarApp({ moments }: Props) {
   function flash(nextNotice: Notice) {
     setNotice(nextNotice);
     window.setTimeout(() => setNotice("idle"), 1800);
+  }
+
+  function selectMoment(id: string, scrollToDetail = true) {
+    setSelectedId(id);
+
+    if (scrollToDetail) {
+      window.setTimeout(() => {
+        detailRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+      }, 0);
+    }
   }
 
   async function copyMoment(moment: SportsMoment) {
@@ -356,7 +367,7 @@ export function SportsRadarApp({ moments }: Props) {
               <button
                 className={`top-five-row ${selectedMoment.id === moment.id ? "is-active" : ""}`}
                 key={moment.id}
-                onClick={() => setSelectedId(moment.id)}
+                onClick={() => selectMoment(moment.id)}
                 type="button"
               >
                 <span className="rank">{moment.rank}</span>
@@ -365,8 +376,9 @@ export function SportsRadarApp({ moments }: Props) {
                 </span>
                 <span className="row-main">
                   <strong>{moment.title}</strong>
-                  <small>
-                    {moment.league} / {moment.source} / Heat {moment.heat}
+                  <small className="row-meta">
+                    <span>{moment.league} / {moment.source}</span>
+                    <span className="heat-pill">Heat <strong>{moment.heat}</strong></span>
                   </small>
                 </span>
               </button>
@@ -375,7 +387,7 @@ export function SportsRadarApp({ moments }: Props) {
         </section>
       </section>
 
-      <section className="feature-detail" aria-label="Selected sports find">
+      <section className="feature-detail" ref={detailRef} aria-label="Selected sports find">
         <div className="poster-tile">
           <span>{selectedMoment.league}</span>
           <strong>{selectedMoment.rank.toString().padStart(2, "0")}</strong>
@@ -394,6 +406,30 @@ export function SportsRadarApp({ moments }: Props) {
             <span>Why it makes the cut</span>
             <p>{selectedMoment.whyFunny}</p>
           </div>
+          {(selectedMoment.commentHighlights || []).length > 0 && (
+            <section className="comment-highlights" aria-label="Comment highlights">
+              <div className="section-heading compact">
+                <span>Comment read</span>
+                <h3>What the thread adds</h3>
+              </div>
+              <div className="comment-list">
+                {selectedMoment.commentHighlights?.map((comment) => (
+                  <article className="comment-card" key={`${selectedMoment.id}-${comment.label}`}>
+                    <div>
+                      <span>{comment.label}</span>
+                      {comment.sourceUrl && (
+                        <a href={comment.sourceUrl} target="_blank" rel="noreferrer">
+                          Open comment
+                        </a>
+                      )}
+                    </div>
+                    <p>{comment.summary}</p>
+                    <small>{comment.whyFunny}</small>
+                  </article>
+                ))}
+              </div>
+            </section>
+          )}
           <div className="tag-row">
             {selectedMoment.tags.map((tag) => (
               <span key={tag}>{tag}</span>
@@ -409,6 +445,11 @@ export function SportsRadarApp({ moments }: Props) {
             <SendIcon />
             <span>Send a find</span>
           </a>
+          {selectedMoment.sourceUrl && (
+            <a className="icon-button source-link" href={selectedMoment.sourceUrl} target="_blank" rel="noreferrer">
+              Open Reddit
+            </a>
+          )}
         </div>
       </section>
 
@@ -515,7 +556,7 @@ export function SportsRadarApp({ moments }: Props) {
             <button
               className="archive-row"
               key={moment.id}
-              onClick={() => setSelectedId(moment.id)}
+              onClick={() => selectMoment(moment.id)}
               role="listitem"
               type="button"
             >
@@ -526,7 +567,7 @@ export function SportsRadarApp({ moments }: Props) {
               </span>
               <span className="archive-chip">{moment.league}</span>
               <span className="archive-chip">{moment.source}</span>
-              <span className="heat">Heat {moment.heat}</span>
+              <span className="heat-pill archive-heat">Heat <strong>{moment.heat}</strong></span>
             </button>
           ))}
         </div>
