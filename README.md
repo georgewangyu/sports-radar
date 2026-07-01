@@ -23,6 +23,16 @@ Public-ready source finds live in the sibling private source repo:
 ../georgesports/finds/<find-id>.md
 ```
 
+Reddit candidates are pulled privately from `georgesports` first:
+
+```bash
+(cd ../georgesports && npm run collect:reddit)
+```
+
+That command writes raw review files under `../georgesports/inbox/reddit/`,
+which is intentionally gitignored. Promote only rewritten, public-safe items
+into `../georgesports/finds/`.
+
 Sync them into the public app data with:
 
 ```bash
