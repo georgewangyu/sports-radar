@@ -45,6 +45,29 @@ npm run typecheck
 npm run build
 ```
 
+## Source Strategy
+
+Sports Radar is Reddit-first by default. The product is not trying to be a
+general sports-news feed, betting board, or score tracker. The value is a
+short edited Top 5 of sports-culture moments that are funny, lore-heavy, or
+group-chat-worthy.
+
+Primary source:
+
+- Reddit sports communities and team/fan subreddits.
+
+Secondary sources when a moment earns it:
+
+- Broadcast clips
+- YouTube/postgame clips
+- ESPN or public media graphics
+- Public social posts
+- Private notes rewritten into public-safe commentary
+
+X is not a default source for now because George's X feed is mostly tech and
+builder content. Add X only when there is an intentional sports account/source
+list, not as ambient xbot input.
+
 ## Product Shape
 
 - Daily Top 5 sports-culture finds

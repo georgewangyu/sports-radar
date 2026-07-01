@@ -30,6 +30,24 @@ const sortOptions: Array<[SortMode, string]> = [
   ["title", "A-Z"],
 ];
 
+const sourceCards = [
+  {
+    label: "Primary source",
+    value: "Reddit-first",
+    detail: "Fan threads, lore, reactions, and jokes that beat normal headlines.",
+  },
+  {
+    label: "Private repo",
+    value: "georgesports",
+    detail: "Raw links and notes get rewritten before anything becomes public.",
+  },
+  {
+    label: "Public output",
+    value: "Daily Top 5",
+    detail: "Five sports-culture finds worth sending to the group chat.",
+  },
+];
+
 const issueLabels: Record<string, string> = {
   title: "Find or topic",
   outcome: "Why this belongs",
@@ -299,7 +317,8 @@ export function SportsRadarApp({ moments }: Props) {
         <div className="hero-copy">
           <h1 id="page-title">Sports Radar</h1>
           <p className="hero-line">
-            The best sports internet finds, before they disappear into the group chat.
+            Reddit-first sports culture, edited into five moments worth sending
+            before they disappear into the group chat.
           </p>
           <form className="subscribe-form" id="subscribe" onSubmit={handleSubscribe}>
             <label className="sr-only" htmlFor="email">
@@ -312,16 +331,25 @@ export function SportsRadarApp({ moments }: Props) {
             </button>
           </form>
           <div className="quick-stats" aria-label="Radar contents">
-            <span>Daily picks</span>
+            <span>Reddit-first</span>
+            <span>Private notes → public finds</span>
             <span>NBA / NFL / Soccer / more</span>
-            <span>Reddit, ESPN, X, broadcasts</span>
+          </div>
+          <div className="source-grid" aria-label="Source strategy">
+            {sourceCards.map((card) => (
+              <div className="source-card" key={card.label}>
+                <span>{card.label}</span>
+                <strong>{card.value}</strong>
+                <p>{card.detail}</p>
+              </div>
+            ))}
           </div>
         </div>
 
         <section className="daily-board" id="top-five" aria-labelledby="top-five-title">
           <div className="section-heading">
             <span>Today</span>
-            <h2 id="top-five-title">Top 5</h2>
+            <h2 id="top-five-title">Today&apos;s Five</h2>
           </div>
           <div className="top-five-list">
             {todaysMoments.map((moment) => (
@@ -363,7 +391,7 @@ export function SportsRadarApp({ moments }: Props) {
           <p>{selectedMoment.summary}</p>
           <blockquote>{selectedMoment.quote}</blockquote>
           <div className="why-box">
-            <span>Why it is funny</span>
+            <span>Why it makes the cut</span>
             <p>{selectedMoment.whyFunny}</p>
           </div>
           <div className="tag-row">
@@ -431,11 +459,11 @@ export function SportsRadarApp({ moments }: Props) {
         <div className="archive-head">
           <div className="section-heading">
             <span>Archive</span>
-            <h2 id="archive-title">Search the funny file</h2>
+            <h2 id="archive-title">Search the sports-culture file</h2>
           </div>
           <p>
-            Built for the stuff that is too specific for headlines and too good to
-            leave trapped in a thread.
+            Built for moments that are too specific for headlines and too good to
+            leave trapped in Reddit threads, broadcasts, or private notes.
           </p>
         </div>
 
@@ -511,8 +539,8 @@ export function SportsRadarApp({ moments }: Props) {
             <h2 id="submit-title">Found something the group chat needs?</h2>
           </div>
           <p>
-            Drop the link, the quote, or the messy context. Sports Radar works best
-            when the explanation is almost as funny as the moment.
+            Drop the Reddit thread, clip, quote, or messy context. Sports Radar
+            works best when the explanation is almost as good as the moment.
           </p>
         </div>
         <form className="submit-form" onSubmit={handleSubmitFind}>

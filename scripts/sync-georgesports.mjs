@@ -72,16 +72,18 @@ function parseFrontmatter(markdown, filePath) {
 }
 
 function section(body, heading, filePath) {
-  const escaped = heading.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-  const match = body.match(
-    new RegExp(`^## ${escaped}\\n\\n([\\s\\S]*?)(?=\\n## |\\s*$)`, "m"),
-  );
+  const headingLine = `## ${heading}`;
+  const start = body.indexOf(headingLine);
 
-  if (!match) {
+  if (start === -1) {
     throw new Error(`${filePath}: missing section "${heading}"`);
   }
 
-  return match[1].trim();
+  const contentStart = body.indexOf("\n", start + headingLine.length);
+  const nextHeading = body.indexOf("\n## ", contentStart + 1);
+  const contentEnd = nextHeading === -1 ? body.length : nextHeading;
+
+  return body.slice(contentStart + 1, contentEnd).trim();
 }
 
 function validateMoment(moment, filePath) {
