@@ -4,6 +4,8 @@ Sports Radar is a Next.js website entry for a daily sports internet feed: funny 
 
 Live site: https://sportsradar.snackoverflowgeorge.com
 
+Design contract: [DESIGN.md](DESIGN.md)
+
 ## Local Development
 
 ```bash
@@ -54,6 +56,9 @@ npm run sync:sports
 npm run typecheck
 npm run build
 ```
+
+`npm run validate:sports` checks whether generated public data is current
+without rewriting `data/sports-moments.json`.
 
 ## Source Strategy
 

@@ -1,6 +1,26 @@
 import { expect, test } from "@playwright/test";
 import { moments } from "../lib/sports";
 
+const archivePageSize = 3;
+
+function momentMatchesQuery(moment: (typeof moments)[number], query: string) {
+  const normalizedQuery = query.trim().toLowerCase();
+  const haystack = [
+    moment.title,
+    moment.league,
+    moment.source,
+    moment.status,
+    moment.summary,
+    moment.whyFunny,
+    moment.quote,
+    moment.tags.join(" "),
+  ]
+    .join(" ")
+    .toLowerCase();
+
+  return haystack.includes(normalizedQuery);
+}
+
 test.describe("Sports Radar", () => {
   test("catalog renders and lead unlock reveals the install command", async ({ page, context }) => {
     const payloads: Array<Record<string, unknown>> = [];
@@ -19,7 +39,7 @@ test.describe("Sports Radar", () => {
 
     await expect(page).toHaveTitle("Sports Radar");
     await expect(page.getByRole("heading", { name: "Sports Radar", level: 1 })).toBeVisible();
-    await expect(page.getByRole("heading", { name: "Top 5", level: 2 })).toBeVisible();
+    await expect(page.getByRole("heading", { name: "Today's Five", level: 2 })).toBeVisible();
     await expect(page.getByText("Use Sports Radar in your agent.")).toBeVisible();
     await expect(page.getByText("npx skills add georgewangyu/sports-radar")).toBeHidden();
 
@@ -72,6 +92,29 @@ test.describe("Sports Radar", () => {
     });
 
     await expect(page.getByText("Find sent for review.")).toBeVisible();
+  });
+
+  test("archive pagination moves through finds and resets for search", async ({ page }) => {
+    const secondPageEnd = Math.min(archivePageSize * 2, moments.length);
+    const uniqueQuery =
+      moments.find((moment) => moments.filter((item) => momentMatchesQuery(item, moment.title)).length === 1)
+        ?.title || moments[0].title;
+    const uniqueQueryCount = moments.filter((moment) => momentMatchesQuery(moment, uniqueQuery)).length;
+
+    await page.goto("/");
+
+    await expect(page.getByText(`Page 1 of ${Math.ceil(moments.length / archivePageSize)}`)).toBeVisible();
+    await expect(page.getByText(`showing 1-${archivePageSize}`)).toBeVisible();
+    await expect(page.getByRole("button", { name: "Previous", exact: true })).toBeDisabled();
+
+    await page.getByRole("button", { name: "Next", exact: true }).click();
+    await expect(page.getByText("Page 2 of")).toBeVisible();
+    await expect(page.getByText(`showing ${archivePageSize + 1}-${secondPageEnd}`)).toBeVisible();
+
+    await page.getByPlaceholder("Search burners, refs, fantasy apologies...").fill(uniqueQuery);
+    await expect(page.getByText(`${uniqueQueryCount} matching finds`)).toBeVisible();
+    await expect(page.getByText("Page 1 of")).toHaveCount(0);
+    await expect(page.getByRole("button", { name: "Next", exact: true })).toHaveCount(0);
   });
 
   test("mobile layout has no horizontal overflow", async ({ page }) => {

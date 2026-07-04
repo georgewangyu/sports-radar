@@ -4,6 +4,7 @@ import path from "node:path";
 const rootDir = process.cwd();
 const sourceDir = path.resolve(rootDir, "../georgesports/finds");
 const outFile = path.resolve(rootDir, "data/sports-moments.json");
+const checkOnly = process.argv.includes("--check");
 
 const requiredFields = [
   "id",
@@ -190,7 +191,20 @@ async function main() {
 
   moments.sort((left, right) => left.rank - right.rank || left.title.localeCompare(right.title));
 
-  await writeFile(outFile, `${JSON.stringify(moments, null, 2)}\n`);
+  const generated = `${JSON.stringify(moments, null, 2)}\n`;
+
+  if (checkOnly) {
+    const current = await readFile(outFile, "utf8").catch(() => "");
+
+    if (current !== generated) {
+      throw new Error(`${path.relative(rootDir, outFile)} is out of date; run npm run sync:sports`);
+    }
+
+    console.log(`Validated ${moments.length} sports finds in ${path.relative(rootDir, outFile)}`);
+    return;
+  }
+
+  await writeFile(outFile, generated);
   console.log(`Synced ${moments.length} sports finds to ${path.relative(rootDir, outFile)}`);
 }
 

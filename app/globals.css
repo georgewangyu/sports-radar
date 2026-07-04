@@ -783,6 +783,14 @@ blockquote {
   border-top: 1px solid var(--line);
 }
 
+.archive-meta {
+  color: var(--muted);
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
 .archive-row {
   grid-template-columns: 46px minmax(220px, 1fr) 86px 110px 82px;
   gap: 12px;
@@ -794,6 +802,36 @@ blockquote {
 .archive-row:hover {
   padding-right: 10px;
   padding-left: 10px;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.page-button {
+  border: 1px solid var(--ink);
+  background: var(--ink);
+  color: var(--paper);
+  padding: 0.75rem 1rem;
+  border-radius: 999px;
+  font-weight: 900;
+}
+
+.page-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
+}
+
+.page-status {
+  color: var(--muted);
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
 }
 
 .rank.mini {

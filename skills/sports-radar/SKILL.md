@@ -1,6 +1,14 @@
 ---
 name: sports-radar
 description: Use when selecting, recommending, searching, or digesting sports internet finds from Sports Radar, including daily top picks, archive searches, and concise group-chat-ready summaries.
+memory_tags:
+  - domain:sports
+  - workflow:sports-internet-digest
+  - skill_role:researcher
+  - repo_boundary:tools
+  - inputs:sports-catalog
+  - outputs:sports-digest
+  - risk:medium
 ---
 
 # Sports Radar

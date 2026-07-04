@@ -59,6 +59,7 @@ const issueLabels: Record<string, string> = {
 const skillInstallCommand = "npx skills add georgewangyu/sports-radar --skill sports-radar -g";
 const skillRepoUrl = "https://github.com/georgewangyu/sports-radar";
 const leadStorageKey = "sports-radar-install-unlocked";
+const pageSize = 3;
 
 const leadLabels: Record<string, string> = {
   email: "Email",
@@ -159,6 +160,7 @@ export function SportsRadarApp({ moments }: Props) {
   const [leadStatus, setLeadStatus] = useState<FormStatus>("idle");
   const [leadUnlocked, setLeadUnlocked] = useState(false);
   const [leadError, setLeadError] = useState("");
+  const [page, setPage] = useState(1);
 
   const selectedMoment =
     moments.find((moment) => moment.id === selectedId) || todaysMoments[0] || moments[0];
@@ -194,10 +196,19 @@ export function SportsRadarApp({ moments }: Props) {
     () => sortMoments(filteredMoments, sortMode),
     [filteredMoments, sortMode],
   );
+  const pageCount = Math.max(1, Math.ceil(sortedMoments.length / pageSize));
+  const currentPage = Math.min(page, pageCount);
+  const pageStart = (currentPage - 1) * pageSize;
+  const pageEnd = Math.min(pageStart + pageSize, sortedMoments.length);
+  const visibleMoments = sortedMoments.slice(pageStart, pageEnd);
 
   useEffect(() => {
     setLeadUnlocked(window.localStorage.getItem(leadStorageKey) === "true");
   }, []);
+
+  useEffect(() => {
+    setPage(1);
+  }, [league, query, sortMode, source]);
 
   function flash(nextNotice: Notice) {
     setNotice(nextNotice);
@@ -551,8 +562,15 @@ export function SportsRadarApp({ moments }: Props) {
           </label>
         </div>
 
+        <div className="archive-meta">
+          <span>
+            {sortedMoments.length} matching finds
+            {sortedMoments.length > 0 ? ` / showing ${pageStart + 1}-${pageEnd}` : ""}
+          </span>
+        </div>
+
         <div className="archive-table" role="list">
-          {sortedMoments.map((moment) => (
+          {visibleMoments.map((moment) => (
             <button
               className="archive-row"
               key={moment.id}
@@ -571,6 +589,29 @@ export function SportsRadarApp({ moments }: Props) {
             </button>
           ))}
         </div>
+        {sortedMoments.length > pageSize ? (
+          <nav className="pagination" aria-label="Sports find pagination">
+            <button
+              className="page-button"
+              disabled={currentPage === 1}
+              onClick={() => setPage((value) => Math.max(1, value - 1))}
+              type="button"
+            >
+              Previous
+            </button>
+            <span className="page-status">
+              Page {currentPage} of {pageCount}
+            </span>
+            <button
+              className="page-button"
+              disabled={currentPage === pageCount}
+              onClick={() => setPage((value) => Math.min(pageCount, value + 1))}
+              type="button"
+            >
+              Next
+            </button>
+          </nav>
+        ) : null}
       </section>
 
       <section className="submit-section" id="submit" aria-labelledby="submit-title">
