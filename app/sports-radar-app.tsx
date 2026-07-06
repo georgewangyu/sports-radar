@@ -1,6 +1,7 @@
 "use client";
 
 import { FormEvent, useEffect, useMemo, useRef, useState } from "react";
+import { BrandMark } from "./brand-mark";
 import type { SportsMoment } from "@/lib/sports";
 import { getTodaysMoments, leagues, sources } from "@/lib/sports";
 
@@ -320,7 +321,7 @@ export function SportsRadarApp({ moments }: Props) {
     <main className="shell">
       <header className="topbar">
         <a className="brand" href="#">
-          <span className="brand-mark">SR</span>
+          <BrandMark />
           <span>Sports Radar</span>
         </a>
         <nav className="nav-links" aria-label="Page navigation">

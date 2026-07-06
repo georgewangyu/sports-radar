@@ -1,0 +1,13 @@
+export function BrandMark() {
+  return (
+    <svg className="brand-mark" viewBox="0 0 36 36" aria-hidden="true" focusable="false">
+      <rect width="36" height="36" rx="8" fill="#141414" />
+      <rect x="9" y="8" width="3" height="20" rx="1.5" fill="#fbfaf6" />
+      <rect x="17" y="8" width="3" height="20" rx="1.5" fill="#1457ff" />
+      <rect x="25" y="8" width="3" height="20" rx="1.5" fill="#fbfaf6" />
+      <circle cx="10.5" cy="14" r="3" fill="#d7ff55" />
+      <circle cx="18.5" cy="22" r="3" fill="#d7ff55" />
+      <circle cx="26.5" cy="12" r="3" fill="#d7ff55" />
+    </svg>
+  );
+}
