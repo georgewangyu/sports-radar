@@ -40,6 +40,9 @@ test.describe("Sports Radar", () => {
     await expect(page).toHaveTitle("Sports Radar");
     await expect(page.getByRole("heading", { name: "Sports Radar", level: 1 })).toBeVisible();
     await expect(page.getByRole("heading", { name: "Today's Five", level: 2 })).toBeVisible();
+    await expect(
+      page.locator(".top-five-list").getByRole("link", { name: new RegExp(moments[0].title) }),
+    ).toHaveAttribute("href", `/moments/${moments[0].id}`);
     await expect(page.getByText("Use Sports Radar in your agent.")).toBeVisible();
     await expect(page.getByText("npx skills add georgewangyu/sports-radar")).toBeHidden();
 
@@ -92,6 +95,26 @@ test.describe("Sports Radar", () => {
     });
 
     await expect(page.getByText("Find sent for review.")).toBeVisible();
+  });
+
+  test("moment rows navigate to standalone detail pages", async ({ page }) => {
+    await page.goto("/");
+
+    await page
+      .locator(".top-five-list")
+      .getByRole("link", { name: new RegExp(moments[0].title) })
+      .click();
+    await expect(page).toHaveURL(new RegExp(`/moments/${moments[0].id}$`));
+    await expect(page.getByRole("heading", { name: moments[0].title, level: 1 })).toBeVisible();
+    await expect(page.getByRole("heading", { name: "What the thread adds", level: 2 })).toBeVisible();
+
+    await page.goto("/");
+    await page.getByPlaceholder("Search burners, refs, fantasy apologies...").fill(moments[1].title);
+    await page
+      .locator(".archive-table")
+      .getByRole("link", { name: new RegExp(moments[1].title) })
+      .click();
+    await expect(page).toHaveURL(new RegExp(`/moments/${moments[1].id}$`));
   });
 
   test("archive pagination moves through finds and resets for search", async ({ page }) => {

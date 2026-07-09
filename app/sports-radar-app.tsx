@@ -1,6 +1,7 @@
 "use client";
 
-import { FormEvent, useEffect, useMemo, useRef, useState } from "react";
+import Link from "next/link";
+import { FormEvent, useEffect, useMemo, useState } from "react";
 import { BrandMark } from "./brand-mark";
 import type { SportsMoment } from "@/lib/sports";
 import { getTodaysMoments, leagues, sources } from "@/lib/sports";
@@ -147,8 +148,6 @@ async function leadErrorMessageFor(response: Response) {
 
 export function SportsRadarApp({ moments }: Props) {
   const todaysMoments = getTodaysMoments();
-  const [selectedId, setSelectedId] = useState(todaysMoments[0]?.id || moments[0]?.id);
-  const detailRef = useRef<HTMLElement>(null);
   const [query, setQuery] = useState("");
   const [league, setLeague] = useState("All");
   const [source, setSource] = useState("All");
@@ -163,8 +162,7 @@ export function SportsRadarApp({ moments }: Props) {
   const [leadError, setLeadError] = useState("");
   const [page, setPage] = useState(1);
 
-  const selectedMoment =
-    moments.find((moment) => moment.id === selectedId) || todaysMoments[0] || moments[0];
+  const selectedMoment = todaysMoments[0] || moments[0];
 
   const filteredMoments = useMemo(() => {
     const normalizedQuery = query.trim().toLowerCase();
@@ -214,16 +212,6 @@ export function SportsRadarApp({ moments }: Props) {
   function flash(nextNotice: Notice) {
     setNotice(nextNotice);
     window.setTimeout(() => setNotice("idle"), 1800);
-  }
-
-  function selectMoment(id: string, scrollToDetail = true) {
-    setSelectedId(id);
-
-    if (scrollToDetail) {
-      window.setTimeout(() => {
-        detailRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
-      }, 0);
-    }
   }
 
   async function copyMoment(moment: SportsMoment) {
@@ -376,11 +364,10 @@ export function SportsRadarApp({ moments }: Props) {
           </div>
           <div className="top-five-list">
             {todaysMoments.map((moment) => (
-              <button
+              <Link
                 className={`top-five-row ${selectedMoment.id === moment.id ? "is-active" : ""}`}
+                href={`/moments/${moment.id}`}
                 key={moment.id}
-                onClick={() => selectMoment(moment.id)}
-                type="button"
               >
                 <span className="rank">{moment.rank}</span>
                 <span className="thumb-cell" aria-hidden="true">
@@ -393,13 +380,13 @@ export function SportsRadarApp({ moments }: Props) {
                     <span className="heat-pill">Heat <strong>{moment.heat}</strong></span>
                   </small>
                 </span>
-              </button>
+              </Link>
             ))}
           </div>
         </section>
       </section>
 
-      <section className="feature-detail" ref={detailRef} aria-label="Selected sports find">
+      <section className="feature-detail" aria-label="Featured sports find">
         <div className="poster-tile">
           <span>{selectedMoment.league}</span>
           <strong>{selectedMoment.rank.toString().padStart(2, "0")}</strong>
@@ -418,6 +405,9 @@ export function SportsRadarApp({ moments }: Props) {
             <span>Why it makes the cut</span>
             <p>{selectedMoment.whyFunny}</p>
           </div>
+          <Link className="text-link" href={`/moments/${selectedMoment.id}`}>
+            Open full page
+          </Link>
           {(selectedMoment.commentHighlights || []).length > 0 && (
             <section className="comment-highlights" aria-label="Comment highlights">
               <div className="section-heading compact">
@@ -572,12 +562,10 @@ export function SportsRadarApp({ moments }: Props) {
 
         <div className="archive-table" role="list">
           {visibleMoments.map((moment) => (
-            <button
+            <Link
               className="archive-row"
+              href={`/moments/${moment.id}`}
               key={moment.id}
-              onClick={() => selectMoment(moment.id)}
-              role="listitem"
-              type="button"
             >
               <span className="rank mini">{moment.rank}</span>
               <span className="archive-main">
@@ -587,7 +575,7 @@ export function SportsRadarApp({ moments }: Props) {
               <span className="archive-chip">{moment.league}</span>
               <span className="archive-chip">{moment.source}</span>
               <span className="heat-pill archive-heat">Heat <strong>{moment.heat}</strong></span>
-            </button>
+            </Link>
           ))}
         </div>
         {sortedMoments.length > pageSize ? (

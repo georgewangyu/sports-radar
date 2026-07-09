@@ -30,6 +30,10 @@ export const moments = sportsMoments as SportsMoment[];
 export const leagues = Array.from(new Set(moments.map((moment) => moment.league))).sort();
 export const sources = Array.from(new Set(moments.map((moment) => moment.source))).sort();
 
+export function momentById(id: string) {
+  return moments.find((moment) => moment.id === id);
+}
+
 export function getTodaysMoments() {
   return moments.filter((moment) => moment.status === "today").slice(0, 5);
 }
