@@ -1,6 +1,6 @@
 # Sports Radar
 
-Sports Radar is a Next.js website entry for a daily sports internet feed: funny comments, lore, clips, fan threads, and group-chat-worthy moments.
+Sports Radar is a Next.js website entry for a daily sports internet feed: funny comments, lore, clips, fan threads, social moments, and group-chat-worthy sports culture.
 
 Live site: https://sportsradar.snackoverflowgeorge.com
 
@@ -62,9 +62,11 @@ without rewriting `data/sports-moments.json`.
 
 ## Source Strategy
 
-Sports Radar is Reddit-first by default. The product is not trying to be a
-general sports-news feed, betting board, or score tracker. The value is a
-short edited Top 5 of sports-culture moments that are funny, lore-heavy, or
+Sports Radar is Reddit-led by default, with curated non-Reddit lanes for
+YouTube, sports-specific X search, Instagram/TikTok review paths, official
+feeds, and manual submissions. The product is not trying to be a general
+sports-news feed, betting board, or score tracker. The value is a short edited
+Top 5 of sports-culture moments that are funny, lore-heavy, or
 group-chat-worthy.
 
 Primary source:
@@ -73,15 +75,16 @@ Primary source:
 
 Secondary sources when a moment earns it:
 
+- YouTube public search and official/team/creator channels
+- X sports searches from a dedicated sports/secondary account only
+- Instagram and TikTok bot/manual review lanes
 - Broadcast clips
-- YouTube/postgame clips
 - ESPN or public media graphics
 - Public social posts
 - Private notes rewritten into public-safe commentary
 
-X is not a default source for now because George's X feed is mostly tech and
-builder content. Add X only when there is an intentional sports account/source
-list, not as ambient xbot input.
+George's primary/current X account is not a Sports Radar source. Add X only
+through an intentional sports account/source list, not as ambient xbot input.
 
 ## Product Shape
 

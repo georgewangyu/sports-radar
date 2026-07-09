@@ -35,13 +35,13 @@ const sortOptions: Array<[SortMode, string]> = [
 const sourceCards = [
   {
     label: "Primary source",
-    value: "Reddit-first",
-    detail: "Fan threads, lore, reactions, and jokes that beat normal headlines.",
+    value: "Reddit-led",
+    detail: "Fan threads, lore, reactions, and jokes stay the daily baseline.",
   },
   {
-    label: "Private repo",
-    value: "georgesports",
-    detail: "Raw links and notes get rewritten before anything becomes public.",
+    label: "Platform lanes",
+    value: "YouTube / X / IG / TikTok",
+    detail: "Curated sports-only sources can feed private review, never raw public output.",
   },
   {
     label: "Public output",
@@ -328,7 +328,7 @@ export function SportsRadarApp({ moments }: Props) {
         <div className="hero-copy">
           <h1 id="page-title">Sports Radar</h1>
           <p className="hero-line">
-            Reddit-first sports culture, edited into five moments worth sending
+            Sports-internet culture, edited into five moments worth sending
             before they disappear into the group chat.
           </p>
           <form className="subscribe-form" id="subscribe" onSubmit={handleSubscribe}>
@@ -342,7 +342,7 @@ export function SportsRadarApp({ moments }: Props) {
             </button>
           </form>
           <div className="quick-stats" aria-label="Radar contents">
-            <span>Reddit-first</span>
+            <span>Curated sports sources</span>
             <span>Private notes → public finds</span>
             <span>NBA / NFL / Soccer / more</span>
           </div>
@@ -449,7 +449,7 @@ export function SportsRadarApp({ moments }: Props) {
           </a>
           {selectedMoment.sourceUrl && (
             <a className="icon-button source-link" href={selectedMoment.sourceUrl} target="_blank" rel="noreferrer">
-              Open Reddit
+              Open source
             </a>
           )}
         </div>
@@ -506,7 +506,7 @@ export function SportsRadarApp({ moments }: Props) {
           </div>
           <p>
             Built for moments that are too specific for headlines and too good to
-            leave trapped in Reddit threads, broadcasts, or private notes.
+            leave trapped in Reddit threads, clips, social posts, broadcasts, or private notes.
           </p>
         </div>
 
@@ -610,7 +610,7 @@ export function SportsRadarApp({ moments }: Props) {
             <h2 id="submit-title">Found something the group chat needs?</h2>
           </div>
           <p>
-            Drop the Reddit thread, clip, quote, or messy context. Sports Radar
+            Drop the Reddit thread, clip, social post, quote, or messy context. Sports Radar
             works best when the explanation is almost as good as the moment.
           </p>
         </div>

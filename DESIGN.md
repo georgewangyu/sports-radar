@@ -1,7 +1,7 @@
 ---
 version: "alpha"
 name: "Sports Radar"
-description: "Public sports-culture radar site using George Design Language research-desk mode with a Reddit-first source stance."
+description: "Public sports-culture radar site using George Design Language research-desk mode with a Reddit-led source stance."
 colors:
   primary: "#B93D22"
   ink: "#141414"
@@ -56,10 +56,11 @@ desk for the funny, lore-heavy, group-chat-worthy sports internet.
 
 ## Source Positioning
 
-Default source stance: Reddit-first. Other sources are allowed only when the
-moment earns its way into the Top 5: broadcast clips, YouTube, ESPN graphics,
-or public social posts. X is not a default source because George's X feed is
-mostly tech.
+Default source stance: Reddit-led, with curated platform lanes. Other sources
+are allowed when the moment earns its way into the Top 5: YouTube, broadcast
+clips, ESPN graphics, sports-specific X search, Instagram/TikTok review lanes,
+or public social posts. George's primary/current X account is not a Sports
+Radar source.
 
 Private source repo: `georgesports`.
 Public app repo: `sports-radar`.
@@ -88,6 +89,6 @@ Do:
 Don't:
 
 - Pretend this is comprehensive sports coverage.
-- Default to X as a sports source.
+- Use George's primary/current X account as a sports source.
 - Publish raw Reddit comments or long excerpts.
 - Use betting language or odds framing.
