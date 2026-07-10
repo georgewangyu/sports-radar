@@ -1,7 +1,8 @@
 import { expect, test } from "@playwright/test";
-import { moments } from "../lib/sports";
+import { getTodaysMoments, moments } from "../lib/sports";
 
 const archivePageSize = 3;
+const todaysMoments = getTodaysMoments();
 
 function momentMatchesQuery(moment: (typeof moments)[number], query: string) {
   const normalizedQuery = query.trim().toLowerCase();
@@ -41,8 +42,8 @@ test.describe("Sports Radar", () => {
     await expect(page.getByRole("heading", { name: "Sports Radar", level: 1 })).toBeVisible();
     await expect(page.getByRole("heading", { name: "Today's Five", level: 2 })).toBeVisible();
     await expect(
-      page.locator(".top-five-list").getByRole("link", { name: new RegExp(moments[0].title) }),
-    ).toHaveAttribute("href", `/moments/${moments[0].id}`);
+      page.locator(".top-five-list").getByRole("link", { name: new RegExp(todaysMoments[0].title) }),
+    ).toHaveAttribute("href", `/moments/${todaysMoments[0].id}`);
     await expect(page.getByText("Use Sports Radar in your agent.")).toBeVisible();
     await expect(page.getByText("npx skills add georgewangyu/sports-radar")).toBeHidden();
 
@@ -102,10 +103,10 @@ test.describe("Sports Radar", () => {
 
     await page
       .locator(".top-five-list")
-      .getByRole("link", { name: new RegExp(moments[0].title) })
+      .getByRole("link", { name: new RegExp(todaysMoments[0].title) })
       .click();
-    await expect(page).toHaveURL(new RegExp(`/moments/${moments[0].id}$`));
-    await expect(page.getByRole("heading", { name: moments[0].title, level: 1 })).toBeVisible();
+    await expect(page).toHaveURL(new RegExp(`/moments/${todaysMoments[0].id}$`));
+    await expect(page.getByRole("heading", { name: todaysMoments[0].title, level: 1 })).toBeVisible();
     await expect(page.getByRole("heading", { name: "What the thread adds", level: 2 })).toBeVisible();
 
     await page.goto("/");
