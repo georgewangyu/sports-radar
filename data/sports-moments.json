@@ -41,12 +41,48 @@
     "markdown": "---\nid: lebron-contract-timing\nrank: 1\ntitle: \"LeBron exit timing turns into contract-calendar comedy\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-06-30\"\nheat: 94\ntags:\n  - r/nba\n  - free agency\n  - timing\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba thread latched onto the timing of a LeBron exit report landing right\nafter his son's contract guarantee became public.\n\n## Why It Is Funny\n\nThe joke is not just the transaction. It is Reddit reading the NBA calendar\nlike a family-business escape room.\n\n## Comment Highlights\n\n- Label: Father-son matchup jokes\n  Summary: Early comments immediately jumped from \"play with my son\" to \"play against my son,\" turning a roster report into a hypothetical family rivalry.\n  Why funny: The thread found the sitcom premise hiding inside a cap transaction.\n  Source URL: https://www.reddit.com/r/nba/comments/1ujuc7s/lebron_waited_until_his_sons_contract_was/ouqxtv2/\n- Label: The dunk/block imagination loop\n  Summary: The replies kept escalating into LeBron and Bronny dunking on or blocking each other in real NBA minutes.\n  Why funny: It turns a front-office timing joke into playground stakes with Hall-of-Fame branding.\n  Source URL: https://www.reddit.com/r/nba/comments/1ujuc7s/lebron_waited_until_his_sons_contract_was/ourgo2w/\n- Label: Subreddit detonation forecast\n  Summary: Another branch reduced the whole scenario to the obvious meta-prediction: r/nba would melt down if father and son actually matched up.\n  Why funny: The funniest part is that everyone knows the thread is already rehearsing the future thread.\n  Source URL: https://www.reddit.com/r/nba/comments/1ujuc7s/lebron_waited_until_his_sons_contract_was/ourvz41/\n\n## Quote\n\nThe salary-cap sheet became a family group chat.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1ujuc7s/lebron_waited_until_his_sons_contract_was/\n- Source type: Reddit / r/nba top-day thread\n- Verification notes: treat as sports-culture reaction and timing joke, not new reporting\n\n## Sports Radar Markdown\n\n```md\n**LeBron exit timing turns into contract-calendar comedy**\n\nAn r/nba thread turned the timing of the report into the real story.\n\nWhy it works: Reddit treated free agency like a family-business escape room.\n```\n"
   },
   {
+    "id": "mark-davis-grass-commitment",
+    "rank": 1,
+    "title": "Mark Davis turns a field-safety answer into accidental grass comedy",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-10",
+    "heat": 94,
+    "tags": [
+      "r/nfl",
+      "Raiders",
+      "grass",
+      "wordplay"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl thread about Mark Davis preferring natural grass for player safety\nimmediately treated the phrasing as a setup for every possible grass joke.",
+    "whyFunny": "The football point is straightforward. The headline is so perfectly phrased\nthat the thread barely needs a second premise.",
+    "quote": "The safety statement came with recreational wordplay built in.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1us6uvm/raiders_owner_mark_davis_is_committed_to_grass/",
+    "commentHighlights": [
+      {
+        "label": "Two meanings, one headline",
+        "summary": "Reactions bounced between the playing surface and the other obvious meaning of grass.",
+        "whyFunny": "A serious field-safety stance arrived preloaded with its own punchline.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1us6uvm/raiders_owner_mark_davis_is_committed_to_grass/"
+      },
+      {
+        "label": "Commitment becomes the running bit",
+        "summary": "Fans extended the word \"committed\" into jokes about Davis sticking with familiar choices.",
+        "whyFunny": "The thread turned consistency itself into the character trait.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1us6uvm/raiders_owner_mark_davis_is_committed_to_grass/"
+      }
+    ],
+    "markdown": "---\nid: mark-davis-grass-commitment\nrank: 1\ntitle: \"Mark Davis turns a field-safety answer into accidental grass comedy\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-10\"\nheat: 94\ntags:\n  - r/nfl\n  - Raiders\n  - grass\n  - wordplay\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl thread about Mark Davis preferring natural grass for player safety\nimmediately treated the phrasing as a setup for every possible grass joke.\n\n## Why It Is Funny\n\nThe football point is straightforward. The headline is so perfectly phrased\nthat the thread barely needs a second premise.\n\n## Comment Highlights\n\n- Label: Two meanings, one headline\n  Summary: Reactions bounced between the playing surface and the other obvious meaning of grass.\n  Why funny: A serious field-safety stance arrived preloaded with its own punchline.\n  Source URL: https://www.reddit.com/r/nfl/comments/1us6uvm/raiders_owner_mark_davis_is_committed_to_grass/\n- Label: Commitment becomes the running bit\n  Summary: Fans extended the word \"committed\" into jokes about Davis sticking with familiar choices.\n  Why funny: The thread turned consistency itself into the character trait.\n  Source URL: https://www.reddit.com/r/nfl/comments/1us6uvm/raiders_owner_mark_davis_is_committed_to_grass/\n\n## Quote\n\nThe safety statement came with recreational wordplay built in.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1us6uvm/raiders_owner_mark_davis_is_committed_to_grass/\n- Source type: Reddit / r/nfl top-day thread\n- Verification notes: summarize the public field-safety discussion and fan wordplay; do not reproduce the article or comment text\n\n## Sports Radar Markdown\n\n```md\n**Mark Davis turns a field-safety answer into accidental grass comedy**\n\nAn r/nfl thread found two meanings in one very carefully intended statement.\n\nWhy it works: the responsible football answer arrived with the joke already attached.\n```\n"
+  },
+  {
     "id": "mbappe-france-morocco-plot-armor",
     "rank": 1,
     "title": "Mbappe turns a missed penalty into France plot-armor theater",
     "league": "Soccer",
     "source": "YouTube",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-09",
     "heat": 96,
     "tags": [
@@ -74,7 +110,7 @@
         "sourceUrl": "https://www.thescottishsun.co.uk/sport/16528658/kylian-mbappe-france-morocco-world-cup-semi-final/"
       }
     ],
-    "markdown": "---\nid: mbappe-france-morocco-plot-armor\nrank: 1\ntitle: \"Mbappe turns a missed penalty into France plot-armor theater\"\nleague: \"Soccer\"\nsource: \"YouTube\"\nstatus: \"today\"\ndate: \"2026-07-09\"\nheat: 96\ntags:\n  - World Cup\n  - France\n  - Morocco\n  - Mbappe\npublic_ready: true\n---\n\n## Summary\n\nFrance's World Cup quarterfinal win over Morocco became a compact Mbappe arc:\nlong VAR delay, missed penalty, then the goal-and-assist sequence that pushed\nFrance into the semifinal.\n\n## Why It Is Funny\n\nIt is sports narrative compression at its cleanest. The star got the missed\npenalty subplot, the redemption goal, the assist, and the injury-scare cliff\nhanger all in one match.\n\n## Comment Highlights\n\n- Label: Three-act superstar arc\n  Summary: The match reads like the algorithm wrote a full Mbappe episode: pressure, miss, redemption, then one more assist for the recap package.\n  Why funny: It gives the group chat every reaction mode before the final whistle.\n  Source URL: https://www.youtube.com/watch?v=3LrNmNWyAn0\n- Label: France plot armor\n  Summary: France did not just advance; the story made it feel like the tournament still wants Mbappe in the final week.\n  Why funny: Fans love when knockout soccer starts behaving like scripted prestige TV.\n  Source URL: https://www.thescottishsun.co.uk/sport/16528658/kylian-mbappe-france-morocco-world-cup-semi-final/\n\n## Quote\n\nThe missed penalty became setup instead of ending.\n\n## Source Notes\n\n- Source URL: https://www.youtube.com/watch?v=3LrNmNWyAn0\n- Source type: YouTube / public World Cup clip plus media recap\n- Verification notes: France beat Morocco 2-0 on 2026-07-09; public reports describe Mbappe scoring, assisting Ousmane Dembele, missing an earlier penalty after a long VAR delay, and leaving with an injury concern. Treat as sports-culture framing, not medical reporting.\n\n## Sports Radar Markdown\n\n```md\n**Mbappe turns a missed penalty into France plot-armor theater**\n\nFrance-Morocco became the full Mbappe episode: missed penalty, redemption goal, assist, injury-scare cliffhanger.\n\nWhy it works: knockout soccer briefly behaved like it had a writers' room.\n```\n"
+    "markdown": "---\nid: mbappe-france-morocco-plot-armor\nrank: 1\ntitle: \"Mbappe turns a missed penalty into France plot-armor theater\"\nleague: \"Soccer\"\nsource: \"YouTube\"\nstatus: \"archive\"\ndate: \"2026-07-09\"\nheat: 96\ntags:\n  - World Cup\n  - France\n  - Morocco\n  - Mbappe\npublic_ready: true\n---\n\n## Summary\n\nFrance's World Cup quarterfinal win over Morocco became a compact Mbappe arc:\nlong VAR delay, missed penalty, then the goal-and-assist sequence that pushed\nFrance into the semifinal.\n\n## Why It Is Funny\n\nIt is sports narrative compression at its cleanest. The star got the missed\npenalty subplot, the redemption goal, the assist, and the injury-scare cliff\nhanger all in one match.\n\n## Comment Highlights\n\n- Label: Three-act superstar arc\n  Summary: The match reads like the algorithm wrote a full Mbappe episode: pressure, miss, redemption, then one more assist for the recap package.\n  Why funny: It gives the group chat every reaction mode before the final whistle.\n  Source URL: https://www.youtube.com/watch?v=3LrNmNWyAn0\n- Label: France plot armor\n  Summary: France did not just advance; the story made it feel like the tournament still wants Mbappe in the final week.\n  Why funny: Fans love when knockout soccer starts behaving like scripted prestige TV.\n  Source URL: https://www.thescottishsun.co.uk/sport/16528658/kylian-mbappe-france-morocco-world-cup-semi-final/\n\n## Quote\n\nThe missed penalty became setup instead of ending.\n\n## Source Notes\n\n- Source URL: https://www.youtube.com/watch?v=3LrNmNWyAn0\n- Source type: YouTube / public World Cup clip plus media recap\n- Verification notes: France beat Morocco 2-0 on 2026-07-09; public reports describe Mbappe scoring, assisting Ousmane Dembele, missing an earlier penalty after a long VAR delay, and leaving with an injury concern. Treat as sports-culture framing, not medical reporting.\n\n## Sports Radar Markdown\n\n```md\n**Mbappe turns a missed penalty into France plot-armor theater**\n\nFrance-Morocco became the full Mbappe episode: missed penalty, redemption goal, assist, injury-scare cliffhanger.\n\nWhy it works: knockout soccer briefly behaved like it had a writers' room.\n```\n"
   },
   {
     "id": "reaves-lebron-golf-ruined",
@@ -82,7 +118,7 @@
     "title": "Austin Reaves gets his golf round ruined by LeBron news",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-09",
     "heat": 94,
     "tags": [
@@ -109,7 +145,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1ur9a61/austin_reaves_after_finding_out_lebron_was/"
       }
     ],
-    "markdown": "---\nid: reaves-lebron-golf-ruined\nrank: 2\ntitle: \"Austin Reaves gets his golf round ruined by LeBron news\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-09\"\nheat: 94\ntags:\n  - r/nba\n  - LeBron\n  - golf\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba thread turned Austin Reaves hearing about LeBron leaving the Lakers\nmid-golf-round into the day's cleanest teammate reaction bit.\n\n## Why It Is Funny\n\nThe transaction is giant, but the emotional unit is tiny: one guy's nice round\ngets interrupted by franchise-defining news.\n\n## Comment Highlights\n\n- Label: Free agency as tee-time sabotage\n  Summary: The thread's best angle is the contrast between massive Lakers news and one teammate trying to enjoy a quiet round.\n  Why funny: It shrinks a league-shaking move down to a ruined afternoon.\n  Source URL: https://www.reddit.com/r/nba/comments/1ur9a61/austin_reaves_after_finding_out_lebron_was/\n- Label: The group-chat version of a transaction\n  Summary: Reactions naturally frame the news as a text-message moment rather than a cap-sheet moment.\n  Why funny: It makes the NBA offseason feel like someone dropped bad news into the wrong chat.\n  Source URL: https://www.reddit.com/r/nba/comments/1ur9a61/austin_reaves_after_finding_out_lebron_was/\n\n## Quote\n\nThe offseason news alert hit like a ball in the water.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1ur9a61/austin_reaves_after_finding_out_lebron_was/\n- Source type: Reddit / r/nba top-day thread\n- Verification notes: treat as public sports-culture reaction; avoid copying article text or long quotes\n\n## Sports Radar Markdown\n\n```md\n**Austin Reaves gets his golf round ruined by LeBron news**\n\nAn r/nba thread turned a franchise move into one teammate's interrupted golf day.\n\nWhy it works: huge offseason news gets reduced to the most relatable complaint possible.\n```\n"
+    "markdown": "---\nid: reaves-lebron-golf-ruined\nrank: 2\ntitle: \"Austin Reaves gets his golf round ruined by LeBron news\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-09\"\nheat: 94\ntags:\n  - r/nba\n  - LeBron\n  - golf\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba thread turned Austin Reaves hearing about LeBron leaving the Lakers\nmid-golf-round into the day's cleanest teammate reaction bit.\n\n## Why It Is Funny\n\nThe transaction is giant, but the emotional unit is tiny: one guy's nice round\ngets interrupted by franchise-defining news.\n\n## Comment Highlights\n\n- Label: Free agency as tee-time sabotage\n  Summary: The thread's best angle is the contrast between massive Lakers news and one teammate trying to enjoy a quiet round.\n  Why funny: It shrinks a league-shaking move down to a ruined afternoon.\n  Source URL: https://www.reddit.com/r/nba/comments/1ur9a61/austin_reaves_after_finding_out_lebron_was/\n- Label: The group-chat version of a transaction\n  Summary: Reactions naturally frame the news as a text-message moment rather than a cap-sheet moment.\n  Why funny: It makes the NBA offseason feel like someone dropped bad news into the wrong chat.\n  Source URL: https://www.reddit.com/r/nba/comments/1ur9a61/austin_reaves_after_finding_out_lebron_was/\n\n## Quote\n\nThe offseason news alert hit like a ball in the water.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1ur9a61/austin_reaves_after_finding_out_lebron_was/\n- Source type: Reddit / r/nba top-day thread\n- Verification notes: treat as public sports-culture reaction; avoid copying article text or long quotes\n\n## Sports Radar Markdown\n\n```md\n**Austin Reaves gets his golf round ruined by LeBron news**\n\nAn r/nba thread turned a franchise move into one teammate's interrupted golf day.\n\nWhy it works: huge offseason news gets reduced to the most relatable complaint possible.\n```\n"
   },
   {
     "id": "blake-voicemail-psychologist",
@@ -147,12 +183,84 @@
     "markdown": "---\nid: blake-voicemail-psychologist\nrank: 2\ntitle: \"Blake Griffin voicemail story is sports-office sitcom material\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-06-30\"\nheat: 90\ntags:\n  - r/nba\n  - voicemail\n  - trust\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post resurfaced Blake Griffin describing a sports-psychologist trust\nbreach that allegedly revealed itself through an accidental voicemail.\n\n## Why It Is Funny\n\nThe premise is serious, but the delivery mechanism is absurdly low-tech:\nprofessional confidentiality undone by the oldest phone mistake possible.\n\n## Comment Highlights\n\n- Label: Voicemail as evidence\n  Summary: The thread's obvious read is that the accidental voicemail is stronger than a normal denial because it turns the story into a receipt.\n  Why funny: It is a trust scandal with the production value of a pocket dial.\n  Source URL: https://www.reddit.com/r/nba/comments/1uk69ms/blake_griffin_reveals_he_never_uses_sports/\n- Label: Sports therapy meets locker-room gossip\n  Summary: Reactions orbit the mismatch between private mental-performance work and the rumor-machine culture around teams.\n  Why funny: The joke is the collision between a serious job title and extremely unserious workplace behavior.\n  Source URL: https://www.reddit.com/r/nba/comments/1uk69ms/blake_griffin_reveals_he_never_uses_sports/\n\n## Quote\n\nThe plot twist arrived as a voicemail.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uk69ms/blake_griffin_reveals_he_never_uses_sports/\n- Source type: Reddit / r/nba top-day thread\n- Verification notes: summarize as a public podcast/story discussion; do not copy transcript text\n\n## Sports Radar Markdown\n\n```md\n**Blake Griffin voicemail story is sports-office sitcom material**\n\nAn r/nba post turned a trust-breach story into accidental-voicemail lore.\n\nWhy it works: the serious topic gets delivered through the dumbest possible receipt.\n```\n"
   },
   {
+    "id": "jaylen-brown-packed-up",
+    "rank": 2,
+    "title": "Jaylen Brown's trade reaction becomes workplace-comedy fuel",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-10",
+    "heat": 92,
+    "tags": [
+      "r/nba",
+      "Jaylen Brown",
+      "trades",
+      "workplace-comedy"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba thread turned Jaylen Brown's jokingly blunt reaction to being traded\ninto a debate about the strangest version of getting reassigned at work.",
+    "whyFunny": "The language sounds like a normal employee finding out the badge stopped\nworking, except the workplace is the NBA and the relocation comes with a max contract.",
+    "quote": "The trade became an access-denied notification.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1us3nu7/jaylen_brown_on_being_traded_they_packed_me_up/",
+    "commentHighlights": [
+      {
+        "label": "The key-card version of a trade",
+        "summary": "Fans focused on how quickly a franchise relationship can become an access-denied moment.",
+        "whyFunny": "A blockbuster transaction gets reduced to office-building logistics.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1us3nu7/jaylen_brown_on_being_traded_they_packed_me_up/"
+      },
+      {
+        "label": "Salary meets sympathy",
+        "summary": "The thread kept comparing the emotional complaint with the scale of an NBA contract.",
+        "whyFunny": "Both sides of the argument sound reasonable until they share the same sentence.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1us3nu7/jaylen_brown_on_being_traded_they_packed_me_up/"
+      }
+    ],
+    "markdown": "---\nid: jaylen-brown-packed-up\nrank: 2\ntitle: \"Jaylen Brown's trade reaction becomes workplace-comedy fuel\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-10\"\nheat: 92\ntags:\n  - r/nba\n  - Jaylen Brown\n  - trades\n  - workplace-comedy\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba thread turned Jaylen Brown's jokingly blunt reaction to being traded\ninto a debate about the strangest version of getting reassigned at work.\n\n## Why It Is Funny\n\nThe language sounds like a normal employee finding out the badge stopped\nworking, except the workplace is the NBA and the relocation comes with a max contract.\n\n## Comment Highlights\n\n- Label: The key-card version of a trade\n  Summary: Fans focused on how quickly a franchise relationship can become an access-denied moment.\n  Why funny: A blockbuster transaction gets reduced to office-building logistics.\n  Source URL: https://www.reddit.com/r/nba/comments/1us3nu7/jaylen_brown_on_being_traded_they_packed_me_up/\n- Label: Salary meets sympathy\n  Summary: The thread kept comparing the emotional complaint with the scale of an NBA contract.\n  Why funny: Both sides of the argument sound reasonable until they share the same sentence.\n  Source URL: https://www.reddit.com/r/nba/comments/1us3nu7/jaylen_brown_on_being_traded_they_packed_me_up/\n\n## Quote\n\nThe trade became an access-denied notification.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1us3nu7/jaylen_brown_on_being_traded_they_packed_me_up/\n- Source type: Reddit / r/nba top-day thread\n- Verification notes: frame this as a public player-reaction clip and fan discussion; avoid presenting the thread's salary estimates as verified reporting\n\n## Sports Radar Markdown\n\n```md\n**Jaylen Brown's trade reaction becomes workplace-comedy fuel**\n\nAn r/nba thread translated a blockbuster move into the world's most expensive badge-deactivation story.\n\nWhy it works: NBA transaction drama suddenly sounds like an ordinary bad day at the office.\n```\n"
+  },
+  {
+    "id": "one-off-nfl-uniform-museum",
+    "rank": 3,
+    "title": "One-off NFL uniforms become a museum of abandoned ideas",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-10",
+    "heat": 89,
+    "tags": [
+      "r/nfl",
+      "r/uniwatch",
+      "uniforms",
+      "nostalgia"
+    ],
+    "public_ready": true,
+    "summary": "A uniform roundup surfaced through the r/nfl daily feed and collected looks\nthat appeared once, turning old game photos into a catalog of visual experiments.",
+    "whyFunny": "Every combination feels like a franchise opened a costume drawer, tried one\nidea in public, and quietly put it back forever.",
+    "quote": "The equipment room briefly became a failed-pilot archive.",
+    "sourceUrl": "https://www.reddit.com/r/uniwatch/comments/1us6kmf/a_collection_of_uniform_combinations_worn_exactly/",
+    "commentHighlights": [
+      {
+        "label": "Instant aesthetic trials",
+        "summary": "Fans treated each look as a tiny referendum on whether the team was right to retire it.",
+        "whyFunny": "One game becomes enough evidence for a permanent design verdict.",
+        "sourceUrl": "https://www.reddit.com/r/uniwatch/comments/1us6kmf/a_collection_of_uniform_combinations_worn_exactly/"
+      },
+      {
+        "label": "Memory versus the catalog",
+        "summary": "The discussion mixed nostalgia with disputes over whether a few combinations were truly one-offs.",
+        "whyFunny": "Uniform history gets argued with the intensity of a replay review.",
+        "sourceUrl": "https://www.reddit.com/r/uniwatch/comments/1us6kmf/a_collection_of_uniform_combinations_worn_exactly/"
+      }
+    ],
+    "markdown": "---\nid: one-off-nfl-uniform-museum\nrank: 3\ntitle: \"One-off NFL uniforms become a museum of abandoned ideas\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-10\"\nheat: 89\ntags:\n  - r/nfl\n  - r/uniwatch\n  - uniforms\n  - nostalgia\npublic_ready: true\n---\n\n## Summary\n\nA uniform roundup surfaced through the r/nfl daily feed and collected looks\nthat appeared once, turning old game photos into a catalog of visual experiments.\n\n## Why It Is Funny\n\nEvery combination feels like a franchise opened a costume drawer, tried one\nidea in public, and quietly put it back forever.\n\n## Comment Highlights\n\n- Label: Instant aesthetic trials\n  Summary: Fans treated each look as a tiny referendum on whether the team was right to retire it.\n  Why funny: One game becomes enough evidence for a permanent design verdict.\n  Source URL: https://www.reddit.com/r/uniwatch/comments/1us6kmf/a_collection_of_uniform_combinations_worn_exactly/\n- Label: Memory versus the catalog\n  Summary: The discussion mixed nostalgia with disputes over whether a few combinations were truly one-offs.\n  Why funny: Uniform history gets argued with the intensity of a replay review.\n  Source URL: https://www.reddit.com/r/uniwatch/comments/1us6kmf/a_collection_of_uniform_combinations_worn_exactly/\n\n## Quote\n\nThe equipment room briefly became a failed-pilot archive.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/uniwatch/comments/1us6kmf/a_collection_of_uniform_combinations_worn_exactly/\n- Source type: Reddit / r/uniwatch thread surfaced through the r/nfl top-day feed\n- Verification notes: treat the one-off claim as the thread's organizing premise; the discussion itself flags possible exceptions\n\n## Sports Radar Markdown\n\n```md\n**One-off NFL uniforms become a museum of abandoned ideas**\n\nA Reddit roundup made old game photos feel like a franchise design graveyard.\n\nWhy it works: every look carries the energy of a pilot episode that never got picked up.\n```\n"
+  },
+  {
     "id": "curry-lebron-golf-first",
     "rank": 3,
     "title": "Steph Curry keeps turning LeBron speculation back into golf",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-09",
     "heat": 90,
     "tags": [
@@ -180,7 +288,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1ur1aro/steph_curry_on_the_possibility_of_playing_with/"
       }
     ],
-    "markdown": "---\nid: curry-lebron-golf-first\nrank: 3\ntitle: \"Steph Curry keeps turning LeBron speculation back into golf\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-09\"\nheat: 90\ntags:\n  - r/nba\n  - LeBron\n  - Curry\n  - golf\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post about Steph Curry's LeBron comments made the basketball fantasy\nfeel almost secondary to the recurring golf subplot.\n\n## Why It Is Funny\n\nFans want the impossible superteam answer. Curry's framing gives the thread a\nmuch calmer image: two all-time stars negotiating vibes on a course.\n\n## Comment Highlights\n\n- Label: Golf as the safer dream pairing\n  Summary: The thread gets to enjoy the basketball possibility while still laughing at how often the conversation drifts back to golf.\n  Why funny: The lower-stakes version somehow feels more believable than the basketball one.\n  Source URL: https://www.reddit.com/r/nba/comments/1ur1aro/steph_curry_on_the_possibility_of_playing_with/\n- Label: LeBron decision-watch fatigue\n  Summary: Reactions treat every LeBron answer as part transaction watch, part offseason talk-show script.\n  Why funny: Even the cautious answer becomes another episode in the same summer storyline.\n  Source URL: https://www.reddit.com/r/nba/comments/1ur1aro/steph_curry_on_the_possibility_of_playing_with/\n\n## Quote\n\nThe buddy-cop version may just be a tee time.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1ur1aro/steph_curry_on_the_possibility_of_playing_with/\n- Source type: Reddit / r/nba top-day thread\n- Verification notes: summarize the fan framing; do not present speculation as reporting\n\n## Sports Radar Markdown\n\n```md\n**Steph Curry keeps turning LeBron speculation back into golf**\n\nAn r/nba thread made the dream pairing feel almost less important than the tee time.\n\nWhy it works: the NBA's biggest fantasy gets rerouted into dad-sport diplomacy.\n```\n"
+    "markdown": "---\nid: curry-lebron-golf-first\nrank: 3\ntitle: \"Steph Curry keeps turning LeBron speculation back into golf\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-09\"\nheat: 90\ntags:\n  - r/nba\n  - LeBron\n  - Curry\n  - golf\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post about Steph Curry's LeBron comments made the basketball fantasy\nfeel almost secondary to the recurring golf subplot.\n\n## Why It Is Funny\n\nFans want the impossible superteam answer. Curry's framing gives the thread a\nmuch calmer image: two all-time stars negotiating vibes on a course.\n\n## Comment Highlights\n\n- Label: Golf as the safer dream pairing\n  Summary: The thread gets to enjoy the basketball possibility while still laughing at how often the conversation drifts back to golf.\n  Why funny: The lower-stakes version somehow feels more believable than the basketball one.\n  Source URL: https://www.reddit.com/r/nba/comments/1ur1aro/steph_curry_on_the_possibility_of_playing_with/\n- Label: LeBron decision-watch fatigue\n  Summary: Reactions treat every LeBron answer as part transaction watch, part offseason talk-show script.\n  Why funny: Even the cautious answer becomes another episode in the same summer storyline.\n  Source URL: https://www.reddit.com/r/nba/comments/1ur1aro/steph_curry_on_the_possibility_of_playing_with/\n\n## Quote\n\nThe buddy-cop version may just be a tee time.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1ur1aro/steph_curry_on_the_possibility_of_playing_with/\n- Source type: Reddit / r/nba top-day thread\n- Verification notes: summarize the fan framing; do not present speculation as reporting\n\n## Sports Radar Markdown\n\n```md\n**Steph Curry keeps turning LeBron speculation back into golf**\n\nAn r/nba thread made the dream pairing feel almost less important than the tee time.\n\nWhy it works: the NBA's biggest fantasy gets rerouted into dad-sport diplomacy.\n```\n"
   },
   {
     "id": "japanese-fan-brazil-mexico-comfort",
@@ -223,7 +331,7 @@
     "title": "Japan's World Cup exit turns into a full tournament prophecy",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-09",
     "heat": 89,
     "tags": [
@@ -251,7 +359,43 @@
         "sourceUrl": "https://www.reddit.com/r/soccer/comments/1ur0fi2/every_team_that_has_ever_beat_the_team_that/"
       }
     ],
-    "markdown": "---\nid: japan-knockout-world-cup-curse\nrank: 4\ntitle: \"Japan's World Cup exit turns into a full tournament prophecy\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-09\"\nheat: 89\ntags:\n  - r/soccer\n  - World Cup\n  - Japan\n  - tournament-lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer thread turned a Japan knockout pattern into World Cup folklore:\nthe team that beats Japan's eliminator keeps ending up with the trophy.\n\n## Why It Is Funny\n\nIt is exactly the kind of stat that makes tournament fans start acting like\nthe bracket has a ghostwriter.\n\n## Comment Highlights\n\n- Label: Knockout-round mythology\n  Summary: The thread treats the pattern less like analytics and more like World Cup superstition.\n  Why funny: A simple bracket note starts sounding like a prophecy.\n  Source URL: https://www.reddit.com/r/soccer/comments/1ur0fi2/every_team_that_has_ever_beat_the_team_that/\n- Label: Japan as the lore engine\n  Summary: The fan framing makes Japan's exit matter beyond one match because every next result gets folded into the same running bit.\n  Why funny: The tournament keeps finding a way to make an eliminated team feel narratively active.\n  Source URL: https://www.reddit.com/r/soccer/comments/1ur0fi2/every_team_that_has_ever_beat_the_team_that/\n\n## Quote\n\nThe bracket found a way to turn Japan into a prophecy machine.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1ur0fi2/every_team_that_has_ever_beat_the_team_that/\n- Source type: Reddit / r/soccer top-day thread\n- Verification notes: summarize as fan-lore framing; do not present the pattern as predictive reporting\n\n## Sports Radar Markdown\n\n```md\n**Japan's World Cup exit turns into a full tournament prophecy**\n\nAn r/soccer thread turned a knockout pattern into World Cup folklore.\n\nWhy it works: tournament fans love any stat that makes the bracket feel scripted.\n```\n"
+    "markdown": "---\nid: japan-knockout-world-cup-curse\nrank: 4\ntitle: \"Japan's World Cup exit turns into a full tournament prophecy\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-09\"\nheat: 89\ntags:\n  - r/soccer\n  - World Cup\n  - Japan\n  - tournament-lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer thread turned a Japan knockout pattern into World Cup folklore:\nthe team that beats Japan's eliminator keeps ending up with the trophy.\n\n## Why It Is Funny\n\nIt is exactly the kind of stat that makes tournament fans start acting like\nthe bracket has a ghostwriter.\n\n## Comment Highlights\n\n- Label: Knockout-round mythology\n  Summary: The thread treats the pattern less like analytics and more like World Cup superstition.\n  Why funny: A simple bracket note starts sounding like a prophecy.\n  Source URL: https://www.reddit.com/r/soccer/comments/1ur0fi2/every_team_that_has_ever_beat_the_team_that/\n- Label: Japan as the lore engine\n  Summary: The fan framing makes Japan's exit matter beyond one match because every next result gets folded into the same running bit.\n  Why funny: The tournament keeps finding a way to make an eliminated team feel narratively active.\n  Source URL: https://www.reddit.com/r/soccer/comments/1ur0fi2/every_team_that_has_ever_beat_the_team_that/\n\n## Quote\n\nThe bracket found a way to turn Japan into a prophecy machine.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1ur0fi2/every_team_that_has_ever_beat_the_team_that/\n- Source type: Reddit / r/soccer top-day thread\n- Verification notes: summarize as fan-lore framing; do not present the pattern as predictive reporting\n\n## Sports Radar Markdown\n\n```md\n**Japan's World Cup exit turns into a full tournament prophecy**\n\nAn r/soccer thread turned a knockout pattern into World Cup folklore.\n\nWhy it works: tournament fans love any stat that makes the bracket feel scripted.\n```\n"
+  },
+  {
+    "id": "jaylen-speed-lebron-philly-pitch",
+    "rank": 4,
+    "title": "Jaylen Brown and Speed pitch LeBron with pure group-chat logic",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-10",
+    "heat": 87,
+    "tags": [
+      "r/nba",
+      "Jaylen Brown",
+      "LeBron",
+      "Philadelphia"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba clip paired Jaylen Brown and IShowSpeed in an improvised LeBron-to-\nPhiladelphia recruiting pitch that sounded more like friends planning a trip.",
+    "whyFunny": "Roster construction, contracts, and basketball fit all gave way to the oldest\npersuasion strategy available: name the people, name the food, demand the pull-up.",
+    "quote": "The depth chart came with a cheesesteak clause.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1us5d4o/jaylen_brown_you_gotta_say_lebron_you_got_to_pull/",
+    "commentHighlights": [
+      {
+        "label": "Two conversations at once",
+        "summary": "Fans heard a basketball pitch and a city-tour pitch happening in parallel.",
+        "whyFunny": "The sales case gets less coherent and more convincing at the same time.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1us5d4o/jaylen_brown_you_gotta_say_lebron_you_got_to_pull/"
+      },
+      {
+        "label": "Cheesesteak roster math",
+        "summary": "The thread enjoyed how quickly Philadelphia food became part of the personnel argument.",
+        "whyFunny": "A championship pitch briefly turns into a lunch recommendation.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1us5d4o/jaylen_brown_you_gotta_say_lebron_you_got_to_pull/"
+      }
+    ],
+    "markdown": "---\nid: jaylen-speed-lebron-philly-pitch\nrank: 4\ntitle: \"Jaylen Brown and Speed pitch LeBron with pure group-chat logic\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-10\"\nheat: 87\ntags:\n  - r/nba\n  - Jaylen Brown\n  - LeBron\n  - Philadelphia\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip paired Jaylen Brown and IShowSpeed in an improvised LeBron-to-\nPhiladelphia recruiting pitch that sounded more like friends planning a trip.\n\n## Why It Is Funny\n\nRoster construction, contracts, and basketball fit all gave way to the oldest\npersuasion strategy available: name the people, name the food, demand the pull-up.\n\n## Comment Highlights\n\n- Label: Two conversations at once\n  Summary: Fans heard a basketball pitch and a city-tour pitch happening in parallel.\n  Why funny: The sales case gets less coherent and more convincing at the same time.\n  Source URL: https://www.reddit.com/r/nba/comments/1us5d4o/jaylen_brown_you_gotta_say_lebron_you_got_to_pull/\n- Label: Cheesesteak roster math\n  Summary: The thread enjoyed how quickly Philadelphia food became part of the personnel argument.\n  Why funny: A championship pitch briefly turns into a lunch recommendation.\n  Source URL: https://www.reddit.com/r/nba/comments/1us5d4o/jaylen_brown_you_gotta_say_lebron_you_got_to_pull/\n\n## Quote\n\nThe depth chart came with a cheesesteak clause.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1us5d4o/jaylen_brown_you_gotta_say_lebron_you_got_to_pull/\n- Source type: Reddit / r/nba top-day clip thread\n- Verification notes: present this as playful public recruiting talk, not evidence of an actual transaction\n\n## Sports Radar Markdown\n\n```md\n**Jaylen Brown and Speed pitch LeBron with pure group-chat logic**\n\nAn r/nba clip turned roster recruitment into names, food, and a demand to pull up.\n\nWhy it works: the basketball case slowly becomes a city-tour itinerary.\n```\n"
   },
   {
     "id": "paraguay-national-holiday",
@@ -294,7 +438,7 @@
     "title": "First career QB throws become instant football memory lane",
     "league": "NFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-09",
     "heat": 84,
     "tags": [
@@ -321,7 +465,43 @@
         "sourceUrl": "https://www.reddit.com/r/nfl/comments/1urccor/highlight_first_career_pass_attempts_for_numerous/"
       }
     ],
-    "markdown": "---\nid: qb-first-pass-memory-lane\nrank: 5\ntitle: \"First career QB throws become instant football memory lane\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-09\"\nheat: 84\ntags:\n  - r/nfl\n  - quarterbacks\n  - highlights\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl highlight thread collecting first career pass attempts turned into a\ncompact nostalgia machine for quarterback arcs.\n\n## Why It Is Funny\n\nThe setup invites hindsight. Every harmless first throw carries the comedy of\nknowing what the career eventually became.\n\n## Comment Highlights\n\n- Label: Origin-story replay\n  Summary: The thread's appeal is watching tiny first snaps with the full future already loaded in the viewer's head.\n  Why funny: Football history gets compressed into one awkward or ordinary throw.\n  Source URL: https://www.reddit.com/r/nfl/comments/1urccor/highlight_first_career_pass_attempts_for_numerous/\n- Label: Hindsight does the work\n  Summary: Reactions can turn even normal throws into lore because fans know which careers became legends, memes, or cautionary tales.\n  Why funny: The clip is old footage, but the joke is modern memory.\n  Source URL: https://www.reddit.com/r/nfl/comments/1urccor/highlight_first_career_pass_attempts_for_numerous/\n\n## Quote\n\nEvery franchise era starts as one nervous pass.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1urccor/highlight_first_career_pass_attempts_for_numerous/\n- Source type: Reddit / r/nfl top-day highlight thread\n- Verification notes: summarize the fan nostalgia framing; avoid reposting highlight footage\n\n## Sports Radar Markdown\n\n```md\n**First career QB throws become instant football memory lane**\n\nAn r/nfl highlight thread made first passes feel like tiny franchise origin stories.\n\nWhy it works: hindsight turns ordinary snaps into lore.\n```\n"
+    "markdown": "---\nid: qb-first-pass-memory-lane\nrank: 5\ntitle: \"First career QB throws become instant football memory lane\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-09\"\nheat: 84\ntags:\n  - r/nfl\n  - quarterbacks\n  - highlights\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl highlight thread collecting first career pass attempts turned into a\ncompact nostalgia machine for quarterback arcs.\n\n## Why It Is Funny\n\nThe setup invites hindsight. Every harmless first throw carries the comedy of\nknowing what the career eventually became.\n\n## Comment Highlights\n\n- Label: Origin-story replay\n  Summary: The thread's appeal is watching tiny first snaps with the full future already loaded in the viewer's head.\n  Why funny: Football history gets compressed into one awkward or ordinary throw.\n  Source URL: https://www.reddit.com/r/nfl/comments/1urccor/highlight_first_career_pass_attempts_for_numerous/\n- Label: Hindsight does the work\n  Summary: Reactions can turn even normal throws into lore because fans know which careers became legends, memes, or cautionary tales.\n  Why funny: The clip is old footage, but the joke is modern memory.\n  Source URL: https://www.reddit.com/r/nfl/comments/1urccor/highlight_first_career_pass_attempts_for_numerous/\n\n## Quote\n\nEvery franchise era starts as one nervous pass.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1urccor/highlight_first_career_pass_attempts_for_numerous/\n- Source type: Reddit / r/nfl top-day highlight thread\n- Verification notes: summarize the fan nostalgia framing; avoid reposting highlight footage\n\n## Sports Radar Markdown\n\n```md\n**First career QB throws become instant football memory lane**\n\nAn r/nfl highlight thread made first passes feel like tiny franchise origin stories.\n\nWhy it works: hindsight turns ordinary snaps into lore.\n```\n"
+  },
+  {
+    "id": "lane-johnson-sack-math",
+    "rank": 5,
+    "title": "Lane Johnson sack math turns protection into mythology",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-10",
+    "heat": 84,
+    "tags": [
+      "r/nfl",
+      "Eagles",
+      "Lane Johnson",
+      "offensive-line"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl stat thread claimed half of Lane Johnson's career sacks allowed came\nin his rookie season, giving fans a compact way to describe a very long prime.",
+    "whyFunny": "Offensive-line greatness is usually invisible. This framing makes it visible\nby turning more than a decade of pass protection into almost no events at all.",
+    "quote": "The stat celebrates twelve years of almost nothing happening.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1us3i4m/since_being_drafted_in_2013_lane_johnson_has_only/",
+    "commentHighlights": [
+      {
+        "label": "The brick-wall summary",
+        "summary": "Fans compressed years of tackle play into the idea that almost nothing gets through his side.",
+        "whyFunny": "The highlight is an absence so consistent that it becomes lore.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1us3i4m/since_being_drafted_in_2013_lane_johnson_has_only/"
+      },
+      {
+        "label": "Fan stat counterprogramming",
+        "summary": "The thread invited ordinary viewers to compare their own undefeated NFL sack records.",
+        "whyFunny": "Technical greatness becomes accessible through deliberately useless comparisons.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1us3i4m/since_being_drafted_in_2013_lane_johnson_has_only/"
+      }
+    ],
+    "markdown": "---\nid: lane-johnson-sack-math\nrank: 5\ntitle: \"Lane Johnson sack math turns protection into mythology\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-10\"\nheat: 84\ntags:\n  - r/nfl\n  - Eagles\n  - Lane Johnson\n  - offensive-line\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl stat thread claimed half of Lane Johnson's career sacks allowed came\nin his rookie season, giving fans a compact way to describe a very long prime.\n\n## Why It Is Funny\n\nOffensive-line greatness is usually invisible. This framing makes it visible\nby turning more than a decade of pass protection into almost no events at all.\n\n## Comment Highlights\n\n- Label: The brick-wall summary\n  Summary: Fans compressed years of tackle play into the idea that almost nothing gets through his side.\n  Why funny: The highlight is an absence so consistent that it becomes lore.\n  Source URL: https://www.reddit.com/r/nfl/comments/1us3i4m/since_being_drafted_in_2013_lane_johnson_has_only/\n- Label: Fan stat counterprogramming\n  Summary: The thread invited ordinary viewers to compare their own undefeated NFL sack records.\n  Why funny: Technical greatness becomes accessible through deliberately useless comparisons.\n  Source URL: https://www.reddit.com/r/nfl/comments/1us3i4m/since_being_drafted_in_2013_lane_johnson_has_only/\n\n## Quote\n\nThe stat celebrates twelve years of almost nothing happening.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1us3i4m/since_being_drafted_in_2013_lane_johnson_has_only/\n- Source type: Reddit / r/nfl top-day stat thread\n- Verification notes: attribute the sack total to the Reddit post rather than presenting it as independently audited league data\n\n## Sports Radar Markdown\n\n```md\n**Lane Johnson sack math turns protection into mythology**\n\nAn r/nfl stat thread made a long offensive-line prime legible through almost no sacks at all.\n\nWhy it works: the achievement is a highlight reel made from missing events.\n```\n"
   },
   {
     "id": "norway-viking-row",
