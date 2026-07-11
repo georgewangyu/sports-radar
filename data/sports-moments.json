@@ -1,5 +1,41 @@
 [
   {
+    "id": "lamine-yamal-woke-up-too",
+    "rank": 1,
+    "title": "Lamine Yamal also woke up this morning",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-11",
+    "heat": 95,
+    "tags": [
+      "r/soccer",
+      "Lamine Yamal",
+      "Maxime de Cuyper",
+      "dry-humor"
+    ],
+    "public_ready": true,
+    "summary": "An r/soccer clip turned routine pre-match hype about facing Lamine Yamal into\na perfectly flat observation: Yamal had also managed to wake up that morning.",
+    "whyFunny": "The studio sets up a grand comparison and gets the smallest technically true\nfact available. The anti-joke works because the delivery refuses to help it.",
+    "quote": "The scouting report confirmed both players were awake.",
+    "sourceUrl": "https://www.reddit.com/r/soccer/comments/1usx1r3/host_maxime_de_cuyper_woke_up_this_morning/",
+    "commentHighlights": [
+      {
+        "label": "Technically correct wins",
+        "summary": "Fans treated the literal answer as the best possible answer to an overbuilt setup.",
+        "whyFunny": "The analysis becomes undeniable by saying almost nothing.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1usx1r3/host_maxime_de_cuyper_woke_up_this_morning/"
+      },
+      {
+        "label": "Everyone joins the comparison",
+        "summary": "The thread extended the premise until ordinary viewers also qualified as Yamal comparisons.",
+        "whyFunny": "A superstar matchup collapses into a fact shared by most of the audience.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1usx1r3/host_maxime_de_cuyper_woke_up_this_morning/"
+      }
+    ],
+    "markdown": "---\nid: lamine-yamal-woke-up-too\nrank: 1\ntitle: \"Lamine Yamal also woke up this morning\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-11\"\nheat: 95\ntags:\n  - r/soccer\n  - Lamine Yamal\n  - Maxime de Cuyper\n  - dry-humor\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer clip turned routine pre-match hype about facing Lamine Yamal into\na perfectly flat observation: Yamal had also managed to wake up that morning.\n\n## Why It Is Funny\n\nThe studio sets up a grand comparison and gets the smallest technically true\nfact available. The anti-joke works because the delivery refuses to help it.\n\n## Comment Highlights\n\n- Label: Technically correct wins\n  Summary: Fans treated the literal answer as the best possible answer to an overbuilt setup.\n  Why funny: The analysis becomes undeniable by saying almost nothing.\n  Source URL: https://www.reddit.com/r/soccer/comments/1usx1r3/host_maxime_de_cuyper_woke_up_this_morning/\n- Label: Everyone joins the comparison\n  Summary: The thread extended the premise until ordinary viewers also qualified as Yamal comparisons.\n  Why funny: A superstar matchup collapses into a fact shared by most of the audience.\n  Source URL: https://www.reddit.com/r/soccer/comments/1usx1r3/host_maxime_de_cuyper_woke_up_this_morning/\n\n## Quote\n\nThe scouting report confirmed both players were awake.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1usx1r3/host_maxime_de_cuyper_woke_up_this_morning/\n- Source type: Reddit / r/soccer top-day clip thread\n- Verification notes: public Reddit page confirms the studio exchange and dry-humor reaction; paraphrase rather than reproducing the full dialogue\n\n## Sports Radar Markdown\n\n```md\n**Lamine Yamal also woke up this morning**\n\nAn r/soccer clip answered pre-match hype with the driest possible fact.\n\nWhy it works: the scouting report becomes airtight by saying almost nothing.\n```\n"
+  },
+  {
     "id": "lebron-contract-timing",
     "rank": 1,
     "title": "LeBron exit timing turns into contract-calendar comedy",
@@ -46,7 +82,7 @@
     "title": "Mark Davis turns a field-safety answer into accidental grass comedy",
     "league": "NFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-10",
     "heat": 94,
     "tags": [
@@ -74,7 +110,7 @@
         "sourceUrl": "https://www.reddit.com/r/nfl/comments/1us6uvm/raiders_owner_mark_davis_is_committed_to_grass/"
       }
     ],
-    "markdown": "---\nid: mark-davis-grass-commitment\nrank: 1\ntitle: \"Mark Davis turns a field-safety answer into accidental grass comedy\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-10\"\nheat: 94\ntags:\n  - r/nfl\n  - Raiders\n  - grass\n  - wordplay\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl thread about Mark Davis preferring natural grass for player safety\nimmediately treated the phrasing as a setup for every possible grass joke.\n\n## Why It Is Funny\n\nThe football point is straightforward. The headline is so perfectly phrased\nthat the thread barely needs a second premise.\n\n## Comment Highlights\n\n- Label: Two meanings, one headline\n  Summary: Reactions bounced between the playing surface and the other obvious meaning of grass.\n  Why funny: A serious field-safety stance arrived preloaded with its own punchline.\n  Source URL: https://www.reddit.com/r/nfl/comments/1us6uvm/raiders_owner_mark_davis_is_committed_to_grass/\n- Label: Commitment becomes the running bit\n  Summary: Fans extended the word \"committed\" into jokes about Davis sticking with familiar choices.\n  Why funny: The thread turned consistency itself into the character trait.\n  Source URL: https://www.reddit.com/r/nfl/comments/1us6uvm/raiders_owner_mark_davis_is_committed_to_grass/\n\n## Quote\n\nThe safety statement came with recreational wordplay built in.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1us6uvm/raiders_owner_mark_davis_is_committed_to_grass/\n- Source type: Reddit / r/nfl top-day thread\n- Verification notes: summarize the public field-safety discussion and fan wordplay; do not reproduce the article or comment text\n\n## Sports Radar Markdown\n\n```md\n**Mark Davis turns a field-safety answer into accidental grass comedy**\n\nAn r/nfl thread found two meanings in one very carefully intended statement.\n\nWhy it works: the responsible football answer arrived with the joke already attached.\n```\n"
+    "markdown": "---\nid: mark-davis-grass-commitment\nrank: 1\ntitle: \"Mark Davis turns a field-safety answer into accidental grass comedy\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-10\"\nheat: 94\ntags:\n  - r/nfl\n  - Raiders\n  - grass\n  - wordplay\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl thread about Mark Davis preferring natural grass for player safety\nimmediately treated the phrasing as a setup for every possible grass joke.\n\n## Why It Is Funny\n\nThe football point is straightforward. The headline is so perfectly phrased\nthat the thread barely needs a second premise.\n\n## Comment Highlights\n\n- Label: Two meanings, one headline\n  Summary: Reactions bounced between the playing surface and the other obvious meaning of grass.\n  Why funny: A serious field-safety stance arrived preloaded with its own punchline.\n  Source URL: https://www.reddit.com/r/nfl/comments/1us6uvm/raiders_owner_mark_davis_is_committed_to_grass/\n- Label: Commitment becomes the running bit\n  Summary: Fans extended the word \"committed\" into jokes about Davis sticking with familiar choices.\n  Why funny: The thread turned consistency itself into the character trait.\n  Source URL: https://www.reddit.com/r/nfl/comments/1us6uvm/raiders_owner_mark_davis_is_committed_to_grass/\n\n## Quote\n\nThe safety statement came with recreational wordplay built in.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1us6uvm/raiders_owner_mark_davis_is_committed_to_grass/\n- Source type: Reddit / r/nfl top-day thread\n- Verification notes: summarize the public field-safety discussion and fan wordplay; do not reproduce the article or comment text\n\n## Sports Radar Markdown\n\n```md\n**Mark Davis turns a field-safety answer into accidental grass comedy**\n\nAn r/nfl thread found two meanings in one very carefully intended statement.\n\nWhy it works: the responsible football answer arrived with the joke already attached.\n```\n"
   },
   {
     "id": "mbappe-france-morocco-plot-armor",
@@ -188,7 +224,7 @@
     "title": "Jaylen Brown's trade reaction becomes workplace-comedy fuel",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-10",
     "heat": 92,
     "tags": [
@@ -216,7 +252,79 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1us3nu7/jaylen_brown_on_being_traded_they_packed_me_up/"
       }
     ],
-    "markdown": "---\nid: jaylen-brown-packed-up\nrank: 2\ntitle: \"Jaylen Brown's trade reaction becomes workplace-comedy fuel\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-10\"\nheat: 92\ntags:\n  - r/nba\n  - Jaylen Brown\n  - trades\n  - workplace-comedy\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba thread turned Jaylen Brown's jokingly blunt reaction to being traded\ninto a debate about the strangest version of getting reassigned at work.\n\n## Why It Is Funny\n\nThe language sounds like a normal employee finding out the badge stopped\nworking, except the workplace is the NBA and the relocation comes with a max contract.\n\n## Comment Highlights\n\n- Label: The key-card version of a trade\n  Summary: Fans focused on how quickly a franchise relationship can become an access-denied moment.\n  Why funny: A blockbuster transaction gets reduced to office-building logistics.\n  Source URL: https://www.reddit.com/r/nba/comments/1us3nu7/jaylen_brown_on_being_traded_they_packed_me_up/\n- Label: Salary meets sympathy\n  Summary: The thread kept comparing the emotional complaint with the scale of an NBA contract.\n  Why funny: Both sides of the argument sound reasonable until they share the same sentence.\n  Source URL: https://www.reddit.com/r/nba/comments/1us3nu7/jaylen_brown_on_being_traded_they_packed_me_up/\n\n## Quote\n\nThe trade became an access-denied notification.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1us3nu7/jaylen_brown_on_being_traded_they_packed_me_up/\n- Source type: Reddit / r/nba top-day thread\n- Verification notes: frame this as a public player-reaction clip and fan discussion; avoid presenting the thread's salary estimates as verified reporting\n\n## Sports Radar Markdown\n\n```md\n**Jaylen Brown's trade reaction becomes workplace-comedy fuel**\n\nAn r/nba thread translated a blockbuster move into the world's most expensive badge-deactivation story.\n\nWhy it works: NBA transaction drama suddenly sounds like an ordinary bad day at the office.\n```\n"
+    "markdown": "---\nid: jaylen-brown-packed-up\nrank: 2\ntitle: \"Jaylen Brown's trade reaction becomes workplace-comedy fuel\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-10\"\nheat: 92\ntags:\n  - r/nba\n  - Jaylen Brown\n  - trades\n  - workplace-comedy\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba thread turned Jaylen Brown's jokingly blunt reaction to being traded\ninto a debate about the strangest version of getting reassigned at work.\n\n## Why It Is Funny\n\nThe language sounds like a normal employee finding out the badge stopped\nworking, except the workplace is the NBA and the relocation comes with a max contract.\n\n## Comment Highlights\n\n- Label: The key-card version of a trade\n  Summary: Fans focused on how quickly a franchise relationship can become an access-denied moment.\n  Why funny: A blockbuster transaction gets reduced to office-building logistics.\n  Source URL: https://www.reddit.com/r/nba/comments/1us3nu7/jaylen_brown_on_being_traded_they_packed_me_up/\n- Label: Salary meets sympathy\n  Summary: The thread kept comparing the emotional complaint with the scale of an NBA contract.\n  Why funny: Both sides of the argument sound reasonable until they share the same sentence.\n  Source URL: https://www.reddit.com/r/nba/comments/1us3nu7/jaylen_brown_on_being_traded_they_packed_me_up/\n\n## Quote\n\nThe trade became an access-denied notification.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1us3nu7/jaylen_brown_on_being_traded_they_packed_me_up/\n- Source type: Reddit / r/nba top-day thread\n- Verification notes: frame this as a public player-reaction clip and fan discussion; avoid presenting the thread's salary estimates as verified reporting\n\n## Sports Radar Markdown\n\n```md\n**Jaylen Brown's trade reaction becomes workplace-comedy fuel**\n\nAn r/nba thread translated a blockbuster move into the world's most expensive badge-deactivation story.\n\nWhy it works: NBA transaction drama suddenly sounds like an ordinary bad day at the office.\n```\n"
+  },
+  {
+    "id": "seiya-suzuki-hundred-bananas",
+    "rank": 2,
+    "title": "Seiya Suzuki prescribes himself 100 bananas",
+    "league": "MLB",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-11",
+    "heat": 92,
+    "tags": [
+      "r/baseball",
+      "Cubs",
+      "Seiya Suzuki",
+      "bananas"
+    ],
+    "public_ready": true,
+    "summary": "After Seiya Suzuki left a Cubs game with a cramp, an r/baseball post relayed\nhis extremely literal recovery plan: eat 100 bananas.",
+    "whyFunny": "The normal potassium advice gets scaled with video-game logic. If one banana\nmight help, a three-digit banana order must be elite-athlete treatment.",
+    "quote": "The treatment plan was measured by the bunch.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1usu7c1/seiya_suzuki_says_he_will_eat_100_bananas_after/",
+    "commentHighlights": [
+      {
+        "label": "Baseball's banana lore returns",
+        "summary": "Fans connected the plan to the sport's long-running jokes about bananas preventing cramps.",
+        "whyFunny": "One oversized number revived an entire branch of baseball internet history.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1usu7c1/seiya_suzuki_says_he_will_eat_100_bananas_after/"
+      },
+      {
+        "label": "The cure becomes the concern",
+        "summary": "The thread immediately imagined the new problems created by taking the plan literally.",
+        "whyFunny": "Recovery advice turns into an escalating produce-based medical drama.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1usu7c1/seiya_suzuki_says_he_will_eat_100_bananas_after/"
+      }
+    ],
+    "markdown": "---\nid: seiya-suzuki-hundred-bananas\nrank: 2\ntitle: \"Seiya Suzuki prescribes himself 100 bananas\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-11\"\nheat: 92\ntags:\n  - r/baseball\n  - Cubs\n  - Seiya Suzuki\n  - bananas\npublic_ready: true\n---\n\n## Summary\n\nAfter Seiya Suzuki left a Cubs game with a cramp, an r/baseball post relayed\nhis extremely literal recovery plan: eat 100 bananas.\n\n## Why It Is Funny\n\nThe normal potassium advice gets scaled with video-game logic. If one banana\nmight help, a three-digit banana order must be elite-athlete treatment.\n\n## Comment Highlights\n\n- Label: Baseball's banana lore returns\n  Summary: Fans connected the plan to the sport's long-running jokes about bananas preventing cramps.\n  Why funny: One oversized number revived an entire branch of baseball internet history.\n  Source URL: https://www.reddit.com/r/baseball/comments/1usu7c1/seiya_suzuki_says_he_will_eat_100_bananas_after/\n- Label: The cure becomes the concern\n  Summary: The thread immediately imagined the new problems created by taking the plan literally.\n  Why funny: Recovery advice turns into an escalating produce-based medical drama.\n  Source URL: https://www.reddit.com/r/baseball/comments/1usu7c1/seiya_suzuki_says_he_will_eat_100_bananas_after/\n\n## Quote\n\nThe treatment plan was measured by the bunch.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1usu7c1/seiya_suzuki_says_he_will_eat_100_bananas_after/\n- Source type: Reddit / r/baseball top-day thread linking MLB.com\n- Verification notes: attribute the 100-banana line to the public post and player joke; do not treat thread health jokes as medical guidance\n\n## Sports Radar Markdown\n\n```md\n**Seiya Suzuki prescribes himself 100 bananas**\n\nAn r/baseball post turned a cramp into the most literal potassium plan possible.\n\nWhy it works: ordinary recovery advice gets scaled like a video-game power-up.\n```\n"
+  },
+  {
+    "id": "riko-zenbayashi-message-jersey",
+    "rank": 3,
+    "title": "Kanuma teammates turn one jersey into a team letter",
+    "league": "Baseball",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-11",
+    "heat": 88,
+    "tags": [
+      "r/baseball",
+      "Japan",
+      "high-school-baseball",
+      "teammates"
+    ],
+    "public_ready": true,
+    "summary": "An r/baseball post showed Kanuma High School teammates giving Riko Zenbayashi\na tournament jersey covered with their messages after rules kept her out of\nofficial games.",
+    "whyFunny": "This one is group-chat-worthy for warmth rather than a punchline. The roster\nrules say one thing; the teammates use the uniform to say she is still theirs.",
+    "quote": "The uniform doubled as a team letter.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1ut2ufh/riko_zenbayashi_a_female_member_of_kanuma_high/",
+    "commentHighlights": [
+      {
+        "label": "The jersey becomes the message",
+        "summary": "Fans focused on the teammates turning a standard uniform into a visible team letter.",
+        "whyFunny": "Sports equipment briefly does the emotional work of a full speech.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1ut2ufh/riko_zenbayashi_a_female_member_of_kanuma_high/"
+      },
+      {
+        "label": "The baseball question follows",
+        "summary": "The thread also wanted to know more about her play, not only the restriction.",
+        "whyFunny": "The most sports-fan response to a moving story is still asking for the scouting report.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1ut2ufh/riko_zenbayashi_a_female_member_of_kanuma_high/"
+      }
+    ],
+    "markdown": "---\nid: riko-zenbayashi-message-jersey\nrank: 3\ntitle: \"Kanuma teammates turn one jersey into a team letter\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-11\"\nheat: 88\ntags:\n  - r/baseball\n  - Japan\n  - high-school-baseball\n  - teammates\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post showed Kanuma High School teammates giving Riko Zenbayashi\na tournament jersey covered with their messages after rules kept her out of\nofficial games.\n\n## Why It Is Funny\n\nThis one is group-chat-worthy for warmth rather than a punchline. The roster\nrules say one thing; the teammates use the uniform to say she is still theirs.\n\n## Comment Highlights\n\n- Label: The jersey becomes the message\n  Summary: Fans focused on the teammates turning a standard uniform into a visible team letter.\n  Why funny: Sports equipment briefly does the emotional work of a full speech.\n  Source URL: https://www.reddit.com/r/baseball/comments/1ut2ufh/riko_zenbayashi_a_female_member_of_kanuma_high/\n- Label: The baseball question follows\n  Summary: The thread also wanted to know more about her play, not only the restriction.\n  Why funny: The most sports-fan response to a moving story is still asking for the scouting report.\n  Source URL: https://www.reddit.com/r/baseball/comments/1ut2ufh/riko_zenbayashi_a_female_member_of_kanuma_high/\n\n## Quote\n\nThe uniform doubled as a team letter.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1ut2ufh/riko_zenbayashi_a_female_member_of_kanuma_high/\n- Source type: Reddit / r/baseball top-day image thread\n- Verification notes: summarize the public post's stated context; do not republish the images or identify private individuals beyond the named player\n\n## Sports Radar Markdown\n\n```md\n**Kanuma teammates turn one jersey into a team letter**\n\nAn r/baseball post showed a tournament uniform carrying a whole roster's messages.\n\nWhy it works: the rules define the lineup, but the teammates define the team.\n```\n"
   },
   {
     "id": "one-off-nfl-uniform-museum",
@@ -224,7 +332,7 @@
     "title": "One-off NFL uniforms become a museum of abandoned ideas",
     "league": "NFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-10",
     "heat": 89,
     "tags": [
@@ -252,7 +360,7 @@
         "sourceUrl": "https://www.reddit.com/r/uniwatch/comments/1us6kmf/a_collection_of_uniform_combinations_worn_exactly/"
       }
     ],
-    "markdown": "---\nid: one-off-nfl-uniform-museum\nrank: 3\ntitle: \"One-off NFL uniforms become a museum of abandoned ideas\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-10\"\nheat: 89\ntags:\n  - r/nfl\n  - r/uniwatch\n  - uniforms\n  - nostalgia\npublic_ready: true\n---\n\n## Summary\n\nA uniform roundup surfaced through the r/nfl daily feed and collected looks\nthat appeared once, turning old game photos into a catalog of visual experiments.\n\n## Why It Is Funny\n\nEvery combination feels like a franchise opened a costume drawer, tried one\nidea in public, and quietly put it back forever.\n\n## Comment Highlights\n\n- Label: Instant aesthetic trials\n  Summary: Fans treated each look as a tiny referendum on whether the team was right to retire it.\n  Why funny: One game becomes enough evidence for a permanent design verdict.\n  Source URL: https://www.reddit.com/r/uniwatch/comments/1us6kmf/a_collection_of_uniform_combinations_worn_exactly/\n- Label: Memory versus the catalog\n  Summary: The discussion mixed nostalgia with disputes over whether a few combinations were truly one-offs.\n  Why funny: Uniform history gets argued with the intensity of a replay review.\n  Source URL: https://www.reddit.com/r/uniwatch/comments/1us6kmf/a_collection_of_uniform_combinations_worn_exactly/\n\n## Quote\n\nThe equipment room briefly became a failed-pilot archive.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/uniwatch/comments/1us6kmf/a_collection_of_uniform_combinations_worn_exactly/\n- Source type: Reddit / r/uniwatch thread surfaced through the r/nfl top-day feed\n- Verification notes: treat the one-off claim as the thread's organizing premise; the discussion itself flags possible exceptions\n\n## Sports Radar Markdown\n\n```md\n**One-off NFL uniforms become a museum of abandoned ideas**\n\nA Reddit roundup made old game photos feel like a franchise design graveyard.\n\nWhy it works: every look carries the energy of a pilot episode that never got picked up.\n```\n"
+    "markdown": "---\nid: one-off-nfl-uniform-museum\nrank: 3\ntitle: \"One-off NFL uniforms become a museum of abandoned ideas\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-10\"\nheat: 89\ntags:\n  - r/nfl\n  - r/uniwatch\n  - uniforms\n  - nostalgia\npublic_ready: true\n---\n\n## Summary\n\nA uniform roundup surfaced through the r/nfl daily feed and collected looks\nthat appeared once, turning old game photos into a catalog of visual experiments.\n\n## Why It Is Funny\n\nEvery combination feels like a franchise opened a costume drawer, tried one\nidea in public, and quietly put it back forever.\n\n## Comment Highlights\n\n- Label: Instant aesthetic trials\n  Summary: Fans treated each look as a tiny referendum on whether the team was right to retire it.\n  Why funny: One game becomes enough evidence for a permanent design verdict.\n  Source URL: https://www.reddit.com/r/uniwatch/comments/1us6kmf/a_collection_of_uniform_combinations_worn_exactly/\n- Label: Memory versus the catalog\n  Summary: The discussion mixed nostalgia with disputes over whether a few combinations were truly one-offs.\n  Why funny: Uniform history gets argued with the intensity of a replay review.\n  Source URL: https://www.reddit.com/r/uniwatch/comments/1us6kmf/a_collection_of_uniform_combinations_worn_exactly/\n\n## Quote\n\nThe equipment room briefly became a failed-pilot archive.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/uniwatch/comments/1us6kmf/a_collection_of_uniform_combinations_worn_exactly/\n- Source type: Reddit / r/uniwatch thread surfaced through the r/nfl top-day feed\n- Verification notes: treat the one-off claim as the thread's organizing premise; the discussion itself flags possible exceptions\n\n## Sports Radar Markdown\n\n```md\n**One-off NFL uniforms become a museum of abandoned ideas**\n\nA Reddit roundup made old game photos feel like a franchise design graveyard.\n\nWhy it works: every look carries the energy of a pilot episode that never got picked up.\n```\n"
   },
   {
     "id": "curry-lebron-golf-first",
@@ -367,7 +475,7 @@
     "title": "Jaylen Brown and Speed pitch LeBron with pure group-chat logic",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-10",
     "heat": 87,
     "tags": [
@@ -395,7 +503,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1us5d4o/jaylen_brown_you_gotta_say_lebron_you_got_to_pull/"
       }
     ],
-    "markdown": "---\nid: jaylen-speed-lebron-philly-pitch\nrank: 4\ntitle: \"Jaylen Brown and Speed pitch LeBron with pure group-chat logic\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-10\"\nheat: 87\ntags:\n  - r/nba\n  - Jaylen Brown\n  - LeBron\n  - Philadelphia\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip paired Jaylen Brown and IShowSpeed in an improvised LeBron-to-\nPhiladelphia recruiting pitch that sounded more like friends planning a trip.\n\n## Why It Is Funny\n\nRoster construction, contracts, and basketball fit all gave way to the oldest\npersuasion strategy available: name the people, name the food, demand the pull-up.\n\n## Comment Highlights\n\n- Label: Two conversations at once\n  Summary: Fans heard a basketball pitch and a city-tour pitch happening in parallel.\n  Why funny: The sales case gets less coherent and more convincing at the same time.\n  Source URL: https://www.reddit.com/r/nba/comments/1us5d4o/jaylen_brown_you_gotta_say_lebron_you_got_to_pull/\n- Label: Cheesesteak roster math\n  Summary: The thread enjoyed how quickly Philadelphia food became part of the personnel argument.\n  Why funny: A championship pitch briefly turns into a lunch recommendation.\n  Source URL: https://www.reddit.com/r/nba/comments/1us5d4o/jaylen_brown_you_gotta_say_lebron_you_got_to_pull/\n\n## Quote\n\nThe depth chart came with a cheesesteak clause.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1us5d4o/jaylen_brown_you_gotta_say_lebron_you_got_to_pull/\n- Source type: Reddit / r/nba top-day clip thread\n- Verification notes: present this as playful public recruiting talk, not evidence of an actual transaction\n\n## Sports Radar Markdown\n\n```md\n**Jaylen Brown and Speed pitch LeBron with pure group-chat logic**\n\nAn r/nba clip turned roster recruitment into names, food, and a demand to pull up.\n\nWhy it works: the basketball case slowly becomes a city-tour itinerary.\n```\n"
+    "markdown": "---\nid: jaylen-speed-lebron-philly-pitch\nrank: 4\ntitle: \"Jaylen Brown and Speed pitch LeBron with pure group-chat logic\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-10\"\nheat: 87\ntags:\n  - r/nba\n  - Jaylen Brown\n  - LeBron\n  - Philadelphia\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip paired Jaylen Brown and IShowSpeed in an improvised LeBron-to-\nPhiladelphia recruiting pitch that sounded more like friends planning a trip.\n\n## Why It Is Funny\n\nRoster construction, contracts, and basketball fit all gave way to the oldest\npersuasion strategy available: name the people, name the food, demand the pull-up.\n\n## Comment Highlights\n\n- Label: Two conversations at once\n  Summary: Fans heard a basketball pitch and a city-tour pitch happening in parallel.\n  Why funny: The sales case gets less coherent and more convincing at the same time.\n  Source URL: https://www.reddit.com/r/nba/comments/1us5d4o/jaylen_brown_you_gotta_say_lebron_you_got_to_pull/\n- Label: Cheesesteak roster math\n  Summary: The thread enjoyed how quickly Philadelphia food became part of the personnel argument.\n  Why funny: A championship pitch briefly turns into a lunch recommendation.\n  Source URL: https://www.reddit.com/r/nba/comments/1us5d4o/jaylen_brown_you_gotta_say_lebron_you_got_to_pull/\n\n## Quote\n\nThe depth chart came with a cheesesteak clause.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1us5d4o/jaylen_brown_you_gotta_say_lebron_you_got_to_pull/\n- Source type: Reddit / r/nba top-day clip thread\n- Verification notes: present this as playful public recruiting talk, not evidence of an actual transaction\n\n## Sports Radar Markdown\n\n```md\n**Jaylen Brown and Speed pitch LeBron with pure group-chat logic**\n\nAn r/nba clip turned roster recruitment into names, food, and a demand to pull up.\n\nWhy it works: the basketball case slowly becomes a city-tour itinerary.\n```\n"
   },
   {
     "id": "paraguay-national-holiday",
@@ -431,6 +539,42 @@
       }
     ],
     "markdown": "---\nid: paraguay-national-holiday\nrank: 4\ntitle: \"Paraguay allegedly celebrates an upset like a calendar event\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-06-30\"\nheat: 84\ntags:\n  - r/sports\n  - World Cup\n  - national holiday\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports post claimed Paraguay declared a national holiday after beating\nGermany, turning a match result into civic scheduling.\n\n## Why It Is Funny\n\nMost fanbases say a win changed their lives. This one gets framed as if the\ngovernment updated everyone's calendar invite.\n\n## Comment Highlights\n\n- Label: Celebration becomes policy\n  Summary: The thread's central delight is scale: fans do not just celebrate; the country allegedly moves the work calendar around the result.\n  Why funny: It upgrades sports joy from yelling in the street to civic administration.\n  Source URL: https://www.reddit.com/r/sports/comments/1ujnnli/paraguay_declares_national_holiday_after_beating/\n- Label: Upset math\n  Summary: Reactions frame the Germany result as the kind of upset that makes normal Monday logic stop applying.\n  Why funny: It treats a bracket surprise like an emergency broadcast for national vibes.\n  Source URL: https://www.reddit.com/r/sports/comments/1ujnnli/paraguay_declares_national_holiday_after_beating/\n\n## Quote\n\nThe final whistle became an out-of-office reply.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1ujnnli/paraguay_declares_national_holiday_after_beating/\n- Source type: Reddit / r/sports top-day thread\n- Verification notes: verify before treating as factual news; safe here as Reddit sports-culture framing\n\n## Sports Radar Markdown\n\n```md\n**Paraguay allegedly celebrates an upset like a calendar event**\n\nAn r/sports post framed a huge win as civic scheduling.\n\nWhy it works: the celebration escalates from fan joy to national calendar management.\n```\n"
+  },
+  {
+    "id": "1995-recruiting-time-capsule",
+    "rank": 4,
+    "title": "The 1995 recruiting rankings become a hindsight machine",
+    "league": "NCAA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-11",
+    "heat": 85,
+    "tags": [
+      "r/CollegeBasketball",
+      "recruiting",
+      1995,
+      "hindsight"
+    ],
+    "public_ready": true,
+    "summary": "An old 1995 basketball recruiting list resurfaced on r/CollegeBasketball as a\ntime capsule full of future stars, forgotten names, and Tyronn Lue in prospect form.",
+    "whyFunny": "Every old ranking becomes two documents at once: what evaluators believed then\nand what decades of hindsight will never let them forget.",
+    "quote": "The scouting archive came with thirty years of answer key.",
+    "sourceUrl": "https://www.reddit.com/r/CollegeBasketball/comments/1utilq9/1995_recruiting_rankings/",
+    "commentHighlights": [
+      {
+        "label": "The top-five report card",
+        "summary": "Fans immediately graded the highest-ranked names against the careers they eventually had.",
+        "whyFunny": "Thirty years of basketball history gets turned into instant recruiting feedback.",
+        "sourceUrl": "https://www.reddit.com/r/CollegeBasketball/comments/1utilq9/1995_recruiting_rankings/"
+      },
+      {
+        "label": "Tyronn Lue before the lore",
+        "summary": "The post delighted in finding a future NBA player and coach inside an old prospect list.",
+        "whyFunny": "A familiar basketball figure appears as an unfinished origin story.",
+        "sourceUrl": "https://www.reddit.com/r/CollegeBasketball/comments/1utilq9/1995_recruiting_rankings/"
+      }
+    ],
+    "markdown": "---\nid: 1995-recruiting-time-capsule\nrank: 4\ntitle: \"The 1995 recruiting rankings become a hindsight machine\"\nleague: \"NCAA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-11\"\nheat: 85\ntags:\n  - r/CollegeBasketball\n  - recruiting\n  - 1995\n  - hindsight\npublic_ready: true\n---\n\n## Summary\n\nAn old 1995 basketball recruiting list resurfaced on r/CollegeBasketball as a\ntime capsule full of future stars, forgotten names, and Tyronn Lue in prospect form.\n\n## Why It Is Funny\n\nEvery old ranking becomes two documents at once: what evaluators believed then\nand what decades of hindsight will never let them forget.\n\n## Comment Highlights\n\n- Label: The top-five report card\n  Summary: Fans immediately graded the highest-ranked names against the careers they eventually had.\n  Why funny: Thirty years of basketball history gets turned into instant recruiting feedback.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1utilq9/1995_recruiting_rankings/\n- Label: Tyronn Lue before the lore\n  Summary: The post delighted in finding a future NBA player and coach inside an old prospect list.\n  Why funny: A familiar basketball figure appears as an unfinished origin story.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1utilq9/1995_recruiting_rankings/\n\n## Quote\n\nThe scouting archive came with thirty years of answer key.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1utilq9/1995_recruiting_rankings/\n- Source type: Reddit / r/CollegeBasketball top-day image thread\n- Verification notes: public page confirms the 1995-list framing and Tyronn Lue note; avoid reproducing the full image or asserting individual placements not reviewed here\n\n## Sports Radar Markdown\n\n```md\n**The 1995 recruiting rankings become a hindsight machine**\n\nAn old prospect list resurfaced with three decades of basketball context attached.\n\nWhy it works: every archived ranking eventually receives an answer key.\n```\n"
   },
   {
     "id": "qb-first-pass-memory-lane",
@@ -473,7 +617,7 @@
     "title": "Lane Johnson sack math turns protection into mythology",
     "league": "NFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-10",
     "heat": 84,
     "tags": [
@@ -501,7 +645,43 @@
         "sourceUrl": "https://www.reddit.com/r/nfl/comments/1us3i4m/since_being_drafted_in_2013_lane_johnson_has_only/"
       }
     ],
-    "markdown": "---\nid: lane-johnson-sack-math\nrank: 5\ntitle: \"Lane Johnson sack math turns protection into mythology\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-10\"\nheat: 84\ntags:\n  - r/nfl\n  - Eagles\n  - Lane Johnson\n  - offensive-line\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl stat thread claimed half of Lane Johnson's career sacks allowed came\nin his rookie season, giving fans a compact way to describe a very long prime.\n\n## Why It Is Funny\n\nOffensive-line greatness is usually invisible. This framing makes it visible\nby turning more than a decade of pass protection into almost no events at all.\n\n## Comment Highlights\n\n- Label: The brick-wall summary\n  Summary: Fans compressed years of tackle play into the idea that almost nothing gets through his side.\n  Why funny: The highlight is an absence so consistent that it becomes lore.\n  Source URL: https://www.reddit.com/r/nfl/comments/1us3i4m/since_being_drafted_in_2013_lane_johnson_has_only/\n- Label: Fan stat counterprogramming\n  Summary: The thread invited ordinary viewers to compare their own undefeated NFL sack records.\n  Why funny: Technical greatness becomes accessible through deliberately useless comparisons.\n  Source URL: https://www.reddit.com/r/nfl/comments/1us3i4m/since_being_drafted_in_2013_lane_johnson_has_only/\n\n## Quote\n\nThe stat celebrates twelve years of almost nothing happening.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1us3i4m/since_being_drafted_in_2013_lane_johnson_has_only/\n- Source type: Reddit / r/nfl top-day stat thread\n- Verification notes: attribute the sack total to the Reddit post rather than presenting it as independently audited league data\n\n## Sports Radar Markdown\n\n```md\n**Lane Johnson sack math turns protection into mythology**\n\nAn r/nfl stat thread made a long offensive-line prime legible through almost no sacks at all.\n\nWhy it works: the achievement is a highlight reel made from missing events.\n```\n"
+    "markdown": "---\nid: lane-johnson-sack-math\nrank: 5\ntitle: \"Lane Johnson sack math turns protection into mythology\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-10\"\nheat: 84\ntags:\n  - r/nfl\n  - Eagles\n  - Lane Johnson\n  - offensive-line\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl stat thread claimed half of Lane Johnson's career sacks allowed came\nin his rookie season, giving fans a compact way to describe a very long prime.\n\n## Why It Is Funny\n\nOffensive-line greatness is usually invisible. This framing makes it visible\nby turning more than a decade of pass protection into almost no events at all.\n\n## Comment Highlights\n\n- Label: The brick-wall summary\n  Summary: Fans compressed years of tackle play into the idea that almost nothing gets through his side.\n  Why funny: The highlight is an absence so consistent that it becomes lore.\n  Source URL: https://www.reddit.com/r/nfl/comments/1us3i4m/since_being_drafted_in_2013_lane_johnson_has_only/\n- Label: Fan stat counterprogramming\n  Summary: The thread invited ordinary viewers to compare their own undefeated NFL sack records.\n  Why funny: Technical greatness becomes accessible through deliberately useless comparisons.\n  Source URL: https://www.reddit.com/r/nfl/comments/1us3i4m/since_being_drafted_in_2013_lane_johnson_has_only/\n\n## Quote\n\nThe stat celebrates twelve years of almost nothing happening.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1us3i4m/since_being_drafted_in_2013_lane_johnson_has_only/\n- Source type: Reddit / r/nfl top-day stat thread\n- Verification notes: attribute the sack total to the Reddit post rather than presenting it as independently audited league data\n\n## Sports Radar Markdown\n\n```md\n**Lane Johnson sack math turns protection into mythology**\n\nAn r/nfl stat thread made a long offensive-line prime legible through almost no sacks at all.\n\nWhy it works: the achievement is a highlight reel made from missing events.\n```\n"
+  },
+  {
+    "id": "nmsu-utep-one-week-rematch",
+    "rank": 5,
+    "title": "New Mexico State and UTEP schedule immediate revenge",
+    "league": "NCAA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-11",
+    "heat": 82,
+    "tags": [
+      "r/CollegeBasketball",
+      "New Mexico State",
+      "UTEP",
+      "rivalry"
+    ],
+    "public_ready": true,
+    "summary": "An r/CollegeBasketball post highlighted New Mexico State and UTEP scheduling\ntheir home-and-home games only one week apart during non-conference play.",
+    "whyFunny": "Most rematches let the first game cool off. This schedule has the energy of\nrunning it back while the losing team's group chat is still active.",
+    "quote": "The rematch arrives before the first game's takes expire.",
+    "sourceUrl": "https://www.reddit.com/r/CollegeBasketball/comments/1ut0dj2/new_mexico_state_and_utep_to_play_a_home_home_one/",
+    "commentHighlights": [
+      {
+        "label": "Revenge stays fresh",
+        "summary": "Fans liked the idea that the second meeting arrives before either side can emotionally move on.",
+        "whyFunny": "A season series becomes one argument with a seven-day intermission.",
+        "sourceUrl": "https://www.reddit.com/r/CollegeBasketball/comments/1ut0dj2/new_mexico_state_and_utep_to_play_a_home_home_one/"
+      },
+      {
+        "label": "Rivalry week, literally",
+        "summary": "The unusual cadence made the home-and-home feel more like a compact event than two separate dates.",
+        "whyFunny": "The schedule accidentally creates a best-of-two miniseries.",
+        "sourceUrl": "https://www.reddit.com/r/CollegeBasketball/comments/1ut0dj2/new_mexico_state_and_utep_to_play_a_home_home_one/"
+      }
+    ],
+    "markdown": "---\nid: nmsu-utep-one-week-rematch\nrank: 5\ntitle: \"New Mexico State and UTEP schedule immediate revenge\"\nleague: \"NCAA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-11\"\nheat: 82\ntags:\n  - r/CollegeBasketball\n  - New Mexico State\n  - UTEP\n  - rivalry\npublic_ready: true\n---\n\n## Summary\n\nAn r/CollegeBasketball post highlighted New Mexico State and UTEP scheduling\ntheir home-and-home games only one week apart during non-conference play.\n\n## Why It Is Funny\n\nMost rematches let the first game cool off. This schedule has the energy of\nrunning it back while the losing team's group chat is still active.\n\n## Comment Highlights\n\n- Label: Revenge stays fresh\n  Summary: Fans liked the idea that the second meeting arrives before either side can emotionally move on.\n  Why funny: A season series becomes one argument with a seven-day intermission.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1ut0dj2/new_mexico_state_and_utep_to_play_a_home_home_one/\n- Label: Rivalry week, literally\n  Summary: The unusual cadence made the home-and-home feel more like a compact event than two separate dates.\n  Why funny: The schedule accidentally creates a best-of-two miniseries.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1ut0dj2/new_mexico_state_and_utep_to_play_a_home_home_one/\n\n## Quote\n\nThe rematch arrives before the first game's takes expire.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1ut0dj2/new_mexico_state_and_utep_to_play_a_home_home_one/\n- Source type: Reddit / r/CollegeBasketball top-day image thread\n- Verification notes: public Reddit page confirms the one-week home-and-home framing; present as schedule culture rather than comprehensive reporting\n\n## Sports Radar Markdown\n\n```md\n**New Mexico State and UTEP schedule immediate revenge**\n\nThe rivalry's two non-conference meetings land only one week apart.\n\nWhy it works: the rematch arrives while the first game's group chat is still active.\n```\n"
   },
   {
     "id": "norway-viking-row",
