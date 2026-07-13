@@ -5,7 +5,7 @@
     "title": "Four NBA stars accidentally form a full-name loop",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-12",
     "heat": 96,
     "tags": [
@@ -33,7 +33,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1uueuvo/if_paul_george_chris_paul_lebron_james_and_james/"
       }
     ],
-    "markdown": "---\nid: nba-full-name-lineup\nrank: 1\ntitle: \"Four NBA stars accidentally form a full-name loop\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-12\"\nheat: 96\ntags:\n  - r/nba\n  - wordplay\n  - Paul George\n  - LeBron James\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post noticed that Paul George, Chris Paul, LeBron James, and James\nHarden could have turned a team sheet into a chain of matching first and last names.\n\n## Why It Is Funny\n\nIt is roster construction by word puzzle. Four famous players become one long\nname that basketball fans somehow waited decades to notice.\n\n## Comment Highlights\n\n- Label: The order matters\n  Summary: Fans immediately started arranging the four names like lineup pieces until every handoff worked.\n  Why funny: A hypothetical superteam is judged by grammar instead of basketball fit.\n  Source URL: https://www.reddit.com/r/nba/comments/1uueuvo/if_paul_george_chris_paul_lebron_james_and_james/\n- Label: One nickname away\n  Summary: The thread proposed renaming one player to make the loop even cleaner.\n  Why funny: The solution to imperfect wordplay is apparently a veteran rebrand.\n  Source URL: https://www.reddit.com/r/nba/comments/1uueuvo/if_paul_george_chris_paul_lebron_james_and_james/\n\n## Quote\n\nThe depth chart became a word ladder.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uueuvo/if_paul_george_chris_paul_lebron_james_and_james/\n- Source type: Reddit / r/nba top-day discussion\n- Verification notes: public page confirms the four-player name-chain premise; present only as fan wordplay, not as a claim that the lineup nearly existed\n\n## Sports Radar Markdown\n\n```md\n**Four NBA stars accidentally form a full-name loop**\n\nPaul George, Chris Paul, LeBron James, and James Harden make roster construction look like a word puzzle.\n\nWhy it works: The imaginary superteam has perfect name chemistry.\n```\n"
+    "markdown": "---\nid: nba-full-name-lineup\nrank: 1\ntitle: \"Four NBA stars accidentally form a full-name loop\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-12\"\nheat: 96\ntags:\n  - r/nba\n  - wordplay\n  - Paul George\n  - LeBron James\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post noticed that Paul George, Chris Paul, LeBron James, and James\nHarden could have turned a team sheet into a chain of matching first and last names.\n\n## Why It Is Funny\n\nIt is roster construction by word puzzle. Four famous players become one long\nname that basketball fans somehow waited decades to notice.\n\n## Comment Highlights\n\n- Label: The order matters\n  Summary: Fans immediately started arranging the four names like lineup pieces until every handoff worked.\n  Why funny: A hypothetical superteam is judged by grammar instead of basketball fit.\n  Source URL: https://www.reddit.com/r/nba/comments/1uueuvo/if_paul_george_chris_paul_lebron_james_and_james/\n- Label: One nickname away\n  Summary: The thread proposed renaming one player to make the loop even cleaner.\n  Why funny: The solution to imperfect wordplay is apparently a veteran rebrand.\n  Source URL: https://www.reddit.com/r/nba/comments/1uueuvo/if_paul_george_chris_paul_lebron_james_and_james/\n\n## Quote\n\nThe depth chart became a word ladder.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uueuvo/if_paul_george_chris_paul_lebron_james_and_james/\n- Source type: Reddit / r/nba top-day discussion\n- Verification notes: public page confirms the four-player name-chain premise; present only as fan wordplay, not as a claim that the lineup nearly existed\n\n## Sports Radar Markdown\n\n```md\n**Four NBA stars accidentally form a full-name loop**\n\nPaul George, Chris Paul, LeBron James, and James Harden make roster construction look like a word puzzle.\n\nWhy it works: The imaginary superteam has perfect name chemistry.\n```\n"
   },
   {
     "id": "lamine-yamal-woke-up-too",
@@ -185,6 +185,36 @@
     "markdown": "---\nid: mbappe-france-morocco-plot-armor\nrank: 1\ntitle: \"Mbappe turns a missed penalty into France plot-armor theater\"\nleague: \"Soccer\"\nsource: \"YouTube\"\nstatus: \"archive\"\ndate: \"2026-07-09\"\nheat: 96\ntags:\n  - World Cup\n  - France\n  - Morocco\n  - Mbappe\npublic_ready: true\n---\n\n## Summary\n\nFrance's World Cup quarterfinal win over Morocco became a compact Mbappe arc:\nlong VAR delay, missed penalty, then the goal-and-assist sequence that pushed\nFrance into the semifinal.\n\n## Why It Is Funny\n\nIt is sports narrative compression at its cleanest. The star got the missed\npenalty subplot, the redemption goal, the assist, and the injury-scare cliff\nhanger all in one match.\n\n## Comment Highlights\n\n- Label: Three-act superstar arc\n  Summary: The match reads like the algorithm wrote a full Mbappe episode: pressure, miss, redemption, then one more assist for the recap package.\n  Why funny: It gives the group chat every reaction mode before the final whistle.\n  Source URL: https://www.youtube.com/watch?v=3LrNmNWyAn0\n- Label: France plot armor\n  Summary: France did not just advance; the story made it feel like the tournament still wants Mbappe in the final week.\n  Why funny: Fans love when knockout soccer starts behaving like scripted prestige TV.\n  Source URL: https://www.thescottishsun.co.uk/sport/16528658/kylian-mbappe-france-morocco-world-cup-semi-final/\n\n## Quote\n\nThe missed penalty became setup instead of ending.\n\n## Source Notes\n\n- Source URL: https://www.youtube.com/watch?v=3LrNmNWyAn0\n- Source type: YouTube / public World Cup clip plus media recap\n- Verification notes: France beat Morocco 2-0 on 2026-07-09; public reports describe Mbappe scoring, assisting Ousmane Dembele, missing an earlier penalty after a long VAR delay, and leaving with an injury concern. Treat as sports-culture framing, not medical reporting.\n\n## Sports Radar Markdown\n\n```md\n**Mbappe turns a missed penalty into France plot-armor theater**\n\nFrance-Morocco became the full Mbappe episode: missed penalty, redemption goal, assist, injury-scare cliffhanger.\n\nWhy it works: knockout soccer briefly behaved like it had a writers' room.\n```\n"
   },
   {
+    "id": "nba-marriage-cap-loophole",
+    "rank": 1,
+    "title": "NBA salary-cap strategy enters its marriage-loophole phase",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-13",
+    "heat": 97,
+    "tags": [
+      "r/nba",
+      "salary-cap",
+      "free-agency",
+      "fan-theory"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba fan proposed marriage as a fictional way around the league's salary\nrules, turning cap management into relationship paperwork.",
+    "whyFunny": "Free agency became tax planning crossed with romantic comedy. The roster\nmachine apparently needed one more loophole, so the thread invented spouses.",
+    "quote": "Salary-cap strategy entered its romantic-comedy phase.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1uurhyt/can_owners_marry_the_players_to_circumvent_the/",
+    "commentHighlights": [
+      {
+        "label": "Peak offseason roster math",
+        "summary": "The thread treated the premise as classic offseason fan logic and kept inventing even stranger family-law routes around the salary cap.",
+        "whyFunny": "One fake loophole turned the replies into a roster-planning writers' room.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uurhyt/can_owners_marry_the_players_to_circumvent_the/"
+      }
+    ],
+    "markdown": "---\nid: nba-marriage-cap-loophole\nrank: 1\ntitle: \"NBA salary-cap strategy enters its marriage-loophole phase\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-13\"\nheat: 97\ntags:\n  - r/nba\n  - salary-cap\n  - free-agency\n  - fan-theory\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba fan proposed marriage as a fictional way around the league's salary\nrules, turning cap management into relationship paperwork.\n\n## Why It Is Funny\n\nFree agency became tax planning crossed with romantic comedy. The roster\nmachine apparently needed one more loophole, so the thread invented spouses.\n\n## Comment Highlights\n\n- Label: Peak offseason roster math\n  Summary: The thread treated the premise as classic offseason fan logic and kept inventing even stranger family-law routes around the salary cap.\n  Why funny: One fake loophole turned the replies into a roster-planning writers' room.\n  Source URL: https://www.reddit.com/r/nba/comments/1uurhyt/can_owners_marry_the_players_to_circumvent_the/\n\n## Quote\n\nSalary-cap strategy entered its romantic-comedy phase.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uurhyt/can_owners_marry_the_players_to_circumvent_the/\n- Source type: Reddit / r/nba top-day fan hypothetical\n- Verification notes: treat this only as an absurd fan premise, not a real legal or salary-cap workaround\n\n## Sports Radar Markdown\n\n```md\n**NBA salary-cap strategy enters its marriage-loophole phase**\n\nA fan turned free agency into relationship paperwork in search of one more fictional loophole.\n\nWhy it works: The cap sheet suddenly reads like romantic-comedy accounting.\n```\n"
+  },
+  {
     "id": "reaves-lebron-golf-ruined",
     "rank": 2,
     "title": "Austin Reaves gets his golf round ruined by LeBron news",
@@ -253,6 +283,29 @@
       }
     ],
     "markdown": "---\nid: blake-voicemail-psychologist\nrank: 2\ntitle: \"Blake Griffin voicemail story is sports-office sitcom material\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-06-30\"\nheat: 90\ntags:\n  - r/nba\n  - voicemail\n  - trust\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post resurfaced Blake Griffin describing a sports-psychologist trust\nbreach that allegedly revealed itself through an accidental voicemail.\n\n## Why It Is Funny\n\nThe premise is serious, but the delivery mechanism is absurdly low-tech:\nprofessional confidentiality undone by the oldest phone mistake possible.\n\n## Comment Highlights\n\n- Label: Voicemail as evidence\n  Summary: The thread's obvious read is that the accidental voicemail is stronger than a normal denial because it turns the story into a receipt.\n  Why funny: It is a trust scandal with the production value of a pocket dial.\n  Source URL: https://www.reddit.com/r/nba/comments/1uk69ms/blake_griffin_reveals_he_never_uses_sports/\n- Label: Sports therapy meets locker-room gossip\n  Summary: Reactions orbit the mismatch between private mental-performance work and the rumor-machine culture around teams.\n  Why funny: The joke is the collision between a serious job title and extremely unserious workplace behavior.\n  Source URL: https://www.reddit.com/r/nba/comments/1uk69ms/blake_griffin_reveals_he_never_uses_sports/\n\n## Quote\n\nThe plot twist arrived as a voicemail.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uk69ms/blake_griffin_reveals_he_never_uses_sports/\n- Source type: Reddit / r/nba top-day thread\n- Verification notes: summarize as a public podcast/story discussion; do not copy transcript text\n\n## Sports Radar Markdown\n\n```md\n**Blake Griffin voicemail story is sports-office sitcom material**\n\nAn r/nba post turned a trust-breach story into accidental-voicemail lore.\n\nWhy it works: the serious topic gets delivered through the dumbest possible receipt.\n```\n"
+  },
+  {
+    "id": "bryce-harper-glove-plot-hole",
+    "rank": 2,
+    "title": "Bryce Harper's glove comes with an actual plot hole",
+    "league": "Baseball",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-13",
+    "heat": 94,
+    "tags": [
+      "r/baseball",
+      "Bryce Harper",
+      "glove",
+      "equipment"
+    ],
+    "public_ready": true,
+    "summary": "An r/baseball highlight revealed that a strange glove moment had a simple\nequipment explanation: Bryce Harper's glove really had a hole in it.",
+    "whyFunny": "The replay did not need advanced metrics, only sewing. A baseball mystery\nbecame a literal equipment malfunction with a ready-made punchline.",
+    "quote": "The glove came with its own plot hole.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1uupq46/highlight_bryce_harper_actually_had_a_hole_in_his/",
+    "commentHighlights": [],
+    "markdown": "---\nid: bryce-harper-glove-plot-hole\nrank: 2\ntitle: \"Bryce Harper's glove comes with an actual plot hole\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-13\"\nheat: 94\ntags:\n  - r/baseball\n  - Bryce Harper\n  - glove\n  - equipment\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball highlight revealed that a strange glove moment had a simple\nequipment explanation: Bryce Harper's glove really had a hole in it.\n\n## Why It Is Funny\n\nThe replay did not need advanced metrics, only sewing. A baseball mystery\nbecame a literal equipment malfunction with a ready-made punchline.\n\n## Comment Highlights\n\n## Quote\n\nThe glove came with its own plot hole.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1uupq46/highlight_bryce_harper_actually_had_a_hole_in_his/\n- Source type: Reddit / r/baseball top-day highlight\n- Verification notes: public highlight title identifies the damaged glove; do not turn one equipment moment into a broader performance claim\n\n## Sports Radar Markdown\n\n```md\n**Bryce Harper's glove comes with an actual plot hole**\n\nOne strange play needed no advanced metric once the equipment inspection began.\n\nWhy it works: The replay review ended at the sewing kit.\n```\n"
   },
   {
     "id": "jaylen-brown-packed-up",
@@ -332,7 +385,7 @@
     "title": "Soccer needed ball telemetry for an invisible cable",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-12",
     "heat": 94,
     "tags": [
@@ -360,7 +413,7 @@
         "sourceUrl": "https://www.reddit.com/r/soccer/comments/1utx6yf/englands_goal_was_a_result_of_the_ball_hitting/"
       }
     ],
-    "markdown": "---\nid: england-camera-cable-heartbeat\nrank: 2\ntitle: \"Soccer needed ball telemetry for an invisible cable\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-12\"\nheat: 94\ntags:\n  - r/soccer\n  - England\n  - Norway\n  - camera-cable\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer thread blamed a strange bounce before England's goal on an overhead\ncamera cable, then FIFA sensor data said there was no evidence of contact.\n\n## Why It Is Funny\n\nA normal argument about a bouncing ball escalated into forensic analysis of\nthe ball's electronic heartbeat and a cable many viewers could not even see.\n\n## Comment Highlights\n\n- Label: Enhance the invisible cable\n  Summary: Fans repeatedly asked one another to point out the exact frame where the supposed contact happened.\n  Why funny: Thousands of confident opinions were built around an object half the thread could not locate.\n  Source URL: https://www.reddit.com/r/soccer/comments/1utx6yf/englands_goal_was_a_result_of_the_ball_hitting/\n- Label: Ask the ball\n  Summary: The debate pivoted to whether the connected ball's sensor could settle the argument.\n  Why funny: Match discourse became a hardware diagnostic in real time.\n  Source URL: https://www.reddit.com/r/soccer/comments/1utx6yf/englands_goal_was_a_result_of_the_ball_hitting/\n\n## Quote\n\nThe ball had to testify about the cable.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1utx6yf/englands_goal_was_a_result_of_the_ball_hitting/\n- Source type: Reddit / r/soccer top-day clip discussion\n- Verification notes: public thread confirms the cable theory and later sensor-data dispute; do not state cable contact as established fact\n\n## Sports Radar Markdown\n\n```md\n**Soccer needed ball telemetry for an invisible cable**\n\nA disputed bounce before England's goal turned into forensic analysis of a connected ball.\n\nWhy it works: The match argument required both VAR and tech support.\n```\n"
+    "markdown": "---\nid: england-camera-cable-heartbeat\nrank: 2\ntitle: \"Soccer needed ball telemetry for an invisible cable\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-12\"\nheat: 94\ntags:\n  - r/soccer\n  - England\n  - Norway\n  - camera-cable\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer thread blamed a strange bounce before England's goal on an overhead\ncamera cable, then FIFA sensor data said there was no evidence of contact.\n\n## Why It Is Funny\n\nA normal argument about a bouncing ball escalated into forensic analysis of\nthe ball's electronic heartbeat and a cable many viewers could not even see.\n\n## Comment Highlights\n\n- Label: Enhance the invisible cable\n  Summary: Fans repeatedly asked one another to point out the exact frame where the supposed contact happened.\n  Why funny: Thousands of confident opinions were built around an object half the thread could not locate.\n  Source URL: https://www.reddit.com/r/soccer/comments/1utx6yf/englands_goal_was_a_result_of_the_ball_hitting/\n- Label: Ask the ball\n  Summary: The debate pivoted to whether the connected ball's sensor could settle the argument.\n  Why funny: Match discourse became a hardware diagnostic in real time.\n  Source URL: https://www.reddit.com/r/soccer/comments/1utx6yf/englands_goal_was_a_result_of_the_ball_hitting/\n\n## Quote\n\nThe ball had to testify about the cable.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1utx6yf/englands_goal_was_a_result_of_the_ball_hitting/\n- Source type: Reddit / r/soccer top-day clip discussion\n- Verification notes: public thread confirms the cable theory and later sensor-data dispute; do not state cable contact as established fact\n\n## Sports Radar Markdown\n\n```md\n**Soccer needed ball telemetry for an invisible cable**\n\nA disputed bounce before England's goal turned into forensic analysis of a connected ball.\n\nWhy it works: The match argument required both VAR and tech support.\n```\n"
   },
   {
     "id": "ja-morant-teammate-ragebait",
@@ -368,7 +421,7 @@
     "title": "Ja Morant discovers the roster's ragebait department",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-12",
     "heat": 91,
     "tags": [
@@ -396,7 +449,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1uttj8o/ja_morant_about_what_he_learned_from_his_new/"
       }
     ],
-    "markdown": "---\nid: ja-morant-teammate-ragebait\nrank: 3\ntitle: \"Ja Morant discovers the roster's ragebait department\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-12\"\nheat: 91\ntags:\n  - r/nba\n  - Ja Morant\n  - teammates\n  - ragebait\npublic_ready: true\n---\n\n## Summary\n\nAsked what he had learned about his new teammates, Ja Morant said they use\nragebait to manufacture a competitive edge before they play.\n\n## Why It Is Funny\n\nThe modern scouting report now includes who can annoy the group chat most\nefficiently. Team chemistry sounds like a deliberately hostile comments section.\n\n## Comment Highlights\n\n- Label: Pregame engagement farming\n  Summary: Fans imagined teammates posting irritating takes before games just to sharpen the mood.\n  Why funny: Internet growth tactics become part of athletic preparation.\n  Source URL: https://www.reddit.com/r/nba/comments/1uttj8o/ja_morant_about_what_he_learned_from_his_new/\n- Label: The group-chat scouting report\n  Summary: The thread treated ragebait skill as another roster attribute to evaluate.\n  Why funny: A player's intangible is now the ability to make everyone type faster.\n  Source URL: https://www.reddit.com/r/nba/comments/1uttj8o/ja_morant_about_what_he_learned_from_his_new/\n\n## Quote\n\nThe pregame plan starts in the replies.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uttj8o/ja_morant_about_what_he_learned_from_his_new/\n- Source type: Reddit / r/nba top-day quote thread\n- Verification notes: public page includes Morant's short ragebait description and competitive framing; avoid reproducing the full response\n\n## Sports Radar Markdown\n\n```md\n**Ja Morant discovers the roster's ragebait department**\n\nHis new teammates apparently manufacture competitive edge by annoying one another on purpose.\n\nWhy it works: Team chemistry has become comments-section strategy.\n```\n"
+    "markdown": "---\nid: ja-morant-teammate-ragebait\nrank: 3\ntitle: \"Ja Morant discovers the roster's ragebait department\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-12\"\nheat: 91\ntags:\n  - r/nba\n  - Ja Morant\n  - teammates\n  - ragebait\npublic_ready: true\n---\n\n## Summary\n\nAsked what he had learned about his new teammates, Ja Morant said they use\nragebait to manufacture a competitive edge before they play.\n\n## Why It Is Funny\n\nThe modern scouting report now includes who can annoy the group chat most\nefficiently. Team chemistry sounds like a deliberately hostile comments section.\n\n## Comment Highlights\n\n- Label: Pregame engagement farming\n  Summary: Fans imagined teammates posting irritating takes before games just to sharpen the mood.\n  Why funny: Internet growth tactics become part of athletic preparation.\n  Source URL: https://www.reddit.com/r/nba/comments/1uttj8o/ja_morant_about_what_he_learned_from_his_new/\n- Label: The group-chat scouting report\n  Summary: The thread treated ragebait skill as another roster attribute to evaluate.\n  Why funny: A player's intangible is now the ability to make everyone type faster.\n  Source URL: https://www.reddit.com/r/nba/comments/1uttj8o/ja_morant_about_what_he_learned_from_his_new/\n\n## Quote\n\nThe pregame plan starts in the replies.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uttj8o/ja_morant_about_what_he_learned_from_his_new/\n- Source type: Reddit / r/nba top-day quote thread\n- Verification notes: public page includes Morant's short ragebait description and competitive framing; avoid reproducing the full response\n\n## Sports Radar Markdown\n\n```md\n**Ja Morant discovers the roster's ragebait department**\n\nHis new teammates apparently manufacture competitive edge by annoying one another on purpose.\n\nWhy it works: Team chemistry has become comments-section strategy.\n```\n"
   },
   {
     "id": "riko-zenbayashi-message-jersey",
@@ -433,6 +486,29 @@
       }
     ],
     "markdown": "---\nid: riko-zenbayashi-message-jersey\nrank: 3\ntitle: \"Kanuma teammates turn one jersey into a team letter\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-11\"\nheat: 88\ntags:\n  - r/baseball\n  - Japan\n  - high-school-baseball\n  - teammates\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post showed Kanuma High School teammates giving Riko Zenbayashi\na tournament jersey covered with their messages after rules kept her out of\nofficial games.\n\n## Why It Is Funny\n\nThis one is group-chat-worthy for warmth rather than a punchline. The roster\nrules say one thing; the teammates use the uniform to say she is still theirs.\n\n## Comment Highlights\n\n- Label: The jersey becomes the message\n  Summary: Fans focused on the teammates turning a standard uniform into a visible team letter.\n  Why funny: Sports equipment briefly does the emotional work of a full speech.\n  Source URL: https://www.reddit.com/r/baseball/comments/1ut2ufh/riko_zenbayashi_a_female_member_of_kanuma_high/\n- Label: The baseball question follows\n  Summary: The thread also wanted to know more about her play, not only the restriction.\n  Why funny: The most sports-fan response to a moving story is still asking for the scouting report.\n  Source URL: https://www.reddit.com/r/baseball/comments/1ut2ufh/riko_zenbayashi_a_female_member_of_kanuma_high/\n\n## Quote\n\nThe uniform doubled as a team letter.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1ut2ufh/riko_zenbayashi_a_female_member_of_kanuma_high/\n- Source type: Reddit / r/baseball top-day image thread\n- Verification notes: summarize the public post's stated context; do not republish the images or identify private individuals beyond the named player\n\n## Sports Radar Markdown\n\n```md\n**Kanuma teammates turn one jersey into a team letter**\n\nAn r/baseball post showed a tournament uniform carrying a whole roster's messages.\n\nWhy it works: the rules define the lineup, but the teammates define the team.\n```\n"
+  },
+  {
+    "id": "kyle-juszczyk-contract-position",
+    "rank": 3,
+    "title": "Kyle Juszczyk changes positions when payroll opens",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-13",
+    "heat": 92,
+    "tags": [
+      "r/nfl",
+      "Kyle Juszczyk",
+      "fullback",
+      "contracts"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl post framed Kyle Juszczyk as a tight end or fullback, with Kyle joking\nthat the fullback label is the one that hurts at negotiation time.",
+    "whyFunny": "He can be a hybrid everywhere except the paycheck. Positionless football\nsuddenly finds a very specific label when the contract spreadsheet opens.",
+    "quote": "The depth chart changes when payroll opens.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1uuq3yd/is_49ers_kyle_juszczyk_a_te_or_fb_im_a_fullback/",
+    "commentHighlights": [],
+    "markdown": "---\nid: kyle-juszczyk-contract-position\nrank: 3\ntitle: \"Kyle Juszczyk changes positions when payroll opens\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-13\"\nheat: 92\ntags:\n  - r/nfl\n  - Kyle Juszczyk\n  - fullback\n  - contracts\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl post framed Kyle Juszczyk as a tight end or fullback, with Kyle joking\nthat the fullback label is the one that hurts at negotiation time.\n\n## Why It Is Funny\n\nHe can be a hybrid everywhere except the paycheck. Positionless football\nsuddenly finds a very specific label when the contract spreadsheet opens.\n\n## Comment Highlights\n\n## Quote\n\nThe depth chart changes when payroll opens.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1uuq3yd/is_49ers_kyle_juszczyk_a_te_or_fb_im_a_fullback/\n- Source type: Reddit / r/nfl top-day interview headline\n- Verification notes: public post carries Juszczyk's contract-position joke; summarize the framing without making claims about a current negotiation\n\n## Sports Radar Markdown\n\n```md\n**Kyle Juszczyk changes positions when payroll opens**\n\nThe hybrid role becomes much less mysterious as soon as contract math begins.\n\nWhy it works: Positionless football meets a very specific pay category.\n```\n"
   },
   {
     "id": "one-off-nfl-uniform-museum",
@@ -619,7 +695,7 @@
     "title": "One soccer dive sends r/nba to the rulebook",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-12",
     "heat": 88,
     "tags": [
@@ -647,7 +723,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1uu3dv6/after_embolos_red_card_vs_argentina_should_the/"
       }
     ],
-    "markdown": "---\nid: embolo-nba-flopping-crossover\nrank: 4\ntitle: \"One soccer dive sends r/nba to the rulebook\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-12\"\nheat: 88\ntags:\n  - r/nba\n  - Breel Embolo\n  - flopping\n  - rules\npublic_ready: true\n---\n\n## Summary\n\nAfter Breel Embolo received a second yellow card for simulation, an r/nba\nthread immediately asked whether basketball should punish obvious flops just as harshly.\n\n## Why It Is Funny\n\nOne sport produced a disciplinary moment and another sport's fans instantly\ntreated it like a free trial of a rule they have argued about for years.\n\n## Comment Highlights\n\n- Label: Import the red card\n  Summary: Fans imagined technicals, ejections, and escalating penalties for repeat flops.\n  Why funny: A soccer card became an unsolicited NBA product demo.\n  Source URL: https://www.reddit.com/r/nba/comments/1uu3dv6/after_embolos_red_card_vs_argentina_should_the/\n- Label: Contact makes it complicated\n  Summary: Other replies pointed out that basketball's constant contact would turn every harsh call into a new argument.\n  Why funny: The proposed cure arrives with its own full season of controversy.\n  Source URL: https://www.reddit.com/r/nba/comments/1uu3dv6/after_embolos_red_card_vs_argentina_should_the/\n\n## Quote\n\nThe crossover episode was officiated by VAR.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uu3dv6/after_embolos_red_card_vs_argentina_should_the/\n- Source type: Reddit / r/nba top-day rules discussion\n- Verification notes: public thread frames the incident as a prompt for NBA flopping penalties; summarize the debate rather than prescribing a rules change\n\n## Sports Radar Markdown\n\n```md\n**One soccer dive sends r/nba to the rulebook**\n\nBreel Embolo's second yellow became an instant test case for basketball's flopping debate.\n\nWhy it works: NBA fans saw another sport's punishment and opened the suggestion box.\n```\n"
+    "markdown": "---\nid: embolo-nba-flopping-crossover\nrank: 4\ntitle: \"One soccer dive sends r/nba to the rulebook\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-12\"\nheat: 88\ntags:\n  - r/nba\n  - Breel Embolo\n  - flopping\n  - rules\npublic_ready: true\n---\n\n## Summary\n\nAfter Breel Embolo received a second yellow card for simulation, an r/nba\nthread immediately asked whether basketball should punish obvious flops just as harshly.\n\n## Why It Is Funny\n\nOne sport produced a disciplinary moment and another sport's fans instantly\ntreated it like a free trial of a rule they have argued about for years.\n\n## Comment Highlights\n\n- Label: Import the red card\n  Summary: Fans imagined technicals, ejections, and escalating penalties for repeat flops.\n  Why funny: A soccer card became an unsolicited NBA product demo.\n  Source URL: https://www.reddit.com/r/nba/comments/1uu3dv6/after_embolos_red_card_vs_argentina_should_the/\n- Label: Contact makes it complicated\n  Summary: Other replies pointed out that basketball's constant contact would turn every harsh call into a new argument.\n  Why funny: The proposed cure arrives with its own full season of controversy.\n  Source URL: https://www.reddit.com/r/nba/comments/1uu3dv6/after_embolos_red_card_vs_argentina_should_the/\n\n## Quote\n\nThe crossover episode was officiated by VAR.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uu3dv6/after_embolos_red_card_vs_argentina_should_the/\n- Source type: Reddit / r/nba top-day rules discussion\n- Verification notes: public thread frames the incident as a prompt for NBA flopping penalties; summarize the debate rather than prescribing a rules change\n\n## Sports Radar Markdown\n\n```md\n**One soccer dive sends r/nba to the rulebook**\n\nBreel Embolo's second yellow became an instant test case for basketball's flopping debate.\n\nWhy it works: NBA fans saw another sport's punishment and opened the suggestion box.\n```\n"
   },
   {
     "id": "paraguay-national-holiday",
@@ -721,6 +797,52 @@
     "markdown": "---\nid: 1995-recruiting-time-capsule\nrank: 4\ntitle: \"The 1995 recruiting rankings become a hindsight machine\"\nleague: \"NCAA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-11\"\nheat: 85\ntags:\n  - r/CollegeBasketball\n  - recruiting\n  - \"1995\"\n  - hindsight\npublic_ready: true\n---\n\n## Summary\n\nAn old 1995 basketball recruiting list resurfaced on r/CollegeBasketball as a\ntime capsule full of future stars, forgotten names, and Tyronn Lue in prospect form.\n\n## Why It Is Funny\n\nEvery old ranking becomes two documents at once: what evaluators believed then\nand what decades of hindsight will never let them forget.\n\n## Comment Highlights\n\n- Label: The top-five report card\n  Summary: Fans immediately graded the highest-ranked names against the careers they eventually had.\n  Why funny: Thirty years of basketball history gets turned into instant recruiting feedback.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1utilq9/1995_recruiting_rankings/\n- Label: Tyronn Lue before the lore\n  Summary: The post delighted in finding a future NBA player and coach inside an old prospect list.\n  Why funny: A familiar basketball figure appears as an unfinished origin story.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1utilq9/1995_recruiting_rankings/\n\n## Quote\n\nThe scouting archive came with thirty years of answer key.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1utilq9/1995_recruiting_rankings/\n- Source type: Reddit / r/CollegeBasketball top-day image thread\n- Verification notes: public page confirms the 1995-list framing and Tyronn Lue note; avoid reproducing the full image or asserting individual placements not reviewed here\n\n## Sports Radar Markdown\n\n```md\n**The 1995 recruiting rankings become a hindsight machine**\n\nAn old prospect list resurfaced with three decades of basketball context attached.\n\nWhy it works: every archived ranking eventually receives an answer key.\n```\n"
   },
   {
+    "id": "jonah-marlins-ballpark-return",
+    "rank": 4,
+    "title": "The Marlins bring their viral dog back to the ballpark",
+    "league": "Baseball",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-13",
+    "heat": 90,
+    "tags": [
+      "r/baseball",
+      "Marlins",
+      "dog",
+      "ballpark"
+    ],
+    "public_ready": true,
+    "summary": "An r/baseball post showed Jonah, the dog who went viral at a Marlins game,\nreturning for a full day at the ballpark.",
+    "whyFunny": "The fan-favorite promotion followed perfect sports logic: reward viral\nattendance with more attendance. The returning star just happened to have four legs.",
+    "quote": "The ballpark finally booked its returning star.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1uuqsb8/jonah_dog_that_went_viral_at_marlins_game_a_few/",
+    "commentHighlights": [],
+    "markdown": "---\nid: jonah-marlins-ballpark-return\nrank: 4\ntitle: \"The Marlins bring their viral dog back to the ballpark\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-13\"\nheat: 90\ntags:\n  - r/baseball\n  - Marlins\n  - dog\n  - ballpark\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post showed Jonah, the dog who went viral at a Marlins game,\nreturning for a full day at the ballpark.\n\n## Why It Is Funny\n\nThe fan-favorite promotion followed perfect sports logic: reward viral\nattendance with more attendance. The returning star just happened to have four legs.\n\n## Comment Highlights\n\n## Quote\n\nThe ballpark finally booked its returning star.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1uuqsb8/jonah_dog_that_went_viral_at_marlins_game_a_few/\n- Source type: Reddit / r/baseball top-day ballpark post\n- Verification notes: public post frames Jonah as the previously viral dog returning for a park day; keep the summary limited to that visible premise\n\n## Sports Radar Markdown\n\n```md\n**The Marlins bring their viral dog back to the ballpark**\n\nJonah turned one memorable game appearance into a full return engagement.\n\nWhy it works: The returning ballpark star has four legs and perfect fan approval.\n```\n"
+  },
+  {
+    "id": "laz-diaz-plate-mic-aside",
+    "rank": 5,
+    "title": "A plate mic catches the umpire's last-inning complaint",
+    "league": "Baseball",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-13",
+    "heat": 88,
+    "tags": [
+      "r/baseball",
+      "Laz Diaz",
+      "plate-mic",
+      "broadcast"
+    ],
+    "public_ready": true,
+    "summary": "An r/baseball highlight caught plate umpire Laz Diaz venting into the field mic\nafter a foul ball hit him late in the game.",
+    "whyFunny": "The mic turned a painful workplace complaint into an accidental broadcast\naside. The comedy is the timing and the live audio, not the hit.",
+    "quote": "The plate mic picked the worst moment to be excellent.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1uusciv/highlight_laz_díaz_takes_a_foul_ball_to_the_beans/",
+    "commentHighlights": [],
+    "markdown": "---\nid: laz-diaz-plate-mic-aside\nrank: 5\ntitle: \"A plate mic catches the umpire's last-inning complaint\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-13\"\nheat: 88\ntags:\n  - r/baseball\n  - Laz Diaz\n  - plate-mic\n  - broadcast\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball highlight caught plate umpire Laz Diaz venting into the field mic\nafter a foul ball hit him late in the game.\n\n## Why It Is Funny\n\nThe mic turned a painful workplace complaint into an accidental broadcast\naside. The comedy is the timing and the live audio, not the hit.\n\n## Comment Highlights\n\n## Quote\n\nThe plate mic picked the worst moment to be excellent.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1uusciv/highlight_laz_díaz_takes_a_foul_ball_to_the_beans/\n- Source type: Reddit / r/baseball top-day broadcast highlight\n- Verification notes: public highlight title identifies the late-game foul ball and live-mic reaction; do not reproduce the raw profanity\n\n## Sports Radar Markdown\n\n```md\n**A plate mic catches the umpire's last-inning complaint**\n\nOne late foul ball turned the field microphone into accidental workplace audio.\n\nWhy it works: The broadcast equipment chose the most inconvenient moment to excel.\n```\n"
+  },
+  {
     "id": "qb-first-pass-memory-lane",
     "rank": 5,
     "title": "First career QB throws become instant football memory lane",
@@ -761,7 +883,7 @@
     "title": "Haaland watches the square pass disappear",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-12",
     "heat": 85,
     "tags": [
@@ -789,7 +911,7 @@
         "sourceUrl": "https://www.reddit.com/r/soccer/comments/1uu7rmm/erling_haalands_reaction_after_alexander_sorloth/"
       }
     ],
-    "markdown": "---\nid: haaland-sorloth-missed-pass-reaction\nrank: 5\ntitle: \"Haaland watches the square pass disappear\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-12\"\nheat: 85\ntags:\n  - r/soccer\n  - Erling Haaland\n  - Alexander Sorloth\n  - reaction\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer clip isolated Erling Haaland's reaction after Alexander Sorloth\nheld the ball instead of finding him open during a dangerous Norway attack.\n\n## Why It Is Funny\n\nHaaland goes through the universal teammate experience: make the perfect run,\nwatch the pass never arrive, and briefly become a reaction image.\n\n## Comment Highlights\n\n- Label: Neutral viewers felt it too\n  Summary: Fans said the missed pass was frustrating even without a stake in the match.\n  Why funny: One unplayed ball recruited the whole thread into Haaland's grievance.\n  Source URL: https://www.reddit.com/r/soccer/comments/1uu7rmm/erling_haalands_reaction_after_alexander_sorloth/\n- Label: Calm by comparison\n  Summary: Several replies joked that Haaland reacted more calmly than the people watching at home.\n  Why funny: The player in the moment showed less outrage than the remote audience.\n  Source URL: https://www.reddit.com/r/soccer/comments/1uu7rmm/erling_haalands_reaction_after_alexander_sorloth/\n\n## Quote\n\nThe run was perfect; the pass remained theoretical.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1uu7rmm/erling_haalands_reaction_after_alexander_sorloth/\n- Source type: Reddit / r/soccer top-day clip thread\n- Verification notes: public page confirms the missed-pass reaction framing; avoid turning a single clip into broader claims about either player\n\n## Sports Radar Markdown\n\n```md\n**Haaland watches the square pass disappear**\n\nThe striker made the run, the pass never came, and the reaction did the rest.\n\nWhy it works: Every teammate has lived this exact five-second tragedy.\n```\n"
+    "markdown": "---\nid: haaland-sorloth-missed-pass-reaction\nrank: 5\ntitle: \"Haaland watches the square pass disappear\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-12\"\nheat: 85\ntags:\n  - r/soccer\n  - Erling Haaland\n  - Alexander Sorloth\n  - reaction\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer clip isolated Erling Haaland's reaction after Alexander Sorloth\nheld the ball instead of finding him open during a dangerous Norway attack.\n\n## Why It Is Funny\n\nHaaland goes through the universal teammate experience: make the perfect run,\nwatch the pass never arrive, and briefly become a reaction image.\n\n## Comment Highlights\n\n- Label: Neutral viewers felt it too\n  Summary: Fans said the missed pass was frustrating even without a stake in the match.\n  Why funny: One unplayed ball recruited the whole thread into Haaland's grievance.\n  Source URL: https://www.reddit.com/r/soccer/comments/1uu7rmm/erling_haalands_reaction_after_alexander_sorloth/\n- Label: Calm by comparison\n  Summary: Several replies joked that Haaland reacted more calmly than the people watching at home.\n  Why funny: The player in the moment showed less outrage than the remote audience.\n  Source URL: https://www.reddit.com/r/soccer/comments/1uu7rmm/erling_haalands_reaction_after_alexander_sorloth/\n\n## Quote\n\nThe run was perfect; the pass remained theoretical.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1uu7rmm/erling_haalands_reaction_after_alexander_sorloth/\n- Source type: Reddit / r/soccer top-day clip thread\n- Verification notes: public page confirms the missed-pass reaction framing; avoid turning a single clip into broader claims about either player\n\n## Sports Radar Markdown\n\n```md\n**Haaland watches the square pass disappear**\n\nThe striker made the run, the pass never came, and the reaction did the rest.\n\nWhy it works: Every teammate has lived this exact five-second tragedy.\n```\n"
   },
   {
     "id": "lane-johnson-sack-math",
