@@ -1,5 +1,41 @@
 [
   {
+    "id": "anthony-morrow-kd-text-whiplash",
+    "rank": 1,
+    "title": "Anthony Morrow's supportive text has a hard cutoff",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-14",
+    "heat": 98,
+    "tags": [
+      "r/nba",
+      "Anthony Morrow",
+      "Kevin Durant",
+      "teammate-lore"
+    ],
+    "public_ready": true,
+    "summary": "Anthony Morrow told an r/nba clip how he sent Kevin Durant a supportive message\nafter the 2016 departure, then admitted his reaction changed as soon as the\nphone went down.",
+    "whyFunny": "The story fits teammate loyalty and competitive heartbreak into one text\nexchange. Professional courtesy lasts exactly as long as the screen stays on.",
+    "quote": "The supportive text survived exactly until the screen went dark.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1uvtegi/anthony_morrow_on_kd_leaving_okc_i_text_him_i_was/",
+    "commentHighlights": [
+      {
+        "label": "The phone-down turn",
+        "summary": "Fans focused on the instant switch from a gracious message to the reaction Morrow kept off the screen.",
+        "whyFunny": "One small physical beat separates diplomacy from complete honesty.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uvtegi/anthony_morrow_on_kd_leaving_okc_i_text_him_i_was/"
+      },
+      {
+        "label": "Storytelling wins",
+        "summary": "The thread praised the way Morrow paced the memory instead of treating it like another transaction recap.",
+        "whyFunny": "The delivery turns familiar NBA history into a perfectly timed teammate story.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uvtegi/anthony_morrow_on_kd_leaving_okc_i_text_him_i_was/"
+      }
+    ],
+    "markdown": "---\nid: anthony-morrow-kd-text-whiplash\nrank: 1\ntitle: \"Anthony Morrow's supportive text has a hard cutoff\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-14\"\nheat: 98\ntags:\n  - r/nba\n  - Anthony Morrow\n  - Kevin Durant\n  - teammate-lore\npublic_ready: true\n---\n\n## Summary\n\nAnthony Morrow told an r/nba clip how he sent Kevin Durant a supportive message\nafter the 2016 departure, then admitted his reaction changed as soon as the\nphone went down.\n\n## Why It Is Funny\n\nThe story fits teammate loyalty and competitive heartbreak into one text\nexchange. Professional courtesy lasts exactly as long as the screen stays on.\n\n## Comment Highlights\n\n- Label: The phone-down turn\n  Summary: Fans focused on the instant switch from a gracious message to the reaction Morrow kept off the screen.\n  Why funny: One small physical beat separates diplomacy from complete honesty.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvtegi/anthony_morrow_on_kd_leaving_okc_i_text_him_i_was/\n- Label: Storytelling wins\n  Summary: The thread praised the way Morrow paced the memory instead of treating it like another transaction recap.\n  Why funny: The delivery turns familiar NBA history into a perfectly timed teammate story.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvtegi/anthony_morrow_on_kd_leaving_okc_i_text_him_i_was/\n\n## Quote\n\nThe supportive text survived exactly until the screen went dark.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uvtegi/anthony_morrow_on_kd_leaving_okc_i_text_him_i_was/\n- Source type: Reddit / r/nba top-day interview clip\n- Verification notes: the public clip title and page confirm Morrow's supportive-text setup and immediate private reversal; omit the raw profanity and treat the moment as teammate lore\n\n## Sports Radar Markdown\n\n```md\n**Anthony Morrow's supportive text has a hard cutoff**\n\nOne old teammate story fit diplomacy and competitive heartbreak into the same text exchange.\n\nWhy it works: the gracious message lasts exactly until the phone goes down.\n```\n"
+  },
+  {
     "id": "nba-full-name-lineup",
     "rank": 1,
     "title": "Four NBA stars accidentally form a full-name loop",
@@ -190,7 +226,7 @@
     "title": "NBA salary-cap strategy enters its marriage-loophole phase",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-13",
     "heat": 97,
     "tags": [
@@ -212,7 +248,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1uurhyt/can_owners_marry_the_players_to_circumvent_the/"
       }
     ],
-    "markdown": "---\nid: nba-marriage-cap-loophole\nrank: 1\ntitle: \"NBA salary-cap strategy enters its marriage-loophole phase\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-13\"\nheat: 97\ntags:\n  - r/nba\n  - salary-cap\n  - free-agency\n  - fan-theory\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba fan proposed marriage as a fictional way around the league's salary\nrules, turning cap management into relationship paperwork.\n\n## Why It Is Funny\n\nFree agency became tax planning crossed with romantic comedy. The roster\nmachine apparently needed one more loophole, so the thread invented spouses.\n\n## Comment Highlights\n\n- Label: Peak offseason roster math\n  Summary: The thread treated the premise as classic offseason fan logic and kept inventing even stranger family-law routes around the salary cap.\n  Why funny: One fake loophole turned the replies into a roster-planning writers' room.\n  Source URL: https://www.reddit.com/r/nba/comments/1uurhyt/can_owners_marry_the_players_to_circumvent_the/\n\n## Quote\n\nSalary-cap strategy entered its romantic-comedy phase.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uurhyt/can_owners_marry_the_players_to_circumvent_the/\n- Source type: Reddit / r/nba top-day fan hypothetical\n- Verification notes: treat this only as an absurd fan premise, not a real legal or salary-cap workaround\n\n## Sports Radar Markdown\n\n```md\n**NBA salary-cap strategy enters its marriage-loophole phase**\n\nA fan turned free agency into relationship paperwork in search of one more fictional loophole.\n\nWhy it works: The cap sheet suddenly reads like romantic-comedy accounting.\n```\n"
+    "markdown": "---\nid: nba-marriage-cap-loophole\nrank: 1\ntitle: \"NBA salary-cap strategy enters its marriage-loophole phase\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-13\"\nheat: 97\ntags:\n  - r/nba\n  - salary-cap\n  - free-agency\n  - fan-theory\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba fan proposed marriage as a fictional way around the league's salary\nrules, turning cap management into relationship paperwork.\n\n## Why It Is Funny\n\nFree agency became tax planning crossed with romantic comedy. The roster\nmachine apparently needed one more loophole, so the thread invented spouses.\n\n## Comment Highlights\n\n- Label: Peak offseason roster math\n  Summary: The thread treated the premise as classic offseason fan logic and kept inventing even stranger family-law routes around the salary cap.\n  Why funny: One fake loophole turned the replies into a roster-planning writers' room.\n  Source URL: https://www.reddit.com/r/nba/comments/1uurhyt/can_owners_marry_the_players_to_circumvent_the/\n\n## Quote\n\nSalary-cap strategy entered its romantic-comedy phase.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uurhyt/can_owners_marry_the_players_to_circumvent_the/\n- Source type: Reddit / r/nba top-day fan hypothetical\n- Verification notes: treat this only as an absurd fan premise, not a real legal or salary-cap workaround\n\n## Sports Radar Markdown\n\n```md\n**NBA salary-cap strategy enters its marriage-loophole phase**\n\nA fan turned free agency into relationship paperwork in search of one more fictional loophole.\n\nWhy it works: The cap sheet suddenly reads like romantic-comedy accounting.\n```\n"
   },
   {
     "id": "reaves-lebron-golf-ruined",
@@ -290,7 +326,7 @@
     "title": "Bryce Harper's glove comes with an actual plot hole",
     "league": "Baseball",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-13",
     "heat": 94,
     "tags": [
@@ -305,7 +341,7 @@
     "quote": "The glove came with its own plot hole.",
     "sourceUrl": "https://www.reddit.com/r/baseball/comments/1uupq46/highlight_bryce_harper_actually_had_a_hole_in_his/",
     "commentHighlights": [],
-    "markdown": "---\nid: bryce-harper-glove-plot-hole\nrank: 2\ntitle: \"Bryce Harper's glove comes with an actual plot hole\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-13\"\nheat: 94\ntags:\n  - r/baseball\n  - Bryce Harper\n  - glove\n  - equipment\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball highlight revealed that a strange glove moment had a simple\nequipment explanation: Bryce Harper's glove really had a hole in it.\n\n## Why It Is Funny\n\nThe replay did not need advanced metrics, only sewing. A baseball mystery\nbecame a literal equipment malfunction with a ready-made punchline.\n\n## Comment Highlights\n\n## Quote\n\nThe glove came with its own plot hole.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1uupq46/highlight_bryce_harper_actually_had_a_hole_in_his/\n- Source type: Reddit / r/baseball top-day highlight\n- Verification notes: public highlight title identifies the damaged glove; do not turn one equipment moment into a broader performance claim\n\n## Sports Radar Markdown\n\n```md\n**Bryce Harper's glove comes with an actual plot hole**\n\nOne strange play needed no advanced metric once the equipment inspection began.\n\nWhy it works: The replay review ended at the sewing kit.\n```\n"
+    "markdown": "---\nid: bryce-harper-glove-plot-hole\nrank: 2\ntitle: \"Bryce Harper's glove comes with an actual plot hole\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-13\"\nheat: 94\ntags:\n  - r/baseball\n  - Bryce Harper\n  - glove\n  - equipment\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball highlight revealed that a strange glove moment had a simple\nequipment explanation: Bryce Harper's glove really had a hole in it.\n\n## Why It Is Funny\n\nThe replay did not need advanced metrics, only sewing. A baseball mystery\nbecame a literal equipment malfunction with a ready-made punchline.\n\n## Comment Highlights\n\n## Quote\n\nThe glove came with its own plot hole.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1uupq46/highlight_bryce_harper_actually_had_a_hole_in_his/\n- Source type: Reddit / r/baseball top-day highlight\n- Verification notes: public highlight title identifies the damaged glove; do not turn one equipment moment into a broader performance claim\n\n## Sports Radar Markdown\n\n```md\n**Bryce Harper's glove comes with an actual plot hole**\n\nOne strange play needed no advanced metric once the equipment inspection began.\n\nWhy it works: The replay review ended at the sewing kit.\n```\n"
   },
   {
     "id": "jaylen-brown-packed-up",
@@ -342,6 +378,42 @@
       }
     ],
     "markdown": "---\nid: jaylen-brown-packed-up\nrank: 2\ntitle: \"Jaylen Brown's trade reaction becomes workplace-comedy fuel\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-10\"\nheat: 92\ntags:\n  - r/nba\n  - Jaylen Brown\n  - trades\n  - workplace-comedy\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba thread turned Jaylen Brown's jokingly blunt reaction to being traded\ninto a debate about the strangest version of getting reassigned at work.\n\n## Why It Is Funny\n\nThe language sounds like a normal employee finding out the badge stopped\nworking, except the workplace is the NBA and the relocation comes with a max contract.\n\n## Comment Highlights\n\n- Label: The key-card version of a trade\n  Summary: Fans focused on how quickly a franchise relationship can become an access-denied moment.\n  Why funny: A blockbuster transaction gets reduced to office-building logistics.\n  Source URL: https://www.reddit.com/r/nba/comments/1us3nu7/jaylen_brown_on_being_traded_they_packed_me_up/\n- Label: Salary meets sympathy\n  Summary: The thread kept comparing the emotional complaint with the scale of an NBA contract.\n  Why funny: Both sides of the argument sound reasonable until they share the same sentence.\n  Source URL: https://www.reddit.com/r/nba/comments/1us3nu7/jaylen_brown_on_being_traded_they_packed_me_up/\n\n## Quote\n\nThe trade became an access-denied notification.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1us3nu7/jaylen_brown_on_being_traded_they_packed_me_up/\n- Source type: Reddit / r/nba top-day thread\n- Verification notes: frame this as a public player-reaction clip and fan discussion; avoid presenting the thread's salary estimates as verified reporting\n\n## Sports Radar Markdown\n\n```md\n**Jaylen Brown's trade reaction becomes workplace-comedy fuel**\n\nAn r/nba thread translated a blockbuster move into the world's most expensive badge-deactivation story.\n\nWhy it works: NBA transaction drama suddenly sounds like an ordinary bad day at the office.\n```\n"
+  },
+  {
+    "id": "joe-flacco-visor-roast",
+    "rank": 2,
+    "title": "Joe Flacco turns a quarterback visor into a roast target",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-14",
+    "heat": 95,
+    "tags": [
+      "r/nfl",
+      "Joe Flacco",
+      "Shedeur Sanders",
+      "visor"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl clip showed Joe Flacco delivering his blunt opinion about quarterbacks\nin visors while Shedeur Sanders stood beside him wearing one.",
+    "whyFunny": "The equipment critique has a visible target and no escape route. It is veteran\nlocker-room timing reduced to one accessory and one extremely present teammate.",
+    "quote": "The equipment review became a live performance review.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1uw3a1t/highlight_joe_flacco_makes_fun_of_shedeur_sanders/",
+    "commentHighlights": [
+      {
+        "label": "The mirrored defense",
+        "summary": "Fans invented increasingly technical reasons the visor might still be helping its wearer.",
+        "whyFunny": "A fashion roast gets answered like a serious piece of quarterback analysis.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1uw3a1t/highlight_joe_flacco_makes_fun_of_shedeur_sanders/"
+      },
+      {
+        "label": "Subtlety was inactive",
+        "summary": "The thread kept returning to how directly the opinion landed with Sanders standing right there.",
+        "whyFunny": "The target did not need to wonder whether the comment was about him.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1uw3a1t/highlight_joe_flacco_makes_fun_of_shedeur_sanders/"
+      }
+    ],
+    "markdown": "---\nid: joe-flacco-visor-roast\nrank: 2\ntitle: \"Joe Flacco turns a quarterback visor into a roast target\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-14\"\nheat: 95\ntags:\n  - r/nfl\n  - Joe Flacco\n  - Shedeur Sanders\n  - visor\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl clip showed Joe Flacco delivering his blunt opinion about quarterbacks\nin visors while Shedeur Sanders stood beside him wearing one.\n\n## Why It Is Funny\n\nThe equipment critique has a visible target and no escape route. It is veteran\nlocker-room timing reduced to one accessory and one extremely present teammate.\n\n## Comment Highlights\n\n- Label: The mirrored defense\n  Summary: Fans invented increasingly technical reasons the visor might still be helping its wearer.\n  Why funny: A fashion roast gets answered like a serious piece of quarterback analysis.\n  Source URL: https://www.reddit.com/r/nfl/comments/1uw3a1t/highlight_joe_flacco_makes_fun_of_shedeur_sanders/\n- Label: Subtlety was inactive\n  Summary: The thread kept returning to how directly the opinion landed with Sanders standing right there.\n  Why funny: The target did not need to wonder whether the comment was about him.\n  Source URL: https://www.reddit.com/r/nfl/comments/1uw3a1t/highlight_joe_flacco_makes_fun_of_shedeur_sanders/\n\n## Quote\n\nThe equipment review became a live performance review.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1uw3a1t/highlight_joe_flacco_makes_fun_of_shedeur_sanders/\n- Source type: Reddit / r/nfl top-day series clip\n- Verification notes: the public post and replies confirm the visor roast and Sanders's presence; omit the raw profanity and keep the framing to the visible locker-room exchange\n\n## Sports Radar Markdown\n\n```md\n**Joe Flacco turns a quarterback visor into a roast target**\n\nThe veteran delivered an equipment opinion beside the teammate wearing the equipment.\n\nWhy it works: the accessory critique came with a visible target and no ambiguity.\n```\n"
   },
   {
     "id": "seiya-suzuki-hundred-bananas",
@@ -452,6 +524,42 @@
     "markdown": "---\nid: ja-morant-teammate-ragebait\nrank: 3\ntitle: \"Ja Morant discovers the roster's ragebait department\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-12\"\nheat: 91\ntags:\n  - r/nba\n  - Ja Morant\n  - teammates\n  - ragebait\npublic_ready: true\n---\n\n## Summary\n\nAsked what he had learned about his new teammates, Ja Morant said they use\nragebait to manufacture a competitive edge before they play.\n\n## Why It Is Funny\n\nThe modern scouting report now includes who can annoy the group chat most\nefficiently. Team chemistry sounds like a deliberately hostile comments section.\n\n## Comment Highlights\n\n- Label: Pregame engagement farming\n  Summary: Fans imagined teammates posting irritating takes before games just to sharpen the mood.\n  Why funny: Internet growth tactics become part of athletic preparation.\n  Source URL: https://www.reddit.com/r/nba/comments/1uttj8o/ja_morant_about_what_he_learned_from_his_new/\n- Label: The group-chat scouting report\n  Summary: The thread treated ragebait skill as another roster attribute to evaluate.\n  Why funny: A player's intangible is now the ability to make everyone type faster.\n  Source URL: https://www.reddit.com/r/nba/comments/1uttj8o/ja_morant_about_what_he_learned_from_his_new/\n\n## Quote\n\nThe pregame plan starts in the replies.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uttj8o/ja_morant_about_what_he_learned_from_his_new/\n- Source type: Reddit / r/nba top-day quote thread\n- Verification notes: public page includes Morant's short ragebait description and competitive framing; avoid reproducing the full response\n\n## Sports Radar Markdown\n\n```md\n**Ja Morant discovers the roster's ragebait department**\n\nHis new teammates apparently manufacture competitive edge by annoying one another on purpose.\n\nWhy it works: Team chemistry has become comments-section strategy.\n```\n"
   },
   {
+    "id": "julian-ryerson-palace-flip-flops",
+    "rank": 3,
+    "title": "Julian Ryerson brings flip-flops to the Royal Palace",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-14",
+    "heat": 93,
+    "tags": [
+      "r/soccer",
+      "Julian Ryerson",
+      "Norway",
+      "flip-flops"
+    ],
+    "public_ready": true,
+    "summary": "An r/soccer image showed Norway right back Julian Ryerson arriving at the Royal\nPalace in Oslo in flip-flops.",
+    "whyFunny": "The setting could not be more formal and the footwear could not be less so.\nOne wardrobe choice turns a ceremonial arrival into elite summer-vacation energy.",
+    "quote": "Royal protocol met summer footwear.",
+    "sourceUrl": "https://www.reddit.com/r/soccer/comments/1uvm0my/norwegian_right_back_julian_ryerson_showed_up_at/",
+    "commentHighlights": [
+      {
+        "label": "Formal venue, casual shoes",
+        "summary": "Fans treated the footwear mismatch as a compact summary of Ryerson's personality.",
+        "whyFunny": "Palace protocol meets the shoes normally reserved for a walk to the pool.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1uvm0my/norwegian_right_back_julian_ryerson_showed_up_at/"
+      },
+      {
+        "label": "Entire outfit, one detail",
+        "summary": "The thread needed only the flip-flops to turn the arrival photo into a character moment.",
+        "whyFunny": "The least formal item in the frame becomes the whole story.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1uvm0my/norwegian_right_back_julian_ryerson_showed_up_at/"
+      }
+    ],
+    "markdown": "---\nid: julian-ryerson-palace-flip-flops\nrank: 3\ntitle: \"Julian Ryerson brings flip-flops to the Royal Palace\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-14\"\nheat: 93\ntags:\n  - r/soccer\n  - Julian Ryerson\n  - Norway\n  - flip-flops\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer image showed Norway right back Julian Ryerson arriving at the Royal\nPalace in Oslo in flip-flops.\n\n## Why It Is Funny\n\nThe setting could not be more formal and the footwear could not be less so.\nOne wardrobe choice turns a ceremonial arrival into elite summer-vacation energy.\n\n## Comment Highlights\n\n- Label: Formal venue, casual shoes\n  Summary: Fans treated the footwear mismatch as a compact summary of Ryerson's personality.\n  Why funny: Palace protocol meets the shoes normally reserved for a walk to the pool.\n  Source URL: https://www.reddit.com/r/soccer/comments/1uvm0my/norwegian_right_back_julian_ryerson_showed_up_at/\n- Label: Entire outfit, one detail\n  Summary: The thread needed only the flip-flops to turn the arrival photo into a character moment.\n  Why funny: The least formal item in the frame becomes the whole story.\n  Source URL: https://www.reddit.com/r/soccer/comments/1uvm0my/norwegian_right_back_julian_ryerson_showed_up_at/\n\n## Quote\n\nRoyal protocol met summer footwear.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1uvm0my/norwegian_right_back_julian_ryerson_showed_up_at/\n- Source type: Reddit / r/soccer top-day image post\n- Verification notes: the public image post identifies Ryerson, the Royal Palace in Oslo, and the flip-flops; keep the commentary to the visible wardrobe contrast\n\n## Sports Radar Markdown\n\n```md\n**Julian Ryerson brings flip-flops to the Royal Palace**\n\nNorway's right back supplied one aggressively casual detail to a ceremonial arrival.\n\nWhy it works: the most formal setting met the least formal footwear.\n```\n"
+  },
+  {
     "id": "riko-zenbayashi-message-jersey",
     "rank": 3,
     "title": "Kanuma teammates turn one jersey into a team letter",
@@ -493,7 +601,7 @@
     "title": "Kyle Juszczyk changes positions when payroll opens",
     "league": "NFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-13",
     "heat": 92,
     "tags": [
@@ -508,7 +616,7 @@
     "quote": "The depth chart changes when payroll opens.",
     "sourceUrl": "https://www.reddit.com/r/nfl/comments/1uuq3yd/is_49ers_kyle_juszczyk_a_te_or_fb_im_a_fullback/",
     "commentHighlights": [],
-    "markdown": "---\nid: kyle-juszczyk-contract-position\nrank: 3\ntitle: \"Kyle Juszczyk changes positions when payroll opens\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-13\"\nheat: 92\ntags:\n  - r/nfl\n  - Kyle Juszczyk\n  - fullback\n  - contracts\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl post framed Kyle Juszczyk as a tight end or fullback, with Kyle joking\nthat the fullback label is the one that hurts at negotiation time.\n\n## Why It Is Funny\n\nHe can be a hybrid everywhere except the paycheck. Positionless football\nsuddenly finds a very specific label when the contract spreadsheet opens.\n\n## Comment Highlights\n\n## Quote\n\nThe depth chart changes when payroll opens.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1uuq3yd/is_49ers_kyle_juszczyk_a_te_or_fb_im_a_fullback/\n- Source type: Reddit / r/nfl top-day interview headline\n- Verification notes: public post carries Juszczyk's contract-position joke; summarize the framing without making claims about a current negotiation\n\n## Sports Radar Markdown\n\n```md\n**Kyle Juszczyk changes positions when payroll opens**\n\nThe hybrid role becomes much less mysterious as soon as contract math begins.\n\nWhy it works: Positionless football meets a very specific pay category.\n```\n"
+    "markdown": "---\nid: kyle-juszczyk-contract-position\nrank: 3\ntitle: \"Kyle Juszczyk changes positions when payroll opens\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-13\"\nheat: 92\ntags:\n  - r/nfl\n  - Kyle Juszczyk\n  - fullback\n  - contracts\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl post framed Kyle Juszczyk as a tight end or fullback, with Kyle joking\nthat the fullback label is the one that hurts at negotiation time.\n\n## Why It Is Funny\n\nHe can be a hybrid everywhere except the paycheck. Positionless football\nsuddenly finds a very specific label when the contract spreadsheet opens.\n\n## Comment Highlights\n\n## Quote\n\nThe depth chart changes when payroll opens.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1uuq3yd/is_49ers_kyle_juszczyk_a_te_or_fb_im_a_fullback/\n- Source type: Reddit / r/nfl top-day interview headline\n- Verification notes: public post carries Juszczyk's contract-position joke; summarize the framing without making claims about a current negotiation\n\n## Sports Radar Markdown\n\n```md\n**Kyle Juszczyk changes positions when payroll opens**\n\nThe hybrid role becomes much less mysterious as soon as contract math begins.\n\nWhy it works: Positionless football meets a very specific pay category.\n```\n"
   },
   {
     "id": "one-off-nfl-uniform-museum",
@@ -690,6 +798,42 @@
     "markdown": "---\nid: jaylen-speed-lebron-philly-pitch\nrank: 4\ntitle: \"Jaylen Brown and Speed pitch LeBron with pure group-chat logic\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-10\"\nheat: 87\ntags:\n  - r/nba\n  - Jaylen Brown\n  - LeBron\n  - Philadelphia\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip paired Jaylen Brown and IShowSpeed in an improvised LeBron-to-\nPhiladelphia recruiting pitch that sounded more like friends planning a trip.\n\n## Why It Is Funny\n\nRoster construction, contracts, and basketball fit all gave way to the oldest\npersuasion strategy available: name the people, name the food, demand the pull-up.\n\n## Comment Highlights\n\n- Label: Two conversations at once\n  Summary: Fans heard a basketball pitch and a city-tour pitch happening in parallel.\n  Why funny: The sales case gets less coherent and more convincing at the same time.\n  Source URL: https://www.reddit.com/r/nba/comments/1us5d4o/jaylen_brown_you_gotta_say_lebron_you_got_to_pull/\n- Label: Cheesesteak roster math\n  Summary: The thread enjoyed how quickly Philadelphia food became part of the personnel argument.\n  Why funny: A championship pitch briefly turns into a lunch recommendation.\n  Source URL: https://www.reddit.com/r/nba/comments/1us5d4o/jaylen_brown_you_gotta_say_lebron_you_got_to_pull/\n\n## Quote\n\nThe depth chart came with a cheesesteak clause.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1us5d4o/jaylen_brown_you_gotta_say_lebron_you_got_to_pull/\n- Source type: Reddit / r/nba top-day clip thread\n- Verification notes: present this as playful public recruiting talk, not evidence of an actual transaction\n\n## Sports Radar Markdown\n\n```md\n**Jaylen Brown and Speed pitch LeBron with pure group-chat logic**\n\nAn r/nba clip turned roster recruitment into names, food, and a demand to pull up.\n\nWhy it works: the basketball case slowly becomes a city-tour itinerary.\n```\n"
   },
   {
+    "id": "munetaka-murakami-music-answer",
+    "rank": 4,
+    "title": "Munetaka Murakami answers the music question with one word",
+    "league": "Baseball",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-14",
+    "heat": 92,
+    "tags": [
+      "r/baseball",
+      "Munetaka Murakami",
+      "Home Run Derby",
+      "music"
+    ],
+    "public_ready": true,
+    "summary": "An r/baseball clip showed Munetaka Murakami answering a question about his music\ntaste by saying he did not know the name, then offering one memorable word:\n\"Strokin'.\"",
+    "whyFunny": "The answer is both uncertain and extremely specific. A routine broadcast prompt\ninstantly becomes the kind of reply that makes every follow-up question riskier.",
+    "quote": "The playlist needed one word and no follow-up.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1uvloi7/pat_mcafee_what_type_of_music_do_you_like/",
+    "commentHighlights": [
+      {
+        "label": "The one-word playlist",
+        "summary": "Fans treated the answer as complete even though Murakami introduced it by saying he did not know the name.",
+        "whyFunny": "The uncertainty somehow makes the final word sound more definitive.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1uvloi7/pat_mcafee_what_type_of_music_do_you_like/"
+      },
+      {
+        "label": "No safe follow-up",
+        "summary": "The thread immediately recognized that the broadcast had already received all the material it needed.",
+        "whyFunny": "A harmless music question suddenly feels impossible to continue professionally.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1uvloi7/pat_mcafee_what_type_of_music_do_you_like/"
+      }
+    ],
+    "markdown": "---\nid: munetaka-murakami-music-answer\nrank: 4\ntitle: \"Munetaka Murakami answers the music question with one word\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-14\"\nheat: 92\ntags:\n  - r/baseball\n  - Munetaka Murakami\n  - Home Run Derby\n  - music\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball clip showed Munetaka Murakami answering a question about his music\ntaste by saying he did not know the name, then offering one memorable word:\n\"Strokin'.\"\n\n## Why It Is Funny\n\nThe answer is both uncertain and extremely specific. A routine broadcast prompt\ninstantly becomes the kind of reply that makes every follow-up question riskier.\n\n## Comment Highlights\n\n- Label: The one-word playlist\n  Summary: Fans treated the answer as complete even though Murakami introduced it by saying he did not know the name.\n  Why funny: The uncertainty somehow makes the final word sound more definitive.\n  Source URL: https://www.reddit.com/r/baseball/comments/1uvloi7/pat_mcafee_what_type_of_music_do_you_like/\n- Label: No safe follow-up\n  Summary: The thread immediately recognized that the broadcast had already received all the material it needed.\n  Why funny: A harmless music question suddenly feels impossible to continue professionally.\n  Source URL: https://www.reddit.com/r/baseball/comments/1uvloi7/pat_mcafee_what_type_of_music_do_you_like/\n\n## Quote\n\nThe playlist needed one word and no follow-up.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1uvloi7/pat_mcafee_what_type_of_music_do_you_like/\n- Source type: Reddit / r/baseball top-day broadcast clip\n- Verification notes: the public clip title and page confirm the question and short answer; quote only the single song word and avoid reproducing the thread's more explicit riffs\n\n## Sports Radar Markdown\n\n```md\n**Munetaka Murakami answers the music question with one word**\n\nA routine interview prompt received an uncertain setup and one unforgettable answer.\n\nWhy it works: the playlist needed one word and absolutely no follow-up.\n```\n"
+  },
+  {
     "id": "embolo-nba-flopping-crossover",
     "rank": 4,
     "title": "One soccer dive sends r/nba to the rulebook",
@@ -802,7 +946,7 @@
     "title": "The Marlins bring their viral dog back to the ballpark",
     "league": "Baseball",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-13",
     "heat": 90,
     "tags": [
@@ -817,7 +961,7 @@
     "quote": "The ballpark finally booked its returning star.",
     "sourceUrl": "https://www.reddit.com/r/baseball/comments/1uuqsb8/jonah_dog_that_went_viral_at_marlins_game_a_few/",
     "commentHighlights": [],
-    "markdown": "---\nid: jonah-marlins-ballpark-return\nrank: 4\ntitle: \"The Marlins bring their viral dog back to the ballpark\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-13\"\nheat: 90\ntags:\n  - r/baseball\n  - Marlins\n  - dog\n  - ballpark\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post showed Jonah, the dog who went viral at a Marlins game,\nreturning for a full day at the ballpark.\n\n## Why It Is Funny\n\nThe fan-favorite promotion followed perfect sports logic: reward viral\nattendance with more attendance. The returning star just happened to have four legs.\n\n## Comment Highlights\n\n## Quote\n\nThe ballpark finally booked its returning star.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1uuqsb8/jonah_dog_that_went_viral_at_marlins_game_a_few/\n- Source type: Reddit / r/baseball top-day ballpark post\n- Verification notes: public post frames Jonah as the previously viral dog returning for a park day; keep the summary limited to that visible premise\n\n## Sports Radar Markdown\n\n```md\n**The Marlins bring their viral dog back to the ballpark**\n\nJonah turned one memorable game appearance into a full return engagement.\n\nWhy it works: The returning ballpark star has four legs and perfect fan approval.\n```\n"
+    "markdown": "---\nid: jonah-marlins-ballpark-return\nrank: 4\ntitle: \"The Marlins bring their viral dog back to the ballpark\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-13\"\nheat: 90\ntags:\n  - r/baseball\n  - Marlins\n  - dog\n  - ballpark\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post showed Jonah, the dog who went viral at a Marlins game,\nreturning for a full day at the ballpark.\n\n## Why It Is Funny\n\nThe fan-favorite promotion followed perfect sports logic: reward viral\nattendance with more attendance. The returning star just happened to have four legs.\n\n## Comment Highlights\n\n## Quote\n\nThe ballpark finally booked its returning star.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1uuqsb8/jonah_dog_that_went_viral_at_marlins_game_a_few/\n- Source type: Reddit / r/baseball top-day ballpark post\n- Verification notes: public post frames Jonah as the previously viral dog returning for a park day; keep the summary limited to that visible premise\n\n## Sports Radar Markdown\n\n```md\n**The Marlins bring their viral dog back to the ballpark**\n\nJonah turned one memorable game appearance into a full return engagement.\n\nWhy it works: The returning ballpark star has four legs and perfect fan approval.\n```\n"
   },
   {
     "id": "laz-diaz-plate-mic-aside",
@@ -825,7 +969,7 @@
     "title": "A plate mic catches the umpire's last-inning complaint",
     "league": "Baseball",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-13",
     "heat": 88,
     "tags": [
@@ -840,7 +984,7 @@
     "quote": "The plate mic picked the worst moment to be excellent.",
     "sourceUrl": "https://www.reddit.com/r/baseball/comments/1uusciv/highlight_laz_díaz_takes_a_foul_ball_to_the_beans/",
     "commentHighlights": [],
-    "markdown": "---\nid: laz-diaz-plate-mic-aside\nrank: 5\ntitle: \"A plate mic catches the umpire's last-inning complaint\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-13\"\nheat: 88\ntags:\n  - r/baseball\n  - Laz Diaz\n  - plate-mic\n  - broadcast\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball highlight caught plate umpire Laz Diaz venting into the field mic\nafter a foul ball hit him late in the game.\n\n## Why It Is Funny\n\nThe mic turned a painful workplace complaint into an accidental broadcast\naside. The comedy is the timing and the live audio, not the hit.\n\n## Comment Highlights\n\n## Quote\n\nThe plate mic picked the worst moment to be excellent.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1uusciv/highlight_laz_díaz_takes_a_foul_ball_to_the_beans/\n- Source type: Reddit / r/baseball top-day broadcast highlight\n- Verification notes: public highlight title identifies the late-game foul ball and live-mic reaction; do not reproduce the raw profanity\n\n## Sports Radar Markdown\n\n```md\n**A plate mic catches the umpire's last-inning complaint**\n\nOne late foul ball turned the field microphone into accidental workplace audio.\n\nWhy it works: The broadcast equipment chose the most inconvenient moment to excel.\n```\n"
+    "markdown": "---\nid: laz-diaz-plate-mic-aside\nrank: 5\ntitle: \"A plate mic catches the umpire's last-inning complaint\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-13\"\nheat: 88\ntags:\n  - r/baseball\n  - Laz Diaz\n  - plate-mic\n  - broadcast\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball highlight caught plate umpire Laz Diaz venting into the field mic\nafter a foul ball hit him late in the game.\n\n## Why It Is Funny\n\nThe mic turned a painful workplace complaint into an accidental broadcast\naside. The comedy is the timing and the live audio, not the hit.\n\n## Comment Highlights\n\n## Quote\n\nThe plate mic picked the worst moment to be excellent.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1uusciv/highlight_laz_díaz_takes_a_foul_ball_to_the_beans/\n- Source type: Reddit / r/baseball top-day broadcast highlight\n- Verification notes: public highlight title identifies the late-game foul ball and live-mic reaction; do not reproduce the raw profanity\n\n## Sports Radar Markdown\n\n```md\n**A plate mic catches the umpire's last-inning complaint**\n\nOne late foul ball turned the field microphone into accidental workplace audio.\n\nWhy it works: The broadcast equipment chose the most inconvenient moment to excel.\n```\n"
   },
   {
     "id": "qb-first-pass-memory-lane",
@@ -1019,6 +1163,42 @@
       }
     ],
     "markdown": "---\nid: norway-viking-row\nrank: 5\ntitle: \"Norway advances and turns the celebration into a Viking Row\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-06-30\"\nheat: 82\ntags:\n  - r/sports\n  - World Cup\n  - celebration\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports post highlighted Norway players and fans celebrating together with\na Viking Row after advancing in the World Cup.\n\n## Why It Is Funny\n\nIt is a clean fan-culture artifact: the result matters, but the repeatable\ncelebration ritual is what makes it travel.\n\n## Comment Highlights\n\n- Label: Celebration with choreography\n  Summary: The thread is less about the score than the shared ritual after it, with fans and players moving as one unit.\n  Why funny: It turns advancement into a branded dance move.\n  Source URL: https://www.reddit.com/r/sports/comments/1uk608i/norways_players_and_fans_celebrate_together_with/\n- Label: National identity in one clip\n  Summary: Reactions make the Viking Row feel instantly legible even if you are not following Norway closely.\n  Why funny: The ritual does all the context-setting a normal recap would need paragraphs to explain.\n  Source URL: https://www.reddit.com/r/sports/comments/1uk608i/norways_players_and_fans_celebrate_together_with/\n\n## Quote\n\nThe highlight package came with choreography.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1uk608i/norways_players_and_fans_celebrate_together_with/\n- Source type: Reddit / r/sports top-day thread\n- Verification notes: use as public celebration commentary; avoid reposting video without rights review\n\n## Sports Radar Markdown\n\n```md\n**Norway advances and turns the celebration into a Viking Row**\n\nAn r/sports post captured players and fans celebrating with a repeatable ritual.\n\nWhy it works: the score is news, but the choreography is the culture.\n```\n"
+  },
+  {
+    "id": "william-carrier-stanley-cup-poutine",
+    "rank": 5,
+    "title": "William Carrier turns the Stanley Cup into a poutine station",
+    "league": "NHL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-14",
+    "heat": 90,
+    "tags": [
+      "r/hockey",
+      "William Carrier",
+      "Stanley Cup",
+      "poutine"
+    ],
+    "public_ready": true,
+    "summary": "An r/hockey video showed Quebec native William Carrier using a carefully lined\nStanley Cup to serve poutine during his day with the trophy.",
+    "whyFunny": "Championship tradition meets regional food tradition in the most literal\ncontainer possible. Even the protective lining makes the ceremony feel practical.",
+    "quote": "The championship parade stopped for gravy inspection.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1uvuk3q/quebec_native_william_carrier_with_one_of_the/",
+    "commentHighlights": [
+      {
+        "label": "Gravy review",
+        "summary": "Fans debated whether the championship poutine received enough gravy for the occasion.",
+        "whyFunny": "A Stanley Cup celebration gets judged like a neighborhood takeout order.",
+        "sourceUrl": "https://www.reddit.com/r/hockey/comments/1uvuk3q/quebec_native_william_carrier_with_one_of_the/"
+      },
+      {
+        "label": "Trophy protection plan",
+        "summary": "The thread noticed the careful liner separating the food from hockey's most famous trophy.",
+        "whyFunny": "The wild celebration still pauses for responsible kitchen procedure.",
+        "sourceUrl": "https://www.reddit.com/r/hockey/comments/1uvuk3q/quebec_native_william_carrier_with_one_of_the/"
+      }
+    ],
+    "markdown": "---\nid: william-carrier-stanley-cup-poutine\nrank: 5\ntitle: \"William Carrier turns the Stanley Cup into a poutine station\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-14\"\nheat: 90\ntags:\n  - r/hockey\n  - William Carrier\n  - Stanley Cup\n  - poutine\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey video showed Quebec native William Carrier using a carefully lined\nStanley Cup to serve poutine during his day with the trophy.\n\n## Why It Is Funny\n\nChampionship tradition meets regional food tradition in the most literal\ncontainer possible. Even the protective lining makes the ceremony feel practical.\n\n## Comment Highlights\n\n- Label: Gravy review\n  Summary: Fans debated whether the championship poutine received enough gravy for the occasion.\n  Why funny: A Stanley Cup celebration gets judged like a neighborhood takeout order.\n  Source URL: https://www.reddit.com/r/hockey/comments/1uvuk3q/quebec_native_william_carrier_with_one_of_the/\n- Label: Trophy protection plan\n  Summary: The thread noticed the careful liner separating the food from hockey's most famous trophy.\n  Why funny: The wild celebration still pauses for responsible kitchen procedure.\n  Source URL: https://www.reddit.com/r/hockey/comments/1uvuk3q/quebec_native_william_carrier_with_one_of_the/\n\n## Quote\n\nThe championship parade stopped for gravy inspection.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1uvuk3q/quebec_native_william_carrier_with_one_of_the/\n- Source type: Reddit / r/hockey top-day Cup-day video\n- Verification notes: the public video framing and multiple top replies identify the poutine, liner, and gravy discussion; keep the summary to the visible food-and-trophy moment\n\n## Sports Radar Markdown\n\n```md\n**William Carrier turns the Stanley Cup into a poutine station**\n\nOne Cup day combined hockey's biggest trophy with Quebec's most obvious menu choice.\n\nWhy it works: the championship ceremony still had time for gravy inspection.\n```\n"
   },
   {
     "id": "cade-giannis-free-throw-talk",
