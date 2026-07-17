@@ -108,6 +108,42 @@
     "markdown": "---\nid: lamine-yamal-woke-up-too\nrank: 1\ntitle: \"Lamine Yamal also woke up this morning\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-11\"\nheat: 95\ntags:\n  - r/soccer\n  - Lamine Yamal\n  - Maxime de Cuyper\n  - dry-humor\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer clip turned routine pre-match hype about facing Lamine Yamal into\na perfectly flat observation: Yamal had also managed to wake up that morning.\n\n## Why It Is Funny\n\nThe studio sets up a grand comparison and gets the smallest technically true\nfact available. The anti-joke works because the delivery refuses to help it.\n\n## Comment Highlights\n\n- Label: Technically correct wins\n  Summary: Fans treated the literal answer as the best possible answer to an overbuilt setup.\n  Why funny: The analysis becomes undeniable by saying almost nothing.\n  Source URL: https://www.reddit.com/r/soccer/comments/1usx1r3/host_maxime_de_cuyper_woke_up_this_morning/\n- Label: Everyone joins the comparison\n  Summary: The thread extended the premise until ordinary viewers also qualified as Yamal comparisons.\n  Why funny: A superstar matchup collapses into a fact shared by most of the audience.\n  Source URL: https://www.reddit.com/r/soccer/comments/1usx1r3/host_maxime_de_cuyper_woke_up_this_morning/\n\n## Quote\n\nThe scouting report confirmed both players were awake.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1usx1r3/host_maxime_de_cuyper_woke_up_this_morning/\n- Source type: Reddit / r/soccer top-day clip thread\n- Verification notes: public Reddit page confirms the studio exchange and dry-humor reaction; paraphrase rather than reproducing the full dialogue\n\n## Sports Radar Markdown\n\n```md\n**Lamine Yamal also woke up this morning**\n\nAn r/soccer clip answered pre-match hype with the driest possible fact.\n\nWhy it works: the scouting report becomes airtight by saying almost nothing.\n```\n"
   },
   {
+    "id": "haliburton-lebron-two-emoji-rejection",
+    "rank": 1,
+    "title": "LeBron answers Haliburton's pitch with two emojis",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-17",
+    "heat": 98,
+    "tags": [
+      "r/nba",
+      "Tyrese Haliburton",
+      "LeBron James",
+      "free agency"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba post relayed Tyrese Haliburton's story that he tried recruiting LeBron\nJames to Indiana and received two laughing emojis in reply.",
+    "whyFunny": "A superstar pitch gets the same answer as an ambitious group-chat suggestion.\nThe thread treated two tiny symbols as a complete free-agency meeting.",
+    "quote": "Two emojis closed the recruiting meeting.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1uyab54/dave_mcmenamin_tyrese_haliburton_said_he_made_a/",
+    "commentHighlights": [
+      {
+        "label": "Soft rejection department",
+        "summary": "Fans recast the exchange as Haliburton taking his shot and getting politely friend-zoned.",
+        "whyFunny": "The biggest roster pitch of the offseason follows ordinary dating-text etiquette.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uyab54/dave_mcmenamin_tyrese_haliburton_said_he_made_a/"
+      },
+      {
+        "label": "Emoji film study",
+        "summary": "The thread analyzed the exact number and size of the emojis as if they revealed LeBron's full intent.",
+        "whyFunny": "Two phone icons receive the scrutiny of a playoff possession.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uyab54/dave_mcmenamin_tyrese_haliburton_said_he_made_a/"
+      }
+    ],
+    "markdown": "---\nid: haliburton-lebron-two-emoji-rejection\nrank: 1\ntitle: \"LeBron answers Haliburton's pitch with two emojis\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-17\"\nheat: 98\ntags:\n  - r/nba\n  - Tyrese Haliburton\n  - LeBron James\n  - free agency\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post relayed Tyrese Haliburton's story that he tried recruiting LeBron\nJames to Indiana and received two laughing emojis in reply.\n\n## Why It Is Funny\n\nA superstar pitch gets the same answer as an ambitious group-chat suggestion.\nThe thread treated two tiny symbols as a complete free-agency meeting.\n\n## Comment Highlights\n\n- Label: Soft rejection department\n  Summary: Fans recast the exchange as Haliburton taking his shot and getting politely friend-zoned.\n  Why funny: The biggest roster pitch of the offseason follows ordinary dating-text etiquette.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyab54/dave_mcmenamin_tyrese_haliburton_said_he_made_a/\n- Label: Emoji film study\n  Summary: The thread analyzed the exact number and size of the emojis as if they revealed LeBron's full intent.\n  Why funny: Two phone icons receive the scrutiny of a playoff possession.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyab54/dave_mcmenamin_tyrese_haliburton_said_he_made_a/\n\n## Quote\n\nTwo emojis closed the recruiting meeting.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uyab54/dave_mcmenamin_tyrese_haliburton_said_he_made_a/\n- Source type: Reddit / r/nba top-day discussion\n- Verification notes: the post relays Haliburton's public event story through a media report; the public copy attributes the account and does not present the exchange as evidence of a roster decision\n\n## Sports Radar Markdown\n\n```md\n**LeBron answers Haliburton's pitch with two emojis**\n\nHaliburton said his Indiana recruiting attempt ended when LeBron replied with two laughing emojis.\n\nWhy it works: a superstar pitch gets the same soft rejection as an overconfident group-chat plan.\n```\n"
+  },
+  {
     "id": "lebron-contract-timing",
     "rank": 1,
     "title": "LeBron exit timing turns into contract-calendar comedy",
@@ -292,7 +328,7 @@
     "title": "Steve Kerr feeds the LeBron rumor machine himself",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-16",
     "heat": 97,
     "tags": [
@@ -320,7 +356,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1uxnuqa/a_warriors_fan_asked_steve_kerr_when_do_you_get/"
       }
     ],
-    "markdown": "---\nid: steve-kerr-lebron-rumor-troll\nrank: 1\ntitle: \"Steve Kerr feeds the LeBron rumor machine himself\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-16\"\nheat: 97\ntags:\n  - r/nba\n  - Steve Kerr\n  - LeBron James\n  - trade rumors\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba street clip showed a fan asking Steve Kerr when Golden State would get\nLeBron James. Kerr played along with the premise and added a line about putting\nthe exchange on Twitter.\n\n## Why It Is Funny\n\nThe coach becomes the least reliable insider in his own rumor cycle. A blurry\nfan video gets exactly enough official-sounding banter to keep the joke alive.\n\n## Comment Highlights\n\n- Label: Source credibility crisis\n  Summary: Fans jokingly debated whether the Warriors coach counted as a trustworthy Warriors source.\n  Why funny: The person closest to the team is treated like one more anonymous rumor account.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxnuqa/a_warriors_fan_asked_steve_kerr_when_do_you_get/\n- Label: Upload loophole\n  Summary: The thread argued that posting the clip to Reddit technically respected a Twitter-specific instruction.\n  Why funny: A casual joke immediately acquires platform-lawyer fine print.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxnuqa/a_warriors_fan_asked_steve_kerr_when_do_you_get/\n\n## Quote\n\nThe coach joined the rumor account for one blurry clip.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uxnuqa/a_warriors_fan_asked_steve_kerr_when_do_you_get/\n- Source type: Reddit / r/nba top-day street clip\n- Verification notes: the clip and thread frame Kerr's response as banter; listeners disputed whether his final instruction was \"put\" or \"don't put,\" so the public copy avoids choosing one and does not treat the joke as roster reporting\n\n## Sports Radar Markdown\n\n```md\n**Steve Kerr feeds the LeBron rumor machine himself**\n\nA fan asked about LeBron, and Kerr gave the blurry street clip exactly enough banter to become its own rumor cycle.\n\nWhy it works: the coach briefly plays unreliable insider for his own team.\n```\n"
+    "markdown": "---\nid: steve-kerr-lebron-rumor-troll\nrank: 1\ntitle: \"Steve Kerr feeds the LeBron rumor machine himself\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-16\"\nheat: 97\ntags:\n  - r/nba\n  - Steve Kerr\n  - LeBron James\n  - trade rumors\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba street clip showed a fan asking Steve Kerr when Golden State would get\nLeBron James. Kerr played along with the premise and added a line about putting\nthe exchange on Twitter.\n\n## Why It Is Funny\n\nThe coach becomes the least reliable insider in his own rumor cycle. A blurry\nfan video gets exactly enough official-sounding banter to keep the joke alive.\n\n## Comment Highlights\n\n- Label: Source credibility crisis\n  Summary: Fans jokingly debated whether the Warriors coach counted as a trustworthy Warriors source.\n  Why funny: The person closest to the team is treated like one more anonymous rumor account.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxnuqa/a_warriors_fan_asked_steve_kerr_when_do_you_get/\n- Label: Upload loophole\n  Summary: The thread argued that posting the clip to Reddit technically respected a Twitter-specific instruction.\n  Why funny: A casual joke immediately acquires platform-lawyer fine print.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxnuqa/a_warriors_fan_asked_steve_kerr_when_do_you_get/\n\n## Quote\n\nThe coach joined the rumor account for one blurry clip.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uxnuqa/a_warriors_fan_asked_steve_kerr_when_do_you_get/\n- Source type: Reddit / r/nba top-day street clip\n- Verification notes: the clip and thread frame Kerr's response as banter; listeners disputed whether his final instruction was \"put\" or \"don't put,\" so the public copy avoids choosing one and does not treat the joke as roster reporting\n\n## Sports Radar Markdown\n\n```md\n**Steve Kerr feeds the LeBron rumor machine himself**\n\nA fan asked about LeBron, and Kerr gave the blurry street clip exactly enough banter to become its own rumor cycle.\n\nWhy it works: the coach briefly plays unreliable insider for his own team.\n```\n"
   },
   {
     "id": "reaves-lebron-golf-ruined",
@@ -356,6 +392,42 @@
       }
     ],
     "markdown": "---\nid: reaves-lebron-golf-ruined\nrank: 2\ntitle: \"Austin Reaves gets his golf round ruined by LeBron news\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-09\"\nheat: 94\ntags:\n  - r/nba\n  - LeBron\n  - golf\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba thread turned Austin Reaves hearing about LeBron leaving the Lakers\nmid-golf-round into the day's cleanest teammate reaction bit.\n\n## Why It Is Funny\n\nThe transaction is giant, but the emotional unit is tiny: one guy's nice round\ngets interrupted by franchise-defining news.\n\n## Comment Highlights\n\n- Label: Free agency as tee-time sabotage\n  Summary: The thread's best angle is the contrast between massive Lakers news and one teammate trying to enjoy a quiet round.\n  Why funny: It shrinks a league-shaking move down to a ruined afternoon.\n  Source URL: https://www.reddit.com/r/nba/comments/1ur9a61/austin_reaves_after_finding_out_lebron_was/\n- Label: The group-chat version of a transaction\n  Summary: Reactions naturally frame the news as a text-message moment rather than a cap-sheet moment.\n  Why funny: It makes the NBA offseason feel like someone dropped bad news into the wrong chat.\n  Source URL: https://www.reddit.com/r/nba/comments/1ur9a61/austin_reaves_after_finding_out_lebron_was/\n\n## Quote\n\nThe offseason news alert hit like a ball in the water.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1ur9a61/austin_reaves_after_finding_out_lebron_was/\n- Source type: Reddit / r/nba top-day thread\n- Verification notes: treat as public sports-culture reaction; avoid copying article text or long quotes\n\n## Sports Radar Markdown\n\n```md\n**Austin Reaves gets his golf round ruined by LeBron news**\n\nAn r/nba thread turned a franchise move into one teammate's interrupted golf day.\n\nWhy it works: huge offseason news gets reduced to the most relatable complaint possible.\n```\n"
+  },
+  {
+    "id": "bald-lebron-final-form",
+    "rank": 2,
+    "title": "Bald LeBron enters his final form",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-17",
+    "heat": 96,
+    "tags": [
+      "r/nba",
+      "LeBron James",
+      "hair",
+      "offseason"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba post shared LeBron James with a freshly shaved head, sending the\nthread into instant nickname, headband, and late-career-transformation mode.",
+    "whyFunny": "One haircut becomes a new basketball era before anyone sees a possession. Fans\ntreated the clean shave like the unlock screen for a veteran's final form.",
+    "quote": "The haircut already has a scouting report.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1uyoliv/lebron_debuts_the_new_bald_look/",
+    "commentHighlights": [
+      {
+        "label": "Full-Unc upgrade",
+        "summary": "Fans imagined the shaved head paired with a headband, gray beard, goggles, and increasingly elaborate veteran accessories.",
+        "whyFunny": "A simple haircut turns into a complete character-build menu.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uyoliv/lebron_debuts_the_new_bald_look/"
+      },
+      {
+        "label": "Final-form scouting",
+        "summary": "The thread predicted that embracing the look would somehow make the league even less prepared for him.",
+        "whyFunny": "Hair maintenance is analyzed as a competitive variable.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uyoliv/lebron_debuts_the_new_bald_look/"
+      }
+    ],
+    "markdown": "---\nid: bald-lebron-final-form\nrank: 2\ntitle: \"Bald LeBron enters his final form\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-17\"\nheat: 96\ntags:\n  - r/nba\n  - LeBron James\n  - hair\n  - offseason\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post shared LeBron James with a freshly shaved head, sending the\nthread into instant nickname, headband, and late-career-transformation mode.\n\n## Why It Is Funny\n\nOne haircut becomes a new basketball era before anyone sees a possession. Fans\ntreated the clean shave like the unlock screen for a veteran's final form.\n\n## Comment Highlights\n\n- Label: Full-Unc upgrade\n  Summary: Fans imagined the shaved head paired with a headband, gray beard, goggles, and increasingly elaborate veteran accessories.\n  Why funny: A simple haircut turns into a complete character-build menu.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyoliv/lebron_debuts_the_new_bald_look/\n- Label: Final-form scouting\n  Summary: The thread predicted that embracing the look would somehow make the league even less prepared for him.\n  Why funny: Hair maintenance is analyzed as a competitive variable.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyoliv/lebron_debuts_the_new_bald_look/\n\n## Quote\n\nThe haircut already has a scouting report.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uyoliv/lebron_debuts_the_new_bald_look/\n- Source type: Reddit / r/nba top-day image post\n- Verification notes: the source is a public appearance image and fan reaction thread; the public copy describes the visible haircut and clearly frames performance predictions as jokes\n\n## Sports Radar Markdown\n\n```md\n**Bald LeBron enters his final form**\n\nLeBron showed up with a shaved head, and the thread immediately declared a new late-career evolution.\n\nWhy it works: one haircut gets treated like a competitive upgrade before he plays a minute.\n```\n"
   },
   {
     "id": "blake-voicemail-psychologist",
@@ -601,7 +673,7 @@
     "title": "The NBA offseason gets an edible-team taxonomy",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-16",
     "heat": 95,
     "tags": [
@@ -629,7 +701,43 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1uxf4p9/oc_what_nba_team_names_are_edible/"
       }
     ],
-    "markdown": "---\nid: nba-team-names-edible\nrank: 2\ntitle: \"The NBA offseason gets an edible-team taxonomy\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-16\"\nheat: 95\ntags:\n  - r/nba\n  - offseason\n  - team names\n  - fan analysis\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba fan sorted every team name by whether its namesake could be eaten,\nproducing a 17-to-13 split and several deeply questionable rulings.\n\n## Why It Is Funny\n\nIt applies full standings-table seriousness to a question nobody needed asked.\nThe supposedly food-adjacent Nuggets landing on the inedible side completes the bit.\n\n## Comment Highlights\n\n- Label: Appeals court opens\n  Summary: Fans challenged the rulings for pants, gold, lakes, pace cars, and several human-based names.\n  Why funny: The nonsense classification instantly develops technical definitions and disputed calls.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxf4p9/oc_what_nba_team_names_are_edible/\n- Label: Offseason diagnosis\n  Summary: The thread treated the project as proof that basketball's offseason had reached its deepest stage.\n  Why funny: The analysis is both impressively complete and evidence that everyone needs games back.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxf4p9/oc_what_nba_team_names_are_edible/\n\n## Quote\n\nThe offseason finally produced edible power rankings.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uxf4p9/oc_what_nba_team_names_are_edible/\n- Source type: Reddit / r/nba top-day original fan analysis\n- Verification notes: the post presents a 17-edible to 13-inedible classification; this summary transforms the premise without reproducing the full team-by-team list or raw comments\n\n## Sports Radar Markdown\n\n```md\n**The NBA offseason gets an edible-team taxonomy**\n\nOne fan classified all 30 team names by edibility and somehow put the Nuggets on the wrong side of lunch.\n\nWhy it works: meaningless analysis receives the care and controversy of a playoff seeding model.\n```\n"
+    "markdown": "---\nid: nba-team-names-edible\nrank: 2\ntitle: \"The NBA offseason gets an edible-team taxonomy\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-16\"\nheat: 95\ntags:\n  - r/nba\n  - offseason\n  - team names\n  - fan analysis\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba fan sorted every team name by whether its namesake could be eaten,\nproducing a 17-to-13 split and several deeply questionable rulings.\n\n## Why It Is Funny\n\nIt applies full standings-table seriousness to a question nobody needed asked.\nThe supposedly food-adjacent Nuggets landing on the inedible side completes the bit.\n\n## Comment Highlights\n\n- Label: Appeals court opens\n  Summary: Fans challenged the rulings for pants, gold, lakes, pace cars, and several human-based names.\n  Why funny: The nonsense classification instantly develops technical definitions and disputed calls.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxf4p9/oc_what_nba_team_names_are_edible/\n- Label: Offseason diagnosis\n  Summary: The thread treated the project as proof that basketball's offseason had reached its deepest stage.\n  Why funny: The analysis is both impressively complete and evidence that everyone needs games back.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxf4p9/oc_what_nba_team_names_are_edible/\n\n## Quote\n\nThe offseason finally produced edible power rankings.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uxf4p9/oc_what_nba_team_names_are_edible/\n- Source type: Reddit / r/nba top-day original fan analysis\n- Verification notes: the post presents a 17-edible to 13-inedible classification; this summary transforms the premise without reproducing the full team-by-team list or raw comments\n\n## Sports Radar Markdown\n\n```md\n**The NBA offseason gets an edible-team taxonomy**\n\nOne fan classified all 30 team names by edibility and somehow put the Nuggets on the wrong side of lunch.\n\nWhy it works: meaningless analysis receives the care and controversy of a playoff seeding model.\n```\n"
+  },
+  {
+    "id": "dwight-bynum-nyc-encounter",
+    "rank": 3,
+    "title": "Dwight Howard finds Andrew Bynum in the wild",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-17",
+    "heat": 94,
+    "tags": [
+      "r/nba",
+      "Dwight Howard",
+      "Andrew Bynum",
+      "NBA nostalgia"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba street clip showed Dwight Howard unexpectedly spotting Andrew Bynum\nin New York City. They exchanged a quick greeting, and Bynum kept moving.",
+    "whyFunny": "Two giant pieces of late-2000s NBA lore collide on an ordinary sidewalk, but\nthe reunion has the brisk energy of passing a former coworker near the train.",
+    "quote": "The reunion was shorter than the memory lane.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/",
+    "commentHighlights": [
+      {
+        "label": "Keep-it-moving reunion",
+        "summary": "Fans fixated on how quickly Bynum acknowledged the encounter and continued down the sidewalk.",
+        "whyFunny": "The surprise reunion lasts less time than the nostalgia it triggers.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/"
+      },
+      {
+        "label": "Time-capsule sighting",
+        "summary": "The thread reflected on how long Bynum has stayed out of the basketball spotlight.",
+        "whyFunny": "A casual New York crossing becomes an accidental NBA alumni update.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/"
+      }
+    ],
+    "markdown": "---\nid: dwight-bynum-nyc-encounter\nrank: 3\ntitle: \"Dwight Howard finds Andrew Bynum in the wild\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-17\"\nheat: 94\ntags:\n  - r/nba\n  - Dwight Howard\n  - Andrew Bynum\n  - NBA nostalgia\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba street clip showed Dwight Howard unexpectedly spotting Andrew Bynum\nin New York City. They exchanged a quick greeting, and Bynum kept moving.\n\n## Why It Is Funny\n\nTwo giant pieces of late-2000s NBA lore collide on an ordinary sidewalk, but\nthe reunion has the brisk energy of passing a former coworker near the train.\n\n## Comment Highlights\n\n- Label: Keep-it-moving reunion\n  Summary: Fans fixated on how quickly Bynum acknowledged the encounter and continued down the sidewalk.\n  Why funny: The surprise reunion lasts less time than the nostalgia it triggers.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/\n- Label: Time-capsule sighting\n  Summary: The thread reflected on how long Bynum has stayed out of the basketball spotlight.\n  Why funny: A casual New York crossing becomes an accidental NBA alumni update.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/\n\n## Quote\n\nThe reunion was shorter than the memory lane.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/\n- Source type: Reddit / r/nba top-day street clip\n- Verification notes: the clip visibly shows the brief public encounter; the public copy avoids speculation about Bynum's private life or reasons for leaving the spotlight\n\n## Sports Radar Markdown\n\n```md\n**Dwight Howard finds Andrew Bynum in the wild**\n\nDwight spotted Bynum on a New York sidewalk, got a quick greeting, and watched him keep moving.\n\nWhy it works: a huge NBA nostalgia event plays out like two former coworkers passing near the train.\n```\n"
   },
   {
     "id": "ja-morant-teammate-ragebait",
@@ -745,7 +853,7 @@
     "title": "KAT brings the analytics joke to the ESPYs",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-16",
     "heat": 93,
     "tags": [
@@ -773,7 +881,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1uxn8tb/kat_on_knicks_winning_espy_for_best_team/"
       }
     ],
-    "markdown": "---\nid: kat-analytical-espy-callback\nrank: 3\ntitle: \"KAT brings the analytics joke to the ESPYs\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-16\"\nheat: 93\ntags:\n  - r/nba\n  - Karl-Anthony Towns\n  - New York Knicks\n  - ESPYs\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip showed Karl-Anthony Towns arguing that the Knicks should win an\nESPY for best team \"analytically,\" reviving a line from their playoff rivalry.\n\n## Why It Is Funny\n\nThe championship is already won, but the callback stays active. One awkward\npiece of playoff coach-speak has become a trophy-show punchline.\n\n## Comment Highlights\n\n- Label: Permanent callback\n  Summary: Fans treated the original analytics line as a meme that will follow the rivalry indefinitely.\n  Why funny: A technical-sounding argument now works as a one-word victory lap.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxn8tb/kat_on_knicks_winning_espy_for_best_team/\n- Label: Deadpan delivery\n  Summary: The thread credited Towns for delivering the callback without breaking the serious award-show pitch.\n  Why funny: The straighter the delivery, the sharper the old line lands.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxn8tb/kat_on_knicks_winning_espy_for_best_team/\n\n## Quote\n\nThe analytics department has entered awards season.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uxn8tb/kat_on_knicks_winning_espy_for_best_team/\n- Source type: Reddit / r/nba top-day awards clip\n- Verification notes: the captured title and clip support the short analytics callback; keep the item focused on playoff meme continuity rather than broader claims about the award field\n\n## Sports Radar Markdown\n\n```md\n**KAT brings the analytics joke to the ESPYs**\n\nTowns used one familiar playoff word to turn a best-team pitch into a rivalry victory lap.\n\nWhy it works: old coach-speak has graduated into permanent championship lore.\n```\n"
+    "markdown": "---\nid: kat-analytical-espy-callback\nrank: 3\ntitle: \"KAT brings the analytics joke to the ESPYs\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-16\"\nheat: 93\ntags:\n  - r/nba\n  - Karl-Anthony Towns\n  - New York Knicks\n  - ESPYs\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip showed Karl-Anthony Towns arguing that the Knicks should win an\nESPY for best team \"analytically,\" reviving a line from their playoff rivalry.\n\n## Why It Is Funny\n\nThe championship is already won, but the callback stays active. One awkward\npiece of playoff coach-speak has become a trophy-show punchline.\n\n## Comment Highlights\n\n- Label: Permanent callback\n  Summary: Fans treated the original analytics line as a meme that will follow the rivalry indefinitely.\n  Why funny: A technical-sounding argument now works as a one-word victory lap.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxn8tb/kat_on_knicks_winning_espy_for_best_team/\n- Label: Deadpan delivery\n  Summary: The thread credited Towns for delivering the callback without breaking the serious award-show pitch.\n  Why funny: The straighter the delivery, the sharper the old line lands.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxn8tb/kat_on_knicks_winning_espy_for_best_team/\n\n## Quote\n\nThe analytics department has entered awards season.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uxn8tb/kat_on_knicks_winning_espy_for_best_team/\n- Source type: Reddit / r/nba top-day awards clip\n- Verification notes: the captured title and clip support the short analytics callback; keep the item focused on playoff meme continuity rather than broader claims about the award field\n\n## Sports Radar Markdown\n\n```md\n**KAT brings the analytics joke to the ESPYs**\n\nTowns used one familiar playoff word to turn a best-team pitch into a rivalry victory lap.\n\nWhy it works: old coach-speak has graduated into permanent championship lore.\n```\n"
   },
   {
     "id": "kyle-juszczyk-contract-position",
@@ -976,6 +1084,42 @@
       }
     ],
     "markdown": "---\nid: cristo-fernandez-pro-debut\nrank: 4\ntitle: \"Dani Rojas crosses into real pro soccer\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-15\"\nheat: 91\ntags:\n  - r/sports\n  - Cristo Fernández\n  - Ted Lasso\n  - soccer crossover\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports post surfaced a report that Cristo Fernández, the actor behind\nTed Lasso's Dani Rojas, made a U.S. professional soccer debut.\n\n## Why It Is Funny\n\nThe fictional striker's catchphrase has escaped the television universe and\nfound a real team sheet. It is a sports cameo running in reverse.\n\n## Comment Highlights\n\n- Label: The obvious audition question\n  Summary: A reply turned a fan's comparison into a deadpan question about which Ted Lasso role they had played.\n  Why funny: The actor-to-athlete crossover makes a television credit the punchline to ordinary fan boasting.\n  Source URL: https://www.reddit.com/r/sports/comments/1uwujpq/ted_lasso_star_cristo_fernandez_the_actor_behind/\n- Label: The original career resumes\n  Summary: Replies noted that Fernández played football before acting, making the crossover less random than it first appears.\n  Why funny: The television-to-pro story is also a delayed return to the original career path.\n  Source URL: https://www.reddit.com/r/sports/comments/1uwujpq/ted_lasso_star_cristo_fernandez_the_actor_behind/\n\n## Quote\n\nFootball life met the official team sheet.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1uwujpq/ted_lasso_star_cristo_fernandez_the_actor_behind/\n- Source type: Reddit / r/sports top-day report link\n- Verification notes: the captured RSS title identifies Fernández, the Dani Rojas role, and a U.S. pro debut; attribute the claim to the surfaced report rather than presenting independent reporting\n\n## Sports Radar Markdown\n\n```md\n**Dani Rojas crosses into real pro soccer**\n\nThe actor behind Ted Lasso's fictional striker appeared on a real professional team sheet.\n\nWhy it works: the sports cameo traveled from television into the competition itself.\n```\n"
+  },
+  {
+    "id": "galaxy-stadium-big-12-orbit",
+    "rank": 4,
+    "title": "Galaxy Stadium puts the Big 12 in orbit",
+    "league": "NCAAF",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-17",
+    "heat": 92,
+    "tags": [
+      "r/CFB",
+      "Texas Tech",
+      "stadium names",
+      "Big 12"
+    ],
+    "public_ready": true,
+    "summary": "An r/CFB post linking a report about Texas Tech's planned Galaxy Stadium name\nprompted fans to debate whether they would ever stop calling the venue the Jones.",
+    "whyFunny": "Corporate naming rights accidentally give a West Texas football stadium a\nsci-fi name. The thread immediately drafts the rest of the Big 12 into a space conference.",
+    "quote": "The Big 12 has entered its space era.",
+    "sourceUrl": "https://www.reddit.com/r/CFB/comments/1uyy87s/galaxy_stadium_texas_tech_lands_75_million_naming/",
+    "commentHighlights": [
+      {
+        "label": "Legacy-name resistance",
+        "summary": "Fans compared the change to famous buildings whose old names survived every sponsor update.",
+        "whyFunny": "A multimillion-dollar rebrand meets the unstoppable force of local habit.",
+        "sourceUrl": "https://www.reddit.com/r/CFB/comments/1uyy87s/galaxy_stadium_texas_tech_lands_75_million_naming/"
+      },
+      {
+        "label": "Space-conference expansion",
+        "summary": "The thread grouped Galaxy Stadium with other Big 12 space associations and started inventing more cosmic sponsors.",
+        "whyFunny": "One venue name turns conference realignment into a solar-system map.",
+        "sourceUrl": "https://www.reddit.com/r/CFB/comments/1uyy87s/galaxy_stadium_texas_tech_lands_75_million_naming/"
+      }
+    ],
+    "markdown": "---\nid: galaxy-stadium-big-12-orbit\nrank: 4\ntitle: \"Galaxy Stadium puts the Big 12 in orbit\"\nleague: \"NCAAF\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-17\"\nheat: 92\ntags:\n  - r/CFB\n  - Texas Tech\n  - stadium names\n  - Big 12\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB post linking a report about Texas Tech's planned Galaxy Stadium name\nprompted fans to debate whether they would ever stop calling the venue the Jones.\n\n## Why It Is Funny\n\nCorporate naming rights accidentally give a West Texas football stadium a\nsci-fi name. The thread immediately drafts the rest of the Big 12 into a space conference.\n\n## Comment Highlights\n\n- Label: Legacy-name resistance\n  Summary: Fans compared the change to famous buildings whose old names survived every sponsor update.\n  Why funny: A multimillion-dollar rebrand meets the unstoppable force of local habit.\n  Source URL: https://www.reddit.com/r/CFB/comments/1uyy87s/galaxy_stadium_texas_tech_lands_75_million_naming/\n- Label: Space-conference expansion\n  Summary: The thread grouped Galaxy Stadium with other Big 12 space associations and started inventing more cosmic sponsors.\n  Why funny: One venue name turns conference realignment into a solar-system map.\n  Source URL: https://www.reddit.com/r/CFB/comments/1uyy87s/galaxy_stadium_texas_tech_lands_75_million_naming/\n\n## Quote\n\nThe Big 12 has entered its space era.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1uyy87s/galaxy_stadium_texas_tech_lands_75_million_naming/\n- Source type: Reddit / r/CFB top-day link discussion\n- Verification notes: the Reddit post links an On3 report about the planned naming-rights change; the public copy attributes the report and focuses on fan reaction rather than independently asserting deal terms\n\n## Sports Radar Markdown\n\n```md\n**Galaxy Stadium puts the Big 12 in orbit**\n\nA reported Texas Tech stadium rename gave West Texas football a sci-fi label and fans a fresh reason to ignore corporate naming rights.\n\nWhy it works: one sponsor turns the conference map into a space program.\n```\n"
   },
   {
     "id": "japan-knockout-world-cup-curse",
@@ -1221,7 +1365,7 @@
     "title": "The nearest-NHL-team map redraws the whole world",
     "league": "NHL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-16",
     "heat": 91,
     "tags": [
@@ -1249,7 +1393,7 @@
         "sourceUrl": "https://www.reddit.com/r/hockey/comments/1uxmdsf/closest_nhl_franchise_to_every_point_on_earth/"
       }
     ],
-    "markdown": "---\nid: nhl-nearest-team-world-map\nrank: 4\ntitle: \"The nearest-NHL-team map redraws the whole world\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-16\"\nheat: 91\ntags:\n  - r/hockey\n  - NHL\n  - maps\n  - offseason\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey map assigned every point on Earth to its closest NHL franchise,\ncreating enormous overseas territories and some counterintuitive polar routes.\n\n## Why It Is Funny\n\nA regional league map suddenly looks like a global strategy game. Distance\nmath makes Australia Sharks territory and puts parts of Asia unexpectedly close to Edmonton.\n\n## Comment Highlights\n\n- Label: Polar-route brain bend\n  Summary: Fans tried to reason through why northern teams gained huge territories across the top of the globe.\n  Why funny: Basic spherical geography becomes the thread's hardest opponent.\n  Source URL: https://www.reddit.com/r/hockey/comments/1uxmdsf/closest_nhl_franchise_to_every_point_on_earth/\n- Label: International fan draft\n  Summary: Commenters claimed geographically assigned teams for Australia, New Zealand, India, and Europe.\n  Why funny: A distance map accidentally runs a worldwide expansion draft with no new franchises.\n  Source URL: https://www.reddit.com/r/hockey/comments/1uxmdsf/closest_nhl_franchise_to_every_point_on_earth/\n\n## Quote\n\nThe NHL's offseason territory map has gone global.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1uxmdsf/closest_nhl_franchise_to_every_point_on_earth/\n- Source type: Reddit / r/hockey top-day map post\n- Verification notes: the source is a fan-made nearest-franchise visualization; geographic examples are presented as the map's output, not official NHL market assignments\n\n## Sports Radar Markdown\n\n```md\n**The nearest-NHL-team map redraws the whole world**\n\nA fan map gave every point on Earth a closest franchise and turned the league into a global territory game.\n\nWhy it works: polar routes make ordinary team geography look completely unhinged.\n```\n"
+    "markdown": "---\nid: nhl-nearest-team-world-map\nrank: 4\ntitle: \"The nearest-NHL-team map redraws the whole world\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-16\"\nheat: 91\ntags:\n  - r/hockey\n  - NHL\n  - maps\n  - offseason\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey map assigned every point on Earth to its closest NHL franchise,\ncreating enormous overseas territories and some counterintuitive polar routes.\n\n## Why It Is Funny\n\nA regional league map suddenly looks like a global strategy game. Distance\nmath makes Australia Sharks territory and puts parts of Asia unexpectedly close to Edmonton.\n\n## Comment Highlights\n\n- Label: Polar-route brain bend\n  Summary: Fans tried to reason through why northern teams gained huge territories across the top of the globe.\n  Why funny: Basic spherical geography becomes the thread's hardest opponent.\n  Source URL: https://www.reddit.com/r/hockey/comments/1uxmdsf/closest_nhl_franchise_to_every_point_on_earth/\n- Label: International fan draft\n  Summary: Commenters claimed geographically assigned teams for Australia, New Zealand, India, and Europe.\n  Why funny: A distance map accidentally runs a worldwide expansion draft with no new franchises.\n  Source URL: https://www.reddit.com/r/hockey/comments/1uxmdsf/closest_nhl_franchise_to_every_point_on_earth/\n\n## Quote\n\nThe NHL's offseason territory map has gone global.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1uxmdsf/closest_nhl_franchise_to_every_point_on_earth/\n- Source type: Reddit / r/hockey top-day map post\n- Verification notes: the source is a fan-made nearest-franchise visualization; geographic examples are presented as the map's output, not official NHL market assignments\n\n## Sports Radar Markdown\n\n```md\n**The nearest-NHL-team map redraws the whole world**\n\nA fan map gave every point on Earth a closest franchise and turned the league into a global territory game.\n\nWhy it works: polar routes make ordinary team geography look completely unhinged.\n```\n"
   },
   {
     "id": "laz-diaz-plate-mic-aside",
@@ -1351,7 +1495,7 @@
     "title": "Kyle Kuzma turns athlete finance talk into a budget intervention",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-16",
     "heat": 89,
     "tags": [
@@ -1379,7 +1523,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1uxnj55/kyle_kuzma_its_exhausting_hearing_athletes_break/"
       }
     ],
-    "markdown": "---\nid: kuzma-lifestyle-creep-lecture\nrank: 5\ntitle: \"Kyle Kuzma turns athlete finance talk into a budget intervention\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-16\"\nheat: 89\ntags:\n  - r/nba\n  - Kyle Kuzma\n  - athlete finances\n  - lifestyle creep\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post shared Kyle Kuzma pushing back on athletes who explain how fees\nand taxes shrink large salaries, arguing that lifestyle creep deserves more blame.\n\n## Why It Is Funny\n\nNBA money discourse gets answered like a household-budget intervention. The\nunexpected messenger makes the blunt financial-advice turn land harder.\n\n## Comment Highlights\n\n- Label: Unexpected voice of reason\n  Summary: Fans were surprised to find themselves agreeing with Kuzma's core point about spending expanding alongside income.\n  Why funny: The thread reacts as though a familiar basketball character suddenly became its financial planner.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxnj55/kyle_kuzma_its_exhausting_hearing_athletes_break/\n- Label: Nickname department\n  Summary: The discussion recast Kuzma as a philosopher for delivering an unusually grounded money take.\n  Why funny: One budgeting opinion earns a complete intellectual rebrand.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxnj55/kyle_kuzma_its_exhausting_hearing_athletes_break/\n\n## Quote\n\nThe max-contract conversation became a lifestyle-creep lecture.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uxnj55/kyle_kuzma_its_exhausting_hearing_athletes_break/\n- Source type: Reddit / r/nba top-day social-post discussion\n- Verification notes: the captured Reddit title mirrors Kuzma's public post; the public copy paraphrases the argument and does not offer independent financial advice or repeat the full source text\n\n## Sports Radar Markdown\n\n```md\n**Kyle Kuzma turns athlete finance talk into a budget intervention**\n\nKuzma answered millionaire paycheck discourse with a blunt reminder that spending can scale right alongside income.\n\nWhy it works: NBA salary talk suddenly sounds like a financial-planning session.\n```\n"
+    "markdown": "---\nid: kuzma-lifestyle-creep-lecture\nrank: 5\ntitle: \"Kyle Kuzma turns athlete finance talk into a budget intervention\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-16\"\nheat: 89\ntags:\n  - r/nba\n  - Kyle Kuzma\n  - athlete finances\n  - lifestyle creep\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post shared Kyle Kuzma pushing back on athletes who explain how fees\nand taxes shrink large salaries, arguing that lifestyle creep deserves more blame.\n\n## Why It Is Funny\n\nNBA money discourse gets answered like a household-budget intervention. The\nunexpected messenger makes the blunt financial-advice turn land harder.\n\n## Comment Highlights\n\n- Label: Unexpected voice of reason\n  Summary: Fans were surprised to find themselves agreeing with Kuzma's core point about spending expanding alongside income.\n  Why funny: The thread reacts as though a familiar basketball character suddenly became its financial planner.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxnj55/kyle_kuzma_its_exhausting_hearing_athletes_break/\n- Label: Nickname department\n  Summary: The discussion recast Kuzma as a philosopher for delivering an unusually grounded money take.\n  Why funny: One budgeting opinion earns a complete intellectual rebrand.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxnj55/kyle_kuzma_its_exhausting_hearing_athletes_break/\n\n## Quote\n\nThe max-contract conversation became a lifestyle-creep lecture.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uxnj55/kyle_kuzma_its_exhausting_hearing_athletes_break/\n- Source type: Reddit / r/nba top-day social-post discussion\n- Verification notes: the captured Reddit title mirrors Kuzma's public post; the public copy paraphrases the argument and does not offer independent financial advice or repeat the full source text\n\n## Sports Radar Markdown\n\n```md\n**Kyle Kuzma turns athlete finance talk into a budget intervention**\n\nKuzma answered millionaire paycheck discourse with a blunt reminder that spending can scale right alongside income.\n\nWhy it works: NBA salary talk suddenly sounds like a financial-planning session.\n```\n"
   },
   {
     "id": "lane-johnson-sack-math",
@@ -1559,6 +1703,42 @@
       }
     ],
     "markdown": "---\nid: william-carrier-stanley-cup-poutine\nrank: 5\ntitle: \"William Carrier turns the Stanley Cup into a poutine station\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-14\"\nheat: 90\ntags:\n  - r/hockey\n  - William Carrier\n  - Stanley Cup\n  - poutine\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey video showed Quebec native William Carrier using a carefully lined\nStanley Cup to serve poutine during his day with the trophy.\n\n## Why It Is Funny\n\nChampionship tradition meets regional food tradition in the most literal\ncontainer possible. Even the protective lining makes the ceremony feel practical.\n\n## Comment Highlights\n\n- Label: Gravy review\n  Summary: Fans debated whether the championship poutine received enough gravy for the occasion.\n  Why funny: A Stanley Cup celebration gets judged like a neighborhood takeout order.\n  Source URL: https://www.reddit.com/r/hockey/comments/1uvuk3q/quebec_native_william_carrier_with_one_of_the/\n- Label: Trophy protection plan\n  Summary: The thread noticed the careful liner separating the food from hockey's most famous trophy.\n  Why funny: The wild celebration still pauses for responsible kitchen procedure.\n  Source URL: https://www.reddit.com/r/hockey/comments/1uvuk3q/quebec_native_william_carrier_with_one_of_the/\n\n## Quote\n\nThe championship parade stopped for gravy inspection.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1uvuk3q/quebec_native_william_carrier_with_one_of_the/\n- Source type: Reddit / r/hockey top-day Cup-day video\n- Verification notes: the public video framing and multiple top replies identify the poutine, liner, and gravy discussion; keep the summary to the visible food-and-trophy moment\n\n## Sports Radar Markdown\n\n```md\n**William Carrier turns the Stanley Cup into a poutine station**\n\nOne Cup day combined hockey's biggest trophy with Quebec's most obvious menu choice.\n\nWhy it works: the championship ceremony still had time for gravy inspection.\n```\n"
+  },
+  {
+    "id": "wyoming-pullman-small-town-duel",
+    "rank": 5,
+    "title": "Wyoming's coach starts a small-town civil war",
+    "league": "NCAAF",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-17",
+    "heat": 90,
+    "tags": [
+      "r/CFB",
+      "Wyoming",
+      "Washington State",
+      "college towns"
+    ],
+    "public_ready": true,
+    "summary": "An r/CFB post quoted Wyoming coach Jay Sawvel taking a transfer-related swipe\nat Pullman, Washington. The thread responded by comparing Pullman and Laramie.",
+    "whyFunny": "The insult comes from a town close enough in size and college-football energy\nto invite an immediate mirror test. The debate becomes small-town Spider-Man pointing.",
+    "quote": "The college-town insult found a mirror.",
+    "sourceUrl": "https://www.reddit.com/r/CFB/comments/1uyoi7y/alex_taylor_wyoming_coach_jay_sawvel_at_mountain/",
+    "commentHighlights": [
+      {
+        "label": "Pot-meets-kettle geography",
+        "summary": "Fans argued that Laramie and Pullman are too similar for either side to claim urban superiority.",
+        "whyFunny": "The attempted drive-by loops directly back to the speaker's own college town.",
+        "sourceUrl": "https://www.reddit.com/r/CFB/comments/1uyoi7y/alex_taylor_wyoming_coach_jay_sawvel_at_mountain/"
+      },
+      {
+        "label": "Rivalry trophy invented",
+        "summary": "The thread proposed turning the town dispute into a Wyoming-Washington State rivalry game.",
+        "whyFunny": "One media-day aside gets a trophy concept before it gets a resolution.",
+        "sourceUrl": "https://www.reddit.com/r/CFB/comments/1uyoi7y/alex_taylor_wyoming_coach_jay_sawvel_at_mountain/"
+      }
+    ],
+    "markdown": "---\nid: wyoming-pullman-small-town-duel\nrank: 5\ntitle: \"Wyoming's coach starts a small-town civil war\"\nleague: \"NCAAF\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-17\"\nheat: 90\ntags:\n  - r/CFB\n  - Wyoming\n  - Washington State\n  - college towns\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB post quoted Wyoming coach Jay Sawvel taking a transfer-related swipe\nat Pullman, Washington. The thread responded by comparing Pullman and Laramie.\n\n## Why It Is Funny\n\nThe insult comes from a town close enough in size and college-football energy\nto invite an immediate mirror test. The debate becomes small-town Spider-Man pointing.\n\n## Comment Highlights\n\n- Label: Pot-meets-kettle geography\n  Summary: Fans argued that Laramie and Pullman are too similar for either side to claim urban superiority.\n  Why funny: The attempted drive-by loops directly back to the speaker's own college town.\n  Source URL: https://www.reddit.com/r/CFB/comments/1uyoi7y/alex_taylor_wyoming_coach_jay_sawvel_at_mountain/\n- Label: Rivalry trophy invented\n  Summary: The thread proposed turning the town dispute into a Wyoming-Washington State rivalry game.\n  Why funny: One media-day aside gets a trophy concept before it gets a resolution.\n  Source URL: https://www.reddit.com/r/CFB/comments/1uyoi7y/alex_taylor_wyoming_coach_jay_sawvel_at_mountain/\n\n## Quote\n\nThe college-town insult found a mirror.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1uyoi7y/alex_taylor_wyoming_coach_jay_sawvel_at_mountain/\n- Source type: Reddit / r/CFB top-day discussion\n- Verification notes: the post reproduces a public media-day remark; the public copy attributes the quote to the Reddit post and treats the town comparison as fan banter, not a factual ranking\n\n## Sports Radar Markdown\n\n```md\n**Wyoming's coach starts a small-town civil war**\n\nA swipe at Pullman sent college-football fans into an immediate Pullman-versus-Laramie comparison.\n\nWhy it works: the attempted town roast boomerangs into a mirror match.\n```\n"
   },
   {
     "id": "cade-giannis-free-throw-talk",
