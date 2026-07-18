@@ -1,5 +1,41 @@
 [
   {
+    "id": "st-louis-one-dollar-var-bid",
+    "rank": 1,
+    "title": "A one-dollar VAR bid enters review",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-18",
+    "heat": 98,
+    "tags": [
+      "r/soccer",
+      "St. Louis City",
+      "VAR",
+      "fan antics"
+    ],
+    "public_ready": true,
+    "summary": "During a St. Louis City VAR check, a young supporter jokingly offered a\none-dollar bill toward the official at the pitchside monitor.",
+    "whyFunny": "The smallest possible negotiating budget meets soccer's most serious review\nritual. The thread turned the VAR screen into a tip terminal almost instantly.",
+    "quote": "One dollar. Final offer.",
+    "sourceUrl": "https://www.reddit.com/r/soccer/comments/1uz4kmu/st_louis_city_supporter_takes_matters_into_his/",
+    "commentHighlights": [
+      {
+        "label": "Dollar-store negotiations",
+        "summary": "Fans debated whether the offer failed because the supporter opened with a single dollar.",
+        "whyFunny": "The joke gets analyzed like a badly structured transfer bid.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1uz4kmu/st_louis_city_supporter_takes_matters_into_his/"
+      },
+      {
+        "label": "Tip-screen replay",
+        "summary": "The thread imagined VAR adding preset gratuity buttons and digital payment options.",
+        "whyFunny": "A tense officiating process becomes the checkout screen everyone already resents.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1uz4kmu/st_louis_city_supporter_takes_matters_into_his/"
+      }
+    ],
+    "markdown": "---\nid: st-louis-one-dollar-var-bid\nrank: 1\ntitle: \"A one-dollar VAR bid enters review\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-18\"\nheat: 98\ntags:\n  - r/soccer\n  - St. Louis City\n  - VAR\n  - fan antics\npublic_ready: true\n---\n\n## Summary\n\nDuring a St. Louis City VAR check, a young supporter jokingly offered a\none-dollar bill toward the official at the pitchside monitor.\n\n## Why It Is Funny\n\nThe smallest possible negotiating budget meets soccer's most serious review\nritual. The thread turned the VAR screen into a tip terminal almost instantly.\n\n## Comment Highlights\n\n- Label: Dollar-store negotiations\n  Summary: Fans debated whether the offer failed because the supporter opened with a single dollar.\n  Why funny: The joke gets analyzed like a badly structured transfer bid.\n  Source URL: https://www.reddit.com/r/soccer/comments/1uz4kmu/st_louis_city_supporter_takes_matters_into_his/\n- Label: Tip-screen replay\n  Summary: The thread imagined VAR adding preset gratuity buttons and digital payment options.\n  Why funny: A tense officiating process becomes the checkout screen everyone already resents.\n  Source URL: https://www.reddit.com/r/soccer/comments/1uz4kmu/st_louis_city_supporter_takes_matters_into_his/\n\n## Quote\n\nOne dollar. Final offer.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1uz4kmu/st_louis_city_supporter_takes_matters_into_his/\n- Source type: Reddit / r/soccer top-day match clip\n- Verification notes: the public clip shows a playful one-dollar gesture during the review; the copy treats it as a fan joke and makes no claim of a real attempt to influence the official\n\n## Sports Radar Markdown\n\n```md\n**A one-dollar VAR bid enters review**\n\nA young St. Louis City supporter tried the smallest possible mock negotiation during a pitchside review.\n\nWhy it works: soccer's sternest ritual gets turned into a one-dollar checkout interaction.\n```\n"
+  },
+  {
     "id": "anthony-morrow-kd-text-whiplash",
     "rank": 1,
     "title": "Anthony Morrow's supportive text has a hard cutoff",
@@ -113,7 +149,7 @@
     "title": "LeBron answers Haliburton's pitch with two emojis",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-17",
     "heat": 98,
     "tags": [
@@ -141,7 +177,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1uyab54/dave_mcmenamin_tyrese_haliburton_said_he_made_a/"
       }
     ],
-    "markdown": "---\nid: haliburton-lebron-two-emoji-rejection\nrank: 1\ntitle: \"LeBron answers Haliburton's pitch with two emojis\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-17\"\nheat: 98\ntags:\n  - r/nba\n  - Tyrese Haliburton\n  - LeBron James\n  - free agency\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post relayed Tyrese Haliburton's story that he tried recruiting LeBron\nJames to Indiana and received two laughing emojis in reply.\n\n## Why It Is Funny\n\nA superstar pitch gets the same answer as an ambitious group-chat suggestion.\nThe thread treated two tiny symbols as a complete free-agency meeting.\n\n## Comment Highlights\n\n- Label: Soft rejection department\n  Summary: Fans recast the exchange as Haliburton taking his shot and getting politely friend-zoned.\n  Why funny: The biggest roster pitch of the offseason follows ordinary dating-text etiquette.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyab54/dave_mcmenamin_tyrese_haliburton_said_he_made_a/\n- Label: Emoji film study\n  Summary: The thread analyzed the exact number and size of the emojis as if they revealed LeBron's full intent.\n  Why funny: Two phone icons receive the scrutiny of a playoff possession.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyab54/dave_mcmenamin_tyrese_haliburton_said_he_made_a/\n\n## Quote\n\nTwo emojis closed the recruiting meeting.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uyab54/dave_mcmenamin_tyrese_haliburton_said_he_made_a/\n- Source type: Reddit / r/nba top-day discussion\n- Verification notes: the post relays Haliburton's public event story through a media report; the public copy attributes the account and does not present the exchange as evidence of a roster decision\n\n## Sports Radar Markdown\n\n```md\n**LeBron answers Haliburton's pitch with two emojis**\n\nHaliburton said his Indiana recruiting attempt ended when LeBron replied with two laughing emojis.\n\nWhy it works: a superstar pitch gets the same soft rejection as an overconfident group-chat plan.\n```\n"
+    "markdown": "---\nid: haliburton-lebron-two-emoji-rejection\nrank: 1\ntitle: \"LeBron answers Haliburton's pitch with two emojis\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-17\"\nheat: 98\ntags:\n  - r/nba\n  - Tyrese Haliburton\n  - LeBron James\n  - free agency\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post relayed Tyrese Haliburton's story that he tried recruiting LeBron\nJames to Indiana and received two laughing emojis in reply.\n\n## Why It Is Funny\n\nA superstar pitch gets the same answer as an ambitious group-chat suggestion.\nThe thread treated two tiny symbols as a complete free-agency meeting.\n\n## Comment Highlights\n\n- Label: Soft rejection department\n  Summary: Fans recast the exchange as Haliburton taking his shot and getting politely friend-zoned.\n  Why funny: The biggest roster pitch of the offseason follows ordinary dating-text etiquette.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyab54/dave_mcmenamin_tyrese_haliburton_said_he_made_a/\n- Label: Emoji film study\n  Summary: The thread analyzed the exact number and size of the emojis as if they revealed LeBron's full intent.\n  Why funny: Two phone icons receive the scrutiny of a playoff possession.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyab54/dave_mcmenamin_tyrese_haliburton_said_he_made_a/\n\n## Quote\n\nTwo emojis closed the recruiting meeting.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uyab54/dave_mcmenamin_tyrese_haliburton_said_he_made_a/\n- Source type: Reddit / r/nba top-day discussion\n- Verification notes: the post relays Haliburton's public event story through a media report; the public copy attributes the account and does not present the exchange as evidence of a roster decision\n\n## Sports Radar Markdown\n\n```md\n**LeBron answers Haliburton's pitch with two emojis**\n\nHaliburton said his Indiana recruiting attempt ended when LeBron replied with two laughing emojis.\n\nWhy it works: a superstar pitch gets the same soft rejection as an overconfident group-chat plan.\n```\n"
   },
   {
     "id": "lebron-contract-timing",
@@ -399,7 +435,7 @@
     "title": "Bald LeBron enters his final form",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-17",
     "heat": 96,
     "tags": [
@@ -427,7 +463,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1uyoliv/lebron_debuts_the_new_bald_look/"
       }
     ],
-    "markdown": "---\nid: bald-lebron-final-form\nrank: 2\ntitle: \"Bald LeBron enters his final form\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-17\"\nheat: 96\ntags:\n  - r/nba\n  - LeBron James\n  - hair\n  - offseason\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post shared LeBron James with a freshly shaved head, sending the\nthread into instant nickname, headband, and late-career-transformation mode.\n\n## Why It Is Funny\n\nOne haircut becomes a new basketball era before anyone sees a possession. Fans\ntreated the clean shave like the unlock screen for a veteran's final form.\n\n## Comment Highlights\n\n- Label: Full-Unc upgrade\n  Summary: Fans imagined the shaved head paired with a headband, gray beard, goggles, and increasingly elaborate veteran accessories.\n  Why funny: A simple haircut turns into a complete character-build menu.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyoliv/lebron_debuts_the_new_bald_look/\n- Label: Final-form scouting\n  Summary: The thread predicted that embracing the look would somehow make the league even less prepared for him.\n  Why funny: Hair maintenance is analyzed as a competitive variable.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyoliv/lebron_debuts_the_new_bald_look/\n\n## Quote\n\nThe haircut already has a scouting report.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uyoliv/lebron_debuts_the_new_bald_look/\n- Source type: Reddit / r/nba top-day public appearance clip\n- Verification notes: the source is a public appearance clip and fan reaction thread; the public copy describes the visible haircut and clearly frames performance predictions as jokes\n\n## Sports Radar Markdown\n\n```md\n**Bald LeBron enters his final form**\n\nLeBron showed up with a shaved head, and the thread immediately declared a new late-career evolution.\n\nWhy it works: one haircut gets treated like a competitive upgrade before he plays a minute.\n```\n"
+    "markdown": "---\nid: bald-lebron-final-form\nrank: 2\ntitle: \"Bald LeBron enters his final form\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-17\"\nheat: 96\ntags:\n  - r/nba\n  - LeBron James\n  - hair\n  - offseason\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post shared LeBron James with a freshly shaved head, sending the\nthread into instant nickname, headband, and late-career-transformation mode.\n\n## Why It Is Funny\n\nOne haircut becomes a new basketball era before anyone sees a possession. Fans\ntreated the clean shave like the unlock screen for a veteran's final form.\n\n## Comment Highlights\n\n- Label: Full-Unc upgrade\n  Summary: Fans imagined the shaved head paired with a headband, gray beard, goggles, and increasingly elaborate veteran accessories.\n  Why funny: A simple haircut turns into a complete character-build menu.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyoliv/lebron_debuts_the_new_bald_look/\n- Label: Final-form scouting\n  Summary: The thread predicted that embracing the look would somehow make the league even less prepared for him.\n  Why funny: Hair maintenance is analyzed as a competitive variable.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyoliv/lebron_debuts_the_new_bald_look/\n\n## Quote\n\nThe haircut already has a scouting report.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uyoliv/lebron_debuts_the_new_bald_look/\n- Source type: Reddit / r/nba top-day public appearance clip\n- Verification notes: the source is a public appearance clip and fan reaction thread; the public copy describes the visible haircut and clearly frames performance predictions as jokes\n\n## Sports Radar Markdown\n\n```md\n**Bald LeBron enters his final form**\n\nLeBron showed up with a shaved head, and the thread immediately declared a new late-career evolution.\n\nWhy it works: one haircut gets treated like a competitive upgrade before he plays a minute.\n```\n"
   },
   {
     "id": "blake-voicemail-psychologist",
@@ -596,6 +632,42 @@
     "markdown": "---\nid: joe-flacco-visor-roast\nrank: 2\ntitle: \"Joe Flacco turns a quarterback visor into a roast target\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-14\"\nheat: 95\ntags:\n  - r/nfl\n  - Joe Flacco\n  - Shedeur Sanders\n  - visor\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl clip showed Joe Flacco delivering his blunt opinion about quarterbacks\nin visors while Shedeur Sanders stood beside him wearing one.\n\n## Why It Is Funny\n\nThe equipment critique has a visible target and no escape route. It is veteran\nlocker-room timing reduced to one accessory and one extremely present teammate.\n\n## Comment Highlights\n\n- Label: The mirrored defense\n  Summary: Fans invented increasingly technical reasons the visor might still be helping its wearer.\n  Why funny: A fashion roast gets answered like a serious piece of quarterback analysis.\n  Source URL: https://www.reddit.com/r/nfl/comments/1uw3a1t/highlight_joe_flacco_makes_fun_of_shedeur_sanders/\n- Label: Subtlety was inactive\n  Summary: The thread kept returning to how directly the opinion landed with Sanders standing right there.\n  Why funny: The target did not need to wonder whether the comment was about him.\n  Source URL: https://www.reddit.com/r/nfl/comments/1uw3a1t/highlight_joe_flacco_makes_fun_of_shedeur_sanders/\n\n## Quote\n\nThe equipment review became a live performance review.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1uw3a1t/highlight_joe_flacco_makes_fun_of_shedeur_sanders/\n- Source type: Reddit / r/nfl top-day series clip\n- Verification notes: the public post and replies confirm the visor roast and Sanders's presence; omit the raw profanity and keep the framing to the visible locker-room exchange\n\n## Sports Radar Markdown\n\n```md\n**Joe Flacco turns a quarterback visor into a roast target**\n\nThe veteran delivered an equipment opinion beside the teammate wearing the equipment.\n\nWhy it works: the accessory critique came with a visible target and no ambiguity.\n```\n"
   },
   {
+    "id": "rodman-no-modern-scouting-report",
+    "rank": 2,
+    "title": "Rodman's scouting report is no scouting",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-18",
+    "heat": 96,
+    "tags": [
+      "r/nba",
+      "Dennis Rodman",
+      "Josh Hart",
+      "player comparisons"
+    ],
+    "public_ready": true,
+    "summary": "A fan asked Dennis Rodman which current player resembles him and suggested\nJosh Hart. Rodman said he could not answer because he does not watch basketball.",
+    "whyFunny": "The perfect retired-player comparison question reaches a man who has opted out\nof the entire comparison database. The scouting session ends before it starts.",
+    "quote": "The comp question met an out-of-office reply.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1uzg5uy/fan_is_josh_hart_the_version_of_you_hes_small_he/",
+    "commentHighlights": [
+      {
+        "label": "No modern comp",
+        "summary": "Fans argued that Rodman's rebounding peak makes every present-day comparison feel undersized.",
+        "whyFunny": "The thread keeps scouting after the person being scouted has clocked out.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uzg5uy/fan_is_josh_hart_the_version_of_you_hes_small_he/"
+      },
+      {
+        "label": "Rebound calculator",
+        "summary": "The discussion quickly moved from Hart's strong rebounding to Rodman's absurd peak numbers.",
+        "whyFunny": "A blunt non-answer triggers a full statistical defense anyway.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uzg5uy/fan_is_josh_hart_the_version_of_you_hes_small_he/"
+      }
+    ],
+    "markdown": "---\nid: rodman-no-modern-scouting-report\nrank: 2\ntitle: \"Rodman's scouting report is no scouting\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-18\"\nheat: 96\ntags:\n  - r/nba\n  - Dennis Rodman\n  - Josh Hart\n  - player comparisons\npublic_ready: true\n---\n\n## Summary\n\nA fan asked Dennis Rodman which current player resembles him and suggested\nJosh Hart. Rodman said he could not answer because he does not watch basketball.\n\n## Why It Is Funny\n\nThe perfect retired-player comparison question reaches a man who has opted out\nof the entire comparison database. The scouting session ends before it starts.\n\n## Comment Highlights\n\n- Label: No modern comp\n  Summary: Fans argued that Rodman's rebounding peak makes every present-day comparison feel undersized.\n  Why funny: The thread keeps scouting after the person being scouted has clocked out.\n  Source URL: https://www.reddit.com/r/nba/comments/1uzg5uy/fan_is_josh_hart_the_version_of_you_hes_small_he/\n- Label: Rebound calculator\n  Summary: The discussion quickly moved from Hart's strong rebounding to Rodman's absurd peak numbers.\n  Why funny: A blunt non-answer triggers a full statistical defense anyway.\n  Source URL: https://www.reddit.com/r/nba/comments/1uzg5uy/fan_is_josh_hart_the_version_of_you_hes_small_he/\n\n## Quote\n\nThe comp question met an out-of-office reply.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uzg5uy/fan_is_josh_hart_the_version_of_you_hes_small_he/\n- Source type: Reddit / r/nba top-day public-interaction discussion\n- Verification notes: the public post preserves the short fan question and Rodman's response; the public copy paraphrases the exchange and keeps the fan reaction separate\n\n## Sports Radar Markdown\n\n```md\n**Rodman's scouting report is no scouting**\n\nAsked which current player resembles him, Dennis Rodman said he could not tell because he does not watch basketball.\n\nWhy it works: the perfect legend-comparison prompt finds a legend who deleted the whole database.\n```\n"
+  },
+  {
     "id": "seiya-suzuki-hundred-bananas",
     "rank": 2,
     "title": "Seiya Suzuki prescribes himself 100 bananas",
@@ -709,7 +781,7 @@
     "title": "Dwight Howard finds Andrew Bynum in the wild",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-17",
     "heat": 94,
     "tags": [
@@ -737,7 +809,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/"
       }
     ],
-    "markdown": "---\nid: dwight-bynum-nyc-encounter\nrank: 3\ntitle: \"Dwight Howard finds Andrew Bynum in the wild\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-17\"\nheat: 94\ntags:\n  - r/nba\n  - Dwight Howard\n  - Andrew Bynum\n  - NBA nostalgia\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba street clip showed Dwight Howard unexpectedly spotting Andrew Bynum\nin New York City. They exchanged a quick greeting, and Bynum kept moving.\n\n## Why It Is Funny\n\nTwo giant pieces of late-2000s NBA lore collide on an ordinary sidewalk, but\nthe reunion has the brisk energy of passing a former coworker near the train.\n\n## Comment Highlights\n\n- Label: Keep-it-moving reunion\n  Summary: Fans fixated on how quickly Bynum acknowledged the encounter and continued down the sidewalk.\n  Why funny: The surprise reunion lasts less time than the nostalgia it triggers.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/\n- Label: Time-capsule sighting\n  Summary: The thread reflected on how long Bynum has stayed out of the basketball spotlight.\n  Why funny: A casual New York crossing becomes an accidental NBA alumni update.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/\n\n## Quote\n\nThe reunion was shorter than the memory lane.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/\n- Source type: Reddit / r/nba top-day street clip\n- Verification notes: the clip visibly shows the brief public encounter; the public copy avoids speculation about Bynum's private life or reasons for leaving the spotlight\n\n## Sports Radar Markdown\n\n```md\n**Dwight Howard finds Andrew Bynum in the wild**\n\nDwight spotted Bynum on a New York sidewalk, got a quick greeting, and watched him keep moving.\n\nWhy it works: a huge NBA nostalgia event plays out like two former coworkers passing near the train.\n```\n"
+    "markdown": "---\nid: dwight-bynum-nyc-encounter\nrank: 3\ntitle: \"Dwight Howard finds Andrew Bynum in the wild\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-17\"\nheat: 94\ntags:\n  - r/nba\n  - Dwight Howard\n  - Andrew Bynum\n  - NBA nostalgia\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba street clip showed Dwight Howard unexpectedly spotting Andrew Bynum\nin New York City. They exchanged a quick greeting, and Bynum kept moving.\n\n## Why It Is Funny\n\nTwo giant pieces of late-2000s NBA lore collide on an ordinary sidewalk, but\nthe reunion has the brisk energy of passing a former coworker near the train.\n\n## Comment Highlights\n\n- Label: Keep-it-moving reunion\n  Summary: Fans fixated on how quickly Bynum acknowledged the encounter and continued down the sidewalk.\n  Why funny: The surprise reunion lasts less time than the nostalgia it triggers.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/\n- Label: Time-capsule sighting\n  Summary: The thread reflected on how long Bynum has stayed out of the basketball spotlight.\n  Why funny: A casual New York crossing becomes an accidental NBA alumni update.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/\n\n## Quote\n\nThe reunion was shorter than the memory lane.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/\n- Source type: Reddit / r/nba top-day street clip\n- Verification notes: the clip visibly shows the brief public encounter; the public copy avoids speculation about Bynum's private life or reasons for leaving the spotlight\n\n## Sports Radar Markdown\n\n```md\n**Dwight Howard finds Andrew Bynum in the wild**\n\nDwight spotted Bynum on a New York sidewalk, got a quick greeting, and watched him keep moving.\n\nWhy it works: a huge NBA nostalgia event plays out like two former coworkers passing near the train.\n```\n"
   },
   {
     "id": "ja-morant-teammate-ragebait",
@@ -907,6 +979,42 @@
     "markdown": "---\nid: kyle-juszczyk-contract-position\nrank: 3\ntitle: \"Kyle Juszczyk changes positions when payroll opens\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-13\"\nheat: 92\ntags:\n  - r/nfl\n  - Kyle Juszczyk\n  - fullback\n  - contracts\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl post framed Kyle Juszczyk as a tight end or fullback, with Kyle joking\nthat the fullback label is the one that hurts at negotiation time.\n\n## Why It Is Funny\n\nHe can be a hybrid everywhere except the paycheck. Positionless football\nsuddenly finds a very specific label when the contract spreadsheet opens.\n\n## Comment Highlights\n\n## Quote\n\nThe depth chart changes when payroll opens.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1uuq3yd/is_49ers_kyle_juszczyk_a_te_or_fb_im_a_fullback/\n- Source type: Reddit / r/nfl top-day interview headline\n- Verification notes: public post carries Juszczyk's contract-position joke; summarize the framing without making claims about a current negotiation\n\n## Sports Radar Markdown\n\n```md\n**Kyle Juszczyk changes positions when payroll opens**\n\nThe hybrid role becomes much less mysterious as soon as contract math begins.\n\nWhy it works: Positionless football meets a very specific pay category.\n```\n"
   },
   {
+    "id": "reaves-luka-home-bowling",
+    "rank": 3,
+    "title": "Luka loses home-lane advantage at 5:30 a.m.",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-18",
+    "heat": 94,
+    "tags": [
+      "r/nba",
+      "Austin Reaves",
+      "Luka Doncic",
+      "bowling"
+    ],
+    "public_ready": true,
+    "summary": "Austin Reaves said a New Year's Eve visit to Luka Doncic's house became a\nbowling session that lasted until 5:30 a.m., with Reaves winning on Luka's lane.",
+    "whyFunny": "A private home bowling alley should be the strongest home-field advantage in\nsports. Instead, it becomes the site of an all-night teammate road win.",
+    "quote": "Home lane. Road result.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1uzfk50/reaves_talks_about_spending_nye_at_lukas_house_we/",
+    "commentHighlights": [
+      {
+        "label": "Home-lane humiliation",
+        "summary": "Fans focused on how much worse losing feels when the opponent beats you on the lane installed inside your own house.",
+        "whyFunny": "Luxury-home convenience creates an extremely specific form of home defeat.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uzfk50/reaves_talks_about_spending_nye_at_lukas_house_we/"
+      },
+      {
+        "label": "Bowling family tree",
+        "summary": "The thread recycled basketball's exaggerated father-son rivalry meme for Reaves and Luka's bowling record.",
+        "whyFunny": "A casual teammate night gets promoted into another branch of NBA lore.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uzfk50/reaves_talks_about_spending_nye_at_lukas_house_we/"
+      }
+    ],
+    "markdown": "---\nid: reaves-luka-home-bowling\nrank: 3\ntitle: \"Luka loses home-lane advantage at 5:30 a.m.\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-18\"\nheat: 94\ntags:\n  - r/nba\n  - Austin Reaves\n  - Luka Doncic\n  - bowling\npublic_ready: true\n---\n\n## Summary\n\nAustin Reaves said a New Year's Eve visit to Luka Doncic's house became a\nbowling session that lasted until 5:30 a.m., with Reaves winning on Luka's lane.\n\n## Why It Is Funny\n\nA private home bowling alley should be the strongest home-field advantage in\nsports. Instead, it becomes the site of an all-night teammate road win.\n\n## Comment Highlights\n\n- Label: Home-lane humiliation\n  Summary: Fans focused on how much worse losing feels when the opponent beats you on the lane installed inside your own house.\n  Why funny: Luxury-home convenience creates an extremely specific form of home defeat.\n  Source URL: https://www.reddit.com/r/nba/comments/1uzfk50/reaves_talks_about_spending_nye_at_lukas_house_we/\n- Label: Bowling family tree\n  Summary: The thread recycled basketball's exaggerated father-son rivalry meme for Reaves and Luka's bowling record.\n  Why funny: A casual teammate night gets promoted into another branch of NBA lore.\n  Source URL: https://www.reddit.com/r/nba/comments/1uzfk50/reaves_talks_about_spending_nye_at_lukas_house_we/\n\n## Quote\n\nHome lane. Road result.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uzfk50/reaves_talks_about_spending_nye_at_lukas_house_we/\n- Source type: Reddit / r/nba top-day discussion of a public Reaves story\n- Verification notes: the post attributes the New Year's Eve bowling story to Reaves; the public copy keeps that attribution and avoids adding claims about either player's private routine\n\n## Sports Radar Markdown\n\n```md\n**Luka loses home-lane advantage at 5:30 a.m.**\n\nAustin Reaves said he beat Luka at bowling during an all-night session on Luka's own home lane.\n\nWhy it works: the most expensive possible home-field advantage still ends in a teammate road win.\n```\n"
+  },
+  {
     "id": "one-off-nfl-uniform-museum",
     "rank": 3,
     "title": "One-off NFL uniforms become a museum of abandoned ideas",
@@ -1050,6 +1158,42 @@
     "markdown": "---\nid: japanese-fan-brazil-mexico-comfort\nrank: 3\ntitle: \"World Cup heartbreak gets immediate international group-hug energy\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-06-30\"\nheat: 88\ntags:\n  - r/sports\n  - World Cup\n  - fan culture\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports post showed a crushed Japan fan being comforted by Brazilian fans\nand then lifted up by Mexican fans after elimination.\n\n## Why It Is Funny\n\nIt has the exact emotional swing Sports Radar wants: total sports despair\nimmediately converted into chaotic stadium community therapy.\n\n## Comment Highlights\n\n- Label: Rival fans become support staff\n  Summary: The thread treats the scene as a tiny World Cup diplomacy clip: one fan's sadness gets handled by strangers in other colors.\n  Why funny: It turns elimination pain into a cross-national group project.\n  Source URL: https://www.reddit.com/r/sports/comments/1ujimog/japanese_fan_broke_down_in_tears_after_his/\n- Label: Lifted out of sadness\n  Summary: The best reaction is visual and simple: the fan literally gets lifted into the celebration instead of left alone with the loss.\n  Why funny: It is almost too on-the-nose as a sports metaphor, which is why it works.\n  Source URL: https://www.reddit.com/r/sports/comments/1ujimog/japanese_fan_broke_down_in_tears_after_his/\n\n## Quote\n\nThe group chat became an actual group lift.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1ujimog/japanese_fan_broke_down_in_tears_after_his/\n- Source type: Reddit / r/sports top-day thread\n- Verification notes: use as public fan-culture commentary; avoid reposting identifiable fan imagery without review\n\n## Sports Radar Markdown\n\n```md\n**World Cup heartbreak gets immediate international group-hug energy**\n\nAn r/sports post turned elimination sadness into a stadium-wide support scene.\n\nWhy it works: sports despair got converted into chaotic community therapy.\n```\n"
   },
   {
+    "id": "cliffside-cricket-outfield",
+    "rank": 4,
+    "title": "Cricket finds a cliffside outfield",
+    "league": "Cricket",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-18",
+    "heat": 92,
+    "tags": [
+      "r/sports",
+      "cricket",
+      "mountain sports",
+      "fielding"
+    ],
+    "public_ready": true,
+    "summary": "An r/sports clip showed a cricket game stretched across steep mountain terrain,\nincluding a fielder returning the ball from the rocks below the playing area.",
+    "whyFunny": "Cricket already has a deep vocabulary for fielding positions. A vertical\noutfield makes the sport look like it needs altitude coordinates too.",
+    "quote": "The outfield now has an elevation chart.",
+    "sourceUrl": "https://www.reddit.com/r/sports/comments/1uzafgy/playing_cricket_on_a_literal_cliffside_in_the/",
+    "commentHighlights": [
+      {
+        "label": "Vertical field setting",
+        "summary": "Fans started inventing downhill versions of familiar cricket positions.",
+        "whyFunny": "The scorecard suddenly needs topography.",
+        "sourceUrl": "https://www.reddit.com/r/sports/comments/1uzafgy/playing_cricket_on_a_literal_cliffside_in_the/"
+      },
+      {
+        "label": "Return from the rocks",
+        "summary": "The thread admired the long throw back up from below despite the improvised terrain.",
+        "whyFunny": "The most difficult part of the outfield is simply getting back to level ground.",
+        "sourceUrl": "https://www.reddit.com/r/sports/comments/1uzafgy/playing_cricket_on_a_literal_cliffside_in_the/"
+      }
+    ],
+    "markdown": "---\nid: cliffside-cricket-outfield\nrank: 4\ntitle: \"Cricket finds a cliffside outfield\"\nleague: \"Cricket\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-18\"\nheat: 92\ntags:\n  - r/sports\n  - cricket\n  - mountain sports\n  - fielding\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports clip showed a cricket game stretched across steep mountain terrain,\nincluding a fielder returning the ball from the rocks below the playing area.\n\n## Why It Is Funny\n\nCricket already has a deep vocabulary for fielding positions. A vertical\noutfield makes the sport look like it needs altitude coordinates too.\n\n## Comment Highlights\n\n- Label: Vertical field setting\n  Summary: Fans started inventing downhill versions of familiar cricket positions.\n  Why funny: The scorecard suddenly needs topography.\n  Source URL: https://www.reddit.com/r/sports/comments/1uzafgy/playing_cricket_on_a_literal_cliffside_in_the/\n- Label: Return from the rocks\n  Summary: The thread admired the long throw back up from below despite the improvised terrain.\n  Why funny: The most difficult part of the outfield is simply getting back to level ground.\n  Source URL: https://www.reddit.com/r/sports/comments/1uzafgy/playing_cricket_on_a_literal_cliffside_in_the/\n\n## Quote\n\nThe outfield now has an elevation chart.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1uzafgy/playing_cricket_on_a_literal_cliffside_in_the/\n- Source type: Reddit / r/sports top-day cricket clip\n- Verification notes: the public clip visibly shows play on steep rocky mountain terrain and a return throw from below; no location or participant identity is asserted\n\n## Sports Radar Markdown\n\n```md\n**Cricket finds a cliffside outfield**\n\nA mountain cricket game sent one fielder down the rocks and the return throw back uphill.\n\nWhy it works: familiar fielding positions suddenly need altitude coordinates.\n```\n"
+  },
+  {
     "id": "cristo-fernandez-pro-debut",
     "rank": 4,
     "title": "Dani Rojas crosses into real pro soccer",
@@ -1091,7 +1235,7 @@
     "title": "Galaxy Stadium puts the Big 12 in orbit",
     "league": "NCAAF",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-17",
     "heat": 92,
     "tags": [
@@ -1119,7 +1263,7 @@
         "sourceUrl": "https://www.reddit.com/r/CFB/comments/1uyy87s/galaxy_stadium_texas_tech_lands_75_million_naming/"
       }
     ],
-    "markdown": "---\nid: galaxy-stadium-big-12-orbit\nrank: 4\ntitle: \"Galaxy Stadium puts the Big 12 in orbit\"\nleague: \"NCAAF\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-17\"\nheat: 92\ntags:\n  - r/CFB\n  - Texas Tech\n  - stadium names\n  - Big 12\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB post linking a report about Texas Tech's planned Galaxy Stadium name\nprompted fans to debate whether they would ever stop calling the venue the Jones.\n\n## Why It Is Funny\n\nCorporate naming rights accidentally give a West Texas football stadium a\nsci-fi name. The thread immediately drafts the rest of the Big 12 into a space conference.\n\n## Comment Highlights\n\n- Label: Legacy-name resistance\n  Summary: Fans compared the change to famous buildings whose old names survived every sponsor update.\n  Why funny: A multimillion-dollar rebrand meets the unstoppable force of local habit.\n  Source URL: https://www.reddit.com/r/CFB/comments/1uyy87s/galaxy_stadium_texas_tech_lands_75_million_naming/\n- Label: Space-conference expansion\n  Summary: The thread grouped Galaxy Stadium with other Big 12 space associations and started inventing more cosmic sponsors.\n  Why funny: One venue name turns conference realignment into a solar-system map.\n  Source URL: https://www.reddit.com/r/CFB/comments/1uyy87s/galaxy_stadium_texas_tech_lands_75_million_naming/\n\n## Quote\n\nThe Big 12 has entered its space era.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1uyy87s/galaxy_stadium_texas_tech_lands_75_million_naming/\n- Source type: Reddit / r/CFB top-day link discussion\n- Verification notes: the Reddit post links an On3 report about the planned naming-rights change; the public copy attributes the report and focuses on fan reaction rather than independently asserting deal terms\n\n## Sports Radar Markdown\n\n```md\n**Galaxy Stadium puts the Big 12 in orbit**\n\nA reported Texas Tech stadium rename gave West Texas football a sci-fi label and fans a fresh reason to ignore corporate naming rights.\n\nWhy it works: one sponsor turns the conference map into a space program.\n```\n"
+    "markdown": "---\nid: galaxy-stadium-big-12-orbit\nrank: 4\ntitle: \"Galaxy Stadium puts the Big 12 in orbit\"\nleague: \"NCAAF\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-17\"\nheat: 92\ntags:\n  - r/CFB\n  - Texas Tech\n  - stadium names\n  - Big 12\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB post linking a report about Texas Tech's planned Galaxy Stadium name\nprompted fans to debate whether they would ever stop calling the venue the Jones.\n\n## Why It Is Funny\n\nCorporate naming rights accidentally give a West Texas football stadium a\nsci-fi name. The thread immediately drafts the rest of the Big 12 into a space conference.\n\n## Comment Highlights\n\n- Label: Legacy-name resistance\n  Summary: Fans compared the change to famous buildings whose old names survived every sponsor update.\n  Why funny: A multimillion-dollar rebrand meets the unstoppable force of local habit.\n  Source URL: https://www.reddit.com/r/CFB/comments/1uyy87s/galaxy_stadium_texas_tech_lands_75_million_naming/\n- Label: Space-conference expansion\n  Summary: The thread grouped Galaxy Stadium with other Big 12 space associations and started inventing more cosmic sponsors.\n  Why funny: One venue name turns conference realignment into a solar-system map.\n  Source URL: https://www.reddit.com/r/CFB/comments/1uyy87s/galaxy_stadium_texas_tech_lands_75_million_naming/\n\n## Quote\n\nThe Big 12 has entered its space era.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1uyy87s/galaxy_stadium_texas_tech_lands_75_million_naming/\n- Source type: Reddit / r/CFB top-day link discussion\n- Verification notes: the Reddit post links an On3 report about the planned naming-rights change; the public copy attributes the report and focuses on fan reaction rather than independently asserting deal terms\n\n## Sports Radar Markdown\n\n```md\n**Galaxy Stadium puts the Big 12 in orbit**\n\nA reported Texas Tech stadium rename gave West Texas football a sci-fi label and fans a fresh reason to ignore corporate naming rights.\n\nWhy it works: one sponsor turns the conference map into a space program.\n```\n"
   },
   {
     "id": "japan-knockout-world-cup-curse",
@@ -1419,6 +1563,42 @@
     "markdown": "---\nid: laz-diaz-plate-mic-aside\nrank: 5\ntitle: \"A plate mic catches the umpire's last-inning complaint\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-13\"\nheat: 88\ntags:\n  - r/baseball\n  - Laz Diaz\n  - plate-mic\n  - broadcast\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball highlight caught plate umpire Laz Diaz venting into the field mic\nafter a foul ball hit him late in the game.\n\n## Why It Is Funny\n\nThe mic turned a painful workplace complaint into an accidental broadcast\naside. The comedy is the timing and the live audio, not the hit.\n\n## Comment Highlights\n\n## Quote\n\nThe plate mic picked the worst moment to be excellent.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1uusciv/highlight_laz_díaz_takes_a_foul_ball_to_the_beans/\n- Source type: Reddit / r/baseball top-day broadcast highlight\n- Verification notes: public highlight title identifies the late-game foul ball and live-mic reaction; do not reproduce the raw profanity\n\n## Sports Radar Markdown\n\n```md\n**A plate mic catches the umpire's last-inning complaint**\n\nOne late foul ball turned the field microphone into accidental workplace audio.\n\nWhy it works: The broadcast equipment chose the most inconvenient moment to excel.\n```\n"
   },
   {
+    "id": "cam-ward-dodgeball-restraint",
+    "rank": 5,
+    "title": "Cam Ward discovers dodgeball restraint",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-18",
+    "heat": 90,
+    "tags": [
+      "r/nfl",
+      "Cam Ward",
+      "dodgeball",
+      "quarterback arm"
+    ],
+    "public_ready": true,
+    "summary": "In an r/nfl clip, Cam Ward admitted that playing dodgeball with elementary\nschoolers required him to resist using the full quarterback arm.",
+    "whyFunny": "The usual job is to fire the ball as hard and accurately as possible. The\nschool-gym assignment is the exact opposite, and Ward had to narrate the restraint.",
+    "quote": "The cannon arm entered child-safe mode.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1uz41wx/highlight_cam_ward_on_playing_dodgeball_with/",
+    "commentHighlights": [
+      {
+        "label": "Laser-arm deactivation",
+        "summary": "Fans joked that Ward's professional throwing ability was finally a competitive disadvantage.",
+        "whyFunny": "The prized quarterback tool has to be placed in child-safe mode.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1uz41wx/highlight_cam_ward_on_playing_dodgeball_with/"
+      },
+      {
+        "label": "Intrusive-thought pocket",
+        "summary": "The thread related to thinking about the chaotic option and then behaving normally.",
+        "whyFunny": "Quarterback decision-making becomes a very ordinary self-control test.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1uz41wx/highlight_cam_ward_on_playing_dodgeball_with/"
+      }
+    ],
+    "markdown": "---\nid: cam-ward-dodgeball-restraint\nrank: 5\ntitle: \"Cam Ward discovers dodgeball restraint\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-18\"\nheat: 90\ntags:\n  - r/nfl\n  - Cam Ward\n  - dodgeball\n  - quarterback arm\npublic_ready: true\n---\n\n## Summary\n\nIn an r/nfl clip, Cam Ward admitted that playing dodgeball with elementary\nschoolers required him to resist using the full quarterback arm.\n\n## Why It Is Funny\n\nThe usual job is to fire the ball as hard and accurately as possible. The\nschool-gym assignment is the exact opposite, and Ward had to narrate the restraint.\n\n## Comment Highlights\n\n- Label: Laser-arm deactivation\n  Summary: Fans joked that Ward's professional throwing ability was finally a competitive disadvantage.\n  Why funny: The prized quarterback tool has to be placed in child-safe mode.\n  Source URL: https://www.reddit.com/r/nfl/comments/1uz41wx/highlight_cam_ward_on_playing_dodgeball_with/\n- Label: Intrusive-thought pocket\n  Summary: The thread related to thinking about the chaotic option and then behaving normally.\n  Why funny: Quarterback decision-making becomes a very ordinary self-control test.\n  Source URL: https://www.reddit.com/r/nfl/comments/1uz41wx/highlight_cam_ward_on_playing_dodgeball_with/\n\n## Quote\n\nThe cannon arm entered child-safe mode.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1uz41wx/highlight_cam_ward_on_playing_dodgeball_with/\n- Source type: Reddit / r/nfl top-day interview highlight\n- Verification notes: the public clip and post title capture Ward describing the restraint; the public copy removes profanity and does not suggest any child was harmed\n\n## Sports Radar Markdown\n\n```md\n**Cam Ward discovers dodgeball restraint**\n\nCam Ward said elementary-school dodgeball made him resist using the full quarterback arm.\n\nWhy it works: an NFL throwing tool gets switched into child-safe mode.\n```\n"
+  },
+  {
     "id": "qb-first-pass-memory-lane",
     "rank": 5,
     "title": "First career QB throws become instant football memory lane",
@@ -1710,7 +1890,7 @@
     "title": "Wyoming's coach starts a small-town civil war",
     "league": "NCAAF",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-17",
     "heat": 90,
     "tags": [
@@ -1738,7 +1918,7 @@
         "sourceUrl": "https://www.reddit.com/r/CFB/comments/1uyoi7y/alex_taylor_wyoming_coach_jay_sawvel_at_mountain/"
       }
     ],
-    "markdown": "---\nid: wyoming-pullman-small-town-duel\nrank: 5\ntitle: \"Wyoming's coach starts a small-town civil war\"\nleague: \"NCAAF\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-17\"\nheat: 90\ntags:\n  - r/CFB\n  - Wyoming\n  - Washington State\n  - college towns\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB post quoted Wyoming coach Jay Sawvel taking a transfer-related swipe\nat Pullman, Washington. The thread responded by comparing Pullman and Laramie.\n\n## Why It Is Funny\n\nThe insult comes from a town close enough in size and college-football energy\nto invite an immediate mirror test. The debate becomes small-town Spider-Man pointing.\n\n## Comment Highlights\n\n- Label: Pot-meets-kettle geography\n  Summary: Fans argued that Laramie and Pullman are too similar for either side to claim urban superiority.\n  Why funny: The attempted drive-by loops directly back to the speaker's own college town.\n  Source URL: https://www.reddit.com/r/CFB/comments/1uyoi7y/alex_taylor_wyoming_coach_jay_sawvel_at_mountain/\n- Label: Rivalry trophy invented\n  Summary: The thread proposed turning the town dispute into a Wyoming-Washington State rivalry game.\n  Why funny: One media-day aside gets a trophy concept before it gets a resolution.\n  Source URL: https://www.reddit.com/r/CFB/comments/1uyoi7y/alex_taylor_wyoming_coach_jay_sawvel_at_mountain/\n\n## Quote\n\nThe college-town insult found a mirror.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1uyoi7y/alex_taylor_wyoming_coach_jay_sawvel_at_mountain/\n- Source type: Reddit / r/CFB top-day discussion\n- Verification notes: the post reproduces a public media-day remark; the public copy attributes the quote to the Reddit post and treats the town comparison as fan banter, not a factual ranking\n\n## Sports Radar Markdown\n\n```md\n**Wyoming's coach starts a small-town civil war**\n\nA swipe at Pullman sent college-football fans into an immediate Pullman-versus-Laramie comparison.\n\nWhy it works: the attempted town roast boomerangs into a mirror match.\n```\n"
+    "markdown": "---\nid: wyoming-pullman-small-town-duel\nrank: 5\ntitle: \"Wyoming's coach starts a small-town civil war\"\nleague: \"NCAAF\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-17\"\nheat: 90\ntags:\n  - r/CFB\n  - Wyoming\n  - Washington State\n  - college towns\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB post quoted Wyoming coach Jay Sawvel taking a transfer-related swipe\nat Pullman, Washington. The thread responded by comparing Pullman and Laramie.\n\n## Why It Is Funny\n\nThe insult comes from a town close enough in size and college-football energy\nto invite an immediate mirror test. The debate becomes small-town Spider-Man pointing.\n\n## Comment Highlights\n\n- Label: Pot-meets-kettle geography\n  Summary: Fans argued that Laramie and Pullman are too similar for either side to claim urban superiority.\n  Why funny: The attempted drive-by loops directly back to the speaker's own college town.\n  Source URL: https://www.reddit.com/r/CFB/comments/1uyoi7y/alex_taylor_wyoming_coach_jay_sawvel_at_mountain/\n- Label: Rivalry trophy invented\n  Summary: The thread proposed turning the town dispute into a Wyoming-Washington State rivalry game.\n  Why funny: One media-day aside gets a trophy concept before it gets a resolution.\n  Source URL: https://www.reddit.com/r/CFB/comments/1uyoi7y/alex_taylor_wyoming_coach_jay_sawvel_at_mountain/\n\n## Quote\n\nThe college-town insult found a mirror.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1uyoi7y/alex_taylor_wyoming_coach_jay_sawvel_at_mountain/\n- Source type: Reddit / r/CFB top-day discussion\n- Verification notes: the post reproduces a public media-day remark; the public copy attributes the quote to the Reddit post and treats the town comparison as fan banter, not a factual ranking\n\n## Sports Radar Markdown\n\n```md\n**Wyoming's coach starts a small-town civil war**\n\nA swipe at Pullman sent college-football fans into an immediate Pullman-versus-Laramie comparison.\n\nWhy it works: the attempted town roast boomerangs into a mirror match.\n```\n"
   },
   {
     "id": "cade-giannis-free-throw-talk",
