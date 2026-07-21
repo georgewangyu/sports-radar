@@ -108,6 +108,42 @@
     "markdown": "---\nid: nba-full-name-lineup\nrank: 1\ntitle: \"Four NBA stars accidentally form a full-name loop\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-12\"\nheat: 96\ntags:\n  - r/nba\n  - wordplay\n  - Paul George\n  - LeBron James\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post noticed that Paul George, Chris Paul, LeBron James, and James\nHarden could have turned a team sheet into a chain of matching first and last names.\n\n## Why It Is Funny\n\nIt is roster construction by word puzzle. Four famous players become one long\nname that basketball fans somehow waited decades to notice.\n\n## Comment Highlights\n\n- Label: The order matters\n  Summary: Fans immediately started arranging the four names like lineup pieces until every handoff worked.\n  Why funny: A hypothetical superteam is judged by grammar instead of basketball fit.\n  Source URL: https://www.reddit.com/r/nba/comments/1uueuvo/if_paul_george_chris_paul_lebron_james_and_james/\n- Label: One nickname away\n  Summary: The thread proposed renaming one player to make the loop even cleaner.\n  Why funny: The solution to imperfect wordplay is apparently a veteran rebrand.\n  Source URL: https://www.reddit.com/r/nba/comments/1uueuvo/if_paul_george_chris_paul_lebron_james_and_james/\n\n## Quote\n\nThe depth chart became a word ladder.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uueuvo/if_paul_george_chris_paul_lebron_james_and_james/\n- Source type: Reddit / r/nba top-day discussion\n- Verification notes: public page confirms the four-player name-chain premise; present only as fan wordplay, not as a claim that the lineup nearly existed\n\n## Sports Radar Markdown\n\n```md\n**Four NBA stars accidentally form a full-name loop**\n\nPaul George, Chris Paul, LeBron James, and James Harden make roster construction look like a word puzzle.\n\nWhy it works: The imaginary superteam has perfect name chemistry.\n```\n"
   },
   {
+    "id": "heupel-knoxville-mustard-restock",
+    "rank": 1,
+    "title": "Heupel tells Knoxville to restock the mustard aisle",
+    "league": "College Football",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-21",
+    "heat": 98,
+    "tags": [
+      "r/CFB",
+      "Josh Heupel",
+      "Lane Kiffin",
+      "Tennessee"
+    ],
+    "public_ready": true,
+    "summary": "Asked about Lane Kiffin returning to Knoxville, Josh Heupel hoped local stores\nhad reinforced their supplies of mustard and golf balls.",
+    "whyFunny": "A coaching answer turns a notorious fan incident into a municipal inventory\ncheck. The rivalry apparently begins in the condiment aisle.",
+    "quote": "Knoxville's game plan starts in aisle seven.",
+    "sourceUrl": "https://www.reddit.com/r/CFB/comments/1v1vuzp/cauble_heupel_when_asked_about_kiffins_return_to/",
+    "commentHighlights": [
+      {
+        "label": "Game-week logistics",
+        "summary": "Fans treated mustard inventory as one more item on Knoxville's event-planning checklist.",
+        "whyFunny": "Tailgate prep, crowd control, and grocery restocking become the same department.",
+        "sourceUrl": "https://www.reddit.com/r/CFB/comments/1v1vuzp/cauble_heupel_when_asked_about_kiffins_return_to/"
+      },
+      {
+        "label": "Projectile lore",
+        "summary": "The thread expanded into a catalog of strange objects tied to college-football fan traditions, without endorsing throwing any of them.",
+        "whyFunny": "Every fanbase seems to have one item the stadium rules had to learn by name.",
+        "sourceUrl": "https://www.reddit.com/r/CFB/comments/1v1vuzp/cauble_heupel_when_asked_about_kiffins_return_to/"
+      }
+    ],
+    "markdown": "---\nid: heupel-knoxville-mustard-restock\nrank: 1\ntitle: \"Heupel tells Knoxville to restock the mustard aisle\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-21\"\nheat: 98\ntags:\n  - r/CFB\n  - Josh Heupel\n  - Lane Kiffin\n  - Tennessee\npublic_ready: true\n---\n\n## Summary\n\nAsked about Lane Kiffin returning to Knoxville, Josh Heupel hoped local stores\nhad reinforced their supplies of mustard and golf balls.\n\n## Why It Is Funny\n\nA coaching answer turns a notorious fan incident into a municipal inventory\ncheck. The rivalry apparently begins in the condiment aisle.\n\n## Comment Highlights\n\n- Label: Game-week logistics\n  Summary: Fans treated mustard inventory as one more item on Knoxville's event-planning checklist.\n  Why funny: Tailgate prep, crowd control, and grocery restocking become the same department.\n  Source URL: https://www.reddit.com/r/CFB/comments/1v1vuzp/cauble_heupel_when_asked_about_kiffins_return_to/\n- Label: Projectile lore\n  Summary: The thread expanded into a catalog of strange objects tied to college-football fan traditions, without endorsing throwing any of them.\n  Why funny: Every fanbase seems to have one item the stadium rules had to learn by name.\n  Source URL: https://www.reddit.com/r/CFB/comments/1v1vuzp/cauble_heupel_when_asked_about_kiffins_return_to/\n\n## Quote\n\nKnoxville's game plan starts in aisle seven.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1v1vuzp/cauble_heupel_when_asked_about_kiffins_return_to/\n- Source type: Reddit / r/CFB top-day coaching quote and rivalry-lore thread\n- Verification notes: the public post presents Heupel's mustard-and-golf-ball callback; the copy treats it as rivalry humor and does not encourage fans to throw objects\n\n## Sports Radar Markdown\n\n```md\n**Heupel tells Knoxville to restock the mustard aisle**\n\nJosh Heupel turned Lane Kiffin's return into a grocery-and-sporting-goods inventory check.\n\nWhy it works: the rivalry apparently starts in the condiment aisle.\n```\n"
+  },
+  {
     "id": "kat-msg-chokeslam-crossover",
     "rank": 1,
     "title": "KAT turns Madison Square Garden into a crossover episode",
@@ -436,7 +472,7 @@
     "title": "Tsubakuro answers a missed high five with a helmet launch",
     "league": "NPB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-20",
     "heat": 98,
     "tags": [
@@ -464,7 +500,7 @@
         "sourceUrl": "https://www.reddit.com/r/baseball/comments/1v1azgm/tokyo_swallows_mascot_tsubakuro_asks_for_a_high/"
       }
     ],
-    "markdown": "---\nid: tsubakuro-helmet-launch\nrank: 1\ntitle: \"Tsubakuro answers a missed high five with a helmet launch\"\nleague: \"NPB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-20\"\nheat: 98\ntags:\n  - r/baseball\n  - Tsubakuro\n  - mascot\n  - Japanese baseball\npublic_ready: true\n---\n\n## Summary\n\nA resurfaced clip shows the Tsubakuro mascot reaching for a high five, getting\nfaked out, and responding by throwing his helmet toward the departing runner.\n\n## Why It Is Funny\n\nThe mascot face never changes, but the full-body disappointment is perfectly\nclear. One missed high five escalates into three-act stadium theater.\n\n## Comment Highlights\n\n- Label: Mascot body language\n  Summary: Fans focused on how the costume still manages to communicate disbelief and resignation.\n  Why funny: A fixed expression somehow delivers an entire reaction shot.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v1azgm/tokyo_swallows_mascot_tsubakuro_asks_for_a_high/\n- Label: Stadium drama\n  Summary: The thread treated the fake-out and helmet toss like a complete rivalry arc.\n  Why funny: A routine high five becomes the shortest feud on the schedule.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v1azgm/tokyo_swallows_mascot_tsubakuro_asks_for_a_high/\n\n## Quote\n\nThe mascot face stayed neutral. The helmet did not.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v1azgm/tokyo_swallows_mascot_tsubakuro_asks_for_a_high/\n- Source type: Reddit / r/baseball top-day resurfaced mascot clip\n- Verification notes: the public post identifies the mascot as Tsubakuro and shows the high-five fake-out and helmet toss; the copy does not identify the cheerleading squad or imply the clip is from a current game\n\n## Sports Radar Markdown\n\n```md\n**Tsubakuro answers a missed high five with a helmet launch**\n\nA resurfaced mascot clip turns one fake high five into a complete stadium drama.\n\nWhy it works: the face never changes, but the helmet provides the emotional subtitles.\n```\n"
+    "markdown": "---\nid: tsubakuro-helmet-launch\nrank: 1\ntitle: \"Tsubakuro answers a missed high five with a helmet launch\"\nleague: \"NPB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-20\"\nheat: 98\ntags:\n  - r/baseball\n  - Tsubakuro\n  - mascot\n  - Japanese baseball\npublic_ready: true\n---\n\n## Summary\n\nA resurfaced clip shows the Tsubakuro mascot reaching for a high five, getting\nfaked out, and responding by throwing his helmet toward the departing runner.\n\n## Why It Is Funny\n\nThe mascot face never changes, but the full-body disappointment is perfectly\nclear. One missed high five escalates into three-act stadium theater.\n\n## Comment Highlights\n\n- Label: Mascot body language\n  Summary: Fans focused on how the costume still manages to communicate disbelief and resignation.\n  Why funny: A fixed expression somehow delivers an entire reaction shot.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v1azgm/tokyo_swallows_mascot_tsubakuro_asks_for_a_high/\n- Label: Stadium drama\n  Summary: The thread treated the fake-out and helmet toss like a complete rivalry arc.\n  Why funny: A routine high five becomes the shortest feud on the schedule.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v1azgm/tokyo_swallows_mascot_tsubakuro_asks_for_a_high/\n\n## Quote\n\nThe mascot face stayed neutral. The helmet did not.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v1azgm/tokyo_swallows_mascot_tsubakuro_asks_for_a_high/\n- Source type: Reddit / r/baseball top-day resurfaced mascot clip\n- Verification notes: the public post identifies the mascot as Tsubakuro and shows the high-five fake-out and helmet toss; the copy does not identify the cheerleading squad or imply the clip is from a current game\n\n## Sports Radar Markdown\n\n```md\n**Tsubakuro answers a missed high five with a helmet launch**\n\nA resurfaced mascot clip turns one fake high five into a complete stadium drama.\n\nWhy it works: the face never changes, but the helmet provides the emotional subtitles.\n```\n"
   },
   {
     "id": "reaves-lebron-golf-ruined",
@@ -596,6 +632,42 @@
     "markdown": "---\nid: bryce-harper-glove-plot-hole\nrank: 2\ntitle: \"Bryce Harper's glove comes with an actual plot hole\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-13\"\nheat: 94\ntags:\n  - r/baseball\n  - Bryce Harper\n  - glove\n  - equipment\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball highlight revealed that a strange glove moment had a simple\nequipment explanation: Bryce Harper's glove really had a hole in it.\n\n## Why It Is Funny\n\nThe replay did not need advanced metrics, only sewing. A baseball mystery\nbecame a literal equipment malfunction with a ready-made punchline.\n\n## Comment Highlights\n\n## Quote\n\nThe glove came with its own plot hole.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1uupq46/highlight_bryce_harper_actually_had_a_hole_in_his/\n- Source type: Reddit / r/baseball top-day highlight\n- Verification notes: public highlight title identifies the damaged glove; do not turn one equipment moment into a broader performance claim\n\n## Sports Radar Markdown\n\n```md\n**Bryce Harper's glove comes with an actual plot hole**\n\nOne strange play needed no advanced metric once the equipment inspection began.\n\nWhy it works: The replay review ended at the sewing kit.\n```\n"
   },
   {
+    "id": "chris-paul-tgi-fridays-one-check",
+    "rank": 2,
+    "title": "Chris Paul turns one TGI Fridays check into the milestone",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-21",
+    "heat": 96,
+    "tags": [
+      "r/nba",
+      "Chris Paul",
+      "TGI Fridays",
+      "first NBA money"
+    ],
+    "public_ready": true,
+    "summary": "Chris Paul remembered celebrating his first NBA money with a mall trip and a\nTGI Fridays meal where his group finally put everything on one check.",
+    "whyFunny": "The story includes a luxury car, but the detail everyone can feel is retiring\nthe separate-check negotiation. Financial freedom arrived with loaded potato\nskins and one receipt.",
+    "quote": "The separate checks era was over.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1v263yu/chris_paul_reveals_how_he_spent_his_first_nba/",
+    "commentHighlights": [
+      {
+        "label": "Relatable upgrade",
+        "summary": "Fans liked that the memorable flex was paying for dinner without turning the table into an accounting exercise.",
+        "whyFunny": "A future Hall of Famer marks the life change with the most ordinary restaurant ritual imaginable.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1v263yu/chris_paul_reveals_how_he_spent_his_first_nba/"
+      },
+      {
+        "label": "Fridays prestige",
+        "summary": "The thread treated choosing TGI Fridays for the celebration as proof the story came from a very specific era.",
+        "whyFunny": "The restaurant becomes both the luxury venue and the timestamp.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1v263yu/chris_paul_reveals_how_he_spent_his_first_nba/"
+      }
+    ],
+    "markdown": "---\nid: chris-paul-tgi-fridays-one-check\nrank: 2\ntitle: \"Chris Paul turns one TGI Fridays check into the milestone\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-21\"\nheat: 96\ntags:\n  - r/nba\n  - Chris Paul\n  - TGI Fridays\n  - first NBA money\npublic_ready: true\n---\n\n## Summary\n\nChris Paul remembered celebrating his first NBA money with a mall trip and a\nTGI Fridays meal where his group finally put everything on one check.\n\n## Why It Is Funny\n\nThe story includes a luxury car, but the detail everyone can feel is retiring\nthe separate-check negotiation. Financial freedom arrived with loaded potato\nskins and one receipt.\n\n## Comment Highlights\n\n- Label: Relatable upgrade\n  Summary: Fans liked that the memorable flex was paying for dinner without turning the table into an accounting exercise.\n  Why funny: A future Hall of Famer marks the life change with the most ordinary restaurant ritual imaginable.\n  Source URL: https://www.reddit.com/r/nba/comments/1v263yu/chris_paul_reveals_how_he_spent_his_first_nba/\n- Label: Fridays prestige\n  Summary: The thread treated choosing TGI Fridays for the celebration as proof the story came from a very specific era.\n  Why funny: The restaurant becomes both the luxury venue and the timestamp.\n  Source URL: https://www.reddit.com/r/nba/comments/1v263yu/chris_paul_reveals_how_he_spent_his_first_nba/\n\n## Quote\n\nThe separate checks era was over.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v263yu/chris_paul_reveals_how_he_spent_his_first_nba/\n- Source type: Reddit / r/nba top-day player story\n- Verification notes: the public post includes Paul's first-money story and the one-check TGI Fridays detail; the copy compresses it without repeating the long quoted account\n\n## Sports Radar Markdown\n\n```md\n**Chris Paul turns one TGI Fridays check into the milestone**\n\nChris Paul's first-NBA-money story peaks when his group finally stops splitting the restaurant bill.\n\nWhy it works: financial freedom arrives with one receipt and loaded potato skins.\n```\n"
+  },
+  {
     "id": "de-la-fuente-best-team-counter",
     "rank": 2,
     "title": "De la Fuente compliments France, then raises the bid",
@@ -709,7 +781,7 @@
     "title": "LeBron answers the three-years-younger excuse before it lands",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-20",
     "heat": 96,
     "tags": [
@@ -737,7 +809,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1v0z2ml/tim_hardaway_jr_on_almost_dunking_on_lebron_man/"
       }
     ],
-    "markdown": "---\nid: lebron-three-years-younger-counter\nrank: 2\ntitle: \"LeBron answers the three-years-younger excuse before it lands\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-20\"\nheat: 96\ntags:\n  - r/nba\n  - LeBron James\n  - Tim Hardaway Jr.\n  - trash talk\npublic_ready: true\n---\n\n## Summary\n\nAfter Tim Hardaway Jr. joked that he needed to be three years younger to finish\nan attempted dunk over LeBron James, LeBron immediately applied the same\nhypothetical to himself.\n\n## Why It Is Funny\n\nHardaway opened a small escape hatch and LeBron occupied it first. The comeback\nturns an age excuse into an even worse matchup.\n\n## Comment Highlights\n\n- Label: Instant counter\n  Summary: Fans enjoyed how quickly LeBron reused the premise instead of arguing with it.\n  Why funny: The excuse defeats itself before the conversation can move on.\n  Source URL: https://www.reddit.com/r/nba/comments/1v0z2ml/tim_hardaway_jr_on_almost_dunking_on_lebron_man/\n- Label: Age math\n  Summary: The thread treated both veterans' hypothetical younger versions like a matchup the league still needed to settle.\n  Why funny: Casual locker-room banter becomes an alternate-timeline scouting report.\n  Source URL: https://www.reddit.com/r/nba/comments/1v0z2ml/tim_hardaway_jr_on_almost_dunking_on_lebron_man/\n\n## Quote\n\nThe excuse aged three years before it landed.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v0z2ml/tim_hardaway_jr_on_almost_dunking_on_lebron_man/\n- Source type: Reddit / r/nba top-day player exchange\n- Verification notes: the public post title presents the two-player exchange; the copy paraphrases the short conversation and adds no claim about the game, season, or result\n\n## Sports Radar Markdown\n\n```md\n**LeBron answers the three-years-younger excuse before it lands**\n\nTim Hardaway Jr. reached for an age hypothetical, and LeBron immediately used the same one against him.\n\nWhy it works: the escape hatch becomes an even worse matchup in one sentence.\n```\n"
+    "markdown": "---\nid: lebron-three-years-younger-counter\nrank: 2\ntitle: \"LeBron answers the three-years-younger excuse before it lands\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-20\"\nheat: 96\ntags:\n  - r/nba\n  - LeBron James\n  - Tim Hardaway Jr.\n  - trash talk\npublic_ready: true\n---\n\n## Summary\n\nAfter Tim Hardaway Jr. joked that he needed to be three years younger to finish\nan attempted dunk over LeBron James, LeBron immediately applied the same\nhypothetical to himself.\n\n## Why It Is Funny\n\nHardaway opened a small escape hatch and LeBron occupied it first. The comeback\nturns an age excuse into an even worse matchup.\n\n## Comment Highlights\n\n- Label: Instant counter\n  Summary: Fans enjoyed how quickly LeBron reused the premise instead of arguing with it.\n  Why funny: The excuse defeats itself before the conversation can move on.\n  Source URL: https://www.reddit.com/r/nba/comments/1v0z2ml/tim_hardaway_jr_on_almost_dunking_on_lebron_man/\n- Label: Age math\n  Summary: The thread treated both veterans' hypothetical younger versions like a matchup the league still needed to settle.\n  Why funny: Casual locker-room banter becomes an alternate-timeline scouting report.\n  Source URL: https://www.reddit.com/r/nba/comments/1v0z2ml/tim_hardaway_jr_on_almost_dunking_on_lebron_man/\n\n## Quote\n\nThe excuse aged three years before it landed.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v0z2ml/tim_hardaway_jr_on_almost_dunking_on_lebron_man/\n- Source type: Reddit / r/nba top-day player exchange\n- Verification notes: the public post title presents the two-player exchange; the copy paraphrases the short conversation and adds no claim about the game, season, or result\n\n## Sports Radar Markdown\n\n```md\n**LeBron answers the three-years-younger excuse before it lands**\n\nTim Hardaway Jr. reached for an age hypothetical, and LeBron immediately used the same one against him.\n\nWhy it works: the escape hatch becomes an even worse matchup in one sentence.\n```\n"
   },
   {
     "id": "rodman-no-modern-scouting-report",
@@ -925,7 +997,7 @@
     "title": "Brandon Young turns a comebacker into soccer practice",
     "league": "MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-20",
     "heat": 94,
     "tags": [
@@ -953,7 +1025,7 @@
         "sourceUrl": "https://www.reddit.com/r/baseball/comments/1v0y7tu/brandon_young_honors_world_cup_final_with_a_kick/"
       }
     ],
-    "markdown": "---\nid: brandon-young-soccer-out\nrank: 3\ntitle: \"Brandon Young turns a comebacker into soccer practice\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-20\"\nheat: 94\ntags:\n  - r/baseball\n  - Brandon Young\n  - soccer\n  - crossover\npublic_ready: true\n---\n\n## Summary\n\nBrandon Young redirected a bouncing ball with his foot, calmly gathered it,\nand completed the out at first.\n\n## Why It Is Funny\n\nThe World Cup final had barely cleared the stage before baseball produced its\nown first touch. Young made the strange recovery look like the obvious play.\n\n## Comment Highlights\n\n- Label: Casual finish\n  Summary: Fans kept returning to how little Young reacted after pulling off the recovery.\n  Why funny: The body language says routine grounder while the replay says trick shot.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v0y7tu/brandon_young_honors_world_cup_final_with_a_kick/\n- Label: Hacky-sack résumé\n  Summary: The thread imagined every casual foot-skill drill finally paying off on a baseball field.\n  Why funny: A playground skill appears on the major-league job description without warning.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v0y7tu/brandon_young_honors_world_cup_final_with_a_kick/\n\n## Quote\n\nRoutine out, suspiciously good first touch.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v0y7tu/brandon_young_honors_world_cup_final_with_a_kick/\n- Source type: Reddit / r/baseball top-day game clip\n- Verification notes: the public clip shows Young using his foot to redirect the ball before throwing to first; the World Cup framing comes from the public post title and is treated as a joke, not player intent\n\n## Sports Radar Markdown\n\n```md\n**Brandon Young turns a comebacker into soccer practice**\n\nBrandon Young used his foot to settle a bouncing ball, then completed the out like nothing unusual had happened.\n\nWhy it works: the replay says trick shot while his body language says routine grounder.\n```\n"
+    "markdown": "---\nid: brandon-young-soccer-out\nrank: 3\ntitle: \"Brandon Young turns a comebacker into soccer practice\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-20\"\nheat: 94\ntags:\n  - r/baseball\n  - Brandon Young\n  - soccer\n  - crossover\npublic_ready: true\n---\n\n## Summary\n\nBrandon Young redirected a bouncing ball with his foot, calmly gathered it,\nand completed the out at first.\n\n## Why It Is Funny\n\nThe World Cup final had barely cleared the stage before baseball produced its\nown first touch. Young made the strange recovery look like the obvious play.\n\n## Comment Highlights\n\n- Label: Casual finish\n  Summary: Fans kept returning to how little Young reacted after pulling off the recovery.\n  Why funny: The body language says routine grounder while the replay says trick shot.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v0y7tu/brandon_young_honors_world_cup_final_with_a_kick/\n- Label: Hacky-sack résumé\n  Summary: The thread imagined every casual foot-skill drill finally paying off on a baseball field.\n  Why funny: A playground skill appears on the major-league job description without warning.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v0y7tu/brandon_young_honors_world_cup_final_with_a_kick/\n\n## Quote\n\nRoutine out, suspiciously good first touch.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v0y7tu/brandon_young_honors_world_cup_final_with_a_kick/\n- Source type: Reddit / r/baseball top-day game clip\n- Verification notes: the public clip shows Young using his foot to redirect the ball before throwing to first; the World Cup framing comes from the public post title and is treated as a joke, not player intent\n\n## Sports Radar Markdown\n\n```md\n**Brandon Young turns a comebacker into soccer practice**\n\nBrandon Young used his foot to settle a bouncing ball, then completed the out like nothing unusual had happened.\n\nWhy it works: the replay says trick shot while his body language says routine grounder.\n```\n"
   },
   {
     "id": "bronny-fanatics-top-corner",
@@ -1339,6 +1411,42 @@
     "markdown": "---\nid: curry-lebron-golf-first\nrank: 3\ntitle: \"Steph Curry keeps turning LeBron speculation back into golf\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-09\"\nheat: 90\ntags:\n  - r/nba\n  - LeBron\n  - Curry\n  - golf\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post about Steph Curry's LeBron comments made the basketball fantasy\nfeel almost secondary to the recurring golf subplot.\n\n## Why It Is Funny\n\nFans want the impossible superteam answer. Curry's framing gives the thread a\nmuch calmer image: two all-time stars negotiating vibes on a course.\n\n## Comment Highlights\n\n- Label: Golf as the safer dream pairing\n  Summary: The thread gets to enjoy the basketball possibility while still laughing at how often the conversation drifts back to golf.\n  Why funny: The lower-stakes version somehow feels more believable than the basketball one.\n  Source URL: https://www.reddit.com/r/nba/comments/1ur1aro/steph_curry_on_the_possibility_of_playing_with/\n- Label: LeBron decision-watch fatigue\n  Summary: Reactions treat every LeBron answer as part transaction watch, part offseason talk-show script.\n  Why funny: Even the cautious answer becomes another episode in the same summer storyline.\n  Source URL: https://www.reddit.com/r/nba/comments/1ur1aro/steph_curry_on_the_possibility_of_playing_with/\n\n## Quote\n\nThe buddy-cop version may just be a tee time.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1ur1aro/steph_curry_on_the_possibility_of_playing_with/\n- Source type: Reddit / r/nba top-day thread\n- Verification notes: summarize the fan framing; do not present speculation as reporting\n\n## Sports Radar Markdown\n\n```md\n**Steph Curry keeps turning LeBron speculation back into golf**\n\nAn r/nba thread made the dream pairing feel almost less important than the tee time.\n\nWhy it works: the NBA's biggest fantasy gets rerouted into dad-sport diplomacy.\n```\n"
   },
   {
+    "id": "will-stein-kentucky-winning-plan",
+    "rank": 3,
+    "title": "Will Stein nominates himself as Kentucky's winning plan",
+    "league": "College Football",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-21",
+    "heat": 94,
+    "tags": [
+      "r/CFB",
+      "Will Stein",
+      "Kentucky",
+      "coach confidence"
+    ],
+    "public_ready": true,
+    "summary": "Asked why Kentucky can win, new coach Will Stein opened with the most efficient\nanswer available: himself.",
+    "whyFunny": "Most preseason confidence arrives wrapped in a team-first paragraph. Stein\nremoved the wrapping and handed the quote directly to future scoreboards.",
+    "quote": "The winning plan introduced itself.",
+    "sourceUrl": "https://www.reddit.com/r/CFB/comments/1v1t1gv/pat_forde_new_kentucky_coach_will_stein_on_why_he/",
+    "commentHighlights": [
+      {
+        "label": "Necessary confidence",
+        "summary": "Some fans argued that nobody gets a head-coaching job by presenting a cautious self-assessment.",
+        "whyFunny": "The job interview answer simply survived into the press conference.",
+        "sourceUrl": "https://www.reddit.com/r/CFB/comments/1v1t1gv/pat_forde_new_kentucky_coach_will_stein_on_why_he/"
+      },
+      {
+        "label": "Instant season caption",
+        "summary": "The thread noticed the line will work whether Kentucky becomes excellent or has a rough first year.",
+        "whyFunny": "One quote has already prepared both the victory montage and the reaction meme.",
+        "sourceUrl": "https://www.reddit.com/r/CFB/comments/1v1t1gv/pat_forde_new_kentucky_coach_will_stein_on_why_he/"
+      }
+    ],
+    "markdown": "---\nid: will-stein-kentucky-winning-plan\nrank: 3\ntitle: \"Will Stein nominates himself as Kentucky's winning plan\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-21\"\nheat: 94\ntags:\n  - r/CFB\n  - Will Stein\n  - Kentucky\n  - coach confidence\npublic_ready: true\n---\n\n## Summary\n\nAsked why Kentucky can win, new coach Will Stein opened with the most efficient\nanswer available: himself.\n\n## Why It Is Funny\n\nMost preseason confidence arrives wrapped in a team-first paragraph. Stein\nremoved the wrapping and handed the quote directly to future scoreboards.\n\n## Comment Highlights\n\n- Label: Necessary confidence\n  Summary: Some fans argued that nobody gets a head-coaching job by presenting a cautious self-assessment.\n  Why funny: The job interview answer simply survived into the press conference.\n  Source URL: https://www.reddit.com/r/CFB/comments/1v1t1gv/pat_forde_new_kentucky_coach_will_stein_on_why_he/\n- Label: Instant season caption\n  Summary: The thread noticed the line will work whether Kentucky becomes excellent or has a rough first year.\n  Why funny: One quote has already prepared both the victory montage and the reaction meme.\n  Source URL: https://www.reddit.com/r/CFB/comments/1v1t1gv/pat_forde_new_kentucky_coach_will_stein_on_why_he/\n\n## Quote\n\nThe winning plan introduced itself.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1v1t1gv/pat_forde_new_kentucky_coach_will_stein_on_why_he/\n- Source type: Reddit / r/CFB top-day coaching quote and reaction thread\n- Verification notes: the public post attributes the short \"because of me\" answer to Stein; the copy treats it as preseason confidence, not a prediction about Kentucky's results\n\n## Sports Radar Markdown\n\n```md\n**Will Stein nominates himself as Kentucky's winning plan**\n\nAsked why Kentucky can win, its new coach opened with the most efficient answer available: himself.\n\nWhy it works: the quote has already prepared both the victory montage and the reaction meme.\n```\n"
+  },
+  {
     "id": "japanese-fan-brazil-mexico-comfort",
     "rank": 3,
     "title": "World Cup heartbreak gets immediate international group-hug energy",
@@ -1379,7 +1487,7 @@
     "title": "1930s basketball already had logo-range chaos",
     "league": "Basketball",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-20",
     "heat": 92,
     "tags": [
@@ -1407,7 +1515,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1v1ctnd/how_basketball_was_played_in_the_1930s/"
       }
     ],
-    "markdown": "---\nid: 1930s-logo-range-basketball\nrank: 4\ntitle: \"1930s basketball already had logo-range chaos\"\nleague: \"Basketball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-20\"\nheat: 92\ntags:\n  - r/nba\n  - basketball history\n  - archival footage\n  - long-range shooting\npublic_ready: true\n---\n\n## Summary\n\nA clip presented as 1930s basketball resurfaced with two-handed passes, high\narcing shots, and several attempts launched from modern logo territory.\n\n## Why It Is Funny\n\nThe mechanics look ancient until someone pulls from a distance that would make\na current defense panic. Basketball evolution apparently included a very long\ndetour back to the same shot chart.\n\n## Comment Highlights\n\n- Label: Long twos forever\n  Summary: Fans noticed that players were launching from modern three-point distance decades before the line existed.\n  Why funny: The shot selection looks futuristic and inefficient at the same time.\n  Source URL: https://www.reddit.com/r/nba/comments/1v1ctnd/how_basketball_was_played_in_the_1930s/\n- Label: Permanent alley-oop suspense\n  Summary: The looping passes repeatedly looked ready to become lobs before dropping somewhere else.\n  Why funny: Modern highlight expectations keep misreading every possession.\n  Source URL: https://www.reddit.com/r/nba/comments/1v1ctnd/how_basketball_was_played_in_the_1930s/\n\n## Quote\n\nLogo range, worth two, delivered with both hands.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v1ctnd/how_basketball_was_played_in_the_1930s/\n- Source type: Reddit / r/nba top-day archival-style basketball clip\n- Verification notes: the public post presents the footage as 1930s basketball; the copy preserves that source framing rather than independently dating the footage\n\n## Sports Radar Markdown\n\n```md\n**1930s basketball already had logo-range chaos**\n\nA resurfaced clip pairs two-handed passes with shots launched from modern logo territory.\n\nWhy it works: the mechanics look ancient right up until the shot chart loops back to the future.\n```\n"
+    "markdown": "---\nid: 1930s-logo-range-basketball\nrank: 4\ntitle: \"1930s basketball already had logo-range chaos\"\nleague: \"Basketball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-20\"\nheat: 92\ntags:\n  - r/nba\n  - basketball history\n  - archival footage\n  - long-range shooting\npublic_ready: true\n---\n\n## Summary\n\nA clip presented as 1930s basketball resurfaced with two-handed passes, high\narcing shots, and several attempts launched from modern logo territory.\n\n## Why It Is Funny\n\nThe mechanics look ancient until someone pulls from a distance that would make\na current defense panic. Basketball evolution apparently included a very long\ndetour back to the same shot chart.\n\n## Comment Highlights\n\n- Label: Long twos forever\n  Summary: Fans noticed that players were launching from modern three-point distance decades before the line existed.\n  Why funny: The shot selection looks futuristic and inefficient at the same time.\n  Source URL: https://www.reddit.com/r/nba/comments/1v1ctnd/how_basketball_was_played_in_the_1930s/\n- Label: Permanent alley-oop suspense\n  Summary: The looping passes repeatedly looked ready to become lobs before dropping somewhere else.\n  Why funny: Modern highlight expectations keep misreading every possession.\n  Source URL: https://www.reddit.com/r/nba/comments/1v1ctnd/how_basketball_was_played_in_the_1930s/\n\n## Quote\n\nLogo range, worth two, delivered with both hands.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v1ctnd/how_basketball_was_played_in_the_1930s/\n- Source type: Reddit / r/nba top-day archival-style basketball clip\n- Verification notes: the public post presents the footage as 1930s basketball; the copy preserves that source framing rather than independently dating the footage\n\n## Sports Radar Markdown\n\n```md\n**1930s basketball already had logo-range chaos**\n\nA resurfaced clip pairs two-handed passes with shots launched from modern logo territory.\n\nWhy it works: the mechanics look ancient right up until the shot chart loops back to the future.\n```\n"
   },
   {
     "id": "cliffside-cricket-outfield",
@@ -1444,6 +1552,42 @@
       }
     ],
     "markdown": "---\nid: cliffside-cricket-outfield\nrank: 4\ntitle: \"Cricket finds a cliffside outfield\"\nleague: \"Cricket\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-18\"\nheat: 92\ntags:\n  - r/sports\n  - cricket\n  - mountain sports\n  - fielding\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports clip showed a cricket game stretched across steep mountain terrain,\nincluding a fielder returning the ball from the rocks below the playing area.\n\n## Why It Is Funny\n\nCricket already has a deep vocabulary for fielding positions. A vertical\noutfield makes the sport look like it needs altitude coordinates too.\n\n## Comment Highlights\n\n- Label: Vertical field setting\n  Summary: Fans started inventing downhill versions of familiar cricket positions.\n  Why funny: The scorecard suddenly needs topography.\n  Source URL: https://www.reddit.com/r/sports/comments/1uzafgy/playing_cricket_on_a_literal_cliffside_in_the/\n- Label: Return from the rocks\n  Summary: The thread admired the long throw back up from below despite the improvised terrain.\n  Why funny: The most difficult part of the outfield is simply getting back to level ground.\n  Source URL: https://www.reddit.com/r/sports/comments/1uzafgy/playing_cricket_on_a_literal_cliffside_in_the/\n\n## Quote\n\nThe outfield now has an elevation chart.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1uzafgy/playing_cricket_on_a_literal_cliffside_in_the/\n- Source type: Reddit / r/sports top-day cricket clip\n- Verification notes: the public clip visibly shows play on steep rocky mountain terrain and a return throw from below; no location or participant identity is asserted\n\n## Sports Radar Markdown\n\n```md\n**Cricket finds a cliffside outfield**\n\nA mountain cricket game sent one fielder down the rocks and the return throw back uphill.\n\nWhy it works: familiar fielding positions suddenly need altitude coordinates.\n```\n"
+  },
+  {
+    "id": "damian-lillard-morning-chinese-greeting",
+    "rank": 4,
+    "title": "Damian Lillard opens every morning with one Chinese greeting",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-21",
+    "heat": 92,
+    "tags": [
+      "r/nba",
+      "Damian Lillard",
+      "Yang Hansen",
+      "Chinese"
+    ],
+    "public_ready": true,
+    "summary": "Yang Hansen said Damian Lillard greets him each morning with \"Zao Shang Hao,\"\nor good morning in Chinese.",
+    "whyFunny": "It is a small teammate gesture with perfect repetition: same handshake, same\nthree words, every morning. Dame Time now has an opening ceremony.",
+    "quote": "Dame Time starts with good morning.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1v26vfa/yang_hansen_on_damian_lillard_hes_learning_a_lot/",
+    "commentHighlights": [
+      {
+        "label": "Meme fluency",
+        "summary": "Fans immediately folded the greeting into the NBA's long-running learn-Chinese joke format.",
+        "whyFunny": "One friendly phrase activates an entire preexisting basketball meme dictionary.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1v26vfa/yang_hansen_on_damian_lillard_hes_learning_a_lot/"
+      },
+      {
+        "label": "Morning routine",
+        "summary": "The thread liked the image of Lillard consistently arriving with the same handshake and greeting.",
+        "whyFunny": "A tiny ritual gets the punctuality and branding of Dame Time.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1v26vfa/yang_hansen_on_damian_lillard_hes_learning_a_lot/"
+      }
+    ],
+    "markdown": "---\nid: damian-lillard-morning-chinese-greeting\nrank: 4\ntitle: \"Damian Lillard opens every morning with one Chinese greeting\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-21\"\nheat: 92\ntags:\n  - r/nba\n  - Damian Lillard\n  - Yang Hansen\n  - Chinese\npublic_ready: true\n---\n\n## Summary\n\nYang Hansen said Damian Lillard greets him each morning with \"Zao Shang Hao,\"\nor good morning in Chinese.\n\n## Why It Is Funny\n\nIt is a small teammate gesture with perfect repetition: same handshake, same\nthree words, every morning. Dame Time now has an opening ceremony.\n\n## Comment Highlights\n\n- Label: Meme fluency\n  Summary: Fans immediately folded the greeting into the NBA's long-running learn-Chinese joke format.\n  Why funny: One friendly phrase activates an entire preexisting basketball meme dictionary.\n  Source URL: https://www.reddit.com/r/nba/comments/1v26vfa/yang_hansen_on_damian_lillard_hes_learning_a_lot/\n- Label: Morning routine\n  Summary: The thread liked the image of Lillard consistently arriving with the same handshake and greeting.\n  Why funny: A tiny ritual gets the punctuality and branding of Dame Time.\n  Source URL: https://www.reddit.com/r/nba/comments/1v26vfa/yang_hansen_on_damian_lillard_hes_learning_a_lot/\n\n## Quote\n\nDame Time starts with good morning.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v26vfa/yang_hansen_on_damian_lillard_hes_learning_a_lot/\n- Source type: Reddit / r/nba top-day teammate quote linking to a public interview\n- Verification notes: the public post quotes Yang describing Lillard's daily greeting; the copy preserves only the short phrase and does not make broader claims about his language ability\n\n## Sports Radar Markdown\n\n```md\n**Damian Lillard opens every morning with one Chinese greeting**\n\nYang Hansen says Lillard starts their daily handshake with the same Chinese good-morning phrase.\n\nWhy it works: Dame Time apparently has an opening ceremony.\n```\n"
   },
   {
     "id": "cristo-fernandez-pro-debut",
@@ -2173,12 +2317,48 @@
     "markdown": "---\nid: spain-viking-row-celebration\nrank: 5\ntitle: \"Spain borrows Norway's Viking row celebration\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-15\"\nheat: 89\ntags:\n  - r/sports\n  - Spain\n  - Norway\n  - fan celebration\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports video post framed fans in Madrid celebrating with the seated,\ncoordinated Viking-row routine associated with Norway.\n\n## Why It Is Funny\n\nVictory celebrations now travel like tactical ideas: spot a good one, borrow\nit, and deploy it in the next big moment. Madrid briefly becomes a longship.\n\n## Comment Highlights\n\n- Label: Celebration transfer\n  Summary: Fans treated the routine as a borrowed sports ritual and debated whether the imitation improved it.\n  Why funny: Victory choreography now gets reviewed like a player moving between clubs.\n  Source URL: https://www.reddit.com/r/sports/comments/1uwnikb/spaniards_doing_norways_viking_row_celebration_in/\n- Label: European rowing committee\n  Summary: The thread quickly became an argument over which cultures can claim coordinated rowing imagery.\n  Why funny: One plaza celebration accidentally convenes a historical ownership hearing.\n  Source URL: https://www.reddit.com/r/sports/comments/1uwnikb/spaniards_doing_norways_viking_row_celebration_in/\n\n## Quote\n\nThe celebration transfer window stays open.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1uwnikb/spaniards_doing_norways_viking_row_celebration_in/\n- Source type: Reddit / r/sports top-day celebration video\n- Verification notes: the captured RSS title supports the Madrid setting and Norway-style Viking row framing; keep the copy to the visible celebration concept\n\n## Sports Radar Markdown\n\n```md\n**Spain borrows Norway's Viking row celebration**\n\nFans in Madrid imported a coordinated celebration and turned the plaza into a temporary longship.\n\nWhy it works: sports culture has its own transfer market for victory rituals.\n```\n"
   },
   {
+    "id": "trae-young-god-height-nerf",
+    "rank": 5,
+    "title": "Trae Young says God nerfed him to 6'2",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-21",
+    "heat": 90,
+    "tags": [
+      "r/nba",
+      "Trae Young",
+      "height",
+      "confidence"
+    ],
+    "public_ready": true,
+    "summary": "Trae Young said he understands scoring angles better than most of the league,\nthen described being 6'2\" as God's way of keeping the challenge fair.",
+    "whyFunny": "The humility arrives inside one of the least humble scouting reports possible.\nYoung frames his height as the balancing patch required before tip-off.",
+    "quote": "The league got the balanced build.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1v1s619/trae_young_i_know_angles_i_know_how_to_score_from/",
+    "commentHighlights": [
+      {
+        "label": "Personal nerfs",
+        "summary": "Fans applied the same logic to their own heights and invented increasingly powerful alternate versions of themselves.",
+        "whyFunny": "Every missing inch becomes evidence that the universe feared the full build.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1v1s619/trae_young_i_know_angles_i_know_how_to_score_from/"
+      },
+      {
+        "label": "Historical scouting",
+        "summary": "One branch turned Napoleon into a basketball prospect whose competition needed an era adjustment.",
+        "whyFunny": "A modern height hypothetical becomes an all-time-great debate about nineteenth-century roster strength.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1v1s619/trae_young_i_know_angles_i_know_how_to_score_from/"
+      }
+    ],
+    "markdown": "---\nid: trae-young-god-height-nerf\nrank: 5\ntitle: \"Trae Young says God nerfed him to 6'2\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-21\"\nheat: 90\ntags:\n  - r/nba\n  - Trae Young\n  - height\n  - confidence\npublic_ready: true\n---\n\n## Summary\n\nTrae Young said he understands scoring angles better than most of the league,\nthen described being 6'2\" as God's way of keeping the challenge fair.\n\n## Why It Is Funny\n\nThe humility arrives inside one of the least humble scouting reports possible.\nYoung frames his height as the balancing patch required before tip-off.\n\n## Comment Highlights\n\n- Label: Personal nerfs\n  Summary: Fans applied the same logic to their own heights and invented increasingly powerful alternate versions of themselves.\n  Why funny: Every missing inch becomes evidence that the universe feared the full build.\n  Source URL: https://www.reddit.com/r/nba/comments/1v1s619/trae_young_i_know_angles_i_know_how_to_score_from/\n- Label: Historical scouting\n  Summary: One branch turned Napoleon into a basketball prospect whose competition needed an era adjustment.\n  Why funny: A modern height hypothetical becomes an all-time-great debate about nineteenth-century roster strength.\n  Source URL: https://www.reddit.com/r/nba/comments/1v1s619/trae_young_i_know_angles_i_know_how_to_score_from/\n\n## Quote\n\nThe league got the balanced build.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v1s619/trae_young_i_know_angles_i_know_how_to_score_from/\n- Source type: Reddit / r/nba top-day player quote and reaction thread\n- Verification notes: the public post includes Young's height-and-humility framing; the copy describes his own statement and does not adopt disputed height measurements as independent fact\n\n## Sports Radar Markdown\n\n```md\n**Trae Young says God nerfed him to 6'2\"**\n\nTrae describes his height as the balancing patch required before tip-off.\n\nWhy it works: the humility arrives inside the least humble scouting report imaginable.\n```\n"
+  },
+  {
     "id": "wemby-world-cup-crowd-search",
     "rank": 5,
     "title": "Wemby makes the World Cup crowd search extremely easy",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-20",
     "heat": 90,
     "tags": [
@@ -2206,7 +2386,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1v10bp8/wemby_has_been_spotted_at_the_world_cup_finals/"
       }
     ],
-    "markdown": "---\nid: wemby-world-cup-crowd-search\nrank: 5\ntitle: \"Wemby makes the World Cup crowd search extremely easy\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-20\"\nheat: 90\ntags:\n  - r/nba\n  - Victor Wembanyama\n  - World Cup\n  - crowd shot\npublic_ready: true\n---\n\n## Summary\n\nA crowd shot from the World Cup final made Victor Wembanyama immediately\nvisible above an otherwise packed row of spectators.\n\n## Why It Is Funny\n\nCelebrity spotting usually needs a zoom lens and a helpful graphic. Wemby\nturns it into the easiest hidden-object puzzle ever printed.\n\n## Comment Highlights\n\n- Label: Personal skyline\n  Summary: Fans joked that Wembanyama appeared to occupy a different layer of the crowd.\n  Why funny: One spectator changes the geometry of the entire row.\n  Source URL: https://www.reddit.com/r/nba/comments/1v10bp8/wemby_has_been_spotted_at_the_world_cup_finals/\n- Label: Weather advantage\n  Summary: The thread imagined his height creating its own shade and atmospheric conditions.\n  Why funny: A simple crowd shot becomes a miniature climate model.\n  Source URL: https://www.reddit.com/r/nba/comments/1v10bp8/wemby_has_been_spotted_at_the_world_cup_finals/\n\n## Quote\n\nNo zoom required.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v10bp8/wemby_has_been_spotted_at_the_world_cup_finals/\n- Source type: Reddit / r/nba top-day World Cup crowd image\n- Verification notes: the public post identifies Wembanyama in the World Cup final crowd; the copy describes only the visible height contrast and treats the weather discussion as fan humor\n\n## Sports Radar Markdown\n\n```md\n**Wemby makes the World Cup crowd search extremely easy**\n\nA World Cup final crowd shot turns Victor Wembanyama into the easiest hidden-object puzzle on the page.\n\nWhy it works: one spectator changes the geometry of the entire row.\n```\n"
+    "markdown": "---\nid: wemby-world-cup-crowd-search\nrank: 5\ntitle: \"Wemby makes the World Cup crowd search extremely easy\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-20\"\nheat: 90\ntags:\n  - r/nba\n  - Victor Wembanyama\n  - World Cup\n  - crowd shot\npublic_ready: true\n---\n\n## Summary\n\nA crowd shot from the World Cup final made Victor Wembanyama immediately\nvisible above an otherwise packed row of spectators.\n\n## Why It Is Funny\n\nCelebrity spotting usually needs a zoom lens and a helpful graphic. Wemby\nturns it into the easiest hidden-object puzzle ever printed.\n\n## Comment Highlights\n\n- Label: Personal skyline\n  Summary: Fans joked that Wembanyama appeared to occupy a different layer of the crowd.\n  Why funny: One spectator changes the geometry of the entire row.\n  Source URL: https://www.reddit.com/r/nba/comments/1v10bp8/wemby_has_been_spotted_at_the_world_cup_finals/\n- Label: Weather advantage\n  Summary: The thread imagined his height creating its own shade and atmospheric conditions.\n  Why funny: A simple crowd shot becomes a miniature climate model.\n  Source URL: https://www.reddit.com/r/nba/comments/1v10bp8/wemby_has_been_spotted_at_the_world_cup_finals/\n\n## Quote\n\nNo zoom required.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v10bp8/wemby_has_been_spotted_at_the_world_cup_finals/\n- Source type: Reddit / r/nba top-day World Cup crowd image\n- Verification notes: the public post identifies Wembanyama in the World Cup final crowd; the copy describes only the visible height contrast and treats the weather discussion as fan humor\n\n## Sports Radar Markdown\n\n```md\n**Wemby makes the World Cup crowd search extremely easy**\n\nA World Cup final crowd shot turns Victor Wembanyama into the easiest hidden-object puzzle on the page.\n\nWhy it works: one spectator changes the geometry of the entire row.\n```\n"
   },
   {
     "id": "william-carrier-stanley-cup-poutine",
