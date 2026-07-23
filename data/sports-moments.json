@@ -72,6 +72,42 @@
     "markdown": "---\nid: anthony-morrow-kd-text-whiplash\nrank: 1\ntitle: \"Anthony Morrow's supportive text has a hard cutoff\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-14\"\nheat: 98\ntags:\n  - r/nba\n  - Anthony Morrow\n  - Kevin Durant\n  - teammate-lore\npublic_ready: true\n---\n\n## Summary\n\nAnthony Morrow told an r/nba clip how he sent Kevin Durant a supportive message\nafter the 2016 departure, then admitted his reaction changed as soon as the\nphone went down.\n\n## Why It Is Funny\n\nThe story fits teammate loyalty and competitive heartbreak into one text\nexchange. Professional courtesy lasts exactly as long as the screen stays on.\n\n## Comment Highlights\n\n- Label: The phone-down turn\n  Summary: Fans focused on the instant switch from a gracious message to the reaction Morrow kept off the screen.\n  Why funny: One small physical beat separates diplomacy from complete honesty.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvtegi/anthony_morrow_on_kd_leaving_okc_i_text_him_i_was/\n- Label: Storytelling wins\n  Summary: The thread praised the way Morrow paced the memory instead of treating it like another transaction recap.\n  Why funny: The delivery turns familiar NBA history into a perfectly timed teammate story.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvtegi/anthony_morrow_on_kd_leaving_okc_i_text_him_i_was/\n\n## Quote\n\nThe supportive text survived exactly until the screen went dark.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uvtegi/anthony_morrow_on_kd_leaving_okc_i_text_him_i_was/\n- Source type: Reddit / r/nba top-day interview clip\n- Verification notes: the public clip title and page confirm Morrow's supportive-text setup and immediate private reversal; omit the raw profanity and treat the moment as teammate lore\n\n## Sports Radar Markdown\n\n```md\n**Anthony Morrow's supportive text has a hard cutoff**\n\nOne old teammate story fit diplomacy and competitive heartbreak into the same text exchange.\n\nWhy it works: the gracious message lasts exactly until the phone goes down.\n```\n"
   },
   {
+    "id": "austin-reaves-luka-golf-coach",
+    "rank": 1,
+    "title": "Austin Reaves declines Luka's golf-coach job",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-23",
+    "heat": 98,
+    "tags": [
+      "r/nba",
+      "Austin Reaves",
+      "Luka Doncic",
+      "golf"
+    ],
+    "public_ready": true,
+    "summary": "Austin Reaves said Luka Doncic sends him golf-swing videos almost every day\nasking how to improve. Reaves keeps reminding his best friend that he is not a\ngolf coach.",
+    "whyFunny": "Luka found a free remote lesson plan; Reaves found a recurring support ticket.\nThe friendship is apparently strong enough to survive unlimited swing review\nand zero credentials.",
+    "quote": "The golf desk remains staffed but unlicensed.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1uvimfh/mcmenamin_austin_reaves_on_luka_doncic_hes_one_of/",
+    "commentHighlights": [
+      {
+        "label": "Interplanetary friendship",
+        "summary": "Fans focused on Reaves calling Luka one of his best friends on the planet.",
+        "whyFunny": "The wording accidentally left open a much more ambitious social circle.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uvimfh/mcmenamin_austin_reaves_on_luka_doncic_hes_one_of/"
+      },
+      {
+        "label": "Athlete golf department",
+        "summary": "The thread debated why so many professional athletes adopt golf as their second competitive life.",
+        "whyFunny": "One friendship anecdote became an informal study of the athlete-to-golfer pipeline.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uvimfh/mcmenamin_austin_reaves_on_luka_doncic_hes_one_of/"
+      }
+    ],
+    "markdown": "---\nid: austin-reaves-luka-golf-coach\nrank: 1\ntitle: \"Austin Reaves declines Luka's golf-coach job\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-23\"\nheat: 98\ntags:\n  - r/nba\n  - Austin Reaves\n  - Luka Doncic\n  - golf\npublic_ready: true\n---\n\n## Summary\n\nAustin Reaves said Luka Doncic sends him golf-swing videos almost every day\nasking how to improve. Reaves keeps reminding his best friend that he is not a\ngolf coach.\n\n## Why It Is Funny\n\nLuka found a free remote lesson plan; Reaves found a recurring support ticket.\nThe friendship is apparently strong enough to survive unlimited swing review\nand zero credentials.\n\n## Comment Highlights\n\n- Label: Interplanetary friendship\n  Summary: Fans focused on Reaves calling Luka one of his best friends on the planet.\n  Why funny: The wording accidentally left open a much more ambitious social circle.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvimfh/mcmenamin_austin_reaves_on_luka_doncic_hes_one_of/\n- Label: Athlete golf department\n  Summary: The thread debated why so many professional athletes adopt golf as their second competitive life.\n  Why funny: One friendship anecdote became an informal study of the athlete-to-golfer pipeline.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvimfh/mcmenamin_austin_reaves_on_luka_doncic_hes_one_of/\n\n## Quote\n\nThe golf desk remains staffed but unlicensed.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uvimfh/mcmenamin_austin_reaves_on_luka_doncic_hes_one_of/\n- Source type: Reddit / r/nba top-day player-friendship quote and reaction thread\n- Verification notes: the fresh public post attributes the swing-video routine and no-coach response to Reaves; the copy paraphrases the exchange without implying professional golf instruction\n\n## Sports Radar Markdown\n\n```md\n**Austin Reaves declines Luka's golf-coach job**\n\nLuka sends his best friend golf-swing videos almost daily; Reaves keeps returning the same disclaimer.\n\nWhy it works: one NBA friendship has become an unpaid remote-coaching subscription.\n```\n"
+  },
+  {
     "id": "nba-full-name-lineup",
     "rank": 1,
     "title": "Four NBA stars accidentally form a full-name loop",
@@ -406,7 +442,7 @@
     "title": "Miami's LeBron placeholder escapes onto YouTube",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-22",
     "heat": 98,
     "tags": [
@@ -434,7 +470,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1v3321x/the_miami_heat_youtube_channel_scheduled_a_video/"
       }
     ],
-    "markdown": "---\nid: miami-lebron-youtube-placeholder\nrank: 1\ntitle: \"Miami's LeBron placeholder escapes onto YouTube\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-22\"\nheat: 98\ntags:\n  - r/nba\n  - Miami Heat\n  - LeBron James\n  - YouTube\npublic_ready: true\n---\n\n## Summary\n\nThe Heat briefly exposed a scheduled YouTube placeholder for a LeBron James\nintroductory press conference, then clarified that it was preparation for a\npossibility rather than a real announcement.\n\n## Why It Is Funny\n\nNBA free agency briefly turned into a workplace-comedy episode where the\ncalendar draft escaped before the decision. The internet treated one private\nvideo setting like a scoop from the front office.\n\n## Comment Highlights\n\n- Label: Organizational chart\n  Summary: Fans debated whether a social-media worker could possibly learn LeBron's choice before the league's reporters.\n  Why funny: The rumor asks everyone to imagine that the YouTube dashboard sits above basketball operations.\n  Source URL: https://www.reddit.com/r/nba/comments/1v3321x/the_miami_heat_youtube_channel_scheduled_a_video/\n- Label: Placeholder season\n  Summary: The thread imagined every interested team preparing its own accidental welcome video next.\n  Why funny: Free-agent recruiting becomes a competition to misclick Publish first.\n  Source URL: https://www.reddit.com/r/nba/comments/1v3321x/the_miami_heat_youtube_channel_scheduled_a_video/\n\n## Quote\n\nThe draft calendar briefly entered the starting lineup.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v3321x/the_miami_heat_youtube_channel_scheduled_a_video/\n- Source type: Reddit / r/nba top-day YouTube-placeholder thread\n- Verification notes: the public post documented the scheduled video; a later r/nba follow-up attributed the mistaken publication and no-current-validity clarification to a Heat spokesperson, so this copy does not imply that James signed\n\n## Sports Radar Markdown\n\n```md\n**Miami's LeBron placeholder escapes onto YouTube**\n\nA Heat welcome-video placeholder briefly escaped before any actual LeBron announcement.\n\nWhy it works: NBA free agency became a workplace comedy about one private-video setting.\n```\n"
+    "markdown": "---\nid: miami-lebron-youtube-placeholder\nrank: 1\ntitle: \"Miami's LeBron placeholder escapes onto YouTube\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-22\"\nheat: 98\ntags:\n  - r/nba\n  - Miami Heat\n  - LeBron James\n  - YouTube\npublic_ready: true\n---\n\n## Summary\n\nThe Heat briefly exposed a scheduled YouTube placeholder for a LeBron James\nintroductory press conference, then clarified that it was preparation for a\npossibility rather than a real announcement.\n\n## Why It Is Funny\n\nNBA free agency briefly turned into a workplace-comedy episode where the\ncalendar draft escaped before the decision. The internet treated one private\nvideo setting like a scoop from the front office.\n\n## Comment Highlights\n\n- Label: Organizational chart\n  Summary: Fans debated whether a social-media worker could possibly learn LeBron's choice before the league's reporters.\n  Why funny: The rumor asks everyone to imagine that the YouTube dashboard sits above basketball operations.\n  Source URL: https://www.reddit.com/r/nba/comments/1v3321x/the_miami_heat_youtube_channel_scheduled_a_video/\n- Label: Placeholder season\n  Summary: The thread imagined every interested team preparing its own accidental welcome video next.\n  Why funny: Free-agent recruiting becomes a competition to misclick Publish first.\n  Source URL: https://www.reddit.com/r/nba/comments/1v3321x/the_miami_heat_youtube_channel_scheduled_a_video/\n\n## Quote\n\nThe draft calendar briefly entered the starting lineup.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v3321x/the_miami_heat_youtube_channel_scheduled_a_video/\n- Source type: Reddit / r/nba top-day YouTube-placeholder thread\n- Verification notes: the public post documented the scheduled video; a later r/nba follow-up attributed the mistaken publication and no-current-validity clarification to a Heat spokesperson, so this copy does not imply that James signed\n\n## Sports Radar Markdown\n\n```md\n**Miami's LeBron placeholder escapes onto YouTube**\n\nA Heat welcome-video placeholder briefly escaped before any actual LeBron announcement.\n\nWhy it works: NBA free agency became a workplace comedy about one private-video setting.\n```\n"
   },
   {
     "id": "nba-marriage-cap-loophole",
@@ -740,6 +776,42 @@
     "markdown": "---\nid: de-la-fuente-best-team-counter\nrank: 2\ntitle: \"De la Fuente compliments France, then raises the bid\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-15\"\nheat: 95\ntags:\n  - r/soccer\n  - Luis de la Fuente\n  - Spain\n  - France\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post quoted Spain coach Luis de la Fuente calling France one of the\nworld's best teams before declaring that France had just faced the best one.\n\n## Why It Is Funny\n\nIt begins as respectful coach-speak and turns into a winner's mic drop. The\ncompliment is really just the setup for a larger compliment to his own team.\n\n## Comment Highlights\n\n- Label: Respectful swagger\n  Summary: Fans liked that the line complimented France before turning the praise back toward Spain.\n  Why funny: The mic drop arrives disguised as good sportsmanship.\n  Source URL: https://www.reddit.com/r/soccer/comments/1uwmgbz/de_la_fuente_tonight_we_faced_one_of_the_best/\n- Label: One-line verdict\n  Summary: The thread treated the two-part comparison like a cold lyric rather than standard coach-speak.\n  Why funny: A long post-match answer gets remembered for the sentence that quietly ends the debate.\n  Source URL: https://www.reddit.com/r/soccer/comments/1uwmgbz/de_la_fuente_tonight_we_faced_one_of_the_best/\n\n## Quote\n\nCompliment the opponent, then raise the bid.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1uwmgbz/de_la_fuente_tonight_we_faced_one_of_the_best/\n- Source type: Reddit / r/soccer top-day quote post\n- Verification notes: the captured RSS title contains the two-part comparison; present it as a post-match swagger line, not broader analysis of either team\n\n## Sports Radar Markdown\n\n```md\n**De la Fuente compliments France, then raises the bid**\n\nSpain's coach used a gracious opponent compliment as the runway for his own team's mic drop.\n\nWhy it works: respectful coach-speak transforms into winner swagger without changing sentences.\n```\n"
   },
   {
+    "id": "eli-manning-supa-hot-fire-bar",
+    "rank": 2,
+    "title": "Eli Manning enters the Supa Hot Fire canon",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-23",
+    "heat": 96,
+    "tags": [
+      "r/nfl",
+      "Eli Manning",
+      "Supa Hot Fire",
+      "Tom Brady"
+    ],
+    "public_ready": true,
+    "summary": "An official r/nfl highlight put Eli Manning opposite Supa Hot Fire, where the\ntwo-time Super Bowl champion landed a Tom Brady punchline.",
+    "whyFunny": "Eli's permanently mild delivery makes battle-rap framing look even louder.\nBeating Brady twice apparently transfers cleanly into an entirely different\ncompetitive résumé.",
+    "quote": "The Brady receipts have entered a new genre.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1ustjhh/highlight_eli_manning_drops_a_bar_on_supa_hot_fire/",
+    "commentHighlights": [
+      {
+        "label": "Rap philosophy",
+        "summary": "Fans immediately tried to turn Eli's line into a fake philosophical maxim.",
+        "whyFunny": "One punchline gave the thread permission to invent an academic branch of Manning rap.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1ustjhh/highlight_eli_manning_drops_a_bar_on_supa_hot_fire/"
+      },
+      {
+        "label": "Brady exemption",
+        "summary": "The thread treated Eli as one of the few people allowed to make the joke because he owns the receipts.",
+        "whyFunny": "His battle-rap credentials are still two football games from more than a decade ago.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1ustjhh/highlight_eli_manning_drops_a_bar_on_supa_hot_fire/"
+      }
+    ],
+    "markdown": "---\nid: eli-manning-supa-hot-fire-bar\nrank: 2\ntitle: \"Eli Manning enters the Supa Hot Fire canon\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-23\"\nheat: 96\ntags:\n  - r/nfl\n  - Eli Manning\n  - Supa Hot Fire\n  - Tom Brady\npublic_ready: true\n---\n\n## Summary\n\nAn official r/nfl highlight put Eli Manning opposite Supa Hot Fire, where the\ntwo-time Super Bowl champion landed a Tom Brady punchline.\n\n## Why It Is Funny\n\nEli's permanently mild delivery makes battle-rap framing look even louder.\nBeating Brady twice apparently transfers cleanly into an entirely different\ncompetitive résumé.\n\n## Comment Highlights\n\n- Label: Rap philosophy\n  Summary: Fans immediately tried to turn Eli's line into a fake philosophical maxim.\n  Why funny: One punchline gave the thread permission to invent an academic branch of Manning rap.\n  Source URL: https://www.reddit.com/r/nfl/comments/1ustjhh/highlight_eli_manning_drops_a_bar_on_supa_hot_fire/\n- Label: Brady exemption\n  Summary: The thread treated Eli as one of the few people allowed to make the joke because he owns the receipts.\n  Why funny: His battle-rap credentials are still two football games from more than a decade ago.\n  Source URL: https://www.reddit.com/r/nfl/comments/1ustjhh/highlight_eli_manning_drops_a_bar_on_supa_hot_fire/\n\n## Quote\n\nThe Brady receipts have entered a new genre.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1ustjhh/highlight_eli_manning_drops_a_bar_on_supa_hot_fire/\n- Source type: Reddit / official r/nfl top-day comedy highlight and reaction thread\n- Verification notes: the fresh public highlight identifies Manning and Supa Hot Fire and centers the Brady joke; the copy summarizes the moment without reproducing the performance\n\n## Sports Radar Markdown\n\n```md\n**Eli Manning enters the Supa Hot Fire canon**\n\nEli carried his two Brady wins into a battle-rap punchline with the calmest possible delivery.\n\nWhy it works: the same old football receipts somehow transfer to a new genre.\n```\n"
+  },
+  {
     "id": "jaylen-brown-packed-up",
     "rank": 2,
     "title": "Jaylen Brown's trade reaction becomes workplace-comedy fuel",
@@ -1033,7 +1105,7 @@
     "title": "Tyler Herro hears the Giannis trade and rejects the premise",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-22",
     "heat": 96,
     "tags": [
@@ -1061,7 +1133,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1v2w0x6/tyler_herros_reaction_to_being_traded_to_the/"
       }
     ],
-    "markdown": "---\nid: tyler-herro-trade-reaction\nrank: 2\ntitle: \"Tyler Herro hears the Giannis trade and rejects the premise\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-22\"\nheat: 96\ntags:\n  - r/nba\n  - Tyler Herro\n  - Giannis Antetokounmpo\n  - trade reaction\npublic_ready: true\n---\n\n## Summary\n\nA public clip shared on r/nba caught Tyler Herro responding to his move from\nMiami to Milwaukee in the Giannis trade with immediate disbelief.\n\n## Why It Is Funny\n\nThe transaction had already happened, but Herro delivered his reaction like he\ncould still reject the trade from a customer-service counter.\n\n## Comment Highlights\n\n- Label: Permanent trade machine\n  Summary: Fans noted that Herro had spent years appearing in hypothetical trades before finally landing in a real one.\n  Why funny: The league's longest-running rumor tab finally changed from draft to sent.\n  Source URL: https://www.reddit.com/r/nba/comments/1v2w0x6/tyler_herros_reaction_to_being_traded_to_the/\n- Label: Star comparison\n  Summary: The thread reduced the emotional dispute to one blunt question about which player Miami chose.\n  Why funny: A complicated blockbuster becomes the shortest performance review imaginable.\n  Source URL: https://www.reddit.com/r/nba/comments/1v2w0x6/tyler_herros_reaction_to_being_traded_to_the/\n\n## Quote\n\nThe trade machine finally pressed send.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v2w0x6/tyler_herros_reaction_to_being_traded_to_the/\n- Source type: Reddit / r/nba top-day player-reaction clip\n- Verification notes: the public post presents Herro's immediate reaction to the completed trade; the copy paraphrases the clip and avoids repeating its profanity\n\n## Sports Radar Markdown\n\n```md\n**Tyler Herro hears the Giannis trade and rejects the premise**\n\nHerro reacted to the completed deal like the trade machine still had a cancel button.\n\nWhy it works: years of hypothetical trades ended with one very real notification.\n```\n"
+    "markdown": "---\nid: tyler-herro-trade-reaction\nrank: 2\ntitle: \"Tyler Herro hears the Giannis trade and rejects the premise\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-22\"\nheat: 96\ntags:\n  - r/nba\n  - Tyler Herro\n  - Giannis Antetokounmpo\n  - trade reaction\npublic_ready: true\n---\n\n## Summary\n\nA public clip shared on r/nba caught Tyler Herro responding to his move from\nMiami to Milwaukee in the Giannis trade with immediate disbelief.\n\n## Why It Is Funny\n\nThe transaction had already happened, but Herro delivered his reaction like he\ncould still reject the trade from a customer-service counter.\n\n## Comment Highlights\n\n- Label: Permanent trade machine\n  Summary: Fans noted that Herro had spent years appearing in hypothetical trades before finally landing in a real one.\n  Why funny: The league's longest-running rumor tab finally changed from draft to sent.\n  Source URL: https://www.reddit.com/r/nba/comments/1v2w0x6/tyler_herros_reaction_to_being_traded_to_the/\n- Label: Star comparison\n  Summary: The thread reduced the emotional dispute to one blunt question about which player Miami chose.\n  Why funny: A complicated blockbuster becomes the shortest performance review imaginable.\n  Source URL: https://www.reddit.com/r/nba/comments/1v2w0x6/tyler_herros_reaction_to_being_traded_to_the/\n\n## Quote\n\nThe trade machine finally pressed send.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v2w0x6/tyler_herros_reaction_to_being_traded_to_the/\n- Source type: Reddit / r/nba top-day player-reaction clip\n- Verification notes: the public post presents Herro's immediate reaction to the completed trade; the copy paraphrases the clip and avoids repeating its profanity\n\n## Sports Radar Markdown\n\n```md\n**Tyler Herro hears the Giannis trade and rejects the premise**\n\nHerro reacted to the completed deal like the trade machine still had a cancel button.\n\nWhy it works: years of hypothetical trades ended with one very real notification.\n```\n"
   },
   {
     "id": "brandon-young-soccer-out",
@@ -1213,7 +1285,7 @@
     "title": "Jon Sumrall declines the SEC complaint form",
     "league": "College Football",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-22",
     "heat": 94,
     "tags": [
@@ -1241,7 +1313,7 @@
         "sourceUrl": "https://www.reddit.com/r/CFB/comments/1v3gbhv/carter_im_not_going_to_whine_and_complain_about/"
       }
     ],
-    "markdown": "---\nid: jon-sumrall-sec-complaint-form\nrank: 3\ntitle: \"Jon Sumrall declines the SEC complaint form\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-22\"\nheat: 94\ntags:\n  - r/CFB\n  - Jon Sumrall\n  - Florida\n  - SEC schedule\npublic_ready: true\n---\n\n## Summary\n\nAsked about the SEC's nine-game conference schedule, Florida coach Jon Sumrall\nsaid he was not going to complain about the demands of being an SEC head coach.\n\n## Why It Is Funny\n\nThe answer is ordinary coach confidence, but the thread heard it as a violation\nof conference tradition. Apparently the first rule of the SEC is explaining\nhow uniquely difficult the SEC is.\n\n## Comment Highlights\n\n- Label: Two-word approval\n  Summary: Fans responded with a long chorus of the same compact expression of approval.\n  Why funny: A scheduling debate briefly achieved the simplest consensus in college football.\n  Source URL: https://www.reddit.com/r/CFB/comments/1v3gbhv/carter_im_not_going_to_whine_and_complain_about/\n- Label: New-coach confidence\n  Summary: The thread framed the quote as peak first-year swagger before any October press conference can test it.\n  Why funny: Every new coach begins by mentally bending the schedule into shape.\n  Source URL: https://www.reddit.com/r/CFB/comments/1v3gbhv/carter_im_not_going_to_whine_and_complain_about/\n\n## Quote\n\nThe complaint form came back unsigned.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1v3gbhv/carter_im_not_going_to_whine_and_complain_about/\n- Source type: Reddit / r/CFB top-day coaching quote and reaction thread\n- Verification notes: the public post attributes the no-complaining answer to Sumrall; the copy treats the reaction as conference humor rather than predicting Florida's results\n\n## Sports Radar Markdown\n\n```md\n**Jon Sumrall declines the SEC complaint form**\n\nFlorida's new coach answered the nine-game schedule question without requesting sympathy.\n\nWhy it works: the thread treated that as a violation of conference tradition.\n```\n"
+    "markdown": "---\nid: jon-sumrall-sec-complaint-form\nrank: 3\ntitle: \"Jon Sumrall declines the SEC complaint form\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-22\"\nheat: 94\ntags:\n  - r/CFB\n  - Jon Sumrall\n  - Florida\n  - SEC schedule\npublic_ready: true\n---\n\n## Summary\n\nAsked about the SEC's nine-game conference schedule, Florida coach Jon Sumrall\nsaid he was not going to complain about the demands of being an SEC head coach.\n\n## Why It Is Funny\n\nThe answer is ordinary coach confidence, but the thread heard it as a violation\nof conference tradition. Apparently the first rule of the SEC is explaining\nhow uniquely difficult the SEC is.\n\n## Comment Highlights\n\n- Label: Two-word approval\n  Summary: Fans responded with a long chorus of the same compact expression of approval.\n  Why funny: A scheduling debate briefly achieved the simplest consensus in college football.\n  Source URL: https://www.reddit.com/r/CFB/comments/1v3gbhv/carter_im_not_going_to_whine_and_complain_about/\n- Label: New-coach confidence\n  Summary: The thread framed the quote as peak first-year swagger before any October press conference can test it.\n  Why funny: Every new coach begins by mentally bending the schedule into shape.\n  Source URL: https://www.reddit.com/r/CFB/comments/1v3gbhv/carter_im_not_going_to_whine_and_complain_about/\n\n## Quote\n\nThe complaint form came back unsigned.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1v3gbhv/carter_im_not_going_to_whine_and_complain_about/\n- Source type: Reddit / r/CFB top-day coaching quote and reaction thread\n- Verification notes: the public post attributes the no-complaining answer to Sumrall; the copy treats the reaction as conference humor rather than predicting Florida's results\n\n## Sports Radar Markdown\n\n```md\n**Jon Sumrall declines the SEC complaint form**\n\nFlorida's new coach answered the nine-game schedule question without requesting sympathy.\n\nWhy it works: the thread treated that as a violation of conference tradition.\n```\n"
   },
   {
     "id": "julian-ryerson-palace-flip-flops",
@@ -1517,6 +1589,42 @@
       }
     ],
     "markdown": "---\nid: curry-lebron-golf-first\nrank: 3\ntitle: \"Steph Curry keeps turning LeBron speculation back into golf\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-09\"\nheat: 90\ntags:\n  - r/nba\n  - LeBron\n  - Curry\n  - golf\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post about Steph Curry's LeBron comments made the basketball fantasy\nfeel almost secondary to the recurring golf subplot.\n\n## Why It Is Funny\n\nFans want the impossible superteam answer. Curry's framing gives the thread a\nmuch calmer image: two all-time stars negotiating vibes on a course.\n\n## Comment Highlights\n\n- Label: Golf as the safer dream pairing\n  Summary: The thread gets to enjoy the basketball possibility while still laughing at how often the conversation drifts back to golf.\n  Why funny: The lower-stakes version somehow feels more believable than the basketball one.\n  Source URL: https://www.reddit.com/r/nba/comments/1ur1aro/steph_curry_on_the_possibility_of_playing_with/\n- Label: LeBron decision-watch fatigue\n  Summary: Reactions treat every LeBron answer as part transaction watch, part offseason talk-show script.\n  Why funny: Even the cautious answer becomes another episode in the same summer storyline.\n  Source URL: https://www.reddit.com/r/nba/comments/1ur1aro/steph_curry_on_the_possibility_of_playing_with/\n\n## Quote\n\nThe buddy-cop version may just be a tee time.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1ur1aro/steph_curry_on_the_possibility_of_playing_with/\n- Source type: Reddit / r/nba top-day thread\n- Verification notes: summarize the fan framing; do not present speculation as reporting\n\n## Sports Radar Markdown\n\n```md\n**Steph Curry keeps turning LeBron speculation back into golf**\n\nAn r/nba thread made the dream pairing feel almost less important than the tee time.\n\nWhy it works: the NBA's biggest fantasy gets rerouted into dad-sport diplomacy.\n```\n"
+  },
+  {
+    "id": "ncaa-lawyers-google-after-ruling",
+    "rank": 3,
+    "title": "The NCAA's legal bill discovers Google after the ruling",
+    "league": "College Football",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-23",
+    "heat": 94,
+    "tags": [
+      "r/CFB",
+      "NCAA",
+      "college eligibility",
+      "legal fees"
+    ],
+    "public_ready": true,
+    "summary": "After the NCAA questioned an Ohio judge's school ties in an eligibility case,\nattorney Tom Mars mocked the timing by describing expensive lawyers discovering\nthose degrees only after the ruling.",
+    "whyFunny": "The punchline turns a legal strategy into a very costly Google search performed\none result too late. The thread then spent as much time auditing the hourly rate\nas the case.",
+    "quote": "The premium search package arrived after judgment.",
+    "sourceUrl": "https://www.reddit.com/r/CFB/comments/1ut4eul/mars_if_i_were_the_ncaa_i_dont_think_id_be/",
+    "commentHighlights": [
+      {
+        "label": "Rent-per-hour review",
+        "summary": "Fans compared the quoted legal rate with rent and ordinary monthly expenses.",
+        "whyFunny": "The case briefly became a cost-of-living calculator for one hour of research.",
+        "sourceUrl": "https://www.reddit.com/r/CFB/comments/1ut4eul/mars_if_i_were_the_ncaa_i_dont_think_id_be/"
+      },
+      {
+        "label": "Billing audit",
+        "summary": "Lawyers in the thread debated which firms and seniority levels could actually command the stated rate.",
+        "whyFunny": "A joke about missing one search produced a full unpaid billing review.",
+        "sourceUrl": "https://www.reddit.com/r/CFB/comments/1ut4eul/mars_if_i_were_the_ncaa_i_dont_think_id_be/"
+      }
+    ],
+    "markdown": "---\nid: ncaa-lawyers-google-after-ruling\nrank: 3\ntitle: \"The NCAA's legal bill discovers Google after the ruling\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-23\"\nheat: 94\ntags:\n  - r/CFB\n  - NCAA\n  - college eligibility\n  - legal fees\npublic_ready: true\n---\n\n## Summary\n\nAfter the NCAA questioned an Ohio judge's school ties in an eligibility case,\nattorney Tom Mars mocked the timing by describing expensive lawyers discovering\nthose degrees only after the ruling.\n\n## Why It Is Funny\n\nThe punchline turns a legal strategy into a very costly Google search performed\none result too late. The thread then spent as much time auditing the hourly rate\nas the case.\n\n## Comment Highlights\n\n- Label: Rent-per-hour review\n  Summary: Fans compared the quoted legal rate with rent and ordinary monthly expenses.\n  Why funny: The case briefly became a cost-of-living calculator for one hour of research.\n  Source URL: https://www.reddit.com/r/CFB/comments/1ut4eul/mars_if_i_were_the_ncaa_i_dont_think_id_be/\n- Label: Billing audit\n  Summary: Lawyers in the thread debated which firms and seniority levels could actually command the stated rate.\n  Why funny: A joke about missing one search produced a full unpaid billing review.\n  Source URL: https://www.reddit.com/r/CFB/comments/1ut4eul/mars_if_i_were_the_ncaa_i_dont_think_id_be/\n\n## Quote\n\nThe premium search package arrived after judgment.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1ut4eul/mars_if_i_were_the_ncaa_i_dont_think_id_be/\n- Source type: Reddit / r/CFB top-day public attorney quote and reaction thread\n- Verification notes: the post presents Mars's criticism of the NCAA's timing; the copy attributes the criticism to him and does not independently assert legal incompetence or the exact billed rate\n\n## Sports Radar Markdown\n\n```md\n**The NCAA's legal bill discovers Google after the ruling**\n\nAn attorney reduced the NCAA's complaint about a judge's school ties to one very late, very expensive search.\n\nWhy it works: the thread answered a legal dispute with a full billing audit.\n```\n"
   },
   {
     "id": "will-stein-kentucky-winning-plan",
@@ -1990,7 +2098,7 @@
     "title": "The Finebaum Show's 'Legend' gets ejected from media day",
     "league": "College Football",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-22",
     "heat": 92,
     "tags": [
@@ -2018,7 +2126,7 @@
         "sourceUrl": "https://www.reddit.com/r/CFB/comments/1v2uotj/sec_ejects_legendary_finebaum_show_caller_from/"
       }
     ],
-    "markdown": "---\nid: finebaum-legend-media-day-ejection\nrank: 4\ntitle: \"The Finebaum Show's 'Legend' gets ejected from media day\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-22\"\nheat: 92\ntags:\n  - r/CFB\n  - Paul Finebaum Show\n  - SEC media days\n  - sports radio\npublic_ready: true\n---\n\n## Summary\n\nAn SEC media-days dispute ended with a regular Finebaum Show caller known as\n\"Legend\" being removed from the main floor.\n\n## Why It Is Funny\n\nCollege-football radio lore escaped the call-in line and became a credentialing\nincident. The self-applied nickname made every sentence read like professional\nwrestling narration.\n\n## Comment Highlights\n\n- Label: Headline misread\n  Summary: Several fans initially thought the headline said Paul Finebaum himself had been ejected.\n  Why funny: The correction disappointed readers before introducing an even stranger supporting character.\n  Source URL: https://www.reddit.com/r/CFB/comments/1v2uotj/sec_ejects_legendary_finebaum_show_caller_from/\n- Label: Third-person branding\n  Summary: The thread focused on the caller referring to himself by his on-air nickname while defending his credentials.\n  Why funny: A media-access dispute arrived with its own ring-announcer voice.\n  Source URL: https://www.reddit.com/r/CFB/comments/1v2uotj/sec_ejects_legendary_finebaum_show_caller_from/\n\n## Quote\n\nThe call-in character reached the main floor.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1v2uotj/sec_ejects_legendary_finebaum_show_caller_from/\n- Source type: Reddit / r/CFB top-day sports-radio and media-days thread\n- Verification notes: the linked public report and Reddit thread describe the ejection and the caller's on-air nickname; the copy summarizes the public incident without republishing the article or targeting a private identity\n\n## Sports Radar Markdown\n\n```md\n**The Finebaum Show's 'Legend' gets ejected from media day**\n\nA regular caller turned SEC credentialing into a live extension of sports-radio lore.\n\nWhy it works: the self-applied nickname gives the dispute its own ring-announcer voice.\n```\n"
+    "markdown": "---\nid: finebaum-legend-media-day-ejection\nrank: 4\ntitle: \"The Finebaum Show's 'Legend' gets ejected from media day\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-22\"\nheat: 92\ntags:\n  - r/CFB\n  - Paul Finebaum Show\n  - SEC media days\n  - sports radio\npublic_ready: true\n---\n\n## Summary\n\nAn SEC media-days dispute ended with a regular Finebaum Show caller known as\n\"Legend\" being removed from the main floor.\n\n## Why It Is Funny\n\nCollege-football radio lore escaped the call-in line and became a credentialing\nincident. The self-applied nickname made every sentence read like professional\nwrestling narration.\n\n## Comment Highlights\n\n- Label: Headline misread\n  Summary: Several fans initially thought the headline said Paul Finebaum himself had been ejected.\n  Why funny: The correction disappointed readers before introducing an even stranger supporting character.\n  Source URL: https://www.reddit.com/r/CFB/comments/1v2uotj/sec_ejects_legendary_finebaum_show_caller_from/\n- Label: Third-person branding\n  Summary: The thread focused on the caller referring to himself by his on-air nickname while defending his credentials.\n  Why funny: A media-access dispute arrived with its own ring-announcer voice.\n  Source URL: https://www.reddit.com/r/CFB/comments/1v2uotj/sec_ejects_legendary_finebaum_show_caller_from/\n\n## Quote\n\nThe call-in character reached the main floor.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1v2uotj/sec_ejects_legendary_finebaum_show_caller_from/\n- Source type: Reddit / r/CFB top-day sports-radio and media-days thread\n- Verification notes: the linked public report and Reddit thread describe the ejection and the caller's on-air nickname; the copy summarizes the public incident without republishing the article or targeting a private identity\n\n## Sports Radar Markdown\n\n```md\n**The Finebaum Show's 'Legend' gets ejected from media day**\n\nA regular caller turned SEC credentialing into a live extension of sports-radio lore.\n\nWhy it works: the self-applied nickname gives the dispute its own ring-announcer voice.\n```\n"
   },
   {
     "id": "jonah-marlins-ballpark-return",
@@ -2116,6 +2224,42 @@
     "markdown": "---\nid: trae-young-jersey-tear-quality-test\nrank: 4\ntitle: \"Trae Young accidentally runs a jersey quality test\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-19\"\nheat: 92\ntags:\n  - r/nba\n  - Trae Young\n  - Jalen Brunson\n  - Fanatics Fest\npublic_ready: true\n---\n\n## Summary\n\nDuring a Fanatics Fest rivalry bit, Trae Young tried to tear a Jalen Brunson\njersey and discovered that the fabric was not cooperating.\n\n## Why It Is Funny\n\nThe villain gesture needed a clean dramatic rip. Instead, the jersey turned\nthe moment into an unscheduled durability demonstration for the event host.\n\n## Comment Highlights\n\n- Label: Missing stage prep\n  Summary: Fans explained that dramatic shirt tears usually need a small cut before the performance starts.\n  Why funny: Rivalry theater becomes a backstage production lesson.\n  Source URL: https://www.reddit.com/r/nba/comments/1v035kj/trae_young_tries_to_rip_a_jalen_brunson_jersey_at/\n- Label: Accidental product demo\n  Summary: The thread reframed the failed tear as a surprisingly effective advertisement for jersey construction.\n  Why funny: The attempted insult ends up endorsing the merchandise.\n  Source URL: https://www.reddit.com/r/nba/comments/1v035kj/trae_young_tries_to_rip_a_jalen_brunson_jersey_at/\n\n## Quote\n\nThe rivalry bit passed quality control.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v035kj/trae_young_tries_to_rip_a_jalen_brunson_jersey_at/\n- Source type: Reddit / r/nba top-day Fanatics Fest clip\n- Verification notes: the public post and discussion frame the attempt as a staged rivalry bit; the copy makes no claim about the jersey model, material, or actual product durability\n\n## Sports Radar Markdown\n\n```md\n**Trae Young accidentally runs a jersey quality test**\n\nTrae Young tried to tear a Jalen Brunson jersey and found the rivalry prop unwilling to cooperate.\n\nWhy it works: a planned villain gesture becomes an accidental merchandise endorsement.\n```\n"
   },
   {
+    "id": "yang-hansen-capped-bottle-miss",
+    "rank": 4,
+    "title": "Yang Hansen's rare miss stays in the bottle",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-23",
+    "heat": 92,
+    "tags": [
+      "r/nba",
+      "Yang Hansen",
+      "Portland Trail Blazers",
+      "bench moments"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba clip caught Yang Hansen trying to drink from a sports bottle while\nthe cap was still on.",
+    "whyFunny": "It is the smallest possible failed highlight: perfect form, zero liquid. The\nthread responded by treating a capped bottle like elite concentration.",
+    "quote": "The hydration attempt was well defended.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1uvze1k/yang_hansen_with_the_rare_miss_tries_to_drink/",
+    "commentHighlights": [
+      {
+        "label": "Placebo hydration",
+        "summary": "Fans joked that seeing the drink was enough for Yang's body to register the effect.",
+        "whyFunny": "The miss was upgraded into a sports-science breakthrough.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uvze1k/yang_hansen_with_the_rare_miss_tries_to_drink/"
+      },
+      {
+        "label": "Locked-in defense",
+        "summary": "The thread blamed the cap on Yang being too focused on basketball to notice it.",
+        "whyFunny": "A completely ordinary mistake received the full athlete-mindset explanation.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uvze1k/yang_hansen_with_the_rare_miss_tries_to_drink/"
+      }
+    ],
+    "markdown": "---\nid: yang-hansen-capped-bottle-miss\nrank: 4\ntitle: \"Yang Hansen's rare miss stays in the bottle\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-23\"\nheat: 92\ntags:\n  - r/nba\n  - Yang Hansen\n  - Portland Trail Blazers\n  - bench moments\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip caught Yang Hansen trying to drink from a sports bottle while\nthe cap was still on.\n\n## Why It Is Funny\n\nIt is the smallest possible failed highlight: perfect form, zero liquid. The\nthread responded by treating a capped bottle like elite concentration.\n\n## Comment Highlights\n\n- Label: Placebo hydration\n  Summary: Fans joked that seeing the drink was enough for Yang's body to register the effect.\n  Why funny: The miss was upgraded into a sports-science breakthrough.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvze1k/yang_hansen_with_the_rare_miss_tries_to_drink/\n- Label: Locked-in defense\n  Summary: The thread blamed the cap on Yang being too focused on basketball to notice it.\n  Why funny: A completely ordinary mistake received the full athlete-mindset explanation.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvze1k/yang_hansen_with_the_rare_miss_tries_to_drink/\n\n## Quote\n\nThe hydration attempt was well defended.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uvze1k/yang_hansen_with_the_rare_miss_tries_to_drink/\n- Source type: Reddit / r/nba top-day bench clip and reaction thread\n- Verification notes: the public clip title and thread describe the capped-bottle attempt; the copy stays with the visible gag and does not infer anything about Yang beyond the moment\n\n## Sports Radar Markdown\n\n```md\n**Yang Hansen's rare miss stays in the bottle**\n\nYang brought the bottle up with good form and one unresolved cap.\n\nWhy it works: the thread promoted a hydration miss into proof of elite focus.\n```\n"
+  },
+  {
     "id": "laz-diaz-plate-mic-aside",
     "rank": 5,
     "title": "A plate mic catches the umpire's last-inning complaint",
@@ -2180,7 +2324,7 @@
     "title": "Deuce McBride turns role acceptance into a league-wide review",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-22",
     "heat": 90,
     "tags": [
@@ -2208,7 +2352,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1v2syt1/knicks_film_school_deuce_mcbride_on_winning_in/"
       }
     ],
-    "markdown": "---\nid: deuce-mcbride-role-review\nrank: 5\ntitle: \"Deuce McBride turns role acceptance into a league-wide review\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-22\"\nheat: 90\ntags:\n  - r/nba\n  - Miles McBride\n  - role players\n  - roster building\npublic_ready: true\n---\n\n## Summary\n\nMiles \"Deuce\" McBride argued that more NBA players should embrace the roles\nthat help teams win, then blamed the league for rewarding losing situations.\n\n## Why It Is Funny\n\nA role-player lesson becomes a performance review for the entire labor market.\nMcBride did not name anyone, so the thread immediately opened a roll call.\n\n## Comment Highlights\n\n- Label: Guess-who department\n  Summary: Fans treated the general criticism as an invitation to nominate contracts and players it might describe.\n  Why funny: A quote with no names generated a very crowded attendance sheet.\n  Source URL: https://www.reddit.com/r/nba/comments/1v2syt1/knicks_film_school_deuce_mcbride_on_winning_in/\n- Label: Role-player career path\n  Summary: The thread compared accepting a supporting role to understanding the actual job in a high-level interview.\n  Why funny: NBA roster construction briefly sounded like an unusually honest workplace orientation.\n  Source URL: https://www.reddit.com/r/nba/comments/1v2syt1/knicks_film_school_deuce_mcbride_on_winning_in/\n\n## Quote\n\nThe league-wide performance review has no names attached.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v2syt1/knicks_film_school_deuce_mcbride_on_winning_in/\n- Source type: Reddit / r/nba top-day player quote and roster-role discussion\n- Verification notes: the public post attributes the role-and-reward critique to McBride; the copy preserves the distinction between his opinion and the thread's speculation about examples\n\n## Sports Radar Markdown\n\n```md\n**Deuce McBride turns role acceptance into a league-wide review**\n\nMcBride blamed the NBA's incentives for rewarding players who do not help teams win.\n\nWhy it works: he named nobody, so the thread opened a full roll call.\n```\n"
+    "markdown": "---\nid: deuce-mcbride-role-review\nrank: 5\ntitle: \"Deuce McBride turns role acceptance into a league-wide review\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-22\"\nheat: 90\ntags:\n  - r/nba\n  - Miles McBride\n  - role players\n  - roster building\npublic_ready: true\n---\n\n## Summary\n\nMiles \"Deuce\" McBride argued that more NBA players should embrace the roles\nthat help teams win, then blamed the league for rewarding losing situations.\n\n## Why It Is Funny\n\nA role-player lesson becomes a performance review for the entire labor market.\nMcBride did not name anyone, so the thread immediately opened a roll call.\n\n## Comment Highlights\n\n- Label: Guess-who department\n  Summary: Fans treated the general criticism as an invitation to nominate contracts and players it might describe.\n  Why funny: A quote with no names generated a very crowded attendance sheet.\n  Source URL: https://www.reddit.com/r/nba/comments/1v2syt1/knicks_film_school_deuce_mcbride_on_winning_in/\n- Label: Role-player career path\n  Summary: The thread compared accepting a supporting role to understanding the actual job in a high-level interview.\n  Why funny: NBA roster construction briefly sounded like an unusually honest workplace orientation.\n  Source URL: https://www.reddit.com/r/nba/comments/1v2syt1/knicks_film_school_deuce_mcbride_on_winning_in/\n\n## Quote\n\nThe league-wide performance review has no names attached.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v2syt1/knicks_film_school_deuce_mcbride_on_winning_in/\n- Source type: Reddit / r/nba top-day player quote and roster-role discussion\n- Verification notes: the public post attributes the role-and-reward critique to McBride; the copy preserves the distinction between his opinion and the thread's speculation about examples\n\n## Sports Radar Markdown\n\n```md\n**Deuce McBride turns role acceptance into a league-wide review**\n\nMcBride blamed the NBA's incentives for rewarding players who do not help teams win.\n\nWhy it works: he named nobody, so the thread opened a full roll call.\n```\n"
   },
   {
     "id": "qb-first-pass-memory-lane",
@@ -2459,6 +2603,42 @@
       }
     ],
     "markdown": "---\nid: norway-viking-row\nrank: 5\ntitle: \"Norway advances and turns the celebration into a Viking Row\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-06-30\"\nheat: 82\ntags:\n  - r/sports\n  - World Cup\n  - celebration\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports post highlighted Norway players and fans celebrating together with\na Viking Row after advancing in the World Cup.\n\n## Why It Is Funny\n\nIt is a clean fan-culture artifact: the result matters, but the repeatable\ncelebration ritual is what makes it travel.\n\n## Comment Highlights\n\n- Label: Celebration with choreography\n  Summary: The thread is less about the score than the shared ritual after it, with fans and players moving as one unit.\n  Why funny: It turns advancement into a branded dance move.\n  Source URL: https://www.reddit.com/r/sports/comments/1uk608i/norways_players_and_fans_celebrate_together_with/\n- Label: National identity in one clip\n  Summary: Reactions make the Viking Row feel instantly legible even if you are not following Norway closely.\n  Why funny: The ritual does all the context-setting a normal recap would need paragraphs to explain.\n  Source URL: https://www.reddit.com/r/sports/comments/1uk608i/norways_players_and_fans_celebrate_together_with/\n\n## Quote\n\nThe highlight package came with choreography.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1uk608i/norways_players_and_fans_celebrate_together_with/\n- Source type: Reddit / r/sports top-day thread\n- Verification notes: use as public celebration commentary; avoid reposting video without rights review\n\n## Sports Radar Markdown\n\n```md\n**Norway advances and turns the celebration into a Viking Row**\n\nAn r/sports post captured players and fans celebrating with a repeatable ritual.\n\nWhy it works: the score is news, but the choreography is the culture.\n```\n"
+  },
+  {
+    "id": "sean-sweeney-46-minute-finals",
+    "rank": 5,
+    "title": "Sean Sweeney wins the 46-minute Finals",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-23",
+    "heat": 90,
+    "tags": [
+      "r/nba",
+      "Sean Sweeney",
+      "San Antonio Spurs",
+      "NBA Finals"
+    ],
+    "public_ready": true,
+    "summary": "Sean Sweeney said his former Spurs staff was told it would have won the NBA\nFinals 4-1 if each game had ended after 46 minutes.",
+    "whyFunny": "The final two minutes were reclassified from basketball into an inconvenient\nformatting choice. Fans promptly awarded San Antonio the championship of a\nleague that stops just before closing time.",
+    "quote": "The championship ended two minutes before the championship.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1uvwxnq/magic_hc_and_exspurs_assistant_sean_sweeney_on/",
+    "commentHighlights": [
+      {
+        "label": "Analytical championship",
+        "summary": "Fans promoted the Spurs to champions of the 46-minute game.",
+        "whyFunny": "A loss acquired a trophy by changing the unit of measurement.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uvwxnq/magic_hc_and_exspurs_assistant_sean_sweeney_on/"
+      },
+      {
+        "label": "Per-46 era",
+        "summary": "The thread proposed replacing familiar per-36 statistics with a new 46-minute category.",
+        "whyFunny": "The cope became advanced analytics before the discussion was over.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uvwxnq/magic_hc_and_exspurs_assistant_sean_sweeney_on/"
+      }
+    ],
+    "markdown": "---\nid: sean-sweeney-46-minute-finals\nrank: 5\ntitle: \"Sean Sweeney wins the 46-minute Finals\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-23\"\nheat: 90\ntags:\n  - r/nba\n  - Sean Sweeney\n  - San Antonio Spurs\n  - NBA Finals\npublic_ready: true\n---\n\n## Summary\n\nSean Sweeney said his former Spurs staff was told it would have won the NBA\nFinals 4-1 if each game had ended after 46 minutes.\n\n## Why It Is Funny\n\nThe final two minutes were reclassified from basketball into an inconvenient\nformatting choice. Fans promptly awarded San Antonio the championship of a\nleague that stops just before closing time.\n\n## Comment Highlights\n\n- Label: Analytical championship\n  Summary: Fans promoted the Spurs to champions of the 46-minute game.\n  Why funny: A loss acquired a trophy by changing the unit of measurement.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvwxnq/magic_hc_and_exspurs_assistant_sean_sweeney_on/\n- Label: Per-46 era\n  Summary: The thread proposed replacing familiar per-36 statistics with a new 46-minute category.\n  Why funny: The cope became advanced analytics before the discussion was over.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvwxnq/magic_hc_and_exspurs_assistant_sean_sweeney_on/\n\n## Quote\n\nThe championship ended two minutes before the championship.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uvwxnq/magic_hc_and_exspurs_assistant_sean_sweeney_on/\n- Source type: Reddit / r/nba top-day podcast quote and Finals reaction thread\n- Verification notes: the public post quotes Sweeney's 46-minute framing and also includes his acknowledgment that the Spurs made mistakes; this copy targets the unusual counterfactual, not the broader accountability debate\n\n## Sports Radar Markdown\n\n```md\n**Sean Sweeney wins the 46-minute Finals**\n\nSweeney said the Spurs would have won 4-1 if NBA games stopped two minutes early.\n\nWhy it works: the thread awarded San Antonio a championship in a league with a new closing time.\n```\n"
   },
   {
     "id": "spain-viking-row-celebration",
