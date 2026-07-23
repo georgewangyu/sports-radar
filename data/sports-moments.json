@@ -1244,6 +1244,42 @@
     "markdown": "---\nid: dwight-bynum-nyc-encounter\nrank: 3\ntitle: \"Dwight Howard finds Andrew Bynum in the wild\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-17\"\nheat: 94\ntags:\n  - r/nba\n  - Dwight Howard\n  - Andrew Bynum\n  - NBA nostalgia\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba street clip showed Dwight Howard unexpectedly spotting Andrew Bynum\nin New York City. They exchanged a quick greeting, and Bynum kept moving.\n\n## Why It Is Funny\n\nTwo giant pieces of late-2000s NBA lore collide on an ordinary sidewalk, but\nthe reunion has the brisk energy of passing a former coworker near the train.\n\n## Comment Highlights\n\n- Label: Keep-it-moving reunion\n  Summary: Fans fixated on how quickly Bynum acknowledged the encounter and continued down the sidewalk.\n  Why funny: The surprise reunion lasts less time than the nostalgia it triggers.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/\n- Label: Time-capsule sighting\n  Summary: The thread reflected on how long Bynum has stayed out of the basketball spotlight.\n  Why funny: A casual New York crossing becomes an accidental NBA alumni update.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/\n\n## Quote\n\nThe reunion was shorter than the memory lane.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/\n- Source type: Reddit / r/nba top-day street clip\n- Verification notes: the clip visibly shows the brief public encounter; the public copy avoids speculation about Bynum's private life or reasons for leaving the spotlight\n\n## Sports Radar Markdown\n\n```md\n**Dwight Howard finds Andrew Bynum in the wild**\n\nDwight spotted Bynum on a New York sidewalk, got a quick greeting, and watched him keep moving.\n\nWhy it works: a huge NBA nostalgia event plays out like two former coworkers passing near the train.\n```\n"
   },
   {
+    "id": "gerrit-cole-broken-clock-balk",
+    "rank": 3,
+    "title": "Gerrit Cole reports a broken clock and gets a balk",
+    "league": "MLB",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-23",
+    "heat": 94,
+    "tags": [
+      "r/baseball",
+      "Gerrit Cole",
+      "pitch clock",
+      "balk"
+    ],
+    "public_ready": true,
+    "summary": "Gerrit Cole noticed the pitch clock had gone dark and tried to tell the\numpires, but he did it without properly stepping off the rubber and was called\nfor a balk.",
+    "whyFunny": "The equipment failed, Cole filed a live bug report, and baseball penalized the\nreporting method. It is a perfect collision between common sense and a rule\nfamous for resisting plain-language explanation.",
+    "quote": "The bug report came with a one-base penalty.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1v3oway/gerrit_cole_gets_called_for_a_balk_for_trying_to/",
+    "commentHighlights": [
+      {
+        "label": "Pointing history",
+        "summary": "Fans connected the moment to Cole's broader history of pointing at problems during games.",
+        "whyFunny": "The gesture itself has apparently become a recurring opponent.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1v3oway/gerrit_cole_gets_called_for_a_balk_for_trying_to/"
+      },
+      {
+        "label": "Clock-balk vocabulary",
+        "summary": "The thread tried to invent one compact word for talking about a clock and receiving a balk.",
+        "whyFunny": "Baseball's least explainable rule immediately generated its own language patch.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1v3oway/gerrit_cole_gets_called_for_a_balk_for_trying_to/"
+      }
+    ],
+    "markdown": "---\nid: gerrit-cole-broken-clock-balk\nrank: 3\ntitle: \"Gerrit Cole reports a broken clock and gets a balk\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-23\"\nheat: 94\ntags:\n  - r/baseball\n  - Gerrit Cole\n  - pitch clock\n  - balk\npublic_ready: true\n---\n\n## Summary\n\nGerrit Cole noticed the pitch clock had gone dark and tried to tell the\numpires, but he did it without properly stepping off the rubber and was called\nfor a balk.\n\n## Why It Is Funny\n\nThe equipment failed, Cole filed a live bug report, and baseball penalized the\nreporting method. It is a perfect collision between common sense and a rule\nfamous for resisting plain-language explanation.\n\n## Comment Highlights\n\n- Label: Pointing history\n  Summary: Fans connected the moment to Cole's broader history of pointing at problems during games.\n  Why funny: The gesture itself has apparently become a recurring opponent.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v3oway/gerrit_cole_gets_called_for_a_balk_for_trying_to/\n- Label: Clock-balk vocabulary\n  Summary: The thread tried to invent one compact word for talking about a clock and receiving a balk.\n  Why funny: Baseball's least explainable rule immediately generated its own language patch.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v3oway/gerrit_cole_gets_called_for_a_balk_for_trying_to/\n\n## Quote\n\nThe bug report came with a one-base penalty.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v3oway/gerrit_cole_gets_called_for_a_balk_for_trying_to/\n- Source type: Reddit / r/baseball top-day game clip and rules discussion\n- Verification notes: the fresh public post shows Cole signaling the broken clock and notes that he had not stepped off properly; the copy does not claim the balk call was incorrect\n\n## Sports Radar Markdown\n\n```md\n**Gerrit Cole reports a broken clock and gets a balk**\n\nCole noticed the pitch clock had failed, reported it from the rubber, and received a one-base penalty.\n\nWhy it works: baseball accepted the bug report and rejected the reporting method.\n```\n"
+  },
+  {
     "id": "ja-morant-teammate-ragebait",
     "rank": 3,
     "title": "Ja Morant discovers the roster's ragebait department",
@@ -1596,7 +1632,7 @@
     "title": "The NCAA's legal bill discovers Google after the ruling",
     "league": "College Football",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-23",
     "heat": 94,
     "tags": [
@@ -1624,7 +1660,7 @@
         "sourceUrl": "https://www.reddit.com/r/CFB/comments/1ut4eul/mars_if_i_were_the_ncaa_i_dont_think_id_be/"
       }
     ],
-    "markdown": "---\nid: ncaa-lawyers-google-after-ruling\nrank: 3\ntitle: \"The NCAA's legal bill discovers Google after the ruling\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-23\"\nheat: 94\ntags:\n  - r/CFB\n  - NCAA\n  - college eligibility\n  - legal fees\npublic_ready: true\n---\n\n## Summary\n\nAfter the NCAA questioned an Ohio judge's school ties in an eligibility case,\nattorney Tom Mars mocked the timing by describing expensive lawyers discovering\nthose degrees only after the ruling.\n\n## Why It Is Funny\n\nThe punchline turns a legal strategy into a very costly Google search performed\none result too late. The thread then spent as much time auditing the hourly rate\nas the case.\n\n## Comment Highlights\n\n- Label: Rent-per-hour review\n  Summary: Fans compared the quoted legal rate with rent and ordinary monthly expenses.\n  Why funny: The case briefly became a cost-of-living calculator for one hour of research.\n  Source URL: https://www.reddit.com/r/CFB/comments/1ut4eul/mars_if_i_were_the_ncaa_i_dont_think_id_be/\n- Label: Billing audit\n  Summary: Lawyers in the thread debated which firms and seniority levels could actually command the stated rate.\n  Why funny: A joke about missing one search produced a full unpaid billing review.\n  Source URL: https://www.reddit.com/r/CFB/comments/1ut4eul/mars_if_i_were_the_ncaa_i_dont_think_id_be/\n\n## Quote\n\nThe premium search package arrived after judgment.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1ut4eul/mars_if_i_were_the_ncaa_i_dont_think_id_be/\n- Source type: Reddit / r/CFB top-day public attorney quote and reaction thread\n- Verification notes: the post presents Mars's criticism of the NCAA's timing; the copy attributes the criticism to him and does not independently assert legal incompetence or the exact billed rate\n\n## Sports Radar Markdown\n\n```md\n**The NCAA's legal bill discovers Google after the ruling**\n\nAn attorney reduced the NCAA's complaint about a judge's school ties to one very late, very expensive search.\n\nWhy it works: the thread answered a legal dispute with a full billing audit.\n```\n"
+    "markdown": "---\nid: ncaa-lawyers-google-after-ruling\nrank: 3\ntitle: \"The NCAA's legal bill discovers Google after the ruling\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-23\"\nheat: 94\ntags:\n  - r/CFB\n  - NCAA\n  - college eligibility\n  - legal fees\npublic_ready: true\n---\n\n## Summary\n\nAfter the NCAA questioned an Ohio judge's school ties in an eligibility case,\nattorney Tom Mars mocked the timing by describing expensive lawyers discovering\nthose degrees only after the ruling.\n\n## Why It Is Funny\n\nThe punchline turns a legal strategy into a very costly Google search performed\none result too late. The thread then spent as much time auditing the hourly rate\nas the case.\n\n## Comment Highlights\n\n- Label: Rent-per-hour review\n  Summary: Fans compared the quoted legal rate with rent and ordinary monthly expenses.\n  Why funny: The case briefly became a cost-of-living calculator for one hour of research.\n  Source URL: https://www.reddit.com/r/CFB/comments/1ut4eul/mars_if_i_were_the_ncaa_i_dont_think_id_be/\n- Label: Billing audit\n  Summary: Lawyers in the thread debated which firms and seniority levels could actually command the stated rate.\n  Why funny: A joke about missing one search produced a full unpaid billing review.\n  Source URL: https://www.reddit.com/r/CFB/comments/1ut4eul/mars_if_i_were_the_ncaa_i_dont_think_id_be/\n\n## Quote\n\nThe premium search package arrived after judgment.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1ut4eul/mars_if_i_were_the_ncaa_i_dont_think_id_be/\n- Source type: Reddit / r/CFB top-day public attorney quote and reaction thread\n- Verification notes: the post presents Mars's criticism of the NCAA's timing; the copy attributes the criticism to him and does not independently assert legal incompetence or the exact billed rate\n\n## Sports Radar Markdown\n\n```md\n**The NCAA's legal bill discovers Google after the ruling**\n\nAn attorney reduced the NCAA's complaint about a judge's school ties to one very late, very expensive search.\n\nWhy it works: the thread answered a legal dispute with a full billing audit.\n```\n"
   },
   {
     "id": "will-stein-kentucky-winning-plan",
@@ -2224,40 +2260,40 @@
     "markdown": "---\nid: trae-young-jersey-tear-quality-test\nrank: 4\ntitle: \"Trae Young accidentally runs a jersey quality test\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-19\"\nheat: 92\ntags:\n  - r/nba\n  - Trae Young\n  - Jalen Brunson\n  - Fanatics Fest\npublic_ready: true\n---\n\n## Summary\n\nDuring a Fanatics Fest rivalry bit, Trae Young tried to tear a Jalen Brunson\njersey and discovered that the fabric was not cooperating.\n\n## Why It Is Funny\n\nThe villain gesture needed a clean dramatic rip. Instead, the jersey turned\nthe moment into an unscheduled durability demonstration for the event host.\n\n## Comment Highlights\n\n- Label: Missing stage prep\n  Summary: Fans explained that dramatic shirt tears usually need a small cut before the performance starts.\n  Why funny: Rivalry theater becomes a backstage production lesson.\n  Source URL: https://www.reddit.com/r/nba/comments/1v035kj/trae_young_tries_to_rip_a_jalen_brunson_jersey_at/\n- Label: Accidental product demo\n  Summary: The thread reframed the failed tear as a surprisingly effective advertisement for jersey construction.\n  Why funny: The attempted insult ends up endorsing the merchandise.\n  Source URL: https://www.reddit.com/r/nba/comments/1v035kj/trae_young_tries_to_rip_a_jalen_brunson_jersey_at/\n\n## Quote\n\nThe rivalry bit passed quality control.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v035kj/trae_young_tries_to_rip_a_jalen_brunson_jersey_at/\n- Source type: Reddit / r/nba top-day Fanatics Fest clip\n- Verification notes: the public post and discussion frame the attempt as a staged rivalry bit; the copy makes no claim about the jersey model, material, or actual product durability\n\n## Sports Radar Markdown\n\n```md\n**Trae Young accidentally runs a jersey quality test**\n\nTrae Young tried to tear a Jalen Brunson jersey and found the rivalry prop unwilling to cooperate.\n\nWhy it works: a planned villain gesture becomes an accidental merchandise endorsement.\n```\n"
   },
   {
-    "id": "yang-hansen-capped-bottle-miss",
+    "id": "zac-thornton-removes-the-h",
     "rank": 4,
-    "title": "Yang Hansen's rare miss stays in the bottle",
-    "league": "NBA",
+    "title": "Zac Thornton releases the H from active duty",
+    "league": "MLB",
     "source": "Reddit",
     "status": "today",
     "date": "2026-07-23",
     "heat": 92,
     "tags": [
-      "r/nba",
-      "Yang Hansen",
-      "Portland Trail Blazers",
-      "bench moments"
+      "r/baseball",
+      "Zac Thornton",
+      "New York Mets",
+      "names"
     ],
     "public_ready": true,
-    "summary": "An r/nba clip caught Yang Hansen trying to drink from a sports bottle while\nthe cap was still on.",
-    "whyFunny": "It is the smallest possible failed highlight: perfect form, zero liquid. The\nthread responded by treating a capped bottle like elite concentration.",
-    "quote": "The hydration attempt was well defended.",
-    "sourceUrl": "https://www.reddit.com/r/nba/comments/1uvze1k/yang_hansen_with_the_rare_miss_tries_to_drink/",
+    "summary": "Mets rookie Zac Thornton explained that he dropped the H from Zach because he\nnever understood what the letter was doing there.",
+    "whyFunny": "The name change was presented like a roster cut for a letter with no visible\nproduction. The thread responded by placing every silent letter in the language\non notice.",
+    "quote": "The H was designated for assignment.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1v3k3hf/mets_rookie_pitcher_zac_formerly_zach_thornton_on/",
     "commentHighlights": [
       {
-        "label": "Placebo hydration",
-        "summary": "Fans joked that seeing the drink was enough for Yang's body to register the effect.",
-        "whyFunny": "The miss was upgraded into a sports-science breakthrough.",
-        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uvze1k/yang_hansen_with_the_rare_miss_tries_to_drink/"
+        "label": "Silent-letter warning",
+        "summary": "Fans treated the removed H as the beginning of a wider campaign against letters that do not make enough noise.",
+        "whyFunny": "One spelling preference became a performance review for the alphabet.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1v3k3hf/mets_rookie_pitcher_zac_formerly_zach_thornton_on/"
       },
       {
-        "label": "Locked-in defense",
-        "summary": "The thread blamed the cap on Yang being too focused on basketball to notice it.",
-        "whyFunny": "A completely ordinary mistake received the full athlete-mindset explanation.",
-        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uvze1k/yang_hansen_with_the_rare_miss_tries_to_drink/"
+        "label": "Pitcher spelling upgrade",
+        "summary": "The thread proposed swapping the removed H for a K because pitchers should record strikeouts.",
+        "whyFunny": "Even a first name was dragged into baseball's stat logic.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1v3k3hf/mets_rookie_pitcher_zac_formerly_zach_thornton_on/"
       }
     ],
-    "markdown": "---\nid: yang-hansen-capped-bottle-miss\nrank: 4\ntitle: \"Yang Hansen's rare miss stays in the bottle\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-23\"\nheat: 92\ntags:\n  - r/nba\n  - Yang Hansen\n  - Portland Trail Blazers\n  - bench moments\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip caught Yang Hansen trying to drink from a sports bottle while\nthe cap was still on.\n\n## Why It Is Funny\n\nIt is the smallest possible failed highlight: perfect form, zero liquid. The\nthread responded by treating a capped bottle like elite concentration.\n\n## Comment Highlights\n\n- Label: Placebo hydration\n  Summary: Fans joked that seeing the drink was enough for Yang's body to register the effect.\n  Why funny: The miss was upgraded into a sports-science breakthrough.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvze1k/yang_hansen_with_the_rare_miss_tries_to_drink/\n- Label: Locked-in defense\n  Summary: The thread blamed the cap on Yang being too focused on basketball to notice it.\n  Why funny: A completely ordinary mistake received the full athlete-mindset explanation.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvze1k/yang_hansen_with_the_rare_miss_tries_to_drink/\n\n## Quote\n\nThe hydration attempt was well defended.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uvze1k/yang_hansen_with_the_rare_miss_tries_to_drink/\n- Source type: Reddit / r/nba top-day bench clip and reaction thread\n- Verification notes: the public clip title and thread describe the capped-bottle attempt; the copy stays with the visible gag and does not infer anything about Yang beyond the moment\n\n## Sports Radar Markdown\n\n```md\n**Yang Hansen's rare miss stays in the bottle**\n\nYang brought the bottle up with good form and one unresolved cap.\n\nWhy it works: the thread promoted a hydration miss into proof of elite focus.\n```\n"
+    "markdown": "---\nid: zac-thornton-removes-the-h\nrank: 4\ntitle: \"Zac Thornton releases the H from active duty\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-23\"\nheat: 92\ntags:\n  - r/baseball\n  - Zac Thornton\n  - New York Mets\n  - names\npublic_ready: true\n---\n\n## Summary\n\nMets rookie Zac Thornton explained that he dropped the H from Zach because he\nnever understood what the letter was doing there.\n\n## Why It Is Funny\n\nThe name change was presented like a roster cut for a letter with no visible\nproduction. The thread responded by placing every silent letter in the language\non notice.\n\n## Comment Highlights\n\n- Label: Silent-letter warning\n  Summary: Fans treated the removed H as the beginning of a wider campaign against letters that do not make enough noise.\n  Why funny: One spelling preference became a performance review for the alphabet.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v3k3hf/mets_rookie_pitcher_zac_formerly_zach_thornton_on/\n- Label: Pitcher spelling upgrade\n  Summary: The thread proposed swapping the removed H for a K because pitchers should record strikeouts.\n  Why funny: Even a first name was dragged into baseball's stat logic.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v3k3hf/mets_rookie_pitcher_zac_formerly_zach_thornton_on/\n\n## Quote\n\nThe H was designated for assignment.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v3k3hf/mets_rookie_pitcher_zac_formerly_zach_thornton_on/\n- Source type: Reddit / r/baseball top-day player-name story and reaction thread\n- Verification notes: the public post attributes the spelling explanation to Thornton and links the underlying Newsday item; the copy treats the choice as light name lore and avoids the thread's personal attacks\n\n## Sports Radar Markdown\n\n```md\n**Zac Thornton releases the H from active duty**\n\nThe Mets rookie dropped one letter because he could not identify its contribution.\n\nWhy it works: a spelling preference became an alphabet performance review.\n```\n"
   },
   {
     "id": "laz-diaz-plate-mic-aside",
@@ -2610,7 +2646,7 @@
     "title": "Sean Sweeney wins the 46-minute Finals",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-23",
     "heat": 90,
     "tags": [
@@ -2638,7 +2674,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1uvwxnq/magic_hc_and_exspurs_assistant_sean_sweeney_on/"
       }
     ],
-    "markdown": "---\nid: sean-sweeney-46-minute-finals\nrank: 5\ntitle: \"Sean Sweeney wins the 46-minute Finals\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-23\"\nheat: 90\ntags:\n  - r/nba\n  - Sean Sweeney\n  - San Antonio Spurs\n  - NBA Finals\npublic_ready: true\n---\n\n## Summary\n\nSean Sweeney said his former Spurs staff was told it would have won the NBA\nFinals 4-1 if each game had ended after 46 minutes.\n\n## Why It Is Funny\n\nThe final two minutes were reclassified from basketball into an inconvenient\nformatting choice. Fans promptly awarded San Antonio the championship of a\nleague that stops just before closing time.\n\n## Comment Highlights\n\n- Label: Analytical championship\n  Summary: Fans promoted the Spurs to champions of the 46-minute game.\n  Why funny: A loss acquired a trophy by changing the unit of measurement.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvwxnq/magic_hc_and_exspurs_assistant_sean_sweeney_on/\n- Label: Per-46 era\n  Summary: The thread proposed replacing familiar per-36 statistics with a new 46-minute category.\n  Why funny: The cope became advanced analytics before the discussion was over.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvwxnq/magic_hc_and_exspurs_assistant_sean_sweeney_on/\n\n## Quote\n\nThe championship ended two minutes before the championship.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uvwxnq/magic_hc_and_exspurs_assistant_sean_sweeney_on/\n- Source type: Reddit / r/nba top-day podcast quote and Finals reaction thread\n- Verification notes: the public post quotes Sweeney's 46-minute framing and also includes his acknowledgment that the Spurs made mistakes; this copy targets the unusual counterfactual, not the broader accountability debate\n\n## Sports Radar Markdown\n\n```md\n**Sean Sweeney wins the 46-minute Finals**\n\nSweeney said the Spurs would have won 4-1 if NBA games stopped two minutes early.\n\nWhy it works: the thread awarded San Antonio a championship in a league with a new closing time.\n```\n"
+    "markdown": "---\nid: sean-sweeney-46-minute-finals\nrank: 5\ntitle: \"Sean Sweeney wins the 46-minute Finals\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-23\"\nheat: 90\ntags:\n  - r/nba\n  - Sean Sweeney\n  - San Antonio Spurs\n  - NBA Finals\npublic_ready: true\n---\n\n## Summary\n\nSean Sweeney said his former Spurs staff was told it would have won the NBA\nFinals 4-1 if each game had ended after 46 minutes.\n\n## Why It Is Funny\n\nThe final two minutes were reclassified from basketball into an inconvenient\nformatting choice. Fans promptly awarded San Antonio the championship of a\nleague that stops just before closing time.\n\n## Comment Highlights\n\n- Label: Analytical championship\n  Summary: Fans promoted the Spurs to champions of the 46-minute game.\n  Why funny: A loss acquired a trophy by changing the unit of measurement.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvwxnq/magic_hc_and_exspurs_assistant_sean_sweeney_on/\n- Label: Per-46 era\n  Summary: The thread proposed replacing familiar per-36 statistics with a new 46-minute category.\n  Why funny: The cope became advanced analytics before the discussion was over.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvwxnq/magic_hc_and_exspurs_assistant_sean_sweeney_on/\n\n## Quote\n\nThe championship ended two minutes before the championship.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uvwxnq/magic_hc_and_exspurs_assistant_sean_sweeney_on/\n- Source type: Reddit / r/nba top-day podcast quote and Finals reaction thread\n- Verification notes: the public post quotes Sweeney's 46-minute framing and also includes his acknowledgment that the Spurs made mistakes; this copy targets the unusual counterfactual, not the broader accountability debate\n\n## Sports Radar Markdown\n\n```md\n**Sean Sweeney wins the 46-minute Finals**\n\nSweeney said the Spurs would have won 4-1 if NBA games stopped two minutes early.\n\nWhy it works: the thread awarded San Antonio a championship in a league with a new closing time.\n```\n"
   },
   {
     "id": "spain-viking-row-celebration",
@@ -2819,6 +2855,42 @@
       }
     ],
     "markdown": "---\nid: wyoming-pullman-small-town-duel\nrank: 5\ntitle: \"Wyoming's coach starts a small-town civil war\"\nleague: \"NCAAF\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-17\"\nheat: 90\ntags:\n  - r/CFB\n  - Wyoming\n  - Washington State\n  - college towns\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB post quoted Wyoming coach Jay Sawvel taking a transfer-related swipe\nat Pullman, Washington. The thread responded by comparing Pullman and Laramie.\n\n## Why It Is Funny\n\nThe insult comes from a town close enough in size and college-football energy\nto invite an immediate mirror test. The debate becomes small-town Spider-Man pointing.\n\n## Comment Highlights\n\n- Label: Pot-meets-kettle geography\n  Summary: Fans argued that Laramie and Pullman are too similar for either side to claim urban superiority.\n  Why funny: The attempted drive-by loops directly back to the speaker's own college town.\n  Source URL: https://www.reddit.com/r/CFB/comments/1uyoi7y/alex_taylor_wyoming_coach_jay_sawvel_at_mountain/\n- Label: Rivalry trophy invented\n  Summary: The thread proposed turning the town dispute into a Wyoming-Washington State rivalry game.\n  Why funny: One media-day aside gets a trophy concept before it gets a resolution.\n  Source URL: https://www.reddit.com/r/CFB/comments/1uyoi7y/alex_taylor_wyoming_coach_jay_sawvel_at_mountain/\n\n## Quote\n\nThe college-town insult found a mirror.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1uyoi7y/alex_taylor_wyoming_coach_jay_sawvel_at_mountain/\n- Source type: Reddit / r/CFB top-day discussion\n- Verification notes: the post reproduces a public media-day remark; the public copy attributes the quote to the Reddit post and treats the town comparison as fan banter, not a factual ranking\n\n## Sports Radar Markdown\n\n```md\n**Wyoming's coach starts a small-town civil war**\n\nA swipe at Pullman sent college-football fans into an immediate Pullman-versus-Laramie comparison.\n\nWhy it works: the attempted town roast boomerangs into a mirror match.\n```\n"
+  },
+  {
+    "id": "yang-hansen-capped-bottle-miss",
+    "rank": 5,
+    "title": "Yang Hansen's rare miss stays in the bottle",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-23",
+    "heat": 90,
+    "tags": [
+      "r/nba",
+      "Yang Hansen",
+      "Portland Trail Blazers",
+      "bench moments"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba clip caught Yang Hansen trying to drink from a sports bottle while\nthe cap was still on.",
+    "whyFunny": "It is the smallest possible failed highlight: perfect form, zero liquid. The\nthread responded by treating a capped bottle like elite concentration.",
+    "quote": "The hydration attempt was well defended.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1uvze1k/yang_hansen_with_the_rare_miss_tries_to_drink/",
+    "commentHighlights": [
+      {
+        "label": "Placebo hydration",
+        "summary": "Fans joked that seeing the drink was enough for Yang's body to register the effect.",
+        "whyFunny": "The miss was upgraded into a sports-science breakthrough.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uvze1k/yang_hansen_with_the_rare_miss_tries_to_drink/"
+      },
+      {
+        "label": "Locked-in defense",
+        "summary": "The thread blamed the cap on Yang being too focused on basketball to notice it.",
+        "whyFunny": "A completely ordinary mistake received the full athlete-mindset explanation.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1uvze1k/yang_hansen_with_the_rare_miss_tries_to_drink/"
+      }
+    ],
+    "markdown": "---\nid: yang-hansen-capped-bottle-miss\nrank: 5\ntitle: \"Yang Hansen's rare miss stays in the bottle\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-23\"\nheat: 90\ntags:\n  - r/nba\n  - Yang Hansen\n  - Portland Trail Blazers\n  - bench moments\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip caught Yang Hansen trying to drink from a sports bottle while\nthe cap was still on.\n\n## Why It Is Funny\n\nIt is the smallest possible failed highlight: perfect form, zero liquid. The\nthread responded by treating a capped bottle like elite concentration.\n\n## Comment Highlights\n\n- Label: Placebo hydration\n  Summary: Fans joked that seeing the drink was enough for Yang's body to register the effect.\n  Why funny: The miss was upgraded into a sports-science breakthrough.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvze1k/yang_hansen_with_the_rare_miss_tries_to_drink/\n- Label: Locked-in defense\n  Summary: The thread blamed the cap on Yang being too focused on basketball to notice it.\n  Why funny: A completely ordinary mistake received the full athlete-mindset explanation.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvze1k/yang_hansen_with_the_rare_miss_tries_to_drink/\n\n## Quote\n\nThe hydration attempt was well defended.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uvze1k/yang_hansen_with_the_rare_miss_tries_to_drink/\n- Source type: Reddit / r/nba top-day bench clip and reaction thread\n- Verification notes: the public clip title and thread describe the capped-bottle attempt; the copy stays with the visible gag and does not infer anything about Yang beyond the moment\n\n## Sports Radar Markdown\n\n```md\n**Yang Hansen's rare miss stays in the bottle**\n\nYang brought the bottle up with good form and one unresolved cap.\n\nWhy it works: the thread promoted a hydration miss into proof of elite focus.\n```\n"
   },
   {
     "id": "cade-giannis-free-throw-talk",
