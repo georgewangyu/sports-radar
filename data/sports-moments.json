@@ -575,6 +575,42 @@
     "markdown": "---\nid: steve-kerr-lebron-rumor-troll\nrank: 1\ntitle: \"Steve Kerr feeds the LeBron rumor machine himself\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-16\"\nheat: 97\ntags:\n  - r/nba\n  - Steve Kerr\n  - LeBron James\n  - trade rumors\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba street clip showed a fan asking Steve Kerr when Golden State would get\nLeBron James. Kerr played along with the premise and added a line about putting\nthe exchange on Twitter.\n\n## Why It Is Funny\n\nThe coach becomes the least reliable insider in his own rumor cycle. A blurry\nfan video gets exactly enough official-sounding banter to keep the joke alive.\n\n## Comment Highlights\n\n- Label: Source credibility crisis\n  Summary: Fans jokingly debated whether the Warriors coach counted as a trustworthy Warriors source.\n  Why funny: The person closest to the team is treated like one more anonymous rumor account.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxnuqa/a_warriors_fan_asked_steve_kerr_when_do_you_get/\n- Label: Upload loophole\n  Summary: The thread argued that posting the clip to Reddit technically respected a Twitter-specific instruction.\n  Why funny: A casual joke immediately acquires platform-lawyer fine print.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxnuqa/a_warriors_fan_asked_steve_kerr_when_do_you_get/\n\n## Quote\n\nThe coach joined the rumor account for one blurry clip.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uxnuqa/a_warriors_fan_asked_steve_kerr_when_do_you_get/\n- Source type: Reddit / r/nba top-day street clip\n- Verification notes: the clip and thread frame Kerr's response as banter; listeners disputed whether his final instruction was \"put\" or \"don't put,\" so the public copy avoids choosing one and does not treat the joke as roster reporting\n\n## Sports Radar Markdown\n\n```md\n**Steve Kerr feeds the LeBron rumor machine himself**\n\nA fan asked about LeBron, and Kerr gave the blurry street clip exactly enough banter to become its own rumor cycle.\n\nWhy it works: the coach briefly plays unreliable insider for his own team.\n```\n"
   },
   {
+    "id": "heat-vacation-schedule-send",
+    "rank": 1,
+    "title": "The Heat's vacation prep accidentally joins free agency",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-27",
+    "heat": 98,
+    "tags": [
+      "r/nba",
+      "Miami Heat",
+      "LeBron James",
+      "schedule send"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba post relayed ESPN's account that a Heat employee preparing for\nvacation scheduled a contingency LeBron James introduction stream, which\nsurfaced before James chose Philadelphia.",
+    "whyFunny": "The NBA internet built a free-agency conspiracy board. The explanation was an\nemployee trying to clear the work queue before PTO.",
+    "quote": "The biggest false alarm of free agency came from calendar hygiene.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1v7z5bp/shelburne_the_heat_employee_who_accidentally/",
+    "commentHighlights": [
+      {
+        "label": "Schedule-send anxiety",
+        "summary": "Fans turned the mishap into a support group for anyone who has triple-checked a scheduled email.",
+        "whyFunny": "A familiar office worry briefly became a league-wide transaction signal.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1v7z5bp/shelburne_the_heat_employee_who_accidentally/"
+      },
+      {
+        "label": "Vacation defense",
+        "summary": "Other fans defended the instinct to prepare every possible asset before leaving town.",
+        "whyFunny": "The thread treated NBA free agency like one more project that had to be covered before PTO.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1v7z5bp/shelburne_the_heat_employee_who_accidentally/"
+      }
+    ],
+    "markdown": "---\nid: heat-vacation-schedule-send\nrank: 1\ntitle: \"The Heat's vacation prep accidentally joins free agency\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-27\"\nheat: 98\ntags:\n  - r/nba\n  - Miami Heat\n  - LeBron James\n  - schedule send\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post relayed ESPN's account that a Heat employee preparing for\nvacation scheduled a contingency LeBron James introduction stream, which\nsurfaced before James chose Philadelphia.\n\n## Why It Is Funny\n\nThe NBA internet built a free-agency conspiracy board. The explanation was an\nemployee trying to clear the work queue before PTO.\n\n## Comment Highlights\n\n- Label: Schedule-send anxiety\n  Summary: Fans turned the mishap into a support group for anyone who has triple-checked a scheduled email.\n  Why funny: A familiar office worry briefly became a league-wide transaction signal.\n  Source URL: https://www.reddit.com/r/nba/comments/1v7z5bp/shelburne_the_heat_employee_who_accidentally/\n- Label: Vacation defense\n  Summary: Other fans defended the instinct to prepare every possible asset before leaving town.\n  Why funny: The thread treated NBA free agency like one more project that had to be covered before PTO.\n  Source URL: https://www.reddit.com/r/nba/comments/1v7z5bp/shelburne_the_heat_employee_who_accidentally/\n\n## Quote\n\nThe biggest false alarm of free agency came from calendar hygiene.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v7z5bp/shelburne_the_heat_employee_who_accidentally/\n- Source type: Reddit post quoting and linking a public ESPN report\n- Verification notes: The public Reddit post, linked report framing, and discussion were reviewed on 2026-07-27. The summary attributes the account instead of presenting the employee's motive as independently verified.\n\n## Sports Radar Markdown\n\n```md\n**The Heat's vacation prep accidentally joins free agency**\n\nA contingency LeBron stream surfaced early because someone was reportedly trying to clear work before PTO.\n\nWhy it works: The free-agency conspiracy board lost to schedule send.\n```\n"
+  },
+  {
     "id": "mariners-jimothy-batting-practice",
     "rank": 1,
     "title": "The Mariners hand batting practice to Jimothy",
@@ -652,7 +688,7 @@
     "title": "Tyrese Haliburton puts an Eastbay into the comeback reel",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-26",
     "heat": 98,
     "tags": [
@@ -680,7 +716,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1v6hqkb/highlights_a_year_removed_from_injuring_his/"
       }
     ],
-    "markdown": "---\nid: haliburton-eastbay-comeback\nrank: 1\ntitle: \"Tyrese Haliburton puts an Eastbay into the comeback reel\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-26\"\nheat: 98\ntags:\n  - r/nba\n  - Tyrese Haliburton\n  - Eastbay\n  - comeback\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba highlight showed Tyrese Haliburton completing an Eastbay dunk roughly\na year after the Achilles injury that ended his 2025 Finals run.\n\n## Why It Is Funny\n\nA careful comeback update would have been a jog or a set shot. Haliburton\ninstead selected the dunk-contest option and turned one clip into a much louder\nprogress report.\n\n## Comment Highlights\n\n- Label: Recovery volume\n  Summary: Fans treated the dunk as a particularly emphatic sign of athletic progress.\n  Why funny: The update arrived several levels above the minimum proof-of-movement requirement.\n  Source URL: https://www.reddit.com/r/nba/comments/1v6hqkb/highlights_a_year_removed_from_injuring_his/\n- Label: Offseason scouting\n  Summary: The thread immediately began evaluating Haliburton's current conditioning from one airborne finish.\n  Why funny: One Eastbay became a full preseason medical and roster meeting.\n  Source URL: https://www.reddit.com/r/nba/comments/1v6hqkb/highlights_a_year_removed_from_injuring_his/\n\n## Quote\n\nThe recovery update came with dunk-contest settings enabled.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v6hqkb/highlights_a_year_removed_from_injuring_his/\n- Source type: Reddit highlight post and public discussion\n- Verification notes: The public Reddit post and discussion were reviewed on 2026-07-26. The timing and injury context are attributed to the post's framing.\n\n## Sports Radar Markdown\n\n```md\n**Tyrese Haliburton puts an Eastbay into the comeback reel**\n\nA year after his Finals injury, Haliburton turned a recovery update into a dunk-contest clip.\n\nWhy it works: The progress report arrived several levels above the minimum requirement.\n```\n"
+    "markdown": "---\nid: haliburton-eastbay-comeback\nrank: 1\ntitle: \"Tyrese Haliburton puts an Eastbay into the comeback reel\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-26\"\nheat: 98\ntags:\n  - r/nba\n  - Tyrese Haliburton\n  - Eastbay\n  - comeback\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba highlight showed Tyrese Haliburton completing an Eastbay dunk roughly\na year after the Achilles injury that ended his 2025 Finals run.\n\n## Why It Is Funny\n\nA careful comeback update would have been a jog or a set shot. Haliburton\ninstead selected the dunk-contest option and turned one clip into a much louder\nprogress report.\n\n## Comment Highlights\n\n- Label: Recovery volume\n  Summary: Fans treated the dunk as a particularly emphatic sign of athletic progress.\n  Why funny: The update arrived several levels above the minimum proof-of-movement requirement.\n  Source URL: https://www.reddit.com/r/nba/comments/1v6hqkb/highlights_a_year_removed_from_injuring_his/\n- Label: Offseason scouting\n  Summary: The thread immediately began evaluating Haliburton's current conditioning from one airborne finish.\n  Why funny: One Eastbay became a full preseason medical and roster meeting.\n  Source URL: https://www.reddit.com/r/nba/comments/1v6hqkb/highlights_a_year_removed_from_injuring_his/\n\n## Quote\n\nThe recovery update came with dunk-contest settings enabled.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v6hqkb/highlights_a_year_removed_from_injuring_his/\n- Source type: Reddit highlight post and public discussion\n- Verification notes: The public Reddit post and discussion were reviewed on 2026-07-26. The timing and injury context are attributed to the post's framing.\n\n## Sports Radar Markdown\n\n```md\n**Tyrese Haliburton puts an Eastbay into the comeback reel**\n\nA year after his Finals injury, Haliburton turned a recovery update into a dunk-contest clip.\n\nWhy it works: The progress report arrived several levels above the minimum requirement.\n```\n"
   },
   {
     "id": "reaves-lebron-golf-ruined",
@@ -1033,7 +1069,7 @@
     "title": "LeBron's career timeline breaks the midpoint meter",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-26",
     "heat": 96,
     "tags": [
@@ -1061,7 +1097,43 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1v6row8/lebron_james_has_now_been_in_the_nba_so_long_that/"
       }
     ],
-    "markdown": "---\nid: lebron-broadcast-midpoint\nrank: 2\ntitle: \"LeBron's career timeline breaks the midpoint meter\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-26\"\nheat: 96\ntags:\n  - r/nba\n  - LeBron James\n  - longevity\n  - NBA Finals\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba timeline noted that an awkward broadcast mishap from the 2015 Finals\nwill soon be closer to LeBron James's NBA debut than to the present.\n\n## Why It Is Funny\n\nThe post found the least dignified possible ruler for an all-time longevity\nrecord. A moment that already felt late in LeBron's career is about to become\nfirst-half history.\n\n## Comment Highlights\n\n- Label: Timeline disbelief\n  Summary: Fans kept checking the date math because 2015 still felt too recent to sit near the middle of one career.\n  Why funny: The calendar became another LeBron statistic that no longer behaves normally.\n  Source URL: https://www.reddit.com/r/nba/comments/1v6row8/lebron_james_has_now_been_in_the_nba_so_long_that/\n- Label: Rookie-year time capsule\n  Summary: The discussion detoured into a trivia test about the league's leading scorers during LeBron's first season.\n  Why funny: A longevity post quietly turned into an age check for the entire thread.\n  Source URL: https://www.reddit.com/r/nba/comments/1v6row8/lebron_james_has_now_been_in_the_nba_so_long_that/\n\n## Quote\n\nLeBron's career now requires its own geological eras.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v6row8/lebron_james_has_now_been_in_the_nba_so_long_that/\n- Source type: Reddit text post linking public game and broadcast records\n- Verification notes: The public Reddit post, linked date references, and discussion were reviewed on 2026-07-26. Explicit details from the broadcast mishap were omitted from the public summary.\n\n## Sports Radar Markdown\n\n```md\n**LeBron's career timeline breaks the midpoint meter**\n\nAn awkward 2015 Finals broadcast moment is about to become first-half LeBron history.\n\nWhy it works: Even the calendar has stopped producing normal LeBron statistics.\n```\n"
+    "markdown": "---\nid: lebron-broadcast-midpoint\nrank: 2\ntitle: \"LeBron's career timeline breaks the midpoint meter\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-26\"\nheat: 96\ntags:\n  - r/nba\n  - LeBron James\n  - longevity\n  - NBA Finals\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba timeline noted that an awkward broadcast mishap from the 2015 Finals\nwill soon be closer to LeBron James's NBA debut than to the present.\n\n## Why It Is Funny\n\nThe post found the least dignified possible ruler for an all-time longevity\nrecord. A moment that already felt late in LeBron's career is about to become\nfirst-half history.\n\n## Comment Highlights\n\n- Label: Timeline disbelief\n  Summary: Fans kept checking the date math because 2015 still felt too recent to sit near the middle of one career.\n  Why funny: The calendar became another LeBron statistic that no longer behaves normally.\n  Source URL: https://www.reddit.com/r/nba/comments/1v6row8/lebron_james_has_now_been_in_the_nba_so_long_that/\n- Label: Rookie-year time capsule\n  Summary: The discussion detoured into a trivia test about the league's leading scorers during LeBron's first season.\n  Why funny: A longevity post quietly turned into an age check for the entire thread.\n  Source URL: https://www.reddit.com/r/nba/comments/1v6row8/lebron_james_has_now_been_in_the_nba_so_long_that/\n\n## Quote\n\nLeBron's career now requires its own geological eras.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v6row8/lebron_james_has_now_been_in_the_nba_so_long_that/\n- Source type: Reddit text post linking public game and broadcast records\n- Verification notes: The public Reddit post, linked date references, and discussion were reviewed on 2026-07-26. Explicit details from the broadcast mishap were omitted from the public summary.\n\n## Sports Radar Markdown\n\n```md\n**LeBron's career timeline breaks the midpoint meter**\n\nAn awkward 2015 Finals broadcast moment is about to become first-half LeBron history.\n\nWhy it works: Even the calendar has stopped producing normal LeBron statistics.\n```\n"
+  },
+  {
+    "id": "murakami-bobblehead-two-homer-day",
+    "rank": 2,
+    "title": "Murakami's bobblehead day becomes a family production",
+    "league": "MLB",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-27",
+    "heat": 96,
+    "tags": [
+      "r/baseball",
+      "Munetaka Murakami",
+      "bobblehead day",
+      "family"
+    ],
+    "public_ready": true,
+    "summary": "An r/baseball highlight showed Munetaka Murakami hitting two home runs on his\nbobblehead day, with a companion post noting that his parents threw the\nceremonial first pitch.",
+    "whyFunny": "The promotional calendar already had enough plot. Murakami added two home runs\nand turned the whole afternoon into a suspiciously tidy family script.",
+    "quote": "The bobblehead promotion came with a full family screenplay.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1v7fp6d/highlight_munetaka_murakami_has_a_twohomer_game/",
+    "commentHighlights": [
+      {
+        "label": "Storybook scorecard",
+        "summary": "Fans stacked the bobblehead giveaway, family first pitch, and two home runs into one increasingly improbable day.",
+        "whyFunny": "Every new detail sounded like an editor asking the script to be less believable.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1v7fp6d/highlight_munetaka_murakami_has_a_twohomer_game/"
+      },
+      {
+        "label": "Both fields covered",
+        "summary": "The thread noted that the two home runs went to opposite fields.",
+        "whyFunny": "Even the direction of the highlights arrived with unnecessary narrative symmetry.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1v7fp6d/highlight_munetaka_murakami_has_a_twohomer_game/"
+      }
+    ],
+    "markdown": "---\nid: murakami-bobblehead-two-homer-day\nrank: 2\ntitle: \"Murakami's bobblehead day becomes a family production\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-27\"\nheat: 96\ntags:\n  - r/baseball\n  - Munetaka Murakami\n  - bobblehead day\n  - family\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball highlight showed Munetaka Murakami hitting two home runs on his\nbobblehead day, with a companion post noting that his parents threw the\nceremonial first pitch.\n\n## Why It Is Funny\n\nThe promotional calendar already had enough plot. Murakami added two home runs\nand turned the whole afternoon into a suspiciously tidy family script.\n\n## Comment Highlights\n\n- Label: Storybook scorecard\n  Summary: Fans stacked the bobblehead giveaway, family first pitch, and two home runs into one increasingly improbable day.\n  Why funny: Every new detail sounded like an editor asking the script to be less believable.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v7fp6d/highlight_munetaka_murakami_has_a_twohomer_game/\n- Label: Both fields covered\n  Summary: The thread noted that the two home runs went to opposite fields.\n  Why funny: Even the direction of the highlights arrived with unnecessary narrative symmetry.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v7fp6d/highlight_munetaka_murakami_has_a_twohomer_game/\n\n## Quote\n\nThe bobblehead promotion came with a full family screenplay.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v7fp6d/highlight_munetaka_murakami_has_a_twohomer_game/\n- Source type: Reddit highlight post from the public MLB account and public discussion\n- Verification notes: The highlight, discussion, and companion first-pitch post were reviewed on 2026-07-27. The summary is limited to the public posts' framing.\n\n## Sports Radar Markdown\n\n```md\n**Murakami's bobblehead day becomes a family production**\n\nHis parents threw the first pitch, then Murakami supplied two home runs for the giveaway-day script.\n\nWhy it works: The promotional calendar accidentally booked a full movie.\n```\n"
   },
   {
     "id": "rodman-no-modern-scouting-report",
@@ -1465,7 +1537,7 @@
     "title": "Derrick Rose activates basketball out-of-office",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-26",
     "heat": 94,
     "tags": [
@@ -1493,7 +1565,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1v70syj/derrick_rose_on_lebron_james_decision_to_join_the/"
       }
     ],
-    "markdown": "---\nid: derrick-rose-out-of-office\nrank: 3\ntitle: \"Derrick Rose activates basketball out-of-office\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-26\"\nheat: 94\ntags:\n  - r/nba\n  - Derrick Rose\n  - LeBron James\n  - retirement\npublic_ready: true\n---\n\n## Summary\n\nAsked about LeBron James's reported move to Philadelphia, Derrick Rose said he\nwas happy for him but made clear that NBA transactions are no longer his life.\n\n## Why It Is Funny\n\nThe question invited analysis from a former MVP. Rose answered like someone\nwho had already returned his laptop, badge, and access to the roster rumor\nchannel.\n\n## Comment Highlights\n\n- Label: Out-of-office translation\n  Summary: Fans condensed Rose's response into the universal language of no longer working there.\n  Why funny: A major NBA move received the emotional energy of a message sent to a former employee.\n  Source URL: https://www.reddit.com/r/nba/comments/1v70syj/derrick_rose_on_lebron_james_decision_to_join_the/\n- Label: Longevity contrast\n  Summary: The thread compared Rose's distance from the league with LeBron's continued presence in it.\n  Why funny: Two stars from the same era now appear to be living on different basketball timelines.\n  Source URL: https://www.reddit.com/r/nba/comments/1v70syj/derrick_rose_on_lebron_james_decision_to_join_the/\n\n## Quote\n\nThe former employee has left the roster-rumor channel.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v70syj/derrick_rose_on_lebron_james_decision_to_join_the/\n- Source type: Reddit post quoting a public Derrick Rose response\n- Verification notes: The public Reddit post and discussion were reviewed on 2026-07-26. The summary paraphrases the short response and preserves the post's reported framing.\n\n## Sports Radar Markdown\n\n```md\n**Derrick Rose activates basketball out-of-office**\n\nRose wished LeBron well, then reminded everyone that NBA transactions are no longer his department.\n\nWhy it works: The former employee has left the roster-rumor channel.\n```\n"
+    "markdown": "---\nid: derrick-rose-out-of-office\nrank: 3\ntitle: \"Derrick Rose activates basketball out-of-office\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-26\"\nheat: 94\ntags:\n  - r/nba\n  - Derrick Rose\n  - LeBron James\n  - retirement\npublic_ready: true\n---\n\n## Summary\n\nAsked about LeBron James's reported move to Philadelphia, Derrick Rose said he\nwas happy for him but made clear that NBA transactions are no longer his life.\n\n## Why It Is Funny\n\nThe question invited analysis from a former MVP. Rose answered like someone\nwho had already returned his laptop, badge, and access to the roster rumor\nchannel.\n\n## Comment Highlights\n\n- Label: Out-of-office translation\n  Summary: Fans condensed Rose's response into the universal language of no longer working there.\n  Why funny: A major NBA move received the emotional energy of a message sent to a former employee.\n  Source URL: https://www.reddit.com/r/nba/comments/1v70syj/derrick_rose_on_lebron_james_decision_to_join_the/\n- Label: Longevity contrast\n  Summary: The thread compared Rose's distance from the league with LeBron's continued presence in it.\n  Why funny: Two stars from the same era now appear to be living on different basketball timelines.\n  Source URL: https://www.reddit.com/r/nba/comments/1v70syj/derrick_rose_on_lebron_james_decision_to_join_the/\n\n## Quote\n\nThe former employee has left the roster-rumor channel.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v70syj/derrick_rose_on_lebron_james_decision_to_join_the/\n- Source type: Reddit post quoting a public Derrick Rose response\n- Verification notes: The public Reddit post and discussion were reviewed on 2026-07-26. The summary paraphrases the short response and preserves the post's reported framing.\n\n## Sports Radar Markdown\n\n```md\n**Derrick Rose activates basketball out-of-office**\n\nRose wished LeBron well, then reminded everyone that NBA transactions are no longer his department.\n\nWhy it works: The former employee has left the roster-rumor channel.\n```\n"
   },
   {
     "id": "dwight-bynum-nyc-encounter",
@@ -1805,6 +1877,42 @@
       }
     ],
     "markdown": "---\nid: reaves-luka-home-bowling\nrank: 3\ntitle: \"Luka loses home-lane advantage at 5:30 a.m.\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-18\"\nheat: 94\ntags:\n  - r/nba\n  - Austin Reaves\n  - Luka Doncic\n  - bowling\npublic_ready: true\n---\n\n## Summary\n\nAustin Reaves said a New Year's Eve visit to Luka Doncic's house became a\nbowling session that lasted until 5:30 a.m., with Reaves winning on Luka's lane.\n\n## Why It Is Funny\n\nA private home bowling alley should be the strongest home-field advantage in\nsports. Instead, it becomes the site of an all-night teammate road win.\n\n## Comment Highlights\n\n- Label: Home-lane humiliation\n  Summary: Fans focused on how much worse losing feels when the opponent beats you on the lane installed inside your own house.\n  Why funny: Luxury-home convenience creates an extremely specific form of home defeat.\n  Source URL: https://www.reddit.com/r/nba/comments/1uzfk50/reaves_talks_about_spending_nye_at_lukas_house_we/\n- Label: Bowling family tree\n  Summary: The thread recycled basketball's exaggerated father-son rivalry meme for Reaves and Luka's bowling record.\n  Why funny: A casual teammate night gets promoted into another branch of NBA lore.\n  Source URL: https://www.reddit.com/r/nba/comments/1uzfk50/reaves_talks_about_spending_nye_at_lukas_house_we/\n\n## Quote\n\nHome lane. Road result.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uzfk50/reaves_talks_about_spending_nye_at_lukas_house_we/\n- Source type: Reddit / r/nba top-day discussion of a public Reaves story\n- Verification notes: the post attributes the New Year's Eve bowling story to Reaves; the public copy keeps that attribution and avoids adding claims about either player's private routine\n\n## Sports Radar Markdown\n\n```md\n**Luka loses home-lane advantage at 5:30 a.m.**\n\nAustin Reaves said he beat Luka at bowling during an all-night session on Luka's own home lane.\n\nWhy it works: the most expensive possible home-field advantage still ends in a teammate road win.\n```\n"
+  },
+  {
+    "id": "mpj-door-list-check",
+    "rank": 3,
+    "title": "New York's guest list becomes the standings",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-27",
+    "heat": 94,
+    "tags": [
+      "r/nba",
+      "Jalen Brunson",
+      "Michael Porter Jr.",
+      "New York"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba post showed Michael Porter Jr. being checked at a door while Jalen\nBrunson appeared to walk straight inside.",
+    "whyFunny": "The clip reduced New York's basketball hierarchy to one tiny interaction:\nBrunson was recognized, while the Nets star still needed the guest-list lookup.",
+    "quote": "The doorman published a power ranking.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1v77ecb/mpj_stopped_at_the_door_to_be_checked_if_on_the/",
+    "commentHighlights": [
+      {
+        "label": "City power ranking",
+        "summary": "Fans treated the door check as an unofficial measurement of the Knicks-Nets visibility gap.",
+        "whyFunny": "One clipboard accomplished what an entire debate show usually needs an hour to explain.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1v77ecb/mpj_stopped_at_the_door_to_be_checked_if_on_the/"
+      },
+      {
+        "label": "Always on the list",
+        "summary": "The thread promoted Brunson from invited guest to permanent New York access credential.",
+        "whyFunny": "A routine entrance became a ceremonial title for the city's basketball favorite.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1v77ecb/mpj_stopped_at_the_door_to_be_checked_if_on_the/"
+      }
+    ],
+    "markdown": "---\nid: mpj-door-list-check\nrank: 3\ntitle: \"New York's guest list becomes the standings\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-27\"\nheat: 94\ntags:\n  - r/nba\n  - Jalen Brunson\n  - Michael Porter Jr.\n  - New York\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post showed Michael Porter Jr. being checked at a door while Jalen\nBrunson appeared to walk straight inside.\n\n## Why It Is Funny\n\nThe clip reduced New York's basketball hierarchy to one tiny interaction:\nBrunson was recognized, while the Nets star still needed the guest-list lookup.\n\n## Comment Highlights\n\n- Label: City power ranking\n  Summary: Fans treated the door check as an unofficial measurement of the Knicks-Nets visibility gap.\n  Why funny: One clipboard accomplished what an entire debate show usually needs an hour to explain.\n  Source URL: https://www.reddit.com/r/nba/comments/1v77ecb/mpj_stopped_at_the_door_to_be_checked_if_on_the/\n- Label: Always on the list\n  Summary: The thread promoted Brunson from invited guest to permanent New York access credential.\n  Why funny: A routine entrance became a ceremonial title for the city's basketball favorite.\n  Source URL: https://www.reddit.com/r/nba/comments/1v77ecb/mpj_stopped_at_the_door_to_be_checked_if_on_the/\n\n## Quote\n\nThe doorman published a power ranking.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v77ecb/mpj_stopped_at_the_door_to_be_checked_if_on_the/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public post and discussion were reviewed on 2026-07-27. The summary describes only what the posted clip appeared to show.\n\n## Sports Radar Markdown\n\n```md\n**New York's guest list becomes the standings**\n\nMPJ got the clipboard check while Brunson walked in like the city had already cleared him.\n\nWhy it works: The doorman published a Knicks-Nets power ranking.\n```\n"
   },
   {
     "id": "one-off-nfl-uniform-museum",
@@ -2351,7 +2459,7 @@
     "title": "Nico Harrison discovers the fan-base scale had another level",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-26",
     "heat": 92,
     "tags": [
@@ -2379,7 +2487,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1v6oqtw/nico_harrison_on_the_backlash_to_trading_luka/"
       }
     ],
-    "markdown": "---\nid: nico-harrison-fan-scale\nrank: 4\ntitle: \"Nico Harrison discovers the fan-base scale had another level\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-26\"\nheat: 92\ntags:\n  - r/nba\n  - Nico Harrison\n  - Luka Doncic\n  - Dallas Mavericks\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post highlighted Nico Harrison saying he understood Luka Doncic\nmattered to Mavericks fans, but had underestimated just how much.\n\n## Why It Is Funny\n\nThe statement sounds like a survey result discovered after the irreversible\ndecision. Fans heard it as the front-office equivalent of learning the size of\nthe fire by opening the door.\n\n## Comment Highlights\n\n- Label: Job-description review\n  Summary: Fans argued that measuring a franchise player's importance should have been part of the original assignment.\n  Why funny: The thread turned one quote into an immediate performance review.\n  Source URL: https://www.reddit.com/r/nba/comments/1v6oqtw/nico_harrison_on_the_backlash_to_trading_luka/\n- Label: Trade postmortem\n  Summary: The discussion rebuilt the transaction tree to show how long the original decision has remained active in fan lore.\n  Why funny: One retrospective answer reopened an entire spreadsheet of grievances.\n  Source URL: https://www.reddit.com/r/nba/comments/1v6oqtw/nico_harrison_on_the_backlash_to_trading_luka/\n\n## Quote\n\nThe fan survey arrived after the transaction.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v6oqtw/nico_harrison_on_the_backlash_to_trading_luka/\n- Source type: Reddit post quoting a public Nico Harrison response\n- Verification notes: The public Reddit post and discussion were reviewed on 2026-07-26. The summary attributes the statement to the post instead of presenting it as independently verified reporting.\n\n## Sports Radar Markdown\n\n```md\n**Nico Harrison discovers the fan-base scale had another level**\n\nHe said he knew Luka mattered in Dallas, then admitted he had underestimated the measurement.\n\nWhy it works: The fan survey arrived after the transaction.\n```\n"
+    "markdown": "---\nid: nico-harrison-fan-scale\nrank: 4\ntitle: \"Nico Harrison discovers the fan-base scale had another level\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-26\"\nheat: 92\ntags:\n  - r/nba\n  - Nico Harrison\n  - Luka Doncic\n  - Dallas Mavericks\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post highlighted Nico Harrison saying he understood Luka Doncic\nmattered to Mavericks fans, but had underestimated just how much.\n\n## Why It Is Funny\n\nThe statement sounds like a survey result discovered after the irreversible\ndecision. Fans heard it as the front-office equivalent of learning the size of\nthe fire by opening the door.\n\n## Comment Highlights\n\n- Label: Job-description review\n  Summary: Fans argued that measuring a franchise player's importance should have been part of the original assignment.\n  Why funny: The thread turned one quote into an immediate performance review.\n  Source URL: https://www.reddit.com/r/nba/comments/1v6oqtw/nico_harrison_on_the_backlash_to_trading_luka/\n- Label: Trade postmortem\n  Summary: The discussion rebuilt the transaction tree to show how long the original decision has remained active in fan lore.\n  Why funny: One retrospective answer reopened an entire spreadsheet of grievances.\n  Source URL: https://www.reddit.com/r/nba/comments/1v6oqtw/nico_harrison_on_the_backlash_to_trading_luka/\n\n## Quote\n\nThe fan survey arrived after the transaction.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v6oqtw/nico_harrison_on_the_backlash_to_trading_luka/\n- Source type: Reddit post quoting a public Nico Harrison response\n- Verification notes: The public Reddit post and discussion were reviewed on 2026-07-26. The summary attributes the statement to the post instead of presenting it as independently verified reporting.\n\n## Sports Radar Markdown\n\n```md\n**Nico Harrison discovers the fan-base scale had another level**\n\nHe said he knew Luka mattered in Dallas, then admitted he had underestimated the measurement.\n\nWhy it works: The fan survey arrived after the transaction.\n```\n"
   },
   {
     "id": "embolo-nba-flopping-crossover",
@@ -2692,6 +2800,42 @@
     "markdown": "---\nid: trae-young-jersey-tear-quality-test\nrank: 4\ntitle: \"Trae Young accidentally runs a jersey quality test\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-19\"\nheat: 92\ntags:\n  - r/nba\n  - Trae Young\n  - Jalen Brunson\n  - Fanatics Fest\npublic_ready: true\n---\n\n## Summary\n\nDuring a Fanatics Fest rivalry bit, Trae Young tried to tear a Jalen Brunson\njersey and discovered that the fabric was not cooperating.\n\n## Why It Is Funny\n\nThe villain gesture needed a clean dramatic rip. Instead, the jersey turned\nthe moment into an unscheduled durability demonstration for the event host.\n\n## Comment Highlights\n\n- Label: Missing stage prep\n  Summary: Fans explained that dramatic shirt tears usually need a small cut before the performance starts.\n  Why funny: Rivalry theater becomes a backstage production lesson.\n  Source URL: https://www.reddit.com/r/nba/comments/1v035kj/trae_young_tries_to_rip_a_jalen_brunson_jersey_at/\n- Label: Accidental product demo\n  Summary: The thread reframed the failed tear as a surprisingly effective advertisement for jersey construction.\n  Why funny: The attempted insult ends up endorsing the merchandise.\n  Source URL: https://www.reddit.com/r/nba/comments/1v035kj/trae_young_tries_to_rip_a_jalen_brunson_jersey_at/\n\n## Quote\n\nThe rivalry bit passed quality control.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v035kj/trae_young_tries_to_rip_a_jalen_brunson_jersey_at/\n- Source type: Reddit / r/nba top-day Fanatics Fest clip\n- Verification notes: the public post and discussion frame the attempt as a staged rivalry bit; the copy makes no claim about the jersey model, material, or actual product durability\n\n## Sports Radar Markdown\n\n```md\n**Trae Young accidentally runs a jersey quality test**\n\nTrae Young tried to tear a Jalen Brunson jersey and found the rivalry prop unwilling to cooperate.\n\nWhy it works: a planned villain gesture becomes an accidental merchandise endorsement.\n```\n"
   },
   {
+    "id": "wemby-soccer-slip",
+    "rank": 4,
+    "title": "Wemby's soccer slip activates front-office panic",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-27",
+    "heat": 92,
+    "tags": [
+      "r/nba",
+      "Victor Wembanyama",
+      "San Antonio Spurs",
+      "soccer"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba post linked a public clip of Victor Wembanyama slipping during a\ncommunity soccer game.",
+    "whyFunny": "A wholesome kickabout became an instant risk meeting. Fans watched one long\nleg lose traction and mentally placed the entire Spurs future in bubble wrap.",
+    "quote": "One friendly touch became a franchise-wide risk review.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1v7l4qn/victor_wembanyama_accidentally_slips_while/",
+    "commentHighlights": [
+      {
+        "label": "Franchise flashback",
+        "summary": "Fans described San Antonio's long-term plans flashing before their eyes during the brief slip.",
+        "whyFunny": "A casual community game suddenly carried the emotional weight of a playoff medical update.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1v7l4qn/victor_wembanyama_accidentally_slips_while/"
+      },
+      {
+        "label": "Storage policy",
+        "summary": "The thread proposed increasingly elaborate ways to protect Wembanyama between NBA seasons.",
+        "whyFunny": "The solutions escalated from normal caution to science-fiction preservation.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1v7l4qn/victor_wembanyama_accidentally_slips_while/"
+      }
+    ],
+    "markdown": "---\nid: wemby-soccer-slip\nrank: 4\ntitle: \"Wemby's soccer slip activates front-office panic\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-27\"\nheat: 92\ntags:\n  - r/nba\n  - Victor Wembanyama\n  - San Antonio Spurs\n  - soccer\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post linked a public clip of Victor Wembanyama slipping during a\ncommunity soccer game.\n\n## Why It Is Funny\n\nA wholesome kickabout became an instant risk meeting. Fans watched one long\nleg lose traction and mentally placed the entire Spurs future in bubble wrap.\n\n## Comment Highlights\n\n- Label: Franchise flashback\n  Summary: Fans described San Antonio's long-term plans flashing before their eyes during the brief slip.\n  Why funny: A casual community game suddenly carried the emotional weight of a playoff medical update.\n  Source URL: https://www.reddit.com/r/nba/comments/1v7l4qn/victor_wembanyama_accidentally_slips_while/\n- Label: Storage policy\n  Summary: The thread proposed increasingly elaborate ways to protect Wembanyama between NBA seasons.\n  Why funny: The solutions escalated from normal caution to science-fiction preservation.\n  Source URL: https://www.reddit.com/r/nba/comments/1v7l4qn/victor_wembanyama_accidentally_slips_while/\n\n## Quote\n\nOne friendly touch became a franchise-wide risk review.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v7l4qn/victor_wembanyama_accidentally_slips_while/\n- Source type: Reddit post linking a public Bleacher Report Instagram clip\n- Verification notes: The public Reddit post, linked clip framing, and discussion were reviewed on 2026-07-27. No injury is claimed or implied.\n\n## Sports Radar Markdown\n\n```md\n**Wemby's soccer slip activates front-office panic**\n\nOne community-game slip sent the thread straight into Spurs asset-protection mode.\n\nWhy it works: A friendly touch became a franchise-wide risk review.\n```\n"
+  },
+  {
     "id": "zac-thornton-removes-the-h",
     "rank": 4,
     "title": "Zac Thornton releases the H from active duty",
@@ -2785,6 +2929,42 @@
       }
     ],
     "markdown": "---\nid: cam-ward-dodgeball-restraint\nrank: 5\ntitle: \"Cam Ward discovers dodgeball restraint\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-18\"\nheat: 90\ntags:\n  - r/nfl\n  - Cam Ward\n  - dodgeball\n  - quarterback arm\npublic_ready: true\n---\n\n## Summary\n\nIn an r/nfl clip, Cam Ward admitted that playing dodgeball with elementary\nschoolers required him to resist using the full quarterback arm.\n\n## Why It Is Funny\n\nThe usual job is to fire the ball as hard and accurately as possible. The\nschool-gym assignment is the exact opposite, and Ward had to narrate the restraint.\n\n## Comment Highlights\n\n- Label: Laser-arm deactivation\n  Summary: Fans joked that Ward's professional throwing ability was finally a competitive disadvantage.\n  Why funny: The prized quarterback tool has to be placed in child-safe mode.\n  Source URL: https://www.reddit.com/r/nfl/comments/1uz41wx/highlight_cam_ward_on_playing_dodgeball_with/\n- Label: Intrusive-thought pocket\n  Summary: The thread related to thinking about the chaotic option and then behaving normally.\n  Why funny: Quarterback decision-making becomes a very ordinary self-control test.\n  Source URL: https://www.reddit.com/r/nfl/comments/1uz41wx/highlight_cam_ward_on_playing_dodgeball_with/\n\n## Quote\n\nThe cannon arm entered child-safe mode.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1uz41wx/highlight_cam_ward_on_playing_dodgeball_with/\n- Source type: Reddit / r/nfl top-day interview highlight\n- Verification notes: the public clip and post title capture Ward describing the restraint; the public copy removes profanity and does not suggest any child was harmed\n\n## Sports Radar Markdown\n\n```md\n**Cam Ward discovers dodgeball restraint**\n\nCam Ward said elementary-school dodgeball made him resist using the full quarterback arm.\n\nWhy it works: an NFL throwing tool gets switched into child-safe mode.\n```\n"
+  },
+  {
+    "id": "cfb-fanbase-harsh-truths",
+    "rank": 5,
+    "title": "College football fans hold their own grievance hearing",
+    "league": "NCAA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-27",
+    "heat": 90,
+    "tags": [
+      "r/CFB",
+      "college football",
+      "fan culture",
+      "self-roast"
+    ],
+    "public_ready": true,
+    "summary": "An r/CFB discussion asked fans to name the harsh truth their own fan base\nneeded to hear, opening a long self-scouting session about expectations,\nrelevance, rivalries, and old grievances.",
+    "whyFunny": "The assignment was introspection. Within minutes it became a conference-wide\nhearing where every confession gave a rival fresh material.",
+    "quote": "The self-scouting report immediately became rival material.",
+    "sourceUrl": "https://www.reddit.com/r/CFB/comments/1v82y3w/what_is_a_harsh_truth_about_your_fanbasethat_your/",
+    "commentHighlights": [
+      {
+        "label": "Relevance audit",
+        "summary": "Several fan bases admitted that their local importance does not always travel beyond the region.",
+        "whyFunny": "The self-assessment became an away-game test for collective ego.",
+        "sourceUrl": "https://www.reddit.com/r/CFB/comments/1v82y3w/what_is_a_harsh_truth_about_your_fanbasethat_your/"
+      },
+      {
+        "label": "Resource hearing",
+        "summary": "Other fans compared major programs' expectations with what those programs have actually won.",
+        "whyFunny": "The thread turned school pride into an audit with decades of receipts attached.",
+        "sourceUrl": "https://www.reddit.com/r/CFB/comments/1v82y3w/what_is_a_harsh_truth_about_your_fanbasethat_your/"
+      }
+    ],
+    "markdown": "---\nid: cfb-fanbase-harsh-truths\nrank: 5\ntitle: \"College football fans hold their own grievance hearing\"\nleague: \"NCAA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-27\"\nheat: 90\ntags:\n  - r/CFB\n  - college football\n  - fan culture\n  - self-roast\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB discussion asked fans to name the harsh truth their own fan base\nneeded to hear, opening a long self-scouting session about expectations,\nrelevance, rivalries, and old grievances.\n\n## Why It Is Funny\n\nThe assignment was introspection. Within minutes it became a conference-wide\nhearing where every confession gave a rival fresh material.\n\n## Comment Highlights\n\n- Label: Relevance audit\n  Summary: Several fan bases admitted that their local importance does not always travel beyond the region.\n  Why funny: The self-assessment became an away-game test for collective ego.\n  Source URL: https://www.reddit.com/r/CFB/comments/1v82y3w/what_is_a_harsh_truth_about_your_fanbasethat_your/\n- Label: Resource hearing\n  Summary: Other fans compared major programs' expectations with what those programs have actually won.\n  Why funny: The thread turned school pride into an audit with decades of receipts attached.\n  Source URL: https://www.reddit.com/r/CFB/comments/1v82y3w/what_is_a_harsh_truth_about_your_fanbasethat_your/\n\n## Quote\n\nThe self-scouting report immediately became rival material.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1v82y3w/what_is_a_harsh_truth_about_your_fanbasethat_your/\n- Source type: Reddit discussion thread\n- Verification notes: The public prompt and discussion were reviewed on 2026-07-27. The summary compresses recurring themes without naming users or promoting disputed claims as facts.\n\n## Sports Radar Markdown\n\n```md\n**College football fans hold their own grievance hearing**\n\nFans named the truths their own schools needed to hear, then supplied rivals with a fresh archive of receipts.\n\nWhy it works: The self-scouting report immediately became opponent film.\n```\n"
   },
   {
     "id": "deuce-mcbride-role-review",
@@ -3222,7 +3402,7 @@
     "title": "The Palestra starts a college-basketball pilgrimage debate",
     "league": "NCAA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-26",
     "heat": 90,
     "tags": [
@@ -3250,7 +3430,7 @@
         "sourceUrl": "https://www.reddit.com/r/CollegeBasketball/comments/1v6saab/visited_the_mecca_of_college_basketball_last_week/"
       }
     ],
-    "markdown": "---\nid: palestra-mecca-argument\nrank: 5\ntitle: \"The Palestra starts a college-basketball pilgrimage debate\"\nleague: \"NCAA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-26\"\nheat: 90\ntags:\n  - r/CollegeBasketball\n  - The Palestra\n  - Philadelphia\n  - basketball history\npublic_ready: true\n---\n\n## Summary\n\nA visitor posted a photo from Philadelphia's Palestra and called it the Mecca\nof college basketball, sending fans into a tour of the sport's historic gyms.\n\n## Why It Is Funny\n\nOne arena photo became a pilgrimage committee meeting. Every fan arrived with\na different sacred site, a local record, and at least one architectural\ntechnicality.\n\n## Comment Highlights\n\n- Label: Competing pilgrimages\n  Summary: Fans nominated alternate historic gyms and even a famously oversized Memphis landmark.\n  Why funny: The Mecca title immediately expanded into a bracket with no final round.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1v6saab/visited_the_mecca_of_college_basketball_last_week/\n- Label: Time-machine seating\n  Summary: Visitors described the Palestra's close sightlines as watching basketball from another era.\n  Why funny: The strongest review treated the building as both an arena and a working time machine.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1v6saab/visited_the_mecca_of_college_basketball_last_week/\n\n## Quote\n\nThe pilgrimage bracket has no championship game.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1v6saab/visited_the_mecca_of_college_basketball_last_week/\n- Source type: Reddit image post and public discussion\n- Verification notes: The public Reddit post, image context, and discussion were reviewed on 2026-07-26. Disputed venue records in the thread were not promoted as facts.\n\n## Sports Radar Markdown\n\n```md\n**The Palestra starts a college-basketball pilgrimage debate**\n\nOne arena photo sent fans into a bracket of historic gyms, local records, and sacred-site nominations.\n\nWhy it works: The pilgrimage committee could not agree on a destination.\n```\n"
+    "markdown": "---\nid: palestra-mecca-argument\nrank: 5\ntitle: \"The Palestra starts a college-basketball pilgrimage debate\"\nleague: \"NCAA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-26\"\nheat: 90\ntags:\n  - r/CollegeBasketball\n  - The Palestra\n  - Philadelphia\n  - basketball history\npublic_ready: true\n---\n\n## Summary\n\nA visitor posted a photo from Philadelphia's Palestra and called it the Mecca\nof college basketball, sending fans into a tour of the sport's historic gyms.\n\n## Why It Is Funny\n\nOne arena photo became a pilgrimage committee meeting. Every fan arrived with\na different sacred site, a local record, and at least one architectural\ntechnicality.\n\n## Comment Highlights\n\n- Label: Competing pilgrimages\n  Summary: Fans nominated alternate historic gyms and even a famously oversized Memphis landmark.\n  Why funny: The Mecca title immediately expanded into a bracket with no final round.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1v6saab/visited_the_mecca_of_college_basketball_last_week/\n- Label: Time-machine seating\n  Summary: Visitors described the Palestra's close sightlines as watching basketball from another era.\n  Why funny: The strongest review treated the building as both an arena and a working time machine.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1v6saab/visited_the_mecca_of_college_basketball_last_week/\n\n## Quote\n\nThe pilgrimage bracket has no championship game.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1v6saab/visited_the_mecca_of_college_basketball_last_week/\n- Source type: Reddit image post and public discussion\n- Verification notes: The public Reddit post, image context, and discussion were reviewed on 2026-07-26. Disputed venue records in the thread were not promoted as facts.\n\n## Sports Radar Markdown\n\n```md\n**The Palestra starts a college-basketball pilgrimage debate**\n\nOne arena photo sent fans into a bracket of historic gyms, local records, and sacred-site nominations.\n\nWhy it works: The pilgrimage committee could not agree on a destination.\n```\n"
   },
   {
     "id": "trae-young-god-height-nerf",
