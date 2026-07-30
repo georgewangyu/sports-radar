@@ -580,7 +580,7 @@
     "title": "Plaxico turns a self-own into a Jets roast",
     "league": "NFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-29",
     "heat": 98,
     "tags": [
@@ -608,7 +608,43 @@
         "sourceUrl": "https://www.reddit.com/r/nfl/comments/1v92bv2/underdog_plaxico_burress_compared_playing_with/"
       }
     ],
-    "markdown": "---\nid: plaxico-jets-loser-door\nrank: 1\ntitle: \"Plaxico turns a self-own into a Jets roast\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-29\"\nheat: 98\ntags:\n  - r/nfl\n  - Plaxico Burress\n  - New York Jets\n  - franchise lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl post shared Plaxico Burress comparing the defeated feeling of his\nfirst day in prison with the feeling he had walking into the Jets facility.\n\n## Why It Is Funny\n\nBurress began with a brutal self-assessment and somehow turned it into an even\nmore brutal franchise review. The comparison landed as both confession and\ndrive-by roast.\n\n## Comment Highlights\n\n- Label: Two-part burn\n  Summary: Fans focused on how the story insults its teller first and the Jets second.\n  Why funny: The self-own gave the franchise roast an unusually committed setup.\n  Source URL: https://www.reddit.com/r/nfl/comments/1v92bv2/underdog_plaxico_burress_compared_playing_with/\n- Label: Historical appeal\n  Summary: Other fans noted that his Jets team went 8-8 and challenged the fairness of the memory.\n  Why funny: The quote immediately triggered both a laugh and a fact-check from the aggrieved fan base.\n  Source URL: https://www.reddit.com/r/nfl/comments/1v92bv2/underdog_plaxico_burress_compared_playing_with/\n\n## Quote\n\nThe self-own became a franchise roast without changing lanes.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1v92bv2/underdog_plaxico_burress_compared_playing_with/\n- Source type: Reddit post linking a public clip\n- Verification notes: The public post, linked quote, and discussion were reviewed on 2026-07-29. The summary treats the comparison as Burress's opinion and preserves the thread's pushback rather than presenting it as a factual verdict on the Jets.\n\n## Sports Radar Markdown\n\n```md\n**Plaxico turns a self-own into a Jets roast**\n\nPlaxico Burress compared walking into the Jets facility with the defeated feeling of his first day in prison.\n\nWhy it works: The self-own became a franchise roast without changing lanes.\n```\n"
+    "markdown": "---\nid: plaxico-jets-loser-door\nrank: 1\ntitle: \"Plaxico turns a self-own into a Jets roast\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-29\"\nheat: 98\ntags:\n  - r/nfl\n  - Plaxico Burress\n  - New York Jets\n  - franchise lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl post shared Plaxico Burress comparing the defeated feeling of his\nfirst day in prison with the feeling he had walking into the Jets facility.\n\n## Why It Is Funny\n\nBurress began with a brutal self-assessment and somehow turned it into an even\nmore brutal franchise review. The comparison landed as both confession and\ndrive-by roast.\n\n## Comment Highlights\n\n- Label: Two-part burn\n  Summary: Fans focused on how the story insults its teller first and the Jets second.\n  Why funny: The self-own gave the franchise roast an unusually committed setup.\n  Source URL: https://www.reddit.com/r/nfl/comments/1v92bv2/underdog_plaxico_burress_compared_playing_with/\n- Label: Historical appeal\n  Summary: Other fans noted that his Jets team went 8-8 and challenged the fairness of the memory.\n  Why funny: The quote immediately triggered both a laugh and a fact-check from the aggrieved fan base.\n  Source URL: https://www.reddit.com/r/nfl/comments/1v92bv2/underdog_plaxico_burress_compared_playing_with/\n\n## Quote\n\nThe self-own became a franchise roast without changing lanes.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1v92bv2/underdog_plaxico_burress_compared_playing_with/\n- Source type: Reddit post linking a public clip\n- Verification notes: The public post, linked quote, and discussion were reviewed on 2026-07-29. The summary treats the comparison as Burress's opinion and preserves the thread's pushback rather than presenting it as a factual verdict on the Jets.\n\n## Sports Radar Markdown\n\n```md\n**Plaxico turns a self-own into a Jets roast**\n\nPlaxico Burress compared walking into the Jets facility with the defeated feeling of his first day in prison.\n\nWhy it works: The self-own became a franchise roast without changing lanes.\n```\n"
+  },
+  {
+    "id": "ronaldo-son-youtube-comp-roast",
+    "rank": 1,
+    "title": "Ronaldo gets rage-baited by his own son",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-30",
+    "heat": 98,
+    "tags": [
+      "r/soccer",
+      "Cristiano Ronaldo",
+      "Kylian Mbappe",
+      "family lore"
+    ],
+    "public_ready": true,
+    "summary": "An r/soccer post shared Cristiano Ronaldo laughing about his son watching\nYouTube compilations, ranking Kylian Mbappe above him, and countering every\ncareer-defense attempt with another comeback.",
+    "whyFunny": "One of football's most decorated players brought a résumé to a family argument\nand still lost. Highlight compilations gave his own son an endless supply of\nrebuttals.",
+    "quote": "The trophy case lost to the YouTube algorithm.",
+    "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vahwab/cristiano_ronaldo_my_son_mateo_watches_youtube/",
+    "commentHighlights": [
+      {
+        "label": "Home-field rage bait",
+        "summary": "Fans treated the exchange as a reminder that children can humble even the most famous parent.",
+        "whyFunny": "Global football stature offered no protection from household heckling.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vahwab/cristiano_ronaldo_my_son_mateo_watches_youtube/"
+      },
+      {
+        "label": "Compilation academy",
+        "summary": "The discussion imagined the son arriving with increasingly specific highlight-video evidence.",
+        "whyFunny": "The family debate had the research standards of a fan edit.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vahwab/cristiano_ronaldo_my_son_mateo_watches_youtube/"
+      }
+    ],
+    "markdown": "---\nid: ronaldo-son-youtube-comp-roast\nrank: 1\ntitle: \"Ronaldo gets rage-baited by his own son\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-30\"\nheat: 98\ntags:\n  - r/soccer\n  - Cristiano Ronaldo\n  - Kylian Mbappe\n  - family lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post shared Cristiano Ronaldo laughing about his son watching\nYouTube compilations, ranking Kylian Mbappe above him, and countering every\ncareer-defense attempt with another comeback.\n\n## Why It Is Funny\n\nOne of football's most decorated players brought a résumé to a family argument\nand still lost. Highlight compilations gave his own son an endless supply of\nrebuttals.\n\n## Comment Highlights\n\n- Label: Home-field rage bait\n  Summary: Fans treated the exchange as a reminder that children can humble even the most famous parent.\n  Why funny: Global football stature offered no protection from household heckling.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vahwab/cristiano_ronaldo_my_son_mateo_watches_youtube/\n- Label: Compilation academy\n  Summary: The discussion imagined the son arriving with increasingly specific highlight-video evidence.\n  Why funny: The family debate had the research standards of a fan edit.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vahwab/cristiano_ronaldo_my_son_mateo_watches_youtube/\n\n## Quote\n\nThe trophy case lost to the YouTube algorithm.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vahwab/cristiano_ronaldo_my_son_mateo_watches_youtube/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public post and discussion were reviewed on 2026-07-30. The exchange is summarized as a playful family story shared in the post, not independently reported dialogue.\n\n## Sports Radar Markdown\n\n```md\n**Ronaldo gets rage-baited by his own son**\n\nCristiano Ronaldo says his son uses YouTube compilations to rank Mbappe above him and answer every comeback.\n\nWhy it works: The trophy case lost to the YouTube algorithm.\n```\n"
   },
   {
     "id": "steve-kerr-lebron-rumor-troll",
@@ -1429,7 +1465,7 @@
     "title": "The Mariners broadcast deploys a baseball jumpscare",
     "league": "MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-29",
     "heat": 96,
     "tags": [
@@ -1457,7 +1493,7 @@
         "sourceUrl": "https://www.reddit.com/r/baseball/comments/1v9mo4h/mariners_broadcast_cuts_to_a_random_baseball/"
       }
     ],
-    "markdown": "---\nid: mariners-baseball-jumpscare\nrank: 2\ntitle: \"The Mariners broadcast deploys a baseball jumpscare\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-29\"\nheat: 96\ntags:\n  - r/baseball\n  - Seattle Mariners\n  - Julio Rodriguez\n  - broadcast\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball clip showed the Mariners broadcast cutting from Julio Rodríguez's\nsteal attempt to a close-up of a lone baseball.\n\n## Why It Is Funny\n\nThe broadcast briefly replaced live action with the sport's most obvious\nobject, presented with the urgency of a plot twist. The accidental cut felt\nlike subliminal advertising for baseball itself.\n\n## Comment Highlights\n\n- Label: Switchboard balk\n  Summary: The discussion said the crew had been showing a home-run ball and did not expect Rodríguez to run.\n  Why funny: The production explanation made the missed steal sound like a control-room balk.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v9mo4h/mariners_broadcast_cuts_to_a_random_baseball/\n- Label: Baseball jumpscare\n  Summary: Fans treated the sudden close-up as an absurd reminder of which sport they were watching.\n  Why funny: A baseball appeared during baseball and still managed to feel completely out of place.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v9mo4h/mariners_broadcast_cuts_to_a_random_baseball/\n\n## Quote\n\nLive baseball interrupted by an urgent message from baseball.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v9mo4h/mariners_broadcast_cuts_to_a_random_baseball/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public clip and discussion were reviewed on 2026-07-29. The control-room explanation is attributed to the discussion rather than stated as independently verified production reporting.\n\n## Sports Radar Markdown\n\n```md\n**The Mariners broadcast deploys a baseball jumpscare**\n\nJulio Rodríguez took off and the broadcast answered with a dramatic close-up of one baseball.\n\nWhy it works: Live baseball was interrupted by an urgent message from baseball.\n```\n"
+    "markdown": "---\nid: mariners-baseball-jumpscare\nrank: 2\ntitle: \"The Mariners broadcast deploys a baseball jumpscare\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-29\"\nheat: 96\ntags:\n  - r/baseball\n  - Seattle Mariners\n  - Julio Rodriguez\n  - broadcast\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball clip showed the Mariners broadcast cutting from Julio Rodríguez's\nsteal attempt to a close-up of a lone baseball.\n\n## Why It Is Funny\n\nThe broadcast briefly replaced live action with the sport's most obvious\nobject, presented with the urgency of a plot twist. The accidental cut felt\nlike subliminal advertising for baseball itself.\n\n## Comment Highlights\n\n- Label: Switchboard balk\n  Summary: The discussion said the crew had been showing a home-run ball and did not expect Rodríguez to run.\n  Why funny: The production explanation made the missed steal sound like a control-room balk.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v9mo4h/mariners_broadcast_cuts_to_a_random_baseball/\n- Label: Baseball jumpscare\n  Summary: Fans treated the sudden close-up as an absurd reminder of which sport they were watching.\n  Why funny: A baseball appeared during baseball and still managed to feel completely out of place.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v9mo4h/mariners_broadcast_cuts_to_a_random_baseball/\n\n## Quote\n\nLive baseball interrupted by an urgent message from baseball.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v9mo4h/mariners_broadcast_cuts_to_a_random_baseball/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public clip and discussion were reviewed on 2026-07-29. The control-room explanation is attributed to the discussion rather than stated as independently verified production reporting.\n\n## Sports Radar Markdown\n\n```md\n**The Mariners broadcast deploys a baseball jumpscare**\n\nJulio Rodríguez took off and the broadcast answered with a dramatic close-up of one baseball.\n\nWhy it works: Live baseball was interrupted by an urgent message from baseball.\n```\n"
   },
   {
     "id": "nba-team-names-edible",
@@ -1494,6 +1530,42 @@
       }
     ],
     "markdown": "---\nid: nba-team-names-edible\nrank: 2\ntitle: \"The NBA offseason gets an edible-team taxonomy\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-16\"\nheat: 95\ntags:\n  - r/nba\n  - offseason\n  - team names\n  - fan analysis\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba fan sorted every team name by whether its namesake could be eaten,\nproducing a 17-to-13 split and several deeply questionable rulings.\n\n## Why It Is Funny\n\nIt applies full standings-table seriousness to a question nobody needed asked.\nThe supposedly food-adjacent Nuggets landing on the inedible side completes the bit.\n\n## Comment Highlights\n\n- Label: Appeals court opens\n  Summary: Fans challenged the rulings for pants, gold, lakes, pace cars, and several human-based names.\n  Why funny: The nonsense classification instantly develops technical definitions and disputed calls.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxf4p9/oc_what_nba_team_names_are_edible/\n- Label: Offseason diagnosis\n  Summary: The thread treated the project as proof that basketball's offseason had reached its deepest stage.\n  Why funny: The analysis is both impressively complete and evidence that everyone needs games back.\n  Source URL: https://www.reddit.com/r/nba/comments/1uxf4p9/oc_what_nba_team_names_are_edible/\n\n## Quote\n\nThe offseason finally produced edible power rankings.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uxf4p9/oc_what_nba_team_names_are_edible/\n- Source type: Reddit / r/nba top-day original fan analysis\n- Verification notes: the post presents a 17-edible to 13-inedible classification; this summary transforms the premise without reproducing the full team-by-team list or raw comments\n\n## Sports Radar Markdown\n\n```md\n**The NBA offseason gets an edible-team taxonomy**\n\nOne fan classified all 30 team names by edibility and somehow put the Nuggets on the wrong side of lunch.\n\nWhy it works: meaningless analysis receives the care and controversy of a playoff seeding model.\n```\n"
+  },
+  {
+    "id": "white-sox-magic-wand-giveaway",
+    "rank": 2,
+    "title": "The White Sox turn a magic wand into a giveaway",
+    "league": "MLB",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-30",
+    "heat": 96,
+    "tags": [
+      "r/baseball",
+      "Chicago White Sox",
+      "Mike Vasil",
+      "team promotion"
+    ],
+    "public_ready": true,
+    "summary": "An r/baseball clip showed the White Sox telling pitcher Mike Vasil that the\ncommissioner's office wanted his dugout magic wand gone, then revealing that\nthe warning was a setup for a team giveaway.",
+    "whyFunny": "The team staged a tiny disciplinary hearing around a prop and converted the\nplayer's visible disappointment into promotional inventory. Baseball lore\nbecame a scheduled giveaway night.",
+    "quote": "The disciplinary meeting ended at the promotional calendar.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1va1i2i/mike_vasil_is_called_into_the_office_and_informed/",
+    "commentHighlights": [
+      {
+        "label": "Identity crisis",
+        "summary": "Fans focused on how quickly Vasil wondered what he would do without the wand.",
+        "whyFunny": "A dugout prop had already become part of the job description.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1va1i2i/mike_vasil_is_called_into_the_office_and_informed/"
+      },
+      {
+        "label": "Merch reveal",
+        "summary": "The discussion enjoyed that Vasil was already wearing a shirt built around the wand bit.",
+        "whyFunny": "The supposed ban arrived after the joke had become a clothing line.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1va1i2i/mike_vasil_is_called_into_the_office_and_informed/"
+      }
+    ],
+    "markdown": "---\nid: white-sox-magic-wand-giveaway\nrank: 2\ntitle: \"The White Sox turn a magic wand into a giveaway\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-30\"\nheat: 96\ntags:\n  - r/baseball\n  - Chicago White Sox\n  - Mike Vasil\n  - team promotion\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball clip showed the White Sox telling pitcher Mike Vasil that the\ncommissioner's office wanted his dugout magic wand gone, then revealing that\nthe warning was a setup for a team giveaway.\n\n## Why It Is Funny\n\nThe team staged a tiny disciplinary hearing around a prop and converted the\nplayer's visible disappointment into promotional inventory. Baseball lore\nbecame a scheduled giveaway night.\n\n## Comment Highlights\n\n- Label: Identity crisis\n  Summary: Fans focused on how quickly Vasil wondered what he would do without the wand.\n  Why funny: A dugout prop had already become part of the job description.\n  Source URL: https://www.reddit.com/r/baseball/comments/1va1i2i/mike_vasil_is_called_into_the_office_and_informed/\n- Label: Merch reveal\n  Summary: The discussion enjoyed that Vasil was already wearing a shirt built around the wand bit.\n  Why funny: The supposed ban arrived after the joke had become a clothing line.\n  Source URL: https://www.reddit.com/r/baseball/comments/1va1i2i/mike_vasil_is_called_into_the_office_and_informed/\n\n## Quote\n\nThe disciplinary meeting ended at the promotional calendar.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1va1i2i/mike_vasil_is_called_into_the_office_and_informed/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public clip and discussion were reviewed on 2026-07-30. The summary describes the team's staged reveal without treating the initial commissioner's-office claim as real.\n\n## Sports Radar Markdown\n\n```md\n**The White Sox turn a magic wand into a giveaway**\n\nMike Vasil was told his dugout wand had to go, then learned the White Sox were turning it into a giveaway.\n\nWhy it works: The disciplinary meeting ended at the promotional calendar.\n```\n"
   },
   {
     "id": "tyler-herro-trade-reaction",
@@ -1566,6 +1638,42 @@
       }
     ],
     "markdown": "---\nid: vj-edgecombe-lebron-meme-recreation\nrank: 2\ntitle: \"VJ Edgecombe inherits a LeBron meme\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-25\"\nheat: 96\ntags:\n  - r/nba\n  - VJ Edgecombe\n  - LeBron James\n  - Philadelphia 76ers\npublic_ready: true\n---\n\n## Summary\n\nVJ Edgecombe recreated LeBron James's famous smiling gym-floor photo after\nLeBron's reported move to Philadelphia.\n\n## Why It Is Funny\n\nThe new teammate announcement needed no formal welcome. Edgecombe simply\nborrowed a vintage LeBron reaction image and let years of NBA meme history\nhandle the introduction.\n\n## Comment Highlights\n\n- Label: Meme inheritance\n  Summary: Fans immediately recognized the pose and treated the recreation as a transfer of team lore.\n  Why funny: A rookie completed veteran orientation through one old reaction image.\n  Source URL: https://www.reddit.com/r/nba/comments/1v5ng1g/vj_edgecombe_on_instagram_recreates_lebrons/\n- Label: Chemistry report\n  Summary: The thread read the post as evidence that Philadelphia's younger players were already enjoying the new roster.\n  Why funny: Offseason chemistry was measured in meme fluency before anyone shared the court.\n  Source URL: https://www.reddit.com/r/nba/comments/1v5ng1g/vj_edgecombe_on_instagram_recreates_lebrons/\n\n## Quote\n\nThe welcome packet was one old LeBron meme.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v5ng1g/vj_edgecombe_on_instagram_recreates_lebrons/\n- Source type: Reddit image post linking a public Instagram story\n- Verification notes: The public Reddit post, image, and discussion were reviewed on 2026-07-25.\n\n## Sports Radar Markdown\n\n```md\n**VJ Edgecombe inherits a LeBron meme**\n\nEdgecombe welcomed LeBron to Philadelphia by recreating one of LeBron's own reaction images.\n\nWhy it works: The rookie completed teammate orientation entirely through NBA meme history.\n```\n"
+  },
+  {
+    "id": "patriots-dad-one-arm-catch",
+    "rank": 3,
+    "title": "A Patriots dad auditions with one arm occupied",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-30",
+    "heat": 94,
+    "tags": [
+      "r/nfl",
+      "New England Patriots",
+      "training camp",
+      "fan catch"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl clip showed a fan at Patriots training camp catching a football with\none hand while holding a child in his other arm.",
+    "whyFunny": "The catch turned an ordinary camp visit into an accidental receiver workout\nwith a very literal handicap. The thread immediately began evaluating the\ndad's roster chances.",
+    "quote": "One free hand was enough for the scouting department.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1va5chr/highlight_dad_catches_a_football_with_child_in/",
+    "commentHighlights": [
+      {
+        "label": "Scouting report",
+        "summary": "Fans jokingly assessed whether New England should contact the one-handed catcher.",
+        "whyFunny": "A family outing became an unofficial depth-chart audition.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1va5chr/highlight_dad_catches_a_football_with_child_in/"
+      },
+      {
+        "label": "Equipment rule",
+        "summary": "The discussion debated whether he would also have to carry the child during games.",
+        "whyFunny": "The impressive constraint was treated like mandatory equipment.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1va5chr/highlight_dad_catches_a_football_with_child_in/"
+      }
+    ],
+    "markdown": "---\nid: patriots-dad-one-arm-catch\nrank: 3\ntitle: \"A Patriots dad auditions with one arm occupied\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-30\"\nheat: 94\ntags:\n  - r/nfl\n  - New England Patriots\n  - training camp\n  - fan catch\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl clip showed a fan at Patriots training camp catching a football with\none hand while holding a child in his other arm.\n\n## Why It Is Funny\n\nThe catch turned an ordinary camp visit into an accidental receiver workout\nwith a very literal handicap. The thread immediately began evaluating the\ndad's roster chances.\n\n## Comment Highlights\n\n- Label: Scouting report\n  Summary: Fans jokingly assessed whether New England should contact the one-handed catcher.\n  Why funny: A family outing became an unofficial depth-chart audition.\n  Source URL: https://www.reddit.com/r/nfl/comments/1va5chr/highlight_dad_catches_a_football_with_child_in/\n- Label: Equipment rule\n  Summary: The discussion debated whether he would also have to carry the child during games.\n  Why funny: The impressive constraint was treated like mandatory equipment.\n  Source URL: https://www.reddit.com/r/nfl/comments/1va5chr/highlight_dad_catches_a_football_with_child_in/\n\n## Quote\n\nOne free hand was enough for the scouting department.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1va5chr/highlight_dad_catches_a_football_with_child_in/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public clip and discussion were reviewed on 2026-07-30. The summary describes only the visible catch and makes no claim about the fan's identity.\n\n## Sports Radar Markdown\n\n```md\n**A Patriots dad auditions with one arm occupied**\n\nA training-camp fan caught a football one-handed while carrying a child in the other arm.\n\nWhy it works: One free hand was enough for the scouting department.\n```\n"
   },
   {
     "id": "ace-flagg-family-feud-blowout",
@@ -2064,7 +2172,7 @@
     "title": "Nesta cannot prove Italy used to win",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-29",
     "heat": 94,
     "tags": [
@@ -2092,7 +2200,7 @@
         "sourceUrl": "https://www.reddit.com/r/soccer/comments/1v9ozkt/alessandro_nesta_said_that_his_nearly_18yearold/"
       }
     ],
-    "markdown": "---\nid: nesta-son-world-cup-proof\nrank: 3\ntitle: \"Nesta cannot prove Italy used to win\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-29\"\nheat: 94\ntags:\n  - r/soccer\n  - Alessandro Nesta\n  - Italy\n  - World Cup\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post relayed Alessandro Nesta saying his nearly 18-year-old son has\nnever seen Italy at a World Cup and does not believe stories about the 2006\nchampions.\n\n## Why It Is Funny\n\nOne of Italy's decorated defenders has been reduced to telling his own son\nabout a lost football civilization. A World Cup title now sounds like a family\nlegend that needs archival proof.\n\n## Comment Highlights\n\n- Label: Missing generation\n  Summary: Fans noted that an entire young generation knows Italy's reputation without seeing the team on the World Cup stage.\n  Why funny: A global football power has become secondhand history for its own teenagers.\n  Source URL: https://www.reddit.com/r/soccer/comments/1v9ozkt/alessandro_nesta_said_that_his_nearly_18yearold/\n- Label: Goalkeeper timeline\n  Summary: The thread pointed to senior players whose long international careers still have not included a World Cup appearance.\n  Why funny: Longevity has not been enough to escape the same national-team time loop.\n  Source URL: https://www.reddit.com/r/soccer/comments/1v9ozkt/alessandro_nesta_said_that_his_nearly_18yearold/\n\n## Quote\n\nDad needs the 2006 tape to establish credibility.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1v9ozkt/alessandro_nesta_said_that_his_nearly_18yearold/\n- Source type: Reddit post linking a public interview write-up\n- Verification notes: The public Reddit post, linked attribution, and discussion were reviewed on 2026-07-29. The quote remains attributed to the post and is not presented as independently reported by Sports Radar.\n\n## Sports Radar Markdown\n\n```md\n**Nesta cannot prove Italy used to win**\n\nAlessandro Nesta says his teenage son has never seen Italy at a World Cup and doubts the old championship stories.\n\nWhy it works: Dad needs the 2006 tape to establish credibility.\n```\n"
+    "markdown": "---\nid: nesta-son-world-cup-proof\nrank: 3\ntitle: \"Nesta cannot prove Italy used to win\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-29\"\nheat: 94\ntags:\n  - r/soccer\n  - Alessandro Nesta\n  - Italy\n  - World Cup\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post relayed Alessandro Nesta saying his nearly 18-year-old son has\nnever seen Italy at a World Cup and does not believe stories about the 2006\nchampions.\n\n## Why It Is Funny\n\nOne of Italy's decorated defenders has been reduced to telling his own son\nabout a lost football civilization. A World Cup title now sounds like a family\nlegend that needs archival proof.\n\n## Comment Highlights\n\n- Label: Missing generation\n  Summary: Fans noted that an entire young generation knows Italy's reputation without seeing the team on the World Cup stage.\n  Why funny: A global football power has become secondhand history for its own teenagers.\n  Source URL: https://www.reddit.com/r/soccer/comments/1v9ozkt/alessandro_nesta_said_that_his_nearly_18yearold/\n- Label: Goalkeeper timeline\n  Summary: The thread pointed to senior players whose long international careers still have not included a World Cup appearance.\n  Why funny: Longevity has not been enough to escape the same national-team time loop.\n  Source URL: https://www.reddit.com/r/soccer/comments/1v9ozkt/alessandro_nesta_said_that_his_nearly_18yearold/\n\n## Quote\n\nDad needs the 2006 tape to establish credibility.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1v9ozkt/alessandro_nesta_said_that_his_nearly_18yearold/\n- Source type: Reddit post linking a public interview write-up\n- Verification notes: The public Reddit post, linked attribution, and discussion were reviewed on 2026-07-29. The quote remains attributed to the post and is not presented as independently reported by Sports Radar.\n\n## Sports Radar Markdown\n\n```md\n**Nesta cannot prove Italy used to win**\n\nAlessandro Nesta says his teenage son has never seen Italy at a World Cup and doubts the old championship stories.\n\nWhy it works: Dad needs the 2006 tape to establish credibility.\n```\n"
   },
   {
     "id": "mpj-door-list-check",
@@ -2418,6 +2526,42 @@
     "markdown": "---\nid: 1930s-logo-range-basketball\nrank: 4\ntitle: \"1930s basketball already had logo-range chaos\"\nleague: \"Basketball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-20\"\nheat: 92\ntags:\n  - r/nba\n  - basketball history\n  - archival footage\n  - long-range shooting\npublic_ready: true\n---\n\n## Summary\n\nA clip presented as 1930s basketball resurfaced with two-handed passes, high\narcing shots, and several attempts launched from modern logo territory.\n\n## Why It Is Funny\n\nThe mechanics look ancient until someone pulls from a distance that would make\na current defense panic. Basketball evolution apparently included a very long\ndetour back to the same shot chart.\n\n## Comment Highlights\n\n- Label: Long twos forever\n  Summary: Fans noticed that players were launching from modern three-point distance decades before the line existed.\n  Why funny: The shot selection looks futuristic and inefficient at the same time.\n  Source URL: https://www.reddit.com/r/nba/comments/1v1ctnd/how_basketball_was_played_in_the_1930s/\n- Label: Permanent alley-oop suspense\n  Summary: The looping passes repeatedly looked ready to become lobs before dropping somewhere else.\n  Why funny: Modern highlight expectations keep misreading every possession.\n  Source URL: https://www.reddit.com/r/nba/comments/1v1ctnd/how_basketball_was_played_in_the_1930s/\n\n## Quote\n\nLogo range, worth two, delivered with both hands.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v1ctnd/how_basketball_was_played_in_the_1930s/\n- Source type: Reddit / r/nba top-day archival-style basketball clip\n- Verification notes: the public post presents the footage as 1930s basketball; the copy preserves that source framing rather than independently dating the footage\n\n## Sports Radar Markdown\n\n```md\n**1930s basketball already had logo-range chaos**\n\nA resurfaced clip pairs two-handed passes with shots launched from modern logo territory.\n\nWhy it works: the mechanics look ancient right up until the shot chart loops back to the future.\n```\n"
   },
   {
+    "id": "santos-laguna-shorts-malfunction",
+    "rank": 4,
+    "title": "A goalkeeper's shorts abandon the match",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-30",
+    "heat": 92,
+    "tags": [
+      "r/sports",
+      "Santos Laguna",
+      "goalkeeper",
+      "uniform malfunction"
+    ],
+    "public_ready": true,
+    "summary": "An r/sports clip showed a Santos Laguna goalkeeper dealing with shorts that\ncame apart during a match.",
+    "whyFunny": "The equipment failure created a second, completely unscheduled contest between\nthe goalkeeper and his own uniform. Even the emergency layer happened to match\nthe kit.",
+    "quote": "The kit launched its own substitution request.",
+    "sourceUrl": "https://www.reddit.com/r/sports/comments/1va5csj/santos_lagunas_keeper_in_the_mexican_league_had/",
+    "commentHighlights": [
+      {
+        "label": "Color coordination",
+        "summary": "Fans noticed that the layer underneath matched the goalkeeper's kit.",
+        "whyFunny": "The wardrobe malfunction looked unexpectedly prepared for its own contingency.",
+        "sourceUrl": "https://www.reddit.com/r/sports/comments/1va5csj/santos_lagunas_keeper_in_the_mexican_league_had/"
+      },
+      {
+        "label": "Manufacturer review",
+        "summary": "The discussion immediately turned the ripped shorts into an unofficial uniform-quality audit.",
+        "whyFunny": "One seam failure summoned an entire procurement committee.",
+        "sourceUrl": "https://www.reddit.com/r/sports/comments/1va5csj/santos_lagunas_keeper_in_the_mexican_league_had/"
+      }
+    ],
+    "markdown": "---\nid: santos-laguna-shorts-malfunction\nrank: 4\ntitle: \"A goalkeeper's shorts abandon the match\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-30\"\nheat: 92\ntags:\n  - r/sports\n  - Santos Laguna\n  - goalkeeper\n  - uniform malfunction\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports clip showed a Santos Laguna goalkeeper dealing with shorts that\ncame apart during a match.\n\n## Why It Is Funny\n\nThe equipment failure created a second, completely unscheduled contest between\nthe goalkeeper and his own uniform. Even the emergency layer happened to match\nthe kit.\n\n## Comment Highlights\n\n- Label: Color coordination\n  Summary: Fans noticed that the layer underneath matched the goalkeeper's kit.\n  Why funny: The wardrobe malfunction looked unexpectedly prepared for its own contingency.\n  Source URL: https://www.reddit.com/r/sports/comments/1va5csj/santos_lagunas_keeper_in_the_mexican_league_had/\n- Label: Manufacturer review\n  Summary: The discussion immediately turned the ripped shorts into an unofficial uniform-quality audit.\n  Why funny: One seam failure summoned an entire procurement committee.\n  Source URL: https://www.reddit.com/r/sports/comments/1va5csj/santos_lagunas_keeper_in_the_mexican_league_had/\n\n## Quote\n\nThe kit launched its own substitution request.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1va5csj/santos_lagunas_keeper_in_the_mexican_league_had/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public clip and discussion were reviewed on 2026-07-30. The summary avoids claims about the garment maker or cause of the failure.\n\n## Sports Radar Markdown\n\n```md\n**A goalkeeper's shorts abandon the match**\n\nA Santos Laguna goalkeeper had to manage an in-game equipment failure when his shorts came apart.\n\nWhy it works: The kit launched its own substitution request.\n```\n"
+  },
+  {
     "id": "cliffside-cricket-outfield",
     "rank": 4,
     "title": "Cricket finds a cliffside outfield",
@@ -2639,7 +2783,7 @@
     "title": "Josh Hart issues pocket-counting etiquette",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-29",
     "heat": 92,
     "tags": [
@@ -2667,7 +2811,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1v9hbbu/josh_hart_in_response_to_draymond_green_saying/"
       }
     ],
-    "markdown": "---\nid: josh-hart-pocket-counting\nrank: 4\ntitle: \"Josh Hart issues pocket-counting etiquette\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-29\"\nheat: 92\ntags:\n  - r/nba\n  - Josh Hart\n  - Draymond Green\n  - Jalen Brunson\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post shared Josh Hart responding after Draymond Green questioned Jalen\nBrunson's contract discount and suggested Hart should have taken less instead.\n\n## Why It Is Funny\n\nGreen volunteered Hart for someone else's financial sacrifice, so Hart replied\nwith a compact rule against counting other people's money. Contract analysis\nbecame a manners lesson.\n\n## Comment Highlights\n\n- Label: Volunteer accountant\n  Summary: Fans focused on Green naming Hart as the person who should have surrendered salary.\n  Why funny: The financial advice became much easier once it involved somebody else's paycheck.\n  Source URL: https://www.reddit.com/r/nba/comments/1v9hbbu/josh_hart_in_response_to_draymond_green_saying/\n- Label: Role-player mirror\n  Summary: The discussion compared Hart and Green as players with similarly connective team roles.\n  Why funny: The argument sounded like two versions of the same job debating who should fund the roster.\n  Source URL: https://www.reddit.com/r/nba/comments/1v9hbbu/josh_hart_in_response_to_draymond_green_saying/\n\n## Quote\n\nThe contract debate received a manners policy.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v9hbbu/josh_hart_in_response_to_draymond_green_saying/\n- Source type: Reddit post linking public clips and social responses\n- Verification notes: The public post, linked material, and discussion were reviewed on 2026-07-29. The summary does not take a position on the players' contract choices.\n\n## Sports Radar Markdown\n\n```md\n**Josh Hart issues pocket-counting etiquette**\n\nAfter Draymond volunteered Hart to take less money, Hart turned the contract debate into a manners lesson.\n\nWhy it works: The contract debate received a manners policy.\n```\n"
+    "markdown": "---\nid: josh-hart-pocket-counting\nrank: 4\ntitle: \"Josh Hart issues pocket-counting etiquette\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-29\"\nheat: 92\ntags:\n  - r/nba\n  - Josh Hart\n  - Draymond Green\n  - Jalen Brunson\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post shared Josh Hart responding after Draymond Green questioned Jalen\nBrunson's contract discount and suggested Hart should have taken less instead.\n\n## Why It Is Funny\n\nGreen volunteered Hart for someone else's financial sacrifice, so Hart replied\nwith a compact rule against counting other people's money. Contract analysis\nbecame a manners lesson.\n\n## Comment Highlights\n\n- Label: Volunteer accountant\n  Summary: Fans focused on Green naming Hart as the person who should have surrendered salary.\n  Why funny: The financial advice became much easier once it involved somebody else's paycheck.\n  Source URL: https://www.reddit.com/r/nba/comments/1v9hbbu/josh_hart_in_response_to_draymond_green_saying/\n- Label: Role-player mirror\n  Summary: The discussion compared Hart and Green as players with similarly connective team roles.\n  Why funny: The argument sounded like two versions of the same job debating who should fund the roster.\n  Source URL: https://www.reddit.com/r/nba/comments/1v9hbbu/josh_hart_in_response_to_draymond_green_saying/\n\n## Quote\n\nThe contract debate received a manners policy.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v9hbbu/josh_hart_in_response_to_draymond_green_saying/\n- Source type: Reddit post linking public clips and social responses\n- Verification notes: The public post, linked material, and discussion were reviewed on 2026-07-29. The summary does not take a position on the players' contract choices.\n\n## Sports Radar Markdown\n\n```md\n**Josh Hart issues pocket-counting etiquette**\n\nAfter Draymond volunteered Hart to take less money, Hart turned the contract debate into a manners lesson.\n\nWhy it works: The contract debate received a manners policy.\n```\n"
   },
   {
     "id": "munetaka-murakami-music-answer",
@@ -3183,6 +3327,42 @@
     "markdown": "---\nid: laz-diaz-plate-mic-aside\nrank: 5\ntitle: \"A plate mic catches the umpire's last-inning complaint\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-13\"\nheat: 88\ntags:\n  - r/baseball\n  - Laz Diaz\n  - plate-mic\n  - broadcast\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball highlight caught plate umpire Laz Diaz venting into the field mic\nafter a foul ball hit him late in the game.\n\n## Why It Is Funny\n\nThe mic turned a painful workplace complaint into an accidental broadcast\naside. The comedy is the timing and the live audio, not the hit.\n\n## Comment Highlights\n\n## Quote\n\nThe plate mic picked the worst moment to be excellent.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1uusciv/highlight_laz_díaz_takes_a_foul_ball_to_the_beans/\n- Source type: Reddit / r/baseball top-day broadcast highlight\n- Verification notes: public highlight title identifies the late-game foul ball and live-mic reaction; do not reproduce the raw profanity\n\n## Sports Radar Markdown\n\n```md\n**A plate mic catches the umpire's last-inning complaint**\n\nOne late foul ball turned the field microphone into accidental workplace audio.\n\nWhy it works: The broadcast equipment chose the most inconvenient moment to excel.\n```\n"
   },
   {
+    "id": "longest-skate-grind-tony-hawk-score",
+    "rank": 5,
+    "title": "A record grind gets a Tony Hawk score review",
+    "league": "Skateboarding",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-07-30",
+    "heat": 90,
+    "tags": [
+      "r/sports",
+      "skateboarding",
+      "Maxim Habanec",
+      "Tony Hawk"
+    ],
+    "public_ready": true,
+    "summary": "An r/sports post presented a clip of Maxim Habanec completing a 78-meter rail\ngrind as a world record.",
+    "whyFunny": "The discussion greeted a real endurance feat by grading it like a Tony Hawk\nvideo-game combo. Record distance still lost imaginary points for missing\ntricks and a manual.",
+    "quote": "World record, modest combo multiplier.",
+    "sourceUrl": "https://www.reddit.com/r/sports/comments/1va8caa/world_record_longest_skate_grind/",
+    "commentHighlights": [
+      {
+        "label": "Combo math",
+        "summary": "Fans estimated the score and complained that the run lacked multipliers.",
+        "whyFunny": "A world-record claim was reviewed with arcade scoring logic.",
+        "sourceUrl": "https://www.reddit.com/r/sports/comments/1va8caa/world_record_longest_skate_grind/"
+      },
+      {
+        "label": "Manual requirement",
+        "summary": "The discussion insisted the skater should have landed in a manual to keep the combo alive.",
+        "whyFunny": "The real landing was judged against a controller habit.",
+        "sourceUrl": "https://www.reddit.com/r/sports/comments/1va8caa/world_record_longest_skate_grind/"
+      }
+    ],
+    "markdown": "---\nid: longest-skate-grind-tony-hawk-score\nrank: 5\ntitle: \"A record grind gets a Tony Hawk score review\"\nleague: \"Skateboarding\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-30\"\nheat: 90\ntags:\n  - r/sports\n  - skateboarding\n  - Maxim Habanec\n  - Tony Hawk\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports post presented a clip of Maxim Habanec completing a 78-meter rail\ngrind as a world record.\n\n## Why It Is Funny\n\nThe discussion greeted a real endurance feat by grading it like a Tony Hawk\nvideo-game combo. Record distance still lost imaginary points for missing\ntricks and a manual.\n\n## Comment Highlights\n\n- Label: Combo math\n  Summary: Fans estimated the score and complained that the run lacked multipliers.\n  Why funny: A world-record claim was reviewed with arcade scoring logic.\n  Source URL: https://www.reddit.com/r/sports/comments/1va8caa/world_record_longest_skate_grind/\n- Label: Manual requirement\n  Summary: The discussion insisted the skater should have landed in a manual to keep the combo alive.\n  Why funny: The real landing was judged against a controller habit.\n  Source URL: https://www.reddit.com/r/sports/comments/1va8caa/world_record_longest_skate_grind/\n\n## Quote\n\nWorld record, modest combo multiplier.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1va8caa/world_record_longest_skate_grind/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public post and discussion were reviewed on 2026-07-30. The distance and world-record framing remain attributed to the post rather than independently certified by Sports Radar.\n\n## Sports Radar Markdown\n\n```md\n**A record grind gets a Tony Hawk score review**\n\nA 78-meter rail grind drew immediate complaints about missing multipliers and an unfinished combo.\n\nWhy it works: World record, modest combo multiplier.\n```\n"
+  },
+  {
     "id": "cam-ward-dodgeball-restraint",
     "rank": 5,
     "title": "Cam Ward discovers dodgeball restraint",
@@ -3547,7 +3727,7 @@
     "title": "Minor-league high jinks produce a scooter collision",
     "league": "MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-29",
     "heat": 90,
     "tags": [
@@ -3575,7 +3755,7 @@
         "sourceUrl": "https://www.reddit.com/r/baseball/comments/1v9csar/rivercats_mascot_runs_into_alek_thomas/"
       }
     ],
-    "markdown": "---\nid: rivercats-mascot-scooter-collision\nrank: 5\ntitle: \"Minor-league high jinks produce a scooter collision\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-29\"\nheat: 90\ntags:\n  - r/baseball\n  - Sacramento River Cats\n  - Alek Thomas\n  - mascot\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball clip showed a pregame collision between a Sacramento River Cats\nmascot riding a scooter and Oklahoma City player Alek Thomas leaving the\ndugout.\n\n## Why It Is Funny\n\nMinor-league baseball's commitment to entertainment briefly created an\nunexpected traffic hazard. A routine jog onto the field met a mascot commute\nwith no visible right of way.\n\n## Comment Highlights\n\n- Label: Dugout crosswalk\n  Summary: Fans recast the edge of the dugout as a street where everyone should have checked both ways.\n  Why funny: Pregame access suddenly needed pedestrian and scooter rules.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v9csar/rivercats_mascot_runs_into_alek_thomas/\n- Label: Clean block review\n  Summary: The thread jokingly reviewed the collision with football-style contact language.\n  Why funny: Mascot traffic received an instant officiating breakdown.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v9csar/rivercats_mascot_runs_into_alek_thomas/\n\n## Quote\n\nThe dugout now needs a marked scooter lane.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v9csar/rivercats_mascot_runs_into_alek_thomas/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public clip and discussion were reviewed on 2026-07-29. The summary describes a collision without assigning blame, and it does not make claims about injuries.\n\n## Sports Radar Markdown\n\n```md\n**Minor-league high jinks produce a scooter collision**\n\nA mascot on a scooter and a player leaving the dugout discovered the same piece of field at once.\n\nWhy it works: The dugout now needs a marked scooter lane.\n```\n"
+    "markdown": "---\nid: rivercats-mascot-scooter-collision\nrank: 5\ntitle: \"Minor-league high jinks produce a scooter collision\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-29\"\nheat: 90\ntags:\n  - r/baseball\n  - Sacramento River Cats\n  - Alek Thomas\n  - mascot\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball clip showed a pregame collision between a Sacramento River Cats\nmascot riding a scooter and Oklahoma City player Alek Thomas leaving the\ndugout.\n\n## Why It Is Funny\n\nMinor-league baseball's commitment to entertainment briefly created an\nunexpected traffic hazard. A routine jog onto the field met a mascot commute\nwith no visible right of way.\n\n## Comment Highlights\n\n- Label: Dugout crosswalk\n  Summary: Fans recast the edge of the dugout as a street where everyone should have checked both ways.\n  Why funny: Pregame access suddenly needed pedestrian and scooter rules.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v9csar/rivercats_mascot_runs_into_alek_thomas/\n- Label: Clean block review\n  Summary: The thread jokingly reviewed the collision with football-style contact language.\n  Why funny: Mascot traffic received an instant officiating breakdown.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v9csar/rivercats_mascot_runs_into_alek_thomas/\n\n## Quote\n\nThe dugout now needs a marked scooter lane.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v9csar/rivercats_mascot_runs_into_alek_thomas/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public clip and discussion were reviewed on 2026-07-29. The summary describes a collision without assigning blame, and it does not make claims about injuries.\n\n## Sports Radar Markdown\n\n```md\n**Minor-league high jinks produce a scooter collision**\n\nA mascot on a scooter and a player leaving the dugout discovered the same piece of field at once.\n\nWhy it works: The dugout now needs a marked scooter lane.\n```\n"
   },
   {
     "id": "nmsu-utep-one-week-rematch",
