@@ -108,6 +108,42 @@
     "markdown": "---\nid: austin-reaves-luka-golf-coach\nrank: 1\ntitle: \"Austin Reaves declines Luka's golf-coach job\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-23\"\nheat: 98\ntags:\n  - r/nba\n  - Austin Reaves\n  - Luka Doncic\n  - golf\npublic_ready: true\n---\n\n## Summary\n\nAustin Reaves said Luka Doncic sends him golf-swing videos almost every day\nasking how to improve. Reaves keeps reminding his best friend that he is not a\ngolf coach.\n\n## Why It Is Funny\n\nLuka found a free remote lesson plan; Reaves found a recurring support ticket.\nThe friendship is apparently strong enough to survive unlimited swing review\nand zero credentials.\n\n## Comment Highlights\n\n- Label: Interplanetary friendship\n  Summary: Fans focused on Reaves calling Luka one of his best friends on the planet.\n  Why funny: The wording accidentally left open a much more ambitious social circle.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvimfh/mcmenamin_austin_reaves_on_luka_doncic_hes_one_of/\n- Label: Athlete golf department\n  Summary: The thread debated why so many professional athletes adopt golf as their second competitive life.\n  Why funny: One friendship anecdote became an informal study of the athlete-to-golfer pipeline.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvimfh/mcmenamin_austin_reaves_on_luka_doncic_hes_one_of/\n\n## Quote\n\nThe golf desk remains staffed but unlicensed.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uvimfh/mcmenamin_austin_reaves_on_luka_doncic_hes_one_of/\n- Source type: Reddit / r/nba top-day player-friendship quote and reaction thread\n- Verification notes: the fresh public post attributes the swing-video routine and no-coach response to Reaves; the copy paraphrases the exchange without implying professional golf instruction\n\n## Sports Radar Markdown\n\n```md\n**Austin Reaves declines Luka's golf-coach job**\n\nLuka sends his best friend golf-swing videos almost daily; Reaves keeps returning the same disclaimer.\n\nWhy it works: one NBA friendship has become an unpaid remote-coaching subscription.\n```\n"
   },
   {
+    "id": "bark-in-park-dog-left-field",
+    "rank": 1,
+    "title": "Bark in the Park sends a dog to left field",
+    "league": "MLB",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-01",
+    "heat": 98,
+    "tags": [
+      "r/baseball",
+      "minor league baseball",
+      "Greensboro Grasshoppers",
+      "dogs"
+    ],
+    "public_ready": true,
+    "summary": "An r/baseball post showed a dog loose in left field during a Greensboro\nGrasshoppers Bark in the Park game. The outfielder lifted the visitor over the\nwall and returned him to the stands.",
+    "whyFunny": "The promotion delivered exactly what it advertised, just with more defensive\nresponsibility than planned. Left field briefly became the stadium's lost-dog\ndesk.",
+    "quote": "Left field handled one very good pickup.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1vccicg/dudes_posting_their_ws_a_dog_got_loose_during/",
+    "commentHighlights": [
+      {
+        "label": "Extra outfielder",
+        "summary": "Fans recast the dog as an unexpected member of the defensive lineup.",
+        "whyFunny": "The roster move required treats instead of paperwork.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1vccicg/dudes_posting_their_ws_a_dog_got_loose_during/"
+      },
+      {
+        "label": "Bark in the actual park",
+        "summary": "The thread treated the escape as the most literal possible version of the promotion.",
+        "whyFunny": "The event name stopped being branding and became a play-by-play note.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1vccicg/dudes_posting_their_ws_a_dog_got_loose_during/"
+      }
+    ],
+    "markdown": "---\nid: bark-in-park-dog-left-field\nrank: 1\ntitle: \"Bark in the Park sends a dog to left field\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-01\"\nheat: 98\ntags:\n  - r/baseball\n  - minor league baseball\n  - Greensboro Grasshoppers\n  - dogs\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post showed a dog loose in left field during a Greensboro\nGrasshoppers Bark in the Park game. The outfielder lifted the visitor over the\nwall and returned him to the stands.\n\n## Why It Is Funny\n\nThe promotion delivered exactly what it advertised, just with more defensive\nresponsibility than planned. Left field briefly became the stadium's lost-dog\ndesk.\n\n## Comment Highlights\n\n- Label: Extra outfielder\n  Summary: Fans recast the dog as an unexpected member of the defensive lineup.\n  Why funny: The roster move required treats instead of paperwork.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vccicg/dudes_posting_their_ws_a_dog_got_loose_during/\n- Label: Bark in the actual park\n  Summary: The thread treated the escape as the most literal possible version of the promotion.\n  Why funny: The event name stopped being branding and became a play-by-play note.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vccicg/dudes_posting_their_ws_a_dog_got_loose_during/\n\n## Quote\n\nLeft field handled one very good pickup.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vccicg/dudes_posting_their_ws_a_dog_got_loose_during/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public post was reviewed on 2026-08-01. It identifies the team as the Greensboro Grasshoppers and shows the outfielder returning the dog over the wall.\n\n## Sports Radar Markdown\n\n```md\n**Bark in the Park sends a dog to left field**\n\nA dog escaped onto the field at a minor league Bark in the Park game, so the outfielder added one very friendly retrieval to his defensive line.\n\nWhy it works: Left field briefly became the stadium's lost-dog desk.\n```\n"
+  },
+  {
     "id": "nba-full-name-lineup",
     "rank": 1,
     "title": "Four NBA stars accidentally form a full-name loop",
@@ -688,7 +724,7 @@
     "title": "The Hawks stretch an entire lineup into Wemby",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-31",
     "heat": 98,
     "tags": [
@@ -716,7 +752,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1vb9cni/what_the_atlanta_hawks_would_look_like_if_every/"
       }
     ],
-    "markdown": "---\nid: hawks-all-wemby-lineup\nrank: 1\ntitle: \"The Hawks stretch an entire lineup into Wemby\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-31\"\nheat: 98\ntags:\n  - r/nba\n  - Atlanta Hawks\n  - Victor Wembanyama\n  - offseason edit\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post shared an Atlanta Hawks video that stretched every player into\nVictor Wembanyama proportions, turning a normal highlight reel into extremely\ntall visual nonsense.\n\n## Why It Is Funny\n\nThe edit answered a roster-building question nobody asked and made every drive\nto the basket look like it was filmed through a carnival mirror. Peak\noffseason research, zero practical application.\n\n## Comment Highlights\n\n- Label: Mandatory eye exam\n  Summary: Fans treated the distorted highlight reel like an endurance test for the viewer.\n  Why funny: The basketball stayed recognizable while every human proportion gave up.\n  Source URL: https://www.reddit.com/r/nba/comments/1vb9cni/what_the_atlanta_hawks_would_look_like_if_every/\n- Label: Offseason laboratory\n  Summary: The discussion celebrated the clip as exactly the kind of unnecessary experiment July basketball produces.\n  Why funny: A dead-serious roster hypothetical received the least serious visual proof possible.\n  Source URL: https://www.reddit.com/r/nba/comments/1vb9cni/what_the_atlanta_hawks_would_look_like_if_every/\n\n## Quote\n\nThe offseason finally solved vertical spacing.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vb9cni/what_the_atlanta_hawks_would_look_like_if_every/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public post and discussion were reviewed on 2026-07-31. The summary describes the visible distortion and attributes the underlying clip to the post.\n\n## Sports Radar Markdown\n\n```md\n**The Hawks stretch an entire lineup into Wemby**\n\nAn Atlanta Hawks edit gave every player Wemby proportions and turned a normal highlight reel into tall-person fever art.\n\nWhy it works: The offseason finally solved vertical spacing.\n```\n"
+    "markdown": "---\nid: hawks-all-wemby-lineup\nrank: 1\ntitle: \"The Hawks stretch an entire lineup into Wemby\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-31\"\nheat: 98\ntags:\n  - r/nba\n  - Atlanta Hawks\n  - Victor Wembanyama\n  - offseason edit\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post shared an Atlanta Hawks video that stretched every player into\nVictor Wembanyama proportions, turning a normal highlight reel into extremely\ntall visual nonsense.\n\n## Why It Is Funny\n\nThe edit answered a roster-building question nobody asked and made every drive\nto the basket look like it was filmed through a carnival mirror. Peak\noffseason research, zero practical application.\n\n## Comment Highlights\n\n- Label: Mandatory eye exam\n  Summary: Fans treated the distorted highlight reel like an endurance test for the viewer.\n  Why funny: The basketball stayed recognizable while every human proportion gave up.\n  Source URL: https://www.reddit.com/r/nba/comments/1vb9cni/what_the_atlanta_hawks_would_look_like_if_every/\n- Label: Offseason laboratory\n  Summary: The discussion celebrated the clip as exactly the kind of unnecessary experiment July basketball produces.\n  Why funny: A dead-serious roster hypothetical received the least serious visual proof possible.\n  Source URL: https://www.reddit.com/r/nba/comments/1vb9cni/what_the_atlanta_hawks_would_look_like_if_every/\n\n## Quote\n\nThe offseason finally solved vertical spacing.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vb9cni/what_the_atlanta_hawks_would_look_like_if_every/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public post and discussion were reviewed on 2026-07-31. The summary describes the visible distortion and attributes the underlying clip to the post.\n\n## Sports Radar Markdown\n\n```md\n**The Hawks stretch an entire lineup into Wemby**\n\nAn Atlanta Hawks edit gave every player Wemby proportions and turned a normal highlight reel into tall-person fever art.\n\nWhy it works: The offseason finally solved vertical spacing.\n```\n"
   },
   {
     "id": "heat-vacation-schedule-send",
@@ -1321,7 +1357,7 @@
     "title": "r/soccer puts a transfer-news giant on mute",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-31",
     "heat": 96,
     "tags": [
@@ -1349,7 +1385,7 @@
         "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vaysic/announcement_fabrizio_romano_content_to_be_banned/"
       }
     ],
-    "markdown": "---\nid: rsoccer-fabrizio-romano-source-ban\nrank: 2\ntitle: \"r/soccer puts a transfer-news giant on mute\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-31\"\nheat: 96\ntags:\n  - r/soccer\n  - Fabrizio Romano\n  - transfer news\n  - subreddit culture\npublic_ready: true\n---\n\n## Summary\n\nr/soccer moderators announced that posts sourced from Fabrizio Romano will be\nbanned, turning one of football's biggest transfer-news names into the day's\nlargest subreddit meta-story.\n\n## Why It Is Funny\n\nThe transfer window briefly stopped being about players and became a transfer\nwindow for the transfer reporter. A community built around constant updates\ndecided one update source had produced enough updates.\n\n## Comment Highlights\n\n- Label: Here we stop\n  Summary: Fans immediately recast the reporter's signature transfer catchphrase as a farewell line.\n  Why funny: Football's most reusable confirmation format became the announcement of its own exit.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vaysic/announcement_fabrizio_romano_content_to_be_banned/\n- Label: Meta transfer saga\n  Summary: The discussion debated the source ban with the intensity usually reserved for a major signing.\n  Why funny: Subreddit moderation became deadline-day content.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vaysic/announcement_fabrizio_romano_content_to_be_banned/\n\n## Quote\n\nThe transfer insider entered the transfer portal.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vaysic/announcement_fabrizio_romano_content_to_be_banned/\n- Source type: Reddit moderator announcement and public discussion\n- Verification notes: The moderator announcement was reviewed on 2026-07-31. Sports Radar summarizes the source-policy decision without adopting or independently reporting the announcement's allegations.\n\n## Sports Radar Markdown\n\n```md\n**r/soccer puts a transfer-news giant on mute**\n\nr/soccer announced a ban on Fabrizio Romano-sourced posts, making subreddit policy the biggest transfer story in the room.\n\nWhy it works: The transfer insider entered the transfer portal.\n```\n"
+    "markdown": "---\nid: rsoccer-fabrizio-romano-source-ban\nrank: 2\ntitle: \"r/soccer puts a transfer-news giant on mute\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-31\"\nheat: 96\ntags:\n  - r/soccer\n  - Fabrizio Romano\n  - transfer news\n  - subreddit culture\npublic_ready: true\n---\n\n## Summary\n\nr/soccer moderators announced that posts sourced from Fabrizio Romano will be\nbanned, turning one of football's biggest transfer-news names into the day's\nlargest subreddit meta-story.\n\n## Why It Is Funny\n\nThe transfer window briefly stopped being about players and became a transfer\nwindow for the transfer reporter. A community built around constant updates\ndecided one update source had produced enough updates.\n\n## Comment Highlights\n\n- Label: Here we stop\n  Summary: Fans immediately recast the reporter's signature transfer catchphrase as a farewell line.\n  Why funny: Football's most reusable confirmation format became the announcement of its own exit.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vaysic/announcement_fabrizio_romano_content_to_be_banned/\n- Label: Meta transfer saga\n  Summary: The discussion debated the source ban with the intensity usually reserved for a major signing.\n  Why funny: Subreddit moderation became deadline-day content.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vaysic/announcement_fabrizio_romano_content_to_be_banned/\n\n## Quote\n\nThe transfer insider entered the transfer portal.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vaysic/announcement_fabrizio_romano_content_to_be_banned/\n- Source type: Reddit moderator announcement and public discussion\n- Verification notes: The moderator announcement was reviewed on 2026-07-31. Sports Radar summarizes the source-policy decision without adopting or independently reporting the announcement's allegations.\n\n## Sports Radar Markdown\n\n```md\n**r/soccer puts a transfer-news giant on mute**\n\nr/soccer announced a ban on Fabrizio Romano-sourced posts, making subreddit policy the biggest transfer story in the room.\n\nWhy it works: The transfer insider entered the transfer portal.\n```\n"
   },
   {
     "id": "rodman-no-modern-scouting-report",
@@ -1712,6 +1748,78 @@
     "markdown": "---\nid: vj-edgecombe-lebron-meme-recreation\nrank: 2\ntitle: \"VJ Edgecombe inherits a LeBron meme\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-25\"\nheat: 96\ntags:\n  - r/nba\n  - VJ Edgecombe\n  - LeBron James\n  - Philadelphia 76ers\npublic_ready: true\n---\n\n## Summary\n\nVJ Edgecombe recreated LeBron James's famous smiling gym-floor photo after\nLeBron's reported move to Philadelphia.\n\n## Why It Is Funny\n\nThe new teammate announcement needed no formal welcome. Edgecombe simply\nborrowed a vintage LeBron reaction image and let years of NBA meme history\nhandle the introduction.\n\n## Comment Highlights\n\n- Label: Meme inheritance\n  Summary: Fans immediately recognized the pose and treated the recreation as a transfer of team lore.\n  Why funny: A rookie completed veteran orientation through one old reaction image.\n  Source URL: https://www.reddit.com/r/nba/comments/1v5ng1g/vj_edgecombe_on_instagram_recreates_lebrons/\n- Label: Chemistry report\n  Summary: The thread read the post as evidence that Philadelphia's younger players were already enjoying the new roster.\n  Why funny: Offseason chemistry was measured in meme fluency before anyone shared the court.\n  Source URL: https://www.reddit.com/r/nba/comments/1v5ng1g/vj_edgecombe_on_instagram_recreates_lebrons/\n\n## Quote\n\nThe welcome packet was one old LeBron meme.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v5ng1g/vj_edgecombe_on_instagram_recreates_lebrons/\n- Source type: Reddit image post linking a public Instagram story\n- Verification notes: The public Reddit post, image, and discussion were reviewed on 2026-07-25.\n\n## Sports Radar Markdown\n\n```md\n**VJ Edgecombe inherits a LeBron meme**\n\nEdgecombe welcomed LeBron to Philadelphia by recreating one of LeBron's own reaction images.\n\nWhy it works: The rookie completed teammate orientation entirely through NBA meme history.\n```\n"
   },
   {
+    "id": "westbrook-spiderman-assist",
+    "rank": 2,
+    "title": "Westbrook turns an assist into Spider-Man art",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-01",
+    "heat": 96,
+    "tags": [
+      "r/nba",
+      "Russell Westbrook",
+      "Oklahoma City Thunder",
+      "highlight lore"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba post revived a classic Russell Westbrook sequence: a Shammgod move,\nan assist, and a Spider-Man pose before the play had finished settling.",
+    "whyFunny": "Most players celebrate after the assist. Westbrook added choreography during\ndelivery and made the replay feel like a superhero entrance with a box score.",
+    "quote": "The assist came with its own superhero panel.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vcn1zv/westbrook_with_the_shammgod_and_then_the/",
+    "commentHighlights": [
+      {
+        "label": "Still electric",
+        "summary": "Fans across the usual Westbrook arguments paused to appreciate how smooth the sequence looked.",
+        "whyFunny": "One old highlight briefly negotiated a ceasefire in a permanent basketball debate.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1vcn1zv/westbrook_with_the_shammgod_and_then_the/"
+      },
+      {
+        "label": "Pose included",
+        "summary": "The discussion treated the Spider-Man finish as essential to the assist rather than an optional celebration.",
+        "whyFunny": "Style points arrived before the stat keeper finished the entry.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1vcn1zv/westbrook_with_the_shammgod_and_then_the/"
+      }
+    ],
+    "markdown": "---\nid: westbrook-spiderman-assist\nrank: 2\ntitle: \"Westbrook turns an assist into Spider-Man art\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-01\"\nheat: 96\ntags:\n  - r/nba\n  - Russell Westbrook\n  - Oklahoma City Thunder\n  - highlight lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post revived a classic Russell Westbrook sequence: a Shammgod move,\nan assist, and a Spider-Man pose before the play had finished settling.\n\n## Why It Is Funny\n\nMost players celebrate after the assist. Westbrook added choreography during\ndelivery and made the replay feel like a superhero entrance with a box score.\n\n## Comment Highlights\n\n- Label: Still electric\n  Summary: Fans across the usual Westbrook arguments paused to appreciate how smooth the sequence looked.\n  Why funny: One old highlight briefly negotiated a ceasefire in a permanent basketball debate.\n  Source URL: https://www.reddit.com/r/nba/comments/1vcn1zv/westbrook_with_the_shammgod_and_then_the/\n- Label: Pose included\n  Summary: The discussion treated the Spider-Man finish as essential to the assist rather than an optional celebration.\n  Why funny: Style points arrived before the stat keeper finished the entry.\n  Source URL: https://www.reddit.com/r/nba/comments/1vcn1zv/westbrook_with_the_shammgod_and_then_the/\n\n## Quote\n\nThe assist came with its own superhero panel.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vcn1zv/westbrook_with_the_shammgod_and_then_the/\n- Source type: Reddit highlight post and public discussion\n- Verification notes: The public clip and discussion were reviewed on 2026-08-01. Sports Radar describes only the visible move, pass, and pose.\n\n## Sports Radar Markdown\n\n```md\n**Westbrook turns an assist into Spider-Man art**\n\nA classic Westbrook clip combines a Shammgod move, an assist, and a Spider-Man pose before the defense can process any of it.\n\nWhy it works: The assist came with its own superhero panel.\n```\n"
+  },
+  {
+    "id": "haslam-dad-two-trade-audit",
+    "rank": 3,
+    "title": "A 95½-year-old dad audits two franchises",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-01",
+    "heat": 94,
+    "tags": [
+      "r/nfl",
+      "Cleveland Browns",
+      "Milwaukee Bucks",
+      "owner lore"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl clip showed Browns owner Jimmy Haslam recounting a call from his\n95½-year-old father, who wanted to know how Myles Garrett and Giannis both got\ntraded in the same month.",
+    "whyFunny": "Two leagues, two superstar exits, one parental performance review. The exact\nhalf-year in his father's age made the call sound even more official.",
+    "quote": "The family group chat covers multiple salary caps.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vc1ude/highlight_browns_owner_jimmy_haslam_says_his/",
+    "commentHighlights": [
+      {
+        "label": "Cross-sport audit",
+        "summary": "Fans connected Browns and Bucks ownership history into one deeply uncomfortable family phone call.",
+        "whyFunny": "The sports portfolio received a single consolidated report card.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vc1ude/highlight_browns_owner_jimmy_haslam_says_his/"
+      },
+      {
+        "label": "Half-year precision",
+        "summary": "The discussion kept returning to the very specific age used in the story.",
+        "whyFunny": "Ninety-five was apparently not enough context for the complaint department.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vc1ude/highlight_browns_owner_jimmy_haslam_says_his/"
+      }
+    ],
+    "markdown": "---\nid: haslam-dad-two-trade-audit\nrank: 3\ntitle: \"A 95½-year-old dad audits two franchises\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-01\"\nheat: 94\ntags:\n  - r/nfl\n  - Cleveland Browns\n  - Milwaukee Bucks\n  - owner lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl clip showed Browns owner Jimmy Haslam recounting a call from his\n95½-year-old father, who wanted to know how Myles Garrett and Giannis both got\ntraded in the same month.\n\n## Why It Is Funny\n\nTwo leagues, two superstar exits, one parental performance review. The exact\nhalf-year in his father's age made the call sound even more official.\n\n## Comment Highlights\n\n- Label: Cross-sport audit\n  Summary: Fans connected Browns and Bucks ownership history into one deeply uncomfortable family phone call.\n  Why funny: The sports portfolio received a single consolidated report card.\n  Source URL: https://www.reddit.com/r/nfl/comments/1vc1ude/highlight_browns_owner_jimmy_haslam_says_his/\n- Label: Half-year precision\n  Summary: The discussion kept returning to the very specific age used in the story.\n  Why funny: Ninety-five was apparently not enough context for the complaint department.\n  Source URL: https://www.reddit.com/r/nfl/comments/1vc1ude/highlight_browns_owner_jimmy_haslam_says_his/\n\n## Quote\n\nThe family group chat covers multiple salary caps.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vc1ude/highlight_browns_owner_jimmy_haslam_says_his/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public clip and post title were reviewed on 2026-08-01. Sports Radar attributes the father's question to Haslam's retelling rather than independently reporting the call.\n\n## Sports Radar Markdown\n\n```md\n**A 95½-year-old dad audits two franchises**\n\nJimmy Haslam said his father called to ask how Myles Garrett and Giannis both got traded in the same month.\n\nWhy it works: The family group chat covers multiple salary caps.\n```\n"
+  },
+  {
     "id": "patriots-dad-one-arm-catch",
     "rank": 3,
     "title": "A Patriots dad auditions with one arm occupied",
@@ -1753,7 +1861,7 @@
     "title": "A Yankees chant develops suspicious timing",
     "league": "MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-31",
     "heat": 94,
     "tags": [
@@ -1781,7 +1889,7 @@
         "sourceUrl": "https://www.reddit.com/r/baseball/comments/1vay2nh/on_june_25th_yankees_announcer_michael_kay/"
       }
     ],
-    "markdown": "---\nid: michael-kay-yankees-suck-chant\nrank: 3\ntitle: \"A Yankees chant develops suspicious timing\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-31\"\nheat: 94\ntags:\n  - r/baseball\n  - New York Yankees\n  - Boston Red Sox\n  - rivalry lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post paired Michael Kay questioning a \"Yankees suck\" chant on\nJune 25 with the clubs' records since then: Boston at 23-5 and New York at\n13-15, according to the linked StatMuse result.\n\n## Why It Is Funny\n\nThe chant was supposed to ignore the standings. Instead, the standings spent\nthe next month building a suspiciously tidy callback.\n\n## Comment Highlights\n\n- Label: Commitment to the bit\n  Summary: Fans explained that Boston uses the chant at games, concerts, and events with no baseball connection at all.\n  Why funny: The rivalry slogan apparently has no venue requirements.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vay2nh/on_june_25th_yankees_announcer_michael_kay/\n- Label: Analytics optional\n  Summary: The discussion argued that the chant was never meant to be a statistical claim in the first place.\n  Why funny: A pure expression of spite accidentally acquired supporting data.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vay2nh/on_june_25th_yankees_announcer_michael_kay/\n\n## Quote\n\nThe rivalry bit found a spreadsheet.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vay2nh/on_june_25th_yankees_announcer_michael_kay/\n- Source type: Reddit stat post and public discussion\n- Verification notes: The public post and its linked StatMuse result were reviewed on 2026-07-31. The records remain attributed to that source snapshot rather than independently calculated by Sports Radar.\n\n## Sports Radar Markdown\n\n```md\n**A Yankees chant develops suspicious timing**\n\nAfter Michael Kay questioned a \"Yankees suck\" chant, Boston went 23-5 while New York went 13-15, according to the post's linked stats.\n\nWhy it works: The rivalry bit found a spreadsheet.\n```\n"
+    "markdown": "---\nid: michael-kay-yankees-suck-chant\nrank: 3\ntitle: \"A Yankees chant develops suspicious timing\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-31\"\nheat: 94\ntags:\n  - r/baseball\n  - New York Yankees\n  - Boston Red Sox\n  - rivalry lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post paired Michael Kay questioning a \"Yankees suck\" chant on\nJune 25 with the clubs' records since then: Boston at 23-5 and New York at\n13-15, according to the linked StatMuse result.\n\n## Why It Is Funny\n\nThe chant was supposed to ignore the standings. Instead, the standings spent\nthe next month building a suspiciously tidy callback.\n\n## Comment Highlights\n\n- Label: Commitment to the bit\n  Summary: Fans explained that Boston uses the chant at games, concerts, and events with no baseball connection at all.\n  Why funny: The rivalry slogan apparently has no venue requirements.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vay2nh/on_june_25th_yankees_announcer_michael_kay/\n- Label: Analytics optional\n  Summary: The discussion argued that the chant was never meant to be a statistical claim in the first place.\n  Why funny: A pure expression of spite accidentally acquired supporting data.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vay2nh/on_june_25th_yankees_announcer_michael_kay/\n\n## Quote\n\nThe rivalry bit found a spreadsheet.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vay2nh/on_june_25th_yankees_announcer_michael_kay/\n- Source type: Reddit stat post and public discussion\n- Verification notes: The public post and its linked StatMuse result were reviewed on 2026-07-31. The records remain attributed to that source snapshot rather than independently calculated by Sports Radar.\n\n## Sports Radar Markdown\n\n```md\n**A Yankees chant develops suspicious timing**\n\nAfter Michael Kay questioned a \"Yankees suck\" chant, Boston went 23-5 while New York went 13-15, according to the post's linked stats.\n\nWhy it works: The rivalry bit found a spreadsheet.\n```\n"
   },
   {
     "id": "ace-flagg-family-feud-blowout",
@@ -2675,7 +2783,7 @@
     "title": "College football remembers games that never happened",
     "league": "College Football",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-31",
     "heat": 92,
     "tags": [
@@ -2703,7 +2811,7 @@
         "sourceUrl": "https://www.reddit.com/r/CFB/comments/1vb8f46/in_honor_of_bishop_sycamores_5_year_dynasty_run/"
       }
     ],
-    "markdown": "---\nid: cfb-moments-never-happened\nrank: 4\ntitle: \"College football remembers games that never happened\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-31\"\nheat: 92\ntags:\n  - r/CFB\n  - Bishop Sycamore\n  - fan lore\n  - alternate history\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB thread used the five-year anniversary of the Bishop Sycamore game to\ninvite fans to remember college-football moments that definitely, totally\nhappened.\n\n## Why It Is Funny\n\nThe thread treated decades of heartbreak and scandal like a shared alternate\ntimeline. Every reply tried to repair history with the confidence of a fan who\nhas already argued the replay ten times.\n\n## Comment Highlights\n\n- Label: Memory repair shop\n  Summary: Fans rewrote famous endings, awards, and controversies into happier alternate outcomes.\n  Why funny: Collective denial became an offseason historical archive.\n  Source URL: https://www.reddit.com/r/CFB/comments/1vb8f46/in_honor_of_bishop_sycamores_5_year_dynasty_run/\n- Label: Perfectly real dynasty\n  Summary: The discussion built on the Bishop Sycamore premise by treating impossible claims as settled sports history.\n  Why funny: The less plausible the memory, the more confidently it entered the record book.\n  Source URL: https://www.reddit.com/r/CFB/comments/1vb8f46/in_honor_of_bishop_sycamores_5_year_dynasty_run/\n\n## Quote\n\nThe record book lost an argument with the group chat.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1vb8f46/in_honor_of_bishop_sycamores_5_year_dynasty_run/\n- Source type: Reddit offseason discussion and public replies\n- Verification notes: The public thread was reviewed on 2026-07-31. Its examples are treated as deliberate alternate-history jokes, not factual claims.\n\n## Sports Radar Markdown\n\n```md\n**College football remembers games that never happened**\n\nAn r/CFB thread celebrated the Bishop Sycamore anniversary by rebuilding decades of college-football history from fake memories.\n\nWhy it works: The record book lost an argument with the group chat.\n```\n"
+    "markdown": "---\nid: cfb-moments-never-happened\nrank: 4\ntitle: \"College football remembers games that never happened\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-31\"\nheat: 92\ntags:\n  - r/CFB\n  - Bishop Sycamore\n  - fan lore\n  - alternate history\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB thread used the five-year anniversary of the Bishop Sycamore game to\ninvite fans to remember college-football moments that definitely, totally\nhappened.\n\n## Why It Is Funny\n\nThe thread treated decades of heartbreak and scandal like a shared alternate\ntimeline. Every reply tried to repair history with the confidence of a fan who\nhas already argued the replay ten times.\n\n## Comment Highlights\n\n- Label: Memory repair shop\n  Summary: Fans rewrote famous endings, awards, and controversies into happier alternate outcomes.\n  Why funny: Collective denial became an offseason historical archive.\n  Source URL: https://www.reddit.com/r/CFB/comments/1vb8f46/in_honor_of_bishop_sycamores_5_year_dynasty_run/\n- Label: Perfectly real dynasty\n  Summary: The discussion built on the Bishop Sycamore premise by treating impossible claims as settled sports history.\n  Why funny: The less plausible the memory, the more confidently it entered the record book.\n  Source URL: https://www.reddit.com/r/CFB/comments/1vb8f46/in_honor_of_bishop_sycamores_5_year_dynasty_run/\n\n## Quote\n\nThe record book lost an argument with the group chat.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1vb8f46/in_honor_of_bishop_sycamores_5_year_dynasty_run/\n- Source type: Reddit offseason discussion and public replies\n- Verification notes: The public thread was reviewed on 2026-07-31. Its examples are treated as deliberate alternate-history jokes, not factual claims.\n\n## Sports Radar Markdown\n\n```md\n**College football remembers games that never happened**\n\nAn r/CFB thread celebrated the Bishop Sycamore anniversary by rebuilding decades of college-football history from fake memories.\n\nWhy it works: The record book lost an argument with the group chat.\n```\n"
   },
   {
     "id": "cliffside-cricket-outfield",
@@ -2956,6 +3064,42 @@
       }
     ],
     "markdown": "---\nid: josh-hart-pocket-counting\nrank: 4\ntitle: \"Josh Hart issues pocket-counting etiquette\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-29\"\nheat: 92\ntags:\n  - r/nba\n  - Josh Hart\n  - Draymond Green\n  - Jalen Brunson\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post shared Josh Hart responding after Draymond Green questioned Jalen\nBrunson's contract discount and suggested Hart should have taken less instead.\n\n## Why It Is Funny\n\nGreen volunteered Hart for someone else's financial sacrifice, so Hart replied\nwith a compact rule against counting other people's money. Contract analysis\nbecame a manners lesson.\n\n## Comment Highlights\n\n- Label: Volunteer accountant\n  Summary: Fans focused on Green naming Hart as the person who should have surrendered salary.\n  Why funny: The financial advice became much easier once it involved somebody else's paycheck.\n  Source URL: https://www.reddit.com/r/nba/comments/1v9hbbu/josh_hart_in_response_to_draymond_green_saying/\n- Label: Role-player mirror\n  Summary: The discussion compared Hart and Green as players with similarly connective team roles.\n  Why funny: The argument sounded like two versions of the same job debating who should fund the roster.\n  Source URL: https://www.reddit.com/r/nba/comments/1v9hbbu/josh_hart_in_response_to_draymond_green_saying/\n\n## Quote\n\nThe contract debate received a manners policy.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v9hbbu/josh_hart_in_response_to_draymond_green_saying/\n- Source type: Reddit post linking public clips and social responses\n- Verification notes: The public post, linked material, and discussion were reviewed on 2026-07-29. The summary does not take a position on the players' contract choices.\n\n## Sports Radar Markdown\n\n```md\n**Josh Hart issues pocket-counting etiquette**\n\nAfter Draymond volunteered Hart to take less money, Hart turned the contract debate into a manners lesson.\n\nWhy it works: The contract debate received a manners policy.\n```\n"
+  },
+  {
+    "id": "matheus-cunha-repair-shop-ad",
+    "rank": 4,
+    "title": "Matheus Cunha settles a repair bill with an ad",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-01",
+    "heat": 92,
+    "tags": [
+      "r/soccer",
+      "Matheus Cunha",
+      "Brazil",
+      "local business"
+    ],
+    "public_ready": true,
+    "summary": "An r/soccer post said a local Brazilian repair shop declined payment after\nfixing Matheus Cunha's car, so the footballer returned the favor by filming a\npromotion for the business.",
+    "whyFunny": "The shop tried to erase the invoice and accidentally bought celebrity media.\nIt was the rare barter deal where everyone left looking more generous.",
+    "quote": "The receipt came back as a commercial.",
+    "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vbuto5/matheus_cunha_doing_a_promotion_for_a_local_car/",
+    "commentHighlights": [
+      {
+        "label": "Better than cash",
+        "summary": "Fans hoped the small shop would receive far more business than the original repair was worth.",
+        "whyFunny": "One declined bill became a marketing campaign with a national-team forward.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vbuto5/matheus_cunha_doing_a_promotion_for_a_local_car/"
+      },
+      {
+        "label": "Neighborhood energy",
+        "summary": "The discussion focused on how relaxed and local the promotion felt.",
+        "whyFunny": "A star endorsement arrived with the production value of a friendly favor.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vbuto5/matheus_cunha_doing_a_promotion_for_a_local_car/"
+      }
+    ],
+    "markdown": "---\nid: matheus-cunha-repair-shop-ad\nrank: 4\ntitle: \"Matheus Cunha settles a repair bill with an ad\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-01\"\nheat: 92\ntags:\n  - r/soccer\n  - Matheus Cunha\n  - Brazil\n  - local business\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post said a local Brazilian repair shop declined payment after\nfixing Matheus Cunha's car, so the footballer returned the favor by filming a\npromotion for the business.\n\n## Why It Is Funny\n\nThe shop tried to erase the invoice and accidentally bought celebrity media.\nIt was the rare barter deal where everyone left looking more generous.\n\n## Comment Highlights\n\n- Label: Better than cash\n  Summary: Fans hoped the small shop would receive far more business than the original repair was worth.\n  Why funny: One declined bill became a marketing campaign with a national-team forward.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vbuto5/matheus_cunha_doing_a_promotion_for_a_local_car/\n- Label: Neighborhood energy\n  Summary: The discussion focused on how relaxed and local the promotion felt.\n  Why funny: A star endorsement arrived with the production value of a friendly favor.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vbuto5/matheus_cunha_doing_a_promotion_for_a_local_car/\n\n## Quote\n\nThe receipt came back as a commercial.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vbuto5/matheus_cunha_doing_a_promotion_for_a_local_car/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public post was reviewed on 2026-08-01. The repair and declined-payment sequence remains attributed to the Reddit post.\n\n## Sports Radar Markdown\n\n```md\n**Matheus Cunha settles a repair bill with an ad**\n\nA repair shop reportedly declined payment for fixing Cunha's car, so he returned with a promotion for the business.\n\nWhy it works: The receipt came back as a commercial.\n```\n"
   },
   {
     "id": "munetaka-murakami-music-answer",
@@ -3548,7 +3692,7 @@
     "title": "College basketball holds a nickname summit",
     "league": "College Basketball",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-07-31",
     "heat": 90,
     "tags": [
@@ -3576,7 +3720,7 @@
         "sourceUrl": "https://www.reddit.com/r/CollegeBasketball/comments/1vb4qc7/is_phi_slama_jama_the_best_nickname_in_college/"
       }
     ],
-    "markdown": "---\nid: phi-slama-jama-nickname-summit\nrank: 5\ntitle: \"College basketball holds a nickname summit\"\nleague: \"College Basketball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-07-31\"\nheat: 90\ntags:\n  - r/CollegeBasketball\n  - Phi Slama Jama\n  - Houston Cougars\n  - nickname lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/CollegeBasketball thread asked whether Houston's \"Phi Slama Jama\" is the\nbest team nickname in college-basketball history and immediately opened the\nfloor to decades of contenders.\n\n## Why It Is Funny\n\nThe supposed debate mostly became an appreciation society with occasional\nnominations for second place. Modern roster branding arrived for its annual\nhumbling by three rhyming words from the 1980s.\n\n## Comment Highlights\n\n- Label: Distant second place\n  Summary: Fans offered names such as the Fab Five, Dunk City, and the Doctors of Dunk while repeatedly returning to the same favorite.\n  Why funny: The summit had many nominees and a suspiciously settled winner.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vb4qc7/is_phi_slama_jama_the_best_nickname_in_college/\n- Label: Lost nickname technology\n  Summary: The discussion gradually turned into a complaint that current teams no longer receive names with the same staying power.\n  Why funny: Sports branding was judged to have peaked before social media had a login screen.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vb4qc7/is_phi_slama_jama_the_best_nickname_in_college/\n\n## Quote\n\nThe bracket had five entrants and one real seed.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vb4qc7/is_phi_slama_jama_the_best_nickname_in_college/\n- Source type: Reddit offseason discussion and public replies\n- Verification notes: The public thread was reviewed on 2026-07-31. Sports Radar presents the nickname ranking as fan opinion and lore, not an objective result.\n\n## Sports Radar Markdown\n\n```md\n**College basketball holds a nickname summit**\n\nA college-basketball nickname debate produced plenty of contenders and very little doubt about Phi Slama Jama.\n\nWhy it works: The bracket had five entrants and one real seed.\n```\n"
+    "markdown": "---\nid: phi-slama-jama-nickname-summit\nrank: 5\ntitle: \"College basketball holds a nickname summit\"\nleague: \"College Basketball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-31\"\nheat: 90\ntags:\n  - r/CollegeBasketball\n  - Phi Slama Jama\n  - Houston Cougars\n  - nickname lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/CollegeBasketball thread asked whether Houston's \"Phi Slama Jama\" is the\nbest team nickname in college-basketball history and immediately opened the\nfloor to decades of contenders.\n\n## Why It Is Funny\n\nThe supposed debate mostly became an appreciation society with occasional\nnominations for second place. Modern roster branding arrived for its annual\nhumbling by three rhyming words from the 1980s.\n\n## Comment Highlights\n\n- Label: Distant second place\n  Summary: Fans offered names such as the Fab Five, Dunk City, and the Doctors of Dunk while repeatedly returning to the same favorite.\n  Why funny: The summit had many nominees and a suspiciously settled winner.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vb4qc7/is_phi_slama_jama_the_best_nickname_in_college/\n- Label: Lost nickname technology\n  Summary: The discussion gradually turned into a complaint that current teams no longer receive names with the same staying power.\n  Why funny: Sports branding was judged to have peaked before social media had a login screen.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vb4qc7/is_phi_slama_jama_the_best_nickname_in_college/\n\n## Quote\n\nThe bracket had five entrants and one real seed.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vb4qc7/is_phi_slama_jama_the_best_nickname_in_college/\n- Source type: Reddit offseason discussion and public replies\n- Verification notes: The public thread was reviewed on 2026-07-31. Sports Radar presents the nickname ranking as fan opinion and lore, not an objective result.\n\n## Sports Radar Markdown\n\n```md\n**College basketball holds a nickname summit**\n\nA college-basketball nickname debate produced plenty of contenders and very little doubt about Phi Slama Jama.\n\nWhy it works: The bracket had five entrants and one real seed.\n```\n"
   },
   {
     "id": "cfb-fanbase-harsh-truths",
@@ -3720,6 +3864,42 @@
       }
     ],
     "markdown": "---\nid: haaland-sorloth-missed-pass-reaction\nrank: 5\ntitle: \"Haaland watches the square pass disappear\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-12\"\nheat: 85\ntags:\n  - r/soccer\n  - Erling Haaland\n  - Alexander Sorloth\n  - reaction\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer clip isolated Erling Haaland's reaction after Alexander Sorloth\nheld the ball instead of finding him open during a dangerous Norway attack.\n\n## Why It Is Funny\n\nHaaland goes through the universal teammate experience: make the perfect run,\nwatch the pass never arrive, and briefly become a reaction image.\n\n## Comment Highlights\n\n- Label: Neutral viewers felt it too\n  Summary: Fans said the missed pass was frustrating even without a stake in the match.\n  Why funny: One unplayed ball recruited the whole thread into Haaland's grievance.\n  Source URL: https://www.reddit.com/r/soccer/comments/1uu7rmm/erling_haalands_reaction_after_alexander_sorloth/\n- Label: Calm by comparison\n  Summary: Several replies joked that Haaland reacted more calmly than the people watching at home.\n  Why funny: The player in the moment showed less outrage than the remote audience.\n  Source URL: https://www.reddit.com/r/soccer/comments/1uu7rmm/erling_haalands_reaction_after_alexander_sorloth/\n\n## Quote\n\nThe run was perfect; the pass remained theoretical.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1uu7rmm/erling_haalands_reaction_after_alexander_sorloth/\n- Source type: Reddit / r/soccer top-day clip thread\n- Verification notes: public page confirms the missed-pass reaction framing; avoid turning a single clip into broader claims about either player\n\n## Sports Radar Markdown\n\n```md\n**Haaland watches the square pass disappear**\n\nThe striker made the run, the pass never came, and the reaction did the rest.\n\nWhy it works: Every teammate has lived this exact five-second tragedy.\n```\n"
+  },
+  {
+    "id": "lundqvist-water-your-plants",
+    "rank": 5,
+    "title": "Henrik Lundqvist becomes hockey's plant reminder",
+    "league": "NHL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-01",
+    "heat": 90,
+    "tags": [
+      "r/hockey",
+      "Henrik Lundqvist",
+      "Sweden",
+      "offseason check-in"
+    ],
+    "public_ready": true,
+    "summary": "An r/hockey post shared Henrik Lundqvist checking in from Sweden after cutting\nthe grass and watering the plants, complete with a reminder for everyone else\nto water theirs.",
+    "whyFunny": "One of hockey's most composed goalies retired into the calmest possible form\nof offseason coaching. No saves, no drills, just basic plant maintenance.",
+    "quote": "The King has moved from crease control to moisture control.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vc1uda/henrik_lundqvist_just_checking_in_from_sweden/",
+    "commentHighlights": [
+      {
+        "label": "Garden captain",
+        "summary": "Fans accepted the watering reminder with the seriousness of a veteran locker-room instruction.",
+        "whyFunny": "The offseason leadership seminar was aimed entirely at houseplants.",
+        "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vc1uda/henrik_lundqvist_just_checking_in_from_sweden/"
+      },
+      {
+        "label": "Swedish recharge",
+        "summary": "The discussion admired how peaceful the lawn-and-garden update looked.",
+        "whyFunny": "Elite goalie recovery apparently includes a very tidy watering schedule.",
+        "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vc1uda/henrik_lundqvist_just_checking_in_from_sweden/"
+      }
+    ],
+    "markdown": "---\nid: lundqvist-water-your-plants\nrank: 5\ntitle: \"Henrik Lundqvist becomes hockey's plant reminder\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-01\"\nheat: 90\ntags:\n  - r/hockey\n  - Henrik Lundqvist\n  - Sweden\n  - offseason check-in\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey post shared Henrik Lundqvist checking in from Sweden after cutting\nthe grass and watering the plants, complete with a reminder for everyone else\nto water theirs.\n\n## Why It Is Funny\n\nOne of hockey's most composed goalies retired into the calmest possible form\nof offseason coaching. No saves, no drills, just basic plant maintenance.\n\n## Comment Highlights\n\n- Label: Garden captain\n  Summary: Fans accepted the watering reminder with the seriousness of a veteran locker-room instruction.\n  Why funny: The offseason leadership seminar was aimed entirely at houseplants.\n  Source URL: https://www.reddit.com/r/hockey/comments/1vc1uda/henrik_lundqvist_just_checking_in_from_sweden/\n- Label: Swedish recharge\n  Summary: The discussion admired how peaceful the lawn-and-garden update looked.\n  Why funny: Elite goalie recovery apparently includes a very tidy watering schedule.\n  Source URL: https://www.reddit.com/r/hockey/comments/1vc1uda/henrik_lundqvist_just_checking_in_from_sweden/\n\n## Quote\n\nThe King has moved from crease control to moisture control.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vc1uda/henrik_lundqvist_just_checking_in_from_sweden/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public post and discussion were reviewed on 2026-08-01. The summary stays within the visible lawn, plant, and reminder framing.\n\n## Sports Radar Markdown\n\n```md\n**Henrik Lundqvist becomes hockey's plant reminder**\n\nLundqvist checked in from Sweden after mowing and watering, then reminded the hockey internet to look after its plants.\n\nWhy it works: The King has moved from crease control to moisture control.\n```\n"
   },
   {
     "id": "jaire-alexander-two-tackle-play",
