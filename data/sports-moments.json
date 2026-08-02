@@ -113,7 +113,7 @@
     "title": "Bark in the Park sends a dog to left field",
     "league": "MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-01",
     "heat": 98,
     "tags": [
@@ -141,7 +141,43 @@
         "sourceUrl": "https://www.reddit.com/r/baseball/comments/1vccicg/dudes_posting_their_ws_a_dog_got_loose_during/"
       }
     ],
-    "markdown": "---\nid: bark-in-park-dog-left-field\nrank: 1\ntitle: \"Bark in the Park sends a dog to left field\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-01\"\nheat: 98\ntags:\n  - r/baseball\n  - minor league baseball\n  - Greensboro Grasshoppers\n  - dogs\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post showed a dog loose in left field during a Greensboro\nGrasshoppers Bark in the Park game. The outfielder lifted the visitor over the\nwall and returned him to the stands.\n\n## Why It Is Funny\n\nThe promotion delivered exactly what it advertised, just with more defensive\nresponsibility than planned. Left field briefly became the stadium's lost-dog\ndesk.\n\n## Comment Highlights\n\n- Label: Extra outfielder\n  Summary: Fans recast the dog as an unexpected member of the defensive lineup.\n  Why funny: The roster move required treats instead of paperwork.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vccicg/dudes_posting_their_ws_a_dog_got_loose_during/\n- Label: Bark in the actual park\n  Summary: The thread treated the escape as the most literal possible version of the promotion.\n  Why funny: The event name stopped being branding and became a play-by-play note.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vccicg/dudes_posting_their_ws_a_dog_got_loose_during/\n\n## Quote\n\nLeft field handled one very good pickup.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vccicg/dudes_posting_their_ws_a_dog_got_loose_during/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public post was reviewed on 2026-08-01. It identifies the team as the Greensboro Grasshoppers and shows the outfielder returning the dog over the wall.\n\n## Sports Radar Markdown\n\n```md\n**Bark in the Park sends a dog to left field**\n\nA dog escaped onto the field at a minor league Bark in the Park game, so the outfielder added one very friendly retrieval to his defensive line.\n\nWhy it works: Left field briefly became the stadium's lost-dog desk.\n```\n"
+    "markdown": "---\nid: bark-in-park-dog-left-field\nrank: 1\ntitle: \"Bark in the Park sends a dog to left field\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-01\"\nheat: 98\ntags:\n  - r/baseball\n  - minor league baseball\n  - Greensboro Grasshoppers\n  - dogs\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post showed a dog loose in left field during a Greensboro\nGrasshoppers Bark in the Park game. The outfielder lifted the visitor over the\nwall and returned him to the stands.\n\n## Why It Is Funny\n\nThe promotion delivered exactly what it advertised, just with more defensive\nresponsibility than planned. Left field briefly became the stadium's lost-dog\ndesk.\n\n## Comment Highlights\n\n- Label: Extra outfielder\n  Summary: Fans recast the dog as an unexpected member of the defensive lineup.\n  Why funny: The roster move required treats instead of paperwork.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vccicg/dudes_posting_their_ws_a_dog_got_loose_during/\n- Label: Bark in the actual park\n  Summary: The thread treated the escape as the most literal possible version of the promotion.\n  Why funny: The event name stopped being branding and became a play-by-play note.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vccicg/dudes_posting_their_ws_a_dog_got_loose_during/\n\n## Quote\n\nLeft field handled one very good pickup.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vccicg/dudes_posting_their_ws_a_dog_got_loose_during/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public post was reviewed on 2026-08-01. It identifies the team as the Greensboro Grasshoppers and shows the outfielder returning the dog over the wall.\n\n## Sports Radar Markdown\n\n```md\n**Bark in the Park sends a dog to left field**\n\nA dog escaped onto the field at a minor league Bark in the Park game, so the outfielder added one very friendly retrieval to his defensive line.\n\nWhy it works: Left field briefly became the stadium's lost-dog desk.\n```\n"
+  },
+  {
+    "id": "erik-lamela-monterrey-kitman-loophole",
+    "rank": 1,
+    "title": "Erik Lamela enters Monterrey through the kit room",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-02",
+    "heat": 98,
+    "tags": [
+      "r/soccer",
+      "Monterrey",
+      "Erik Lamela",
+      "roster loophole"
+    ],
+    "public_ready": true,
+    "summary": "An r/soccer top-day post described Monterrey registering Erik Lamela as a\nkitman through an unusual roster loophole.",
+    "whyFunny": "The workaround gives a familiar player the least expected job title on the\nteam sheet. Transfer-window administration wandered straight into the\nequipment room.",
+    "quote": "The transfer window found the equipment room.",
+    "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vcuh16/monterrey_registers_erik_lamela_as_kitman_in/",
+    "commentHighlights": [
+      {
+        "label": "Job-title workaround",
+        "summary": "Fans compared the kitman registration with other coaches who used support-staff titles while completing their badges.",
+        "whyFunny": "The coaching pathway briefly runs through the equipment room.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vcuh16/monterrey_registers_erik_lamela_as_kitman_in/"
+      },
+      {
+        "label": "Learn on the bench",
+        "summary": "The thread treated the loophole as a practical way for Lamela to start learning while his formal qualification catches up.",
+        "whyFunny": "The title says kitman while the job description says assistant coach.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vcuh16/monterrey_registers_erik_lamela_as_kitman_in/"
+      }
+    ],
+    "markdown": "---\nid: erik-lamela-monterrey-kitman-loophole\nrank: 1\ntitle: \"Erik Lamela enters Monterrey through the kit room\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-02\"\nheat: 98\ntags:\n  - r/soccer\n  - Monterrey\n  - Erik Lamela\n  - roster loophole\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer top-day post described Monterrey registering Erik Lamela as a\nkitman through an unusual roster loophole.\n\n## Why It Is Funny\n\nThe workaround gives a familiar player the least expected job title on the\nteam sheet. Transfer-window administration wandered straight into the\nequipment room.\n\n## Comment Highlights\n\n- Label: Job-title workaround\n  Summary: Fans compared the kitman registration with other coaches who used support-staff titles while completing their badges.\n  Why funny: The coaching pathway briefly runs through the equipment room.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vcuh16/monterrey_registers_erik_lamela_as_kitman_in/\n- Label: Learn on the bench\n  Summary: The thread treated the loophole as a practical way for Lamela to start learning while his formal qualification catches up.\n  Why funny: The title says kitman while the job description says assistant coach.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vcuh16/monterrey_registers_erik_lamela_as_kitman_in/\n\n## Quote\n\nThe transfer window found the equipment room.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vcuh16/monterrey_registers_erik_lamela_as_kitman_in/\n- Source type: Reddit RSS top-day post\n- Verification notes: The RSS title and source URL were reviewed on 2026-08-02. Sports Radar attributes the registration framing to the post and promotes no raw comments or further reporting claims.\n\n## Sports Radar Markdown\n\n```md\n**Erik Lamela enters Monterrey through the kit room**\n\nAn r/soccer post described Monterrey registering Erik Lamela as a kitman through an unusual roster loophole.\n\nWhy it works: The transfer window found the equipment room.\n```\n"
   },
   {
     "id": "nba-full-name-lineup",
@@ -1352,6 +1388,42 @@
     "markdown": "---\nid: murakami-bobblehead-two-homer-day\nrank: 2\ntitle: \"Murakami's bobblehead day becomes a family production\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-27\"\nheat: 96\ntags:\n  - r/baseball\n  - Munetaka Murakami\n  - bobblehead day\n  - family\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball highlight showed Munetaka Murakami hitting two home runs on his\nbobblehead day, with a companion post noting that his parents threw the\nceremonial first pitch.\n\n## Why It Is Funny\n\nThe promotional calendar already had enough plot. Murakami added two home runs\nand turned the whole afternoon into a suspiciously tidy family script.\n\n## Comment Highlights\n\n- Label: Storybook scorecard\n  Summary: Fans stacked the bobblehead giveaway, family first pitch, and two home runs into one increasingly improbable day.\n  Why funny: Every new detail sounded like an editor asking the script to be less believable.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v7fp6d/highlight_munetaka_murakami_has_a_twohomer_game/\n- Label: Both fields covered\n  Summary: The thread noted that the two home runs went to opposite fields.\n  Why funny: Even the direction of the highlights arrived with unnecessary narrative symmetry.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v7fp6d/highlight_munetaka_murakami_has_a_twohomer_game/\n\n## Quote\n\nThe bobblehead promotion came with a full family screenplay.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v7fp6d/highlight_munetaka_murakami_has_a_twohomer_game/\n- Source type: Reddit highlight post from the public MLB account and public discussion\n- Verification notes: The highlight, discussion, and companion first-pitch post were reviewed on 2026-07-27. The summary is limited to the public posts' framing.\n\n## Sports Radar Markdown\n\n```md\n**Murakami's bobblehead day becomes a family production**\n\nHis parents threw the first pitch, then Murakami supplied two home runs for the giveaway-day script.\n\nWhy it works: The promotional calendar accidentally booked a full movie.\n```\n"
   },
   {
+    "id": "quali-conley-reverse-hurdle",
+    "rank": 2,
+    "title": "Quali Conley clears the hurdle in reverse",
+    "league": "CFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-02",
+    "heat": 96,
+    "tags": [
+      "r/sports",
+      "Saskatchewan",
+      "Quali Conley",
+      "reverse hurdle"
+    ],
+    "public_ready": true,
+    "summary": "An r/sports post highlighted Quali Conley using a reverse-hurdle on the way to\na Saskatchewan first down.",
+    "whyFunny": "The play needs football and gymnastics vocabulary at the same time. A normal\nfirst-down description was not equipped for the route Conley took.",
+    "quote": "The first-down marker came with a degree of difficulty.",
+    "sourceUrl": "https://www.reddit.com/r/sports/comments/1vd6izn/quali_conley_with_a_reversehurdle_and_the/",
+    "commentHighlights": [
+      {
+        "label": "Gymnastics vocabulary",
+        "summary": "Fans treated the reverse-hurdle as a football play that needed its own degree-of-difficulty score.",
+        "whyFunny": "The first down invited judging from a second sport.",
+        "sourceUrl": "https://www.reddit.com/r/sports/comments/1vd6izn/quali_conley_with_a_reversehurdle_and_the/"
+      },
+      {
+        "label": "Elks detour",
+        "summary": "The thread spun off into a serious discussion about why Edmonton uses Elks instead of Elk.",
+        "whyFunny": "One acrobatic run accidentally opened a Canadian grammar seminar.",
+        "sourceUrl": "https://www.reddit.com/r/sports/comments/1vd6izn/quali_conley_with_a_reversehurdle_and_the/"
+      }
+    ],
+    "markdown": "---\nid: quali-conley-reverse-hurdle\nrank: 2\ntitle: \"Quali Conley clears the hurdle in reverse\"\nleague: \"CFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-02\"\nheat: 96\ntags:\n  - r/sports\n  - Saskatchewan\n  - Quali Conley\n  - reverse hurdle\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports post highlighted Quali Conley using a reverse-hurdle on the way to\na Saskatchewan first down.\n\n## Why It Is Funny\n\nThe play needs football and gymnastics vocabulary at the same time. A normal\nfirst-down description was not equipped for the route Conley took.\n\n## Comment Highlights\n\n- Label: Gymnastics vocabulary\n  Summary: Fans treated the reverse-hurdle as a football play that needed its own degree-of-difficulty score.\n  Why funny: The first down invited judging from a second sport.\n  Source URL: https://www.reddit.com/r/sports/comments/1vd6izn/quali_conley_with_a_reversehurdle_and_the/\n- Label: Elks detour\n  Summary: The thread spun off into a serious discussion about why Edmonton uses Elks instead of Elk.\n  Why funny: One acrobatic run accidentally opened a Canadian grammar seminar.\n  Source URL: https://www.reddit.com/r/sports/comments/1vd6izn/quali_conley_with_a_reversehurdle_and_the/\n\n## Quote\n\nThe first-down marker came with a degree of difficulty.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1vd6izn/quali_conley_with_a_reversehurdle_and_the/\n- Source type: Reddit RSS top-day post\n- Verification notes: The RSS title and source URL were reviewed on 2026-08-02. The summary stays within the title's reverse-hurdle and first-down framing; no raw comments were promoted.\n\n## Sports Radar Markdown\n\n```md\n**Quali Conley clears the hurdle in reverse**\n\nConley's Saskatchewan first down arrived with a reverse-hurdle attached.\n\nWhy it works: The first-down marker came with a degree of difficulty.\n```\n"
+  },
+  {
     "id": "rsoccer-fabrizio-romano-source-ban",
     "rank": 2,
     "title": "r/soccer puts a transfer-news giant on mute",
@@ -1753,7 +1825,7 @@
     "title": "Westbrook turns an assist into Spider-Man art",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-01",
     "heat": 96,
     "tags": [
@@ -1781,7 +1853,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1vcn1zv/westbrook_with_the_shammgod_and_then_the/"
       }
     ],
-    "markdown": "---\nid: westbrook-spiderman-assist\nrank: 2\ntitle: \"Westbrook turns an assist into Spider-Man art\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-01\"\nheat: 96\ntags:\n  - r/nba\n  - Russell Westbrook\n  - Oklahoma City Thunder\n  - highlight lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post revived a classic Russell Westbrook sequence: a Shammgod move,\nan assist, and a Spider-Man pose before the play had finished settling.\n\n## Why It Is Funny\n\nMost players celebrate after the assist. Westbrook added choreography during\ndelivery and made the replay feel like a superhero entrance with a box score.\n\n## Comment Highlights\n\n- Label: Still electric\n  Summary: Fans across the usual Westbrook arguments paused to appreciate how smooth the sequence looked.\n  Why funny: One old highlight briefly negotiated a ceasefire in a permanent basketball debate.\n  Source URL: https://www.reddit.com/r/nba/comments/1vcn1zv/westbrook_with_the_shammgod_and_then_the/\n- Label: Pose included\n  Summary: The discussion treated the Spider-Man finish as essential to the assist rather than an optional celebration.\n  Why funny: Style points arrived before the stat keeper finished the entry.\n  Source URL: https://www.reddit.com/r/nba/comments/1vcn1zv/westbrook_with_the_shammgod_and_then_the/\n\n## Quote\n\nThe assist came with its own superhero panel.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vcn1zv/westbrook_with_the_shammgod_and_then_the/\n- Source type: Reddit highlight post and public discussion\n- Verification notes: The public clip and discussion were reviewed on 2026-08-01. Sports Radar describes only the visible move, pass, and pose.\n\n## Sports Radar Markdown\n\n```md\n**Westbrook turns an assist into Spider-Man art**\n\nA classic Westbrook clip combines a Shammgod move, an assist, and a Spider-Man pose before the defense can process any of it.\n\nWhy it works: The assist came with its own superhero panel.\n```\n"
+    "markdown": "---\nid: westbrook-spiderman-assist\nrank: 2\ntitle: \"Westbrook turns an assist into Spider-Man art\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-01\"\nheat: 96\ntags:\n  - r/nba\n  - Russell Westbrook\n  - Oklahoma City Thunder\n  - highlight lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post revived a classic Russell Westbrook sequence: a Shammgod move,\nan assist, and a Spider-Man pose before the play had finished settling.\n\n## Why It Is Funny\n\nMost players celebrate after the assist. Westbrook added choreography during\ndelivery and made the replay feel like a superhero entrance with a box score.\n\n## Comment Highlights\n\n- Label: Still electric\n  Summary: Fans across the usual Westbrook arguments paused to appreciate how smooth the sequence looked.\n  Why funny: One old highlight briefly negotiated a ceasefire in a permanent basketball debate.\n  Source URL: https://www.reddit.com/r/nba/comments/1vcn1zv/westbrook_with_the_shammgod_and_then_the/\n- Label: Pose included\n  Summary: The discussion treated the Spider-Man finish as essential to the assist rather than an optional celebration.\n  Why funny: Style points arrived before the stat keeper finished the entry.\n  Source URL: https://www.reddit.com/r/nba/comments/1vcn1zv/westbrook_with_the_shammgod_and_then_the/\n\n## Quote\n\nThe assist came with its own superhero panel.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vcn1zv/westbrook_with_the_shammgod_and_then_the/\n- Source type: Reddit highlight post and public discussion\n- Verification notes: The public clip and discussion were reviewed on 2026-08-01. Sports Radar describes only the visible move, pass, and pose.\n\n## Sports Radar Markdown\n\n```md\n**Westbrook turns an assist into Spider-Man art**\n\nA classic Westbrook clip combines a Shammgod move, an assist, and a Spider-Man pose before the defense can process any of it.\n\nWhy it works: The assist came with its own superhero panel.\n```\n"
   },
   {
     "id": "haslam-dad-two-trade-audit",
@@ -1789,7 +1861,7 @@
     "title": "A 95½-year-old dad audits two franchises",
     "league": "NFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-01",
     "heat": 94,
     "tags": [
@@ -1817,7 +1889,7 @@
         "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vc1ude/highlight_browns_owner_jimmy_haslam_says_his/"
       }
     ],
-    "markdown": "---\nid: haslam-dad-two-trade-audit\nrank: 3\ntitle: \"A 95½-year-old dad audits two franchises\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-01\"\nheat: 94\ntags:\n  - r/nfl\n  - Cleveland Browns\n  - Milwaukee Bucks\n  - owner lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl clip showed Browns owner Jimmy Haslam recounting a call from his\n95½-year-old father, who wanted to know how Myles Garrett and Giannis both got\ntraded in the same month.\n\n## Why It Is Funny\n\nTwo leagues, two superstar exits, one parental performance review. The exact\nhalf-year in his father's age made the call sound even more official.\n\n## Comment Highlights\n\n- Label: Cross-sport audit\n  Summary: Fans connected Browns and Bucks ownership history into one deeply uncomfortable family phone call.\n  Why funny: The sports portfolio received a single consolidated report card.\n  Source URL: https://www.reddit.com/r/nfl/comments/1vc1ude/highlight_browns_owner_jimmy_haslam_says_his/\n- Label: Half-year precision\n  Summary: The discussion kept returning to the very specific age used in the story.\n  Why funny: Ninety-five was apparently not enough context for the complaint department.\n  Source URL: https://www.reddit.com/r/nfl/comments/1vc1ude/highlight_browns_owner_jimmy_haslam_says_his/\n\n## Quote\n\nThe family group chat covers multiple salary caps.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vc1ude/highlight_browns_owner_jimmy_haslam_says_his/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public clip and post title were reviewed on 2026-08-01. Sports Radar attributes the father's question to Haslam's retelling rather than independently reporting the call.\n\n## Sports Radar Markdown\n\n```md\n**A 95½-year-old dad audits two franchises**\n\nJimmy Haslam said his father called to ask how Myles Garrett and Giannis both got traded in the same month.\n\nWhy it works: The family group chat covers multiple salary caps.\n```\n"
+    "markdown": "---\nid: haslam-dad-two-trade-audit\nrank: 3\ntitle: \"A 95½-year-old dad audits two franchises\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-01\"\nheat: 94\ntags:\n  - r/nfl\n  - Cleveland Browns\n  - Milwaukee Bucks\n  - owner lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl clip showed Browns owner Jimmy Haslam recounting a call from his\n95½-year-old father, who wanted to know how Myles Garrett and Giannis both got\ntraded in the same month.\n\n## Why It Is Funny\n\nTwo leagues, two superstar exits, one parental performance review. The exact\nhalf-year in his father's age made the call sound even more official.\n\n## Comment Highlights\n\n- Label: Cross-sport audit\n  Summary: Fans connected Browns and Bucks ownership history into one deeply uncomfortable family phone call.\n  Why funny: The sports portfolio received a single consolidated report card.\n  Source URL: https://www.reddit.com/r/nfl/comments/1vc1ude/highlight_browns_owner_jimmy_haslam_says_his/\n- Label: Half-year precision\n  Summary: The discussion kept returning to the very specific age used in the story.\n  Why funny: Ninety-five was apparently not enough context for the complaint department.\n  Source URL: https://www.reddit.com/r/nfl/comments/1vc1ude/highlight_browns_owner_jimmy_haslam_says_his/\n\n## Quote\n\nThe family group chat covers multiple salary caps.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vc1ude/highlight_browns_owner_jimmy_haslam_says_his/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public clip and post title were reviewed on 2026-08-01. Sports Radar attributes the father's question to Haslam's retelling rather than independently reporting the call.\n\n## Sports Radar Markdown\n\n```md\n**A 95½-year-old dad audits two franchises**\n\nJimmy Haslam said his father called to ask how Myles Garrett and Giannis both got traded in the same month.\n\nWhy it works: The family group chat covers multiple salary caps.\n```\n"
   },
   {
     "id": "patriots-dad-one-arm-catch",
@@ -2106,6 +2178,42 @@
       }
     ],
     "markdown": "---\nid: dwight-bynum-nyc-encounter\nrank: 3\ntitle: \"Dwight Howard finds Andrew Bynum in the wild\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-17\"\nheat: 94\ntags:\n  - r/nba\n  - Dwight Howard\n  - Andrew Bynum\n  - NBA nostalgia\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba street clip showed Dwight Howard unexpectedly spotting Andrew Bynum\nin New York City. They exchanged a quick greeting, and Bynum kept moving.\n\n## Why It Is Funny\n\nTwo giant pieces of late-2000s NBA lore collide on an ordinary sidewalk, but\nthe reunion has the brisk energy of passing a former coworker near the train.\n\n## Comment Highlights\n\n- Label: Keep-it-moving reunion\n  Summary: Fans fixated on how quickly Bynum acknowledged the encounter and continued down the sidewalk.\n  Why funny: The surprise reunion lasts less time than the nostalgia it triggers.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/\n- Label: Time-capsule sighting\n  Summary: The thread reflected on how long Bynum has stayed out of the basketball spotlight.\n  Why funny: A casual New York crossing becomes an accidental NBA alumni update.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/\n\n## Quote\n\nThe reunion was shorter than the memory lane.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/\n- Source type: Reddit / r/nba top-day street clip\n- Verification notes: the clip visibly shows the brief public encounter; the public copy avoids speculation about Bynum's private life or reasons for leaving the spotlight\n\n## Sports Radar Markdown\n\n```md\n**Dwight Howard finds Andrew Bynum in the wild**\n\nDwight spotted Bynum on a New York sidewalk, got a quick greeting, and watched him keep moving.\n\nWhy it works: a huge NBA nostalgia event plays out like two former coworkers passing near the train.\n```\n"
+  },
+  {
+    "id": "evander-forty-yard-goal",
+    "rank": 3,
+    "title": "Evander solves the 40-yard problem directly",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-02",
+    "heat": 94,
+    "tags": [
+      "r/soccer",
+      "FC Cincinnati",
+      "Evander",
+      "long-range goal"
+    ],
+    "public_ready": true,
+    "summary": "An r/soccer post highlighted Evander driving in FC Cincinnati's go-ahead goal\nagainst San Jose from roughly 40 yards in the 82nd minute.",
+    "whyFunny": "The usual build-up instructions became optional. Evander saw an unreasonable\ndistance and treated it like the shortest route to goal.",
+    "quote": "Build-up play was reduced to one very long step.",
+    "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/",
+    "commentHighlights": [
+      {
+        "label": "Bangers only",
+        "summary": "Fans grouped the strike with a run of spectacular MLS goals and declared the league committed to long-range chaos.",
+        "whyFunny": "Ordinary finishes were apparently unavailable that night.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/"
+      },
+      {
+        "label": "MLS after dark",
+        "summary": "The discussion folded a long weather delay and the late goal into the league's familiar after-dark lore.",
+        "whyFunny": "The storm postponed the match but improved the mythology.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/"
+      }
+    ],
+    "markdown": "---\nid: evander-forty-yard-goal\nrank: 3\ntitle: \"Evander solves the 40-yard problem directly\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-02\"\nheat: 94\ntags:\n  - r/soccer\n  - FC Cincinnati\n  - Evander\n  - long-range goal\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post highlighted Evander driving in FC Cincinnati's go-ahead goal\nagainst San Jose from roughly 40 yards in the 82nd minute.\n\n## Why It Is Funny\n\nThe usual build-up instructions became optional. Evander saw an unreasonable\ndistance and treated it like the shortest route to goal.\n\n## Comment Highlights\n\n- Label: Bangers only\n  Summary: Fans grouped the strike with a run of spectacular MLS goals and declared the league committed to long-range chaos.\n  Why funny: Ordinary finishes were apparently unavailable that night.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/\n- Label: MLS after dark\n  Summary: The discussion folded a long weather delay and the late goal into the league's familiar after-dark lore.\n  Why funny: The storm postponed the match but improved the mythology.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/\n\n## Quote\n\nBuild-up play was reduced to one very long step.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/\n- Source type: Reddit RSS top-day post\n- Verification notes: The RSS title and source URL were reviewed on 2026-08-02. The score, minute, player, opponent, and approximate distance are attributed to the post title; no raw comments were promoted.\n\n## Sports Radar Markdown\n\n```md\n**Evander solves the 40-yard problem directly**\n\nAn r/soccer post highlighted Evander putting FC Cincinnati ahead from roughly 40 yards late against San Jose.\n\nWhy it works: Build-up play was reduced to one very long step.\n```\n"
   },
   {
     "id": "gerrit-cole-broken-clock-balk",
@@ -3071,7 +3179,7 @@
     "title": "Matheus Cunha settles a repair bill with an ad",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-01",
     "heat": 92,
     "tags": [
@@ -3099,7 +3207,43 @@
         "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vbuto5/matheus_cunha_doing_a_promotion_for_a_local_car/"
       }
     ],
-    "markdown": "---\nid: matheus-cunha-repair-shop-ad\nrank: 4\ntitle: \"Matheus Cunha settles a repair bill with an ad\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-01\"\nheat: 92\ntags:\n  - r/soccer\n  - Matheus Cunha\n  - Brazil\n  - local business\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post said a local Brazilian repair shop declined payment after\nfixing Matheus Cunha's car, so the footballer returned the favor by filming a\npromotion for the business.\n\n## Why It Is Funny\n\nThe shop tried to erase the invoice and accidentally bought celebrity media.\nIt was the rare barter deal where everyone left looking more generous.\n\n## Comment Highlights\n\n- Label: Better than cash\n  Summary: Fans hoped the small shop would receive far more business than the original repair was worth.\n  Why funny: One declined bill became a marketing campaign with a national-team forward.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vbuto5/matheus_cunha_doing_a_promotion_for_a_local_car/\n- Label: Neighborhood energy\n  Summary: The discussion focused on how relaxed and local the promotion felt.\n  Why funny: A star endorsement arrived with the production value of a friendly favor.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vbuto5/matheus_cunha_doing_a_promotion_for_a_local_car/\n\n## Quote\n\nThe receipt came back as a commercial.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vbuto5/matheus_cunha_doing_a_promotion_for_a_local_car/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public post was reviewed on 2026-08-01. The repair and declined-payment sequence remains attributed to the Reddit post.\n\n## Sports Radar Markdown\n\n```md\n**Matheus Cunha settles a repair bill with an ad**\n\nA repair shop reportedly declined payment for fixing Cunha's car, so he returned with a promotion for the business.\n\nWhy it works: The receipt came back as a commercial.\n```\n"
+    "markdown": "---\nid: matheus-cunha-repair-shop-ad\nrank: 4\ntitle: \"Matheus Cunha settles a repair bill with an ad\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-01\"\nheat: 92\ntags:\n  - r/soccer\n  - Matheus Cunha\n  - Brazil\n  - local business\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post said a local Brazilian repair shop declined payment after\nfixing Matheus Cunha's car, so the footballer returned the favor by filming a\npromotion for the business.\n\n## Why It Is Funny\n\nThe shop tried to erase the invoice and accidentally bought celebrity media.\nIt was the rare barter deal where everyone left looking more generous.\n\n## Comment Highlights\n\n- Label: Better than cash\n  Summary: Fans hoped the small shop would receive far more business than the original repair was worth.\n  Why funny: One declined bill became a marketing campaign with a national-team forward.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vbuto5/matheus_cunha_doing_a_promotion_for_a_local_car/\n- Label: Neighborhood energy\n  Summary: The discussion focused on how relaxed and local the promotion felt.\n  Why funny: A star endorsement arrived with the production value of a friendly favor.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vbuto5/matheus_cunha_doing_a_promotion_for_a_local_car/\n\n## Quote\n\nThe receipt came back as a commercial.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vbuto5/matheus_cunha_doing_a_promotion_for_a_local_car/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public post was reviewed on 2026-08-01. The repair and declined-payment sequence remains attributed to the Reddit post.\n\n## Sports Radar Markdown\n\n```md\n**Matheus Cunha settles a repair bill with an ad**\n\nA repair shop reportedly declined payment for fixing Cunha's car, so he returned with a promotion for the business.\n\nWhy it works: The receipt came back as a commercial.\n```\n"
+  },
+  {
+    "id": "micah-richards-dive-time-capsule",
+    "rank": 4,
+    "title": "Micah Richards turns a dive into a time capsule",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-02",
+    "heat": 92,
+    "tags": [
+      "r/sports",
+      "Micah Richards",
+      "Stoke City",
+      "archive clip"
+    ],
+    "public_ready": true,
+    "summary": "An r/sports top-day post resurfaced an old Micah Richards dive against Stoke\nCity.",
+    "whyFunny": "The clip title is barely a sentence because the physical comedy supplies the\nrest. Sports archives have a way of returning one extremely specific memory\nto the group chat.",
+    "quote": "The archive reopened one very short case file.",
+    "sourceUrl": "https://www.reddit.com/r/sports/comments/1vdimvv/micah_richards_dive_vs_stoke_city/",
+    "commentHighlights": [
+      {
+        "label": "Swimming event",
+        "summary": "Fans recast the old dive as a dolphin impression or an entry for a judging panel.",
+        "whyFunny": "The football clip kept attracting aquatic vocabulary.",
+        "sourceUrl": "https://www.reddit.com/r/sports/comments/1vdimvv/micah_richards_dive_vs_stoke_city/"
+      },
+      {
+        "label": "Archive argument",
+        "summary": "The thread debated why a decade-old clip had returned, then continued scoring the dive anyway.",
+        "whyFunny": "Complaining about the replay became part of the replay's new life.",
+        "sourceUrl": "https://www.reddit.com/r/sports/comments/1vdimvv/micah_richards_dive_vs_stoke_city/"
+      }
+    ],
+    "markdown": "---\nid: micah-richards-dive-time-capsule\nrank: 4\ntitle: \"Micah Richards turns a dive into a time capsule\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-02\"\nheat: 92\ntags:\n  - r/sports\n  - Micah Richards\n  - Stoke City\n  - archive clip\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports top-day post resurfaced an old Micah Richards dive against Stoke\nCity.\n\n## Why It Is Funny\n\nThe clip title is barely a sentence because the physical comedy supplies the\nrest. Sports archives have a way of returning one extremely specific memory\nto the group chat.\n\n## Comment Highlights\n\n- Label: Swimming event\n  Summary: Fans recast the old dive as a dolphin impression or an entry for a judging panel.\n  Why funny: The football clip kept attracting aquatic vocabulary.\n  Source URL: https://www.reddit.com/r/sports/comments/1vdimvv/micah_richards_dive_vs_stoke_city/\n- Label: Archive argument\n  Summary: The thread debated why a decade-old clip had returned, then continued scoring the dive anyway.\n  Why funny: Complaining about the replay became part of the replay's new life.\n  Source URL: https://www.reddit.com/r/sports/comments/1vdimvv/micah_richards_dive_vs_stoke_city/\n\n## Quote\n\nThe archive reopened one very short case file.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1vdimvv/micah_richards_dive_vs_stoke_city/\n- Source type: Reddit RSS top-day archive post\n- Verification notes: The RSS title and source URL were reviewed on 2026-08-02. Sports Radar describes only the resurfaced dive framing and makes no claim about the original match context.\n\n## Sports Radar Markdown\n\n```md\n**Micah Richards turns a dive into a time capsule**\n\nAn old Micah Richards dive against Stoke returned to the sports internet with almost no setup required.\n\nWhy it works: The archive reopened one very short case file.\n```\n"
   },
   {
     "id": "munetaka-murakami-music-answer",
@@ -3871,7 +4015,7 @@
     "title": "Henrik Lundqvist becomes hockey's plant reminder",
     "league": "NHL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-01",
     "heat": 90,
     "tags": [
@@ -3899,7 +4043,7 @@
         "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vc1uda/henrik_lundqvist_just_checking_in_from_sweden/"
       }
     ],
-    "markdown": "---\nid: lundqvist-water-your-plants\nrank: 5\ntitle: \"Henrik Lundqvist becomes hockey's plant reminder\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-01\"\nheat: 90\ntags:\n  - r/hockey\n  - Henrik Lundqvist\n  - Sweden\n  - offseason check-in\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey post shared Henrik Lundqvist checking in from Sweden after cutting\nthe grass and watering the plants, complete with a reminder for everyone else\nto water theirs.\n\n## Why It Is Funny\n\nOne of hockey's most composed goalies retired into the calmest possible form\nof offseason coaching. No saves, no drills, just basic plant maintenance.\n\n## Comment Highlights\n\n- Label: Garden captain\n  Summary: Fans accepted the watering reminder with the seriousness of a veteran locker-room instruction.\n  Why funny: The offseason leadership seminar was aimed entirely at houseplants.\n  Source URL: https://www.reddit.com/r/hockey/comments/1vc1uda/henrik_lundqvist_just_checking_in_from_sweden/\n- Label: Swedish recharge\n  Summary: The discussion admired how peaceful the lawn-and-garden update looked.\n  Why funny: Elite goalie recovery apparently includes a very tidy watering schedule.\n  Source URL: https://www.reddit.com/r/hockey/comments/1vc1uda/henrik_lundqvist_just_checking_in_from_sweden/\n\n## Quote\n\nThe King has moved from crease control to moisture control.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vc1uda/henrik_lundqvist_just_checking_in_from_sweden/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public post and discussion were reviewed on 2026-08-01. The summary stays within the visible lawn, plant, and reminder framing.\n\n## Sports Radar Markdown\n\n```md\n**Henrik Lundqvist becomes hockey's plant reminder**\n\nLundqvist checked in from Sweden after mowing and watering, then reminded the hockey internet to look after its plants.\n\nWhy it works: The King has moved from crease control to moisture control.\n```\n"
+    "markdown": "---\nid: lundqvist-water-your-plants\nrank: 5\ntitle: \"Henrik Lundqvist becomes hockey's plant reminder\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-01\"\nheat: 90\ntags:\n  - r/hockey\n  - Henrik Lundqvist\n  - Sweden\n  - offseason check-in\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey post shared Henrik Lundqvist checking in from Sweden after cutting\nthe grass and watering the plants, complete with a reminder for everyone else\nto water theirs.\n\n## Why It Is Funny\n\nOne of hockey's most composed goalies retired into the calmest possible form\nof offseason coaching. No saves, no drills, just basic plant maintenance.\n\n## Comment Highlights\n\n- Label: Garden captain\n  Summary: Fans accepted the watering reminder with the seriousness of a veteran locker-room instruction.\n  Why funny: The offseason leadership seminar was aimed entirely at houseplants.\n  Source URL: https://www.reddit.com/r/hockey/comments/1vc1uda/henrik_lundqvist_just_checking_in_from_sweden/\n- Label: Swedish recharge\n  Summary: The discussion admired how peaceful the lawn-and-garden update looked.\n  Why funny: Elite goalie recovery apparently includes a very tidy watering schedule.\n  Source URL: https://www.reddit.com/r/hockey/comments/1vc1uda/henrik_lundqvist_just_checking_in_from_sweden/\n\n## Quote\n\nThe King has moved from crease control to moisture control.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vc1uda/henrik_lundqvist_just_checking_in_from_sweden/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public post and discussion were reviewed on 2026-08-01. The summary stays within the visible lawn, plant, and reminder framing.\n\n## Sports Radar Markdown\n\n```md\n**Henrik Lundqvist becomes hockey's plant reminder**\n\nLundqvist checked in from Sweden after mowing and watering, then reminded the hockey internet to look after its plants.\n\nWhy it works: The King has moved from crease control to moisture control.\n```\n"
   },
   {
     "id": "jaire-alexander-two-tackle-play",
@@ -4259,6 +4403,42 @@
       }
     ],
     "markdown": "---\nid: spain-viking-row-celebration\nrank: 5\ntitle: \"Spain borrows Norway's Viking row celebration\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-15\"\nheat: 89\ntags:\n  - r/sports\n  - Spain\n  - Norway\n  - fan celebration\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports video post framed fans in Madrid celebrating with the seated,\ncoordinated Viking-row routine associated with Norway.\n\n## Why It Is Funny\n\nVictory celebrations now travel like tactical ideas: spot a good one, borrow\nit, and deploy it in the next big moment. Madrid briefly becomes a longship.\n\n## Comment Highlights\n\n- Label: Celebration transfer\n  Summary: Fans treated the routine as a borrowed sports ritual and debated whether the imitation improved it.\n  Why funny: Victory choreography now gets reviewed like a player moving between clubs.\n  Source URL: https://www.reddit.com/r/sports/comments/1uwnikb/spaniards_doing_norways_viking_row_celebration_in/\n- Label: European rowing committee\n  Summary: The thread quickly became an argument over which cultures can claim coordinated rowing imagery.\n  Why funny: One plaza celebration accidentally convenes a historical ownership hearing.\n  Source URL: https://www.reddit.com/r/sports/comments/1uwnikb/spaniards_doing_norways_viking_row_celebration_in/\n\n## Quote\n\nThe celebration transfer window stays open.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1uwnikb/spaniards_doing_norways_viking_row_celebration_in/\n- Source type: Reddit / r/sports top-day celebration video\n- Verification notes: the captured RSS title supports the Madrid setting and Norway-style Viking row framing; keep the copy to the visible celebration concept\n\n## Sports Radar Markdown\n\n```md\n**Spain borrows Norway's Viking row celebration**\n\nFans in Madrid imported a coordinated celebration and turned the plaza into a temporary longship.\n\nWhy it works: sports culture has its own transfer market for victory rituals.\n```\n"
+  },
+  {
+    "id": "sydney-taylor-last-second-three",
+    "rank": 5,
+    "title": "Sydney Taylor saves the ending for the final seconds",
+    "league": "WNBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-02",
+    "heat": 90,
+    "tags": [
+      "r/sports",
+      "Chicago Sky",
+      "Las Vegas Aces",
+      "last-second three"
+    ],
+    "public_ready": true,
+    "summary": "An r/sports post highlighted Sydney Taylor hitting a three in the final\nseconds as Chicago beat Las Vegas.",
+    "whyFunny": "The whole game left one last line blank and Taylor filled it with a three.\nThere is no cleaner group-chat notification than a finish that arrives at the\ndeadline.",
+    "quote": "The ending waited until the deadline.",
+    "sourceUrl": "https://www.reddit.com/r/sports/comments/1vcwjm7/sydney_taylor_hits_a_3_in_the_final_seconds_as/",
+    "commentHighlights": [
+      {
+        "label": "Almost an answer",
+        "summary": "Fans noticed Las Vegas nearly answered with a desperation heave, although it appeared to leave the hand too late.",
+        "whyFunny": "The ending briefly tried to add one more ending.",
+        "sourceUrl": "https://www.reddit.com/r/sports/comments/1vcwjm7/sydney_taylor_hits_a_3_in_the_final_seconds_as/"
+      },
+      {
+        "label": "Instant release",
+        "summary": "The thread focused on how quickly Taylor turned and sent the winner cleanly through the net.",
+        "whyFunny": "The whole finish arrived before the defense could finish reacting.",
+        "sourceUrl": "https://www.reddit.com/r/sports/comments/1vcwjm7/sydney_taylor_hits_a_3_in_the_final_seconds_as/"
+      }
+    ],
+    "markdown": "---\nid: sydney-taylor-last-second-three\nrank: 5\ntitle: \"Sydney Taylor saves the ending for the final seconds\"\nleague: \"WNBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-02\"\nheat: 90\ntags:\n  - r/sports\n  - Chicago Sky\n  - Las Vegas Aces\n  - last-second three\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports post highlighted Sydney Taylor hitting a three in the final\nseconds as Chicago beat Las Vegas.\n\n## Why It Is Funny\n\nThe whole game left one last line blank and Taylor filled it with a three.\nThere is no cleaner group-chat notification than a finish that arrives at the\ndeadline.\n\n## Comment Highlights\n\n- Label: Almost an answer\n  Summary: Fans noticed Las Vegas nearly answered with a desperation heave, although it appeared to leave the hand too late.\n  Why funny: The ending briefly tried to add one more ending.\n  Source URL: https://www.reddit.com/r/sports/comments/1vcwjm7/sydney_taylor_hits_a_3_in_the_final_seconds_as/\n- Label: Instant release\n  Summary: The thread focused on how quickly Taylor turned and sent the winner cleanly through the net.\n  Why funny: The whole finish arrived before the defense could finish reacting.\n  Source URL: https://www.reddit.com/r/sports/comments/1vcwjm7/sydney_taylor_hits_a_3_in_the_final_seconds_as/\n\n## Quote\n\nThe ending waited until the deadline.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1vcwjm7/sydney_taylor_hits_a_3_in_the_final_seconds_as/\n- Source type: Reddit RSS top-day post\n- Verification notes: The RSS title and source URL were reviewed on 2026-08-02. The player, teams, result, and timing are attributed to the post title; no raw comments were promoted.\n\n## Sports Radar Markdown\n\n```md\n**Sydney Taylor saves the ending for the final seconds**\n\nAn r/sports post highlighted Taylor hitting a late three as Chicago beat Las Vegas.\n\nWhy it works: The ending waited until the deadline.\n```\n"
   },
   {
     "id": "nhl-98-intro-memory",
