@@ -36,6 +36,42 @@
     "markdown": "---\nid: st-louis-one-dollar-var-bid\nrank: 1\ntitle: \"A one-dollar VAR bid enters review\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-18\"\nheat: 98\ntags:\n  - r/soccer\n  - St. Louis City\n  - VAR\n  - fan antics\npublic_ready: true\n---\n\n## Summary\n\nDuring a St. Louis City VAR check, a young supporter jokingly offered a\none-dollar bill toward the official at the pitchside monitor.\n\n## Why It Is Funny\n\nThe smallest possible negotiating budget meets soccer's most serious review\nritual. The thread turned the VAR screen into a tip terminal almost instantly.\n\n## Comment Highlights\n\n- Label: Dollar-store negotiations\n  Summary: Fans debated whether the offer failed because the supporter opened with a single dollar.\n  Why funny: The joke gets analyzed like a badly structured transfer bid.\n  Source URL: https://www.reddit.com/r/soccer/comments/1uz4kmu/st_louis_city_supporter_takes_matters_into_his/\n- Label: Tip-screen replay\n  Summary: The thread imagined VAR adding preset gratuity buttons and digital payment options.\n  Why funny: A tense officiating process becomes the checkout screen everyone already resents.\n  Source URL: https://www.reddit.com/r/soccer/comments/1uz4kmu/st_louis_city_supporter_takes_matters_into_his/\n\n## Quote\n\nOne dollar. Final offer.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1uz4kmu/st_louis_city_supporter_takes_matters_into_his/\n- Source type: Reddit / r/soccer top-day match clip\n- Verification notes: the public clip shows a playful one-dollar gesture during the review; the copy treats it as a fan joke and makes no claim of a real attempt to influence the official\n\n## Sports Radar Markdown\n\n```md\n**A one-dollar VAR bid enters review**\n\nA young St. Louis City supporter tried the smallest possible mock negotiation during a pitchside review.\n\nWhy it works: soccer's sternest ritual gets turned into a one-dollar checkout interaction.\n```\n"
   },
   {
+    "id": "turismo-carretera-fiery-pit-stop",
+    "rank": 1,
+    "title": "A pit stop turns into a full fire drill",
+    "league": "Motorsport",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-03",
+    "heat": 98,
+    "tags": [
+      "r/sports",
+      "Turismo Carretera",
+      "pit stop",
+      "Argentina"
+    ],
+    "public_ready": true,
+    "summary": "An r/sports top-day post showed a fiery pit stop at a Turismo Carretera event\nin San Juan, Argentina. The post preview said the team reported that its\nmechanics were unharmed.",
+    "whyFunny": "The crew asked for a routine stop and received the full action-movie package.\nIt is less a joke about danger than a clip where every available alarm appears\nto go off at once.",
+    "quote": "Routine service briefly left the chat.",
+    "sourceUrl": "https://www.reddit.com/r/sports/comments/1vdpd1m/fiery_pitstop_during_the_turismo_carretera_event/",
+    "commentHighlights": [
+      {
+        "label": "Extinguishers ready",
+        "summary": "Fans noticed that several crew members already had extinguishers aimed toward the fuel area and reacted immediately.",
+        "whyFunny": "The least glamorous pit assignment suddenly became the most important one.",
+        "sourceUrl": "https://www.reddit.com/r/sports/comments/1vdpd1m/fiery_pitstop_during_the_turismo_carretera_event/"
+      },
+      {
+        "label": "Preparation justified",
+        "summary": "The thread joked that the fire crew may have spent hundreds of routine stops wondering whether all that readiness was necessary.",
+        "whyFunny": "One stop answered the question with every alarm at once.",
+        "sourceUrl": "https://www.reddit.com/r/sports/comments/1vdpd1m/fiery_pitstop_during_the_turismo_carretera_event/"
+      }
+    ],
+    "markdown": "---\nid: turismo-carretera-fiery-pit-stop\nrank: 1\ntitle: \"A pit stop turns into a full fire drill\"\nleague: \"Motorsport\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-03\"\nheat: 98\ntags:\n  - r/sports\n  - Turismo Carretera\n  - pit stop\n  - Argentina\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports top-day post showed a fiery pit stop at a Turismo Carretera event\nin San Juan, Argentina. The post preview said the team reported that its\nmechanics were unharmed.\n\n## Why It Is Funny\n\nThe crew asked for a routine stop and received the full action-movie package.\nIt is less a joke about danger than a clip where every available alarm appears\nto go off at once.\n\n## Comment Highlights\n\n- Label: Extinguishers ready\n  Summary: Fans noticed that several crew members already had extinguishers aimed toward the fuel area and reacted immediately.\n  Why funny: The least glamorous pit assignment suddenly became the most important one.\n  Source URL: https://www.reddit.com/r/sports/comments/1vdpd1m/fiery_pitstop_during_the_turismo_carretera_event/\n- Label: Preparation justified\n  Summary: The thread joked that the fire crew may have spent hundreds of routine stops wondering whether all that readiness was necessary.\n  Why funny: One stop answered the question with every alarm at once.\n  Source URL: https://www.reddit.com/r/sports/comments/1vdpd1m/fiery_pitstop_during_the_turismo_carretera_event/\n\n## Quote\n\nRoutine service briefly left the chat.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1vdpd1m/fiery_pitstop_during_the_turismo_carretera_event/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public post and discussion were reviewed on 2026-08-03. The location and no-harm update are attributed to that post; Sports Radar makes no independent incident claim.\n\n## Sports Radar Markdown\n\n```md\n**A pit stop turns into a full fire drill**\n\nAn r/sports post showed a fiery Turismo Carretera pit stop in San Juan, with the post preview saying the team reported its mechanics were unharmed.\n\nWhy it works: Routine service briefly left the chat.\n```\n"
+  },
+  {
     "id": "anthony-morrow-kd-text-whiplash",
     "rank": 1,
     "title": "Anthony Morrow's supportive text has a hard cutoff",
@@ -149,7 +185,7 @@
     "title": "Erik Lamela enters Monterrey through the kit room",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-02",
     "heat": 98,
     "tags": [
@@ -177,7 +213,7 @@
         "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vcuh16/monterrey_registers_erik_lamela_as_kitman_in/"
       }
     ],
-    "markdown": "---\nid: erik-lamela-monterrey-kitman-loophole\nrank: 1\ntitle: \"Erik Lamela enters Monterrey through the kit room\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-02\"\nheat: 98\ntags:\n  - r/soccer\n  - Monterrey\n  - Erik Lamela\n  - roster loophole\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer top-day post described Monterrey registering Erik Lamela as a\nkitman through an unusual roster loophole.\n\n## Why It Is Funny\n\nThe workaround gives a familiar player the least expected job title on the\nteam sheet. Transfer-window administration wandered straight into the\nequipment room.\n\n## Comment Highlights\n\n- Label: Job-title workaround\n  Summary: Fans compared the kitman registration with other coaches who used support-staff titles while completing their badges.\n  Why funny: The coaching pathway briefly runs through the equipment room.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vcuh16/monterrey_registers_erik_lamela_as_kitman_in/\n- Label: Learn on the bench\n  Summary: The thread treated the loophole as a practical way for Lamela to start learning while his formal qualification catches up.\n  Why funny: The title says kitman while the job description says assistant coach.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vcuh16/monterrey_registers_erik_lamela_as_kitman_in/\n\n## Quote\n\nThe transfer window found the equipment room.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vcuh16/monterrey_registers_erik_lamela_as_kitman_in/\n- Source type: Reddit RSS top-day post\n- Verification notes: The RSS title and source URL were reviewed on 2026-08-02. Sports Radar attributes the registration framing to the post and promotes no raw comments or further reporting claims.\n\n## Sports Radar Markdown\n\n```md\n**Erik Lamela enters Monterrey through the kit room**\n\nAn r/soccer post described Monterrey registering Erik Lamela as a kitman through an unusual roster loophole.\n\nWhy it works: The transfer window found the equipment room.\n```\n"
+    "markdown": "---\nid: erik-lamela-monterrey-kitman-loophole\nrank: 1\ntitle: \"Erik Lamela enters Monterrey through the kit room\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-02\"\nheat: 98\ntags:\n  - r/soccer\n  - Monterrey\n  - Erik Lamela\n  - roster loophole\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer top-day post described Monterrey registering Erik Lamela as a\nkitman through an unusual roster loophole.\n\n## Why It Is Funny\n\nThe workaround gives a familiar player the least expected job title on the\nteam sheet. Transfer-window administration wandered straight into the\nequipment room.\n\n## Comment Highlights\n\n- Label: Job-title workaround\n  Summary: Fans compared the kitman registration with other coaches who used support-staff titles while completing their badges.\n  Why funny: The coaching pathway briefly runs through the equipment room.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vcuh16/monterrey_registers_erik_lamela_as_kitman_in/\n- Label: Learn on the bench\n  Summary: The thread treated the loophole as a practical way for Lamela to start learning while his formal qualification catches up.\n  Why funny: The title says kitman while the job description says assistant coach.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vcuh16/monterrey_registers_erik_lamela_as_kitman_in/\n\n## Quote\n\nThe transfer window found the equipment room.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vcuh16/monterrey_registers_erik_lamela_as_kitman_in/\n- Source type: Reddit RSS top-day post\n- Verification notes: The RSS title and source URL were reviewed on 2026-08-02. Sports Radar attributes the registration framing to the post and promotes no raw comments or further reporting claims.\n\n## Sports Radar Markdown\n\n```md\n**Erik Lamela enters Monterrey through the kit room**\n\nAn r/soccer post described Monterrey registering Erik Lamela as a kitman through an unusual roster loophole.\n\nWhy it works: The transfer window found the equipment room.\n```\n"
   },
   {
     "id": "nba-full-name-lineup",
@@ -1352,6 +1388,29 @@
     "markdown": "---\nid: lebron-nyc-philly-commute\nrank: 2\ntitle: \"LeBron's commute becomes a transit referendum\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-28\"\nheat: 96\ntags:\n  - r/nba\n  - LeBron James\n  - Philadelphia 76ers\n  - commute\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post relayed a report that LeBron James was considering living in New\nYork and commuting to Philadelphia, while noting that James had not said where\nhe would live.\n\n## Why It Is Funny\n\nA superstar housing rumor became a full regional-transportation hearing. Fans\nquickly moved from helicopters to trains, traffic, taxes, and custom commute\nplans.\n\n## Comment Highlights\n\n- Label: Train lobby\n  Summary: Fans proposed increasingly elaborate Amtrak arrangements as the sensible alternative.\n  Why funny: Free-agency analysis briefly became Northeast Corridor infrastructure policy.\n  Source URL: https://www.reddit.com/r/nba/comments/1v8nck9/lebron_james_apparently_to_make_philly_commute_by/\n- Label: Vehicle nickname desk\n  Summary: The thread adapted the usual LeBron nickname format to nearly every possible way of traveling.\n  Why funny: The commute acquired branding before it acquired an address.\n  Source URL: https://www.reddit.com/r/nba/comments/1v8nck9/lebron_james_apparently_to_make_philly_commute_by/\n\n## Quote\n\nThe housing rumor came with a transit committee.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v8nck9/lebron_james_apparently_to_make_philly_commute_by/\n- Source type: Reddit post quoting and linking a public Yahoo Sports report\n- Verification notes: The public Reddit post, linked-report framing, and discussion were reviewed on 2026-07-28. The summary preserves the report's uncertainty and does not claim that a commute plan is final.\n\n## Sports Radar Markdown\n\n```md\n**LeBron's commute becomes a transit referendum**\n\nA possible New York-to-Philadelphia commute sent fans from helicopters to Amtrak policy in minutes.\n\nWhy it works: The housing rumor came with a transit committee.\n```\n"
   },
   {
+    "id": "maxi-rueda-forty-meter-goal",
+    "rank": 2,
+    "title": "Maxi Rueda skips straight to the 40-meter option",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-03",
+    "heat": 96,
+    "tags": [
+      "r/sports",
+      "Maxi Rueda",
+      "Patronato",
+      "long-range goal"
+    ],
+    "public_ready": true,
+    "summary": "An r/sports top-day post highlighted Maxi Rueda scoring for Patronato from\nnearly 40 meters in Argentina's second division.",
+    "whyFunny": "The normal route to goal involved several more steps. Rueda looked at the\ndistance and chose the direct-download version.",
+    "quote": "The build-up play was compressed into one touch.",
+    "sourceUrl": "https://www.reddit.com/r/sports/comments/1vdy1s5/a_spectacular_goal_from_nearly_40_meters_by_maxi/",
+    "commentHighlights": [],
+    "markdown": "---\nid: maxi-rueda-forty-meter-goal\nrank: 2\ntitle: \"Maxi Rueda skips straight to the 40-meter option\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-03\"\nheat: 96\ntags:\n  - r/sports\n  - Maxi Rueda\n  - Patronato\n  - long-range goal\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports top-day post highlighted Maxi Rueda scoring for Patronato from\nnearly 40 meters in Argentina's second division.\n\n## Why It Is Funny\n\nThe normal route to goal involved several more steps. Rueda looked at the\ndistance and chose the direct-download version.\n\n## Comment Highlights\n\nNo Reddit comments were promoted from this RSS-only review.\n\n## Quote\n\nThe build-up play was compressed into one touch.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1vdy1s5/a_spectacular_goal_from_nearly_40_meters_by_maxi/\n- Source type: Reddit RSS top-day post\n- Verification notes: The player, club, competition level, and approximate distance are attributed to the RSS title reviewed on 2026-08-03. No raw comments were promoted.\n\n## Sports Radar Markdown\n\n```md\n**Maxi Rueda skips straight to the 40-meter option**\n\nAn r/sports post highlighted Rueda scoring for Patronato from nearly 40 meters in Argentina's second division.\n\nWhy it works: The build-up play was compressed into one touch.\n```\n"
+  },
+  {
     "id": "murakami-bobblehead-two-homer-day",
     "rank": 2,
     "title": "Murakami's bobblehead day becomes a family production",
@@ -1393,7 +1452,7 @@
     "title": "Quali Conley clears the hurdle in reverse",
     "league": "CFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-02",
     "heat": 96,
     "tags": [
@@ -1421,7 +1480,7 @@
         "sourceUrl": "https://www.reddit.com/r/sports/comments/1vd6izn/quali_conley_with_a_reversehurdle_and_the/"
       }
     ],
-    "markdown": "---\nid: quali-conley-reverse-hurdle\nrank: 2\ntitle: \"Quali Conley clears the hurdle in reverse\"\nleague: \"CFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-02\"\nheat: 96\ntags:\n  - r/sports\n  - Saskatchewan\n  - Quali Conley\n  - reverse hurdle\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports post highlighted Quali Conley using a reverse-hurdle on the way to\na Saskatchewan first down.\n\n## Why It Is Funny\n\nThe play needs football and gymnastics vocabulary at the same time. A normal\nfirst-down description was not equipped for the route Conley took.\n\n## Comment Highlights\n\n- Label: Gymnastics vocabulary\n  Summary: Fans treated the reverse-hurdle as a football play that needed its own degree-of-difficulty score.\n  Why funny: The first down invited judging from a second sport.\n  Source URL: https://www.reddit.com/r/sports/comments/1vd6izn/quali_conley_with_a_reversehurdle_and_the/\n- Label: Elks detour\n  Summary: The thread spun off into a serious discussion about why Edmonton uses Elks instead of Elk.\n  Why funny: One acrobatic run accidentally opened a Canadian grammar seminar.\n  Source URL: https://www.reddit.com/r/sports/comments/1vd6izn/quali_conley_with_a_reversehurdle_and_the/\n\n## Quote\n\nThe first-down marker came with a degree of difficulty.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1vd6izn/quali_conley_with_a_reversehurdle_and_the/\n- Source type: Reddit RSS top-day post\n- Verification notes: The RSS title and source URL were reviewed on 2026-08-02. The summary stays within the title's reverse-hurdle and first-down framing; no raw comments were promoted.\n\n## Sports Radar Markdown\n\n```md\n**Quali Conley clears the hurdle in reverse**\n\nConley's Saskatchewan first down arrived with a reverse-hurdle attached.\n\nWhy it works: The first-down marker came with a degree of difficulty.\n```\n"
+    "markdown": "---\nid: quali-conley-reverse-hurdle\nrank: 2\ntitle: \"Quali Conley clears the hurdle in reverse\"\nleague: \"CFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-02\"\nheat: 96\ntags:\n  - r/sports\n  - Saskatchewan\n  - Quali Conley\n  - reverse hurdle\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports post highlighted Quali Conley using a reverse-hurdle on the way to\na Saskatchewan first down.\n\n## Why It Is Funny\n\nThe play needs football and gymnastics vocabulary at the same time. A normal\nfirst-down description was not equipped for the route Conley took.\n\n## Comment Highlights\n\n- Label: Gymnastics vocabulary\n  Summary: Fans treated the reverse-hurdle as a football play that needed its own degree-of-difficulty score.\n  Why funny: The first down invited judging from a second sport.\n  Source URL: https://www.reddit.com/r/sports/comments/1vd6izn/quali_conley_with_a_reversehurdle_and_the/\n- Label: Elks detour\n  Summary: The thread spun off into a serious discussion about why Edmonton uses Elks instead of Elk.\n  Why funny: One acrobatic run accidentally opened a Canadian grammar seminar.\n  Source URL: https://www.reddit.com/r/sports/comments/1vd6izn/quali_conley_with_a_reversehurdle_and_the/\n\n## Quote\n\nThe first-down marker came with a degree of difficulty.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1vd6izn/quali_conley_with_a_reversehurdle_and_the/\n- Source type: Reddit RSS top-day post\n- Verification notes: The RSS title and source URL were reviewed on 2026-08-02. The summary stays within the title's reverse-hurdle and first-down framing; no raw comments were promoted.\n\n## Sports Radar Markdown\n\n```md\n**Quali Conley clears the hurdle in reverse**\n\nConley's Saskatchewan first down arrived with a reverse-hurdle attached.\n\nWhy it works: The first-down marker came with a degree of difficulty.\n```\n"
   },
   {
     "id": "rsoccer-fabrizio-romano-source-ban",
@@ -2185,7 +2244,7 @@
     "title": "Evander solves the 40-yard problem directly",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-02",
     "heat": 94,
     "tags": [
@@ -2213,7 +2272,7 @@
         "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/"
       }
     ],
-    "markdown": "---\nid: evander-forty-yard-goal\nrank: 3\ntitle: \"Evander solves the 40-yard problem directly\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-02\"\nheat: 94\ntags:\n  - r/soccer\n  - FC Cincinnati\n  - Evander\n  - long-range goal\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post highlighted Evander driving in FC Cincinnati's go-ahead goal\nagainst San Jose from roughly 40 yards in the 82nd minute.\n\n## Why It Is Funny\n\nThe usual build-up instructions became optional. Evander saw an unreasonable\ndistance and treated it like the shortest route to goal.\n\n## Comment Highlights\n\n- Label: Bangers only\n  Summary: Fans grouped the strike with a run of spectacular MLS goals and declared the league committed to long-range chaos.\n  Why funny: Ordinary finishes were apparently unavailable that night.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/\n- Label: MLS after dark\n  Summary: The discussion folded a long weather delay and the late goal into the league's familiar after-dark lore.\n  Why funny: The storm postponed the match but improved the mythology.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/\n\n## Quote\n\nBuild-up play was reduced to one very long step.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/\n- Source type: Reddit RSS top-day post\n- Verification notes: The RSS title and source URL were reviewed on 2026-08-02. The score, minute, player, opponent, and approximate distance are attributed to the post title; no raw comments were promoted.\n\n## Sports Radar Markdown\n\n```md\n**Evander solves the 40-yard problem directly**\n\nAn r/soccer post highlighted Evander putting FC Cincinnati ahead from roughly 40 yards late against San Jose.\n\nWhy it works: Build-up play was reduced to one very long step.\n```\n"
+    "markdown": "---\nid: evander-forty-yard-goal\nrank: 3\ntitle: \"Evander solves the 40-yard problem directly\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-02\"\nheat: 94\ntags:\n  - r/soccer\n  - FC Cincinnati\n  - Evander\n  - long-range goal\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post highlighted Evander driving in FC Cincinnati's go-ahead goal\nagainst San Jose from roughly 40 yards in the 82nd minute.\n\n## Why It Is Funny\n\nThe usual build-up instructions became optional. Evander saw an unreasonable\ndistance and treated it like the shortest route to goal.\n\n## Comment Highlights\n\n- Label: Bangers only\n  Summary: Fans grouped the strike with a run of spectacular MLS goals and declared the league committed to long-range chaos.\n  Why funny: Ordinary finishes were apparently unavailable that night.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/\n- Label: MLS after dark\n  Summary: The discussion folded a long weather delay and the late goal into the league's familiar after-dark lore.\n  Why funny: The storm postponed the match but improved the mythology.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/\n\n## Quote\n\nBuild-up play was reduced to one very long step.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/\n- Source type: Reddit RSS top-day post\n- Verification notes: The RSS title and source URL were reviewed on 2026-08-02. The score, minute, player, opponent, and approximate distance are attributed to the post title; no raw comments were promoted.\n\n## Sports Radar Markdown\n\n```md\n**Evander solves the 40-yard problem directly**\n\nAn r/soccer post highlighted Evander putting FC Cincinnati ahead from roughly 40 yards late against San Jose.\n\nWhy it works: Build-up play was reduced to one very long step.\n```\n"
   },
   {
     "id": "gerrit-cole-broken-clock-balk",
@@ -2597,6 +2656,29 @@
       }
     ],
     "markdown": "---\nid: one-off-nfl-uniform-museum\nrank: 3\ntitle: \"One-off NFL uniforms become a museum of abandoned ideas\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-10\"\nheat: 89\ntags:\n  - r/nfl\n  - r/uniwatch\n  - uniforms\n  - nostalgia\npublic_ready: true\n---\n\n## Summary\n\nA uniform roundup surfaced through the r/nfl daily feed and collected looks\nthat appeared once, turning old game photos into a catalog of visual experiments.\n\n## Why It Is Funny\n\nEvery combination feels like a franchise opened a costume drawer, tried one\nidea in public, and quietly put it back forever.\n\n## Comment Highlights\n\n- Label: Instant aesthetic trials\n  Summary: Fans treated each look as a tiny referendum on whether the team was right to retire it.\n  Why funny: One game becomes enough evidence for a permanent design verdict.\n  Source URL: https://www.reddit.com/r/uniwatch/comments/1us6kmf/a_collection_of_uniform_combinations_worn_exactly/\n- Label: Memory versus the catalog\n  Summary: The discussion mixed nostalgia with disputes over whether a few combinations were truly one-offs.\n  Why funny: Uniform history gets argued with the intensity of a replay review.\n  Source URL: https://www.reddit.com/r/uniwatch/comments/1us6kmf/a_collection_of_uniform_combinations_worn_exactly/\n\n## Quote\n\nThe equipment room briefly became a failed-pilot archive.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/uniwatch/comments/1us6kmf/a_collection_of_uniform_combinations_worn_exactly/\n- Source type: Reddit / r/uniwatch thread surfaced through the r/nfl top-day feed\n- Verification notes: treat the one-off claim as the thread's organizing premise; the discussion itself flags possible exceptions\n\n## Sports Radar Markdown\n\n```md\n**One-off NFL uniforms become a museum of abandoned ideas**\n\nA Reddit roundup made old game photos feel like a franchise design graveyard.\n\nWhy it works: every look carries the energy of a pilot episode that never got picked up.\n```\n"
+  },
+  {
+    "id": "infantino-withdrawal-tracker",
+    "rank": 3,
+    "title": "r/soccer becomes the Infantino withdrawal tracker",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-03",
+    "heat": 94,
+    "tags": [
+      "r/soccer",
+      "FIFA",
+      "Gianni Infantino",
+      "fan feed"
+    ],
+    "public_ready": true,
+    "summary": "The r/soccer top-day feed filled with separate posts saying Wales, Serbia,\nEngland, and Sweden had withdrawn or planned to withdraw support for Gianni\nInfantino's re-election as FIFA president.",
+    "whyFunny": "One governance story arrived as a stack of national-association notifications.\nBy the fourth post, the subreddit looked less like a feed and more like a live\nbreakup-letter tracker.",
+    "quote": "The support letters found their reply-all button.",
+    "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vdz3xc/sky_news_wales_has_become_the_first_football/",
+    "commentHighlights": [],
+    "markdown": "---\nid: infantino-withdrawal-tracker\nrank: 3\ntitle: \"r/soccer becomes the Infantino withdrawal tracker\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-03\"\nheat: 94\ntags:\n  - r/soccer\n  - FIFA\n  - Gianni Infantino\n  - fan feed\npublic_ready: true\n---\n\n## Summary\n\nThe r/soccer top-day feed filled with separate posts saying Wales, Serbia,\nEngland, and Sweden had withdrawn or planned to withdraw support for Gianni\nInfantino's re-election as FIFA president.\n\n## Why It Is Funny\n\nOne governance story arrived as a stack of national-association notifications.\nBy the fourth post, the subreddit looked less like a feed and more like a live\nbreakup-letter tracker.\n\n## Comment Highlights\n\nNo Reddit comments were promoted from this RSS-only review.\n\n## Quote\n\nThe support letters found their reply-all button.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vdz3xc/sky_news_wales_has_become_the_first_football/\n- Related source URL: https://www.reddit.com/r/soccer/comments/1veb8jk/the_football_association_of_serbia_has_withdrawn/\n- Related source URL: https://www.reddit.com/r/soccer/comments/1ve7l8a/telegraph_england_to_withdraw_support_for/\n- Related source URL: https://www.reddit.com/r/soccer/comments/1vecw7c/svff_swedish_football_association_withdraw/\n- Source type: Reddit RSS top-day post cluster\n- Verification notes: Sports Radar reviewed the four RSS titles and source URLs on 2026-08-03. The summary stays within those titles and treats the feed pattern as sports-internet culture, not independent FIFA reporting.\n\n## Sports Radar Markdown\n\n```md\n**r/soccer becomes the Infantino withdrawal tracker**\n\nSeparate posts about Wales, Serbia, England, and Sweden turned the top-day feed into a running withdrawal-of-support tracker.\n\nWhy it works: The support letters found their reply-all button.\n```\n"
   },
   {
     "id": "spain-unbeaten-result-wall",
@@ -3215,7 +3297,7 @@
     "title": "Micah Richards turns a dive into a time capsule",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-02",
     "heat": 92,
     "tags": [
@@ -3243,7 +3325,7 @@
         "sourceUrl": "https://www.reddit.com/r/sports/comments/1vdimvv/micah_richards_dive_vs_stoke_city/"
       }
     ],
-    "markdown": "---\nid: micah-richards-dive-time-capsule\nrank: 4\ntitle: \"Micah Richards turns a dive into a time capsule\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-02\"\nheat: 92\ntags:\n  - r/sports\n  - Micah Richards\n  - Stoke City\n  - archive clip\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports top-day post resurfaced an old Micah Richards dive against Stoke\nCity.\n\n## Why It Is Funny\n\nThe clip title is barely a sentence because the physical comedy supplies the\nrest. Sports archives have a way of returning one extremely specific memory\nto the group chat.\n\n## Comment Highlights\n\n- Label: Swimming event\n  Summary: Fans recast the old dive as a dolphin impression or an entry for a judging panel.\n  Why funny: The football clip kept attracting aquatic vocabulary.\n  Source URL: https://www.reddit.com/r/sports/comments/1vdimvv/micah_richards_dive_vs_stoke_city/\n- Label: Archive argument\n  Summary: The thread debated why a decade-old clip had returned, then continued scoring the dive anyway.\n  Why funny: Complaining about the replay became part of the replay's new life.\n  Source URL: https://www.reddit.com/r/sports/comments/1vdimvv/micah_richards_dive_vs_stoke_city/\n\n## Quote\n\nThe archive reopened one very short case file.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1vdimvv/micah_richards_dive_vs_stoke_city/\n- Source type: Reddit RSS top-day archive post\n- Verification notes: The RSS title and source URL were reviewed on 2026-08-02. Sports Radar describes only the resurfaced dive framing and makes no claim about the original match context.\n\n## Sports Radar Markdown\n\n```md\n**Micah Richards turns a dive into a time capsule**\n\nAn old Micah Richards dive against Stoke returned to the sports internet with almost no setup required.\n\nWhy it works: The archive reopened one very short case file.\n```\n"
+    "markdown": "---\nid: micah-richards-dive-time-capsule\nrank: 4\ntitle: \"Micah Richards turns a dive into a time capsule\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-02\"\nheat: 92\ntags:\n  - r/sports\n  - Micah Richards\n  - Stoke City\n  - archive clip\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports top-day post resurfaced an old Micah Richards dive against Stoke\nCity.\n\n## Why It Is Funny\n\nThe clip title is barely a sentence because the physical comedy supplies the\nrest. Sports archives have a way of returning one extremely specific memory\nto the group chat.\n\n## Comment Highlights\n\n- Label: Swimming event\n  Summary: Fans recast the old dive as a dolphin impression or an entry for a judging panel.\n  Why funny: The football clip kept attracting aquatic vocabulary.\n  Source URL: https://www.reddit.com/r/sports/comments/1vdimvv/micah_richards_dive_vs_stoke_city/\n- Label: Archive argument\n  Summary: The thread debated why a decade-old clip had returned, then continued scoring the dive anyway.\n  Why funny: Complaining about the replay became part of the replay's new life.\n  Source URL: https://www.reddit.com/r/sports/comments/1vdimvv/micah_richards_dive_vs_stoke_city/\n\n## Quote\n\nThe archive reopened one very short case file.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1vdimvv/micah_richards_dive_vs_stoke_city/\n- Source type: Reddit RSS top-day archive post\n- Verification notes: The RSS title and source URL were reviewed on 2026-08-02. Sports Radar describes only the resurfaced dive framing and makes no claim about the original match context.\n\n## Sports Radar Markdown\n\n```md\n**Micah Richards turns a dive into a time capsule**\n\nAn old Micah Richards dive against Stoke returned to the sports internet with almost no setup required.\n\nWhy it works: The archive reopened one very short case file.\n```\n"
   },
   {
     "id": "munetaka-murakami-music-answer",
@@ -3459,6 +3541,29 @@
       }
     ],
     "markdown": "---\nid: 1995-recruiting-time-capsule\nrank: 4\ntitle: \"The 1995 recruiting rankings become a hindsight machine\"\nleague: \"NCAA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-11\"\nheat: 85\ntags:\n  - r/CollegeBasketball\n  - recruiting\n  - \"1995\"\n  - hindsight\npublic_ready: true\n---\n\n## Summary\n\nAn old 1995 basketball recruiting list resurfaced on r/CollegeBasketball as a\ntime capsule full of future stars, forgotten names, and Tyronn Lue in prospect form.\n\n## Why It Is Funny\n\nEvery old ranking becomes two documents at once: what evaluators believed then\nand what decades of hindsight will never let them forget.\n\n## Comment Highlights\n\n- Label: The top-five report card\n  Summary: Fans immediately graded the highest-ranked names against the careers they eventually had.\n  Why funny: Thirty years of basketball history gets turned into instant recruiting feedback.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1utilq9/1995_recruiting_rankings/\n- Label: Tyronn Lue before the lore\n  Summary: The post delighted in finding a future NBA player and coach inside an old prospect list.\n  Why funny: A familiar basketball figure appears as an unfinished origin story.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1utilq9/1995_recruiting_rankings/\n\n## Quote\n\nThe scouting archive came with thirty years of answer key.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1utilq9/1995_recruiting_rankings/\n- Source type: Reddit / r/CollegeBasketball top-day image thread\n- Verification notes: public page confirms the 1995-list framing and Tyronn Lue note; avoid reproducing the full image or asserting individual placements not reviewed here\n\n## Sports Radar Markdown\n\n```md\n**The 1995 recruiting rankings become a hindsight machine**\n\nAn old prospect list resurfaced with three decades of basketball context attached.\n\nWhy it works: every archived ranking eventually receives an answer key.\n```\n"
+  },
+  {
+    "id": "chavez-ravine-unfinished-story",
+    "rank": 4,
+    "title": "The Dodger Stadium story starts before the first pitch",
+    "league": "Baseball",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-03",
+    "heat": 92,
+    "tags": [
+      "r/sports",
+      "Chavez Ravine",
+      "Dodger Stadium",
+      "sports history"
+    ],
+    "public_ready": true,
+    "summary": "An r/sports top-day post pointed to a new documentary tracing 100 years in the\ncommunities displaced to build Dodger Stadium.",
+    "whyFunny": "This one earns its place through lore, not a punchline. It pulls the stadium\nconversation backward from baseball memories to the communities and history\nunder the ballpark.",
+    "quote": "The ballpark story starts before the first pitch.",
+    "sourceUrl": "https://www.reddit.com/r/sports/comments/1vdp5by/new_chavez_ravine_an_unfinished_story_documents/",
+    "commentHighlights": [],
+    "markdown": "---\nid: chavez-ravine-unfinished-story\nrank: 4\ntitle: \"The Dodger Stadium story starts before the first pitch\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-03\"\nheat: 92\ntags:\n  - r/sports\n  - Chavez Ravine\n  - Dodger Stadium\n  - sports history\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports top-day post pointed to a new documentary tracing 100 years in the\ncommunities displaced to build Dodger Stadium.\n\n## Why It Is Funny\n\nThis one earns its place through lore, not a punchline. It pulls the stadium\nconversation backward from baseball memories to the communities and history\nunder the ballpark.\n\n## Comment Highlights\n\nNo Reddit comments were promoted from this RSS-only review.\n\n## Quote\n\nThe ballpark story starts before the first pitch.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1vdp5by/new_chavez_ravine_an_unfinished_story_documents/\n- Source type: Reddit RSS top-day post\n- Verification notes: The documentary title, 100-year framing, displacement subject, and Dodger Stadium connection are attributed to the RSS title reviewed on 2026-08-03. Sports Radar does not add reporting claims beyond that title.\n\n## Sports Radar Markdown\n\n```md\n**The Dodger Stadium story starts before the first pitch**\n\nAn r/sports post pointed to a documentary tracing 100 years in the communities displaced to build Dodger Stadium.\n\nWhy it works: This is the lore lane, with the ballpark story starting before the first pitch.\n```\n"
   },
   {
     "id": "finebaum-legend-media-day-ejection",
@@ -4410,7 +4515,7 @@
     "title": "Sydney Taylor saves the ending for the final seconds",
     "league": "WNBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-02",
     "heat": 90,
     "tags": [
@@ -4438,7 +4543,7 @@
         "sourceUrl": "https://www.reddit.com/r/sports/comments/1vcwjm7/sydney_taylor_hits_a_3_in_the_final_seconds_as/"
       }
     ],
-    "markdown": "---\nid: sydney-taylor-last-second-three\nrank: 5\ntitle: \"Sydney Taylor saves the ending for the final seconds\"\nleague: \"WNBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-02\"\nheat: 90\ntags:\n  - r/sports\n  - Chicago Sky\n  - Las Vegas Aces\n  - last-second three\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports post highlighted Sydney Taylor hitting a three in the final\nseconds as Chicago beat Las Vegas.\n\n## Why It Is Funny\n\nThe whole game left one last line blank and Taylor filled it with a three.\nThere is no cleaner group-chat notification than a finish that arrives at the\ndeadline.\n\n## Comment Highlights\n\n- Label: Almost an answer\n  Summary: Fans noticed Las Vegas nearly answered with a desperation heave, although it appeared to leave the hand too late.\n  Why funny: The ending briefly tried to add one more ending.\n  Source URL: https://www.reddit.com/r/sports/comments/1vcwjm7/sydney_taylor_hits_a_3_in_the_final_seconds_as/\n- Label: Instant release\n  Summary: The thread focused on how quickly Taylor turned and sent the winner cleanly through the net.\n  Why funny: The whole finish arrived before the defense could finish reacting.\n  Source URL: https://www.reddit.com/r/sports/comments/1vcwjm7/sydney_taylor_hits_a_3_in_the_final_seconds_as/\n\n## Quote\n\nThe ending waited until the deadline.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1vcwjm7/sydney_taylor_hits_a_3_in_the_final_seconds_as/\n- Source type: Reddit RSS top-day post\n- Verification notes: The RSS title and source URL were reviewed on 2026-08-02. The player, teams, result, and timing are attributed to the post title; no raw comments were promoted.\n\n## Sports Radar Markdown\n\n```md\n**Sydney Taylor saves the ending for the final seconds**\n\nAn r/sports post highlighted Taylor hitting a late three as Chicago beat Las Vegas.\n\nWhy it works: The ending waited until the deadline.\n```\n"
+    "markdown": "---\nid: sydney-taylor-last-second-three\nrank: 5\ntitle: \"Sydney Taylor saves the ending for the final seconds\"\nleague: \"WNBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-02\"\nheat: 90\ntags:\n  - r/sports\n  - Chicago Sky\n  - Las Vegas Aces\n  - last-second three\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports post highlighted Sydney Taylor hitting a three in the final\nseconds as Chicago beat Las Vegas.\n\n## Why It Is Funny\n\nThe whole game left one last line blank and Taylor filled it with a three.\nThere is no cleaner group-chat notification than a finish that arrives at the\ndeadline.\n\n## Comment Highlights\n\n- Label: Almost an answer\n  Summary: Fans noticed Las Vegas nearly answered with a desperation heave, although it appeared to leave the hand too late.\n  Why funny: The ending briefly tried to add one more ending.\n  Source URL: https://www.reddit.com/r/sports/comments/1vcwjm7/sydney_taylor_hits_a_3_in_the_final_seconds_as/\n- Label: Instant release\n  Summary: The thread focused on how quickly Taylor turned and sent the winner cleanly through the net.\n  Why funny: The whole finish arrived before the defense could finish reacting.\n  Source URL: https://www.reddit.com/r/sports/comments/1vcwjm7/sydney_taylor_hits_a_3_in_the_final_seconds_as/\n\n## Quote\n\nThe ending waited until the deadline.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1vcwjm7/sydney_taylor_hits_a_3_in_the_final_seconds_as/\n- Source type: Reddit RSS top-day post\n- Verification notes: The RSS title and source URL were reviewed on 2026-08-02. The player, teams, result, and timing are attributed to the post title; no raw comments were promoted.\n\n## Sports Radar Markdown\n\n```md\n**Sydney Taylor saves the ending for the final seconds**\n\nAn r/sports post highlighted Taylor hitting a late three as Chicago beat Las Vegas.\n\nWhy it works: The ending waited until the deadline.\n```\n"
   },
   {
     "id": "nhl-98-intro-memory",
@@ -4511,6 +4616,29 @@
       }
     ],
     "markdown": "---\nid: palestra-mecca-argument\nrank: 5\ntitle: \"The Palestra starts a college-basketball pilgrimage debate\"\nleague: \"NCAA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-26\"\nheat: 90\ntags:\n  - r/CollegeBasketball\n  - The Palestra\n  - Philadelphia\n  - basketball history\npublic_ready: true\n---\n\n## Summary\n\nA visitor posted a photo from Philadelphia's Palestra and called it the Mecca\nof college basketball, sending fans into a tour of the sport's historic gyms.\n\n## Why It Is Funny\n\nOne arena photo became a pilgrimage committee meeting. Every fan arrived with\na different sacred site, a local record, and at least one architectural\ntechnicality.\n\n## Comment Highlights\n\n- Label: Competing pilgrimages\n  Summary: Fans nominated alternate historic gyms and even a famously oversized Memphis landmark.\n  Why funny: The Mecca title immediately expanded into a bracket with no final round.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1v6saab/visited_the_mecca_of_college_basketball_last_week/\n- Label: Time-machine seating\n  Summary: Visitors described the Palestra's close sightlines as watching basketball from another era.\n  Why funny: The strongest review treated the building as both an arena and a working time machine.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1v6saab/visited_the_mecca_of_college_basketball_last_week/\n\n## Quote\n\nThe pilgrimage bracket has no championship game.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1v6saab/visited_the_mecca_of_college_basketball_last_week/\n- Source type: Reddit image post and public discussion\n- Verification notes: The public Reddit post, image context, and discussion were reviewed on 2026-07-26. Disputed venue records in the thread were not promoted as facts.\n\n## Sports Radar Markdown\n\n```md\n**The Palestra starts a college-basketball pilgrimage debate**\n\nOne arena photo sent fans into a bracket of historic gyms, local records, and sacred-site nominations.\n\nWhy it works: The pilgrimage committee could not agree on a destination.\n```\n"
+  },
+  {
+    "id": "tim-payne-olimpia-debut-goal",
+    "rank": 5,
+    "title": "Tim Payne needs one match to open the Olimpia account",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-03",
+    "heat": 90,
+    "tags": [
+      "r/sports",
+      "Tim Payne",
+      "Olimpia",
+      "debut goal"
+    ],
+    "public_ready": true,
+    "summary": "An r/sports top-day post highlighted Tim Payne scoring on his debut for\nParaguay's Olimpia.",
+    "whyFunny": "The introductory period lasted exactly as long as the first goal notification.\nPayne skipped the quiet onboarding phase and went straight to the part fans\nsend to the group chat.",
+    "quote": "The onboarding checklist included one goal.",
+    "sourceUrl": "https://www.reddit.com/r/sports/comments/1vdvddv/tim_payne_scores_a_goal_in_his_debut_with/",
+    "commentHighlights": [],
+    "markdown": "---\nid: tim-payne-olimpia-debut-goal\nrank: 5\ntitle: \"Tim Payne needs one match to open the Olimpia account\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-03\"\nheat: 90\ntags:\n  - r/sports\n  - Tim Payne\n  - Olimpia\n  - debut goal\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports top-day post highlighted Tim Payne scoring on his debut for\nParaguay's Olimpia.\n\n## Why It Is Funny\n\nThe introductory period lasted exactly as long as the first goal notification.\nPayne skipped the quiet onboarding phase and went straight to the part fans\nsend to the group chat.\n\n## Comment Highlights\n\nNo Reddit comments were promoted from this RSS-only review.\n\n## Quote\n\nThe onboarding checklist included one goal.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1vdvddv/tim_payne_scores_a_goal_in_his_debut_with/\n- Source type: Reddit RSS top-day post\n- Verification notes: The player, debut, goal, club, and country are attributed to the RSS title reviewed on 2026-08-03. No raw comments were promoted.\n\n## Sports Radar Markdown\n\n```md\n**Tim Payne needs one match to open the Olimpia account**\n\nAn r/sports post highlighted Payne scoring on his debut for Paraguay's Olimpia.\n\nWhy it works: The onboarding checklist included one goal.\n```\n"
   },
   {
     "id": "trae-young-god-height-nerf",
