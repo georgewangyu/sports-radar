@@ -550,7 +550,7 @@
     "title": "Luis Arraez clears the tag, then clocks out",
     "league": "Baseball",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-07",
     "heat": 98,
     "tags": [
@@ -572,7 +572,7 @@
         "sourceUrl": "https://www.reddit.com/r/baseball/comments/1vhk8n0/comment/p25wgjn/"
       }
     ],
-    "markdown": "---\nid: arraez-clears-tag-clocks-out\nrank: 1\ntitle: \"Luis Arraez clears the tag, then clocks out\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-07\"\nheat: 98\ntags:\n  - r/baseball\n  - Luis Arraez\n  - home plate\n  - baserunning\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball highlight showed Luis Arraez leap over a tag at home, land safely,\nand then head toward the dugout instead of finishing the play.\n\n## Why It Is Funny\n\nThe difficult escape worked; the easy next instruction did not. Arraez beat the\ntag and then appeared to clock out before the play was over.\n\n## Comment Highlights\n\n- Label: Stadium-wide rundown\n  Summary: One fan imagined changing the rule so the catcher had to chase the runner around the entire stadium.\n  Why funny: The unfinished tag play became a full-venue pursuit instead of a routine out.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vhk8n0/comment/p25wgjn/\n\n## Quote\n\nHe escaped the tag and the assignment.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vhk8n0/highlight_luis_arraez_leaped_over_the_tag_at_home/\n- Source type: Reddit top-day baseball highlight\n- Verification notes: Sports Radar reviewed the public r/baseball top-day page and post on 2026-08-07. The summary describes the post's visible play framing without adding a rules claim.\n\n## Sports Radar Markdown\n\n```md\n**Luis Arraez clears the tag, then clocks out**\n\nAn r/baseball highlight showed Arraez leap over the tag at home and then head for the dugout.\n\nWhy it works: He escaped the tag and the assignment.\n```\n"
+    "markdown": "---\nid: arraez-clears-tag-clocks-out\nrank: 1\ntitle: \"Luis Arraez clears the tag, then clocks out\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-07\"\nheat: 98\ntags:\n  - r/baseball\n  - Luis Arraez\n  - home plate\n  - baserunning\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball highlight showed Luis Arraez leap over a tag at home, land safely,\nand then head toward the dugout instead of finishing the play.\n\n## Why It Is Funny\n\nThe difficult escape worked; the easy next instruction did not. Arraez beat the\ntag and then appeared to clock out before the play was over.\n\n## Comment Highlights\n\n- Label: Stadium-wide rundown\n  Summary: One fan imagined changing the rule so the catcher had to chase the runner around the entire stadium.\n  Why funny: The unfinished tag play became a full-venue pursuit instead of a routine out.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vhk8n0/comment/p25wgjn/\n\n## Quote\n\nHe escaped the tag and the assignment.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vhk8n0/highlight_luis_arraez_leaped_over_the_tag_at_home/\n- Source type: Reddit top-day baseball highlight\n- Verification notes: Sports Radar reviewed the public r/baseball top-day page and post on 2026-08-07. The summary describes the post's visible play framing without adding a rules claim.\n\n## Sports Radar Markdown\n\n```md\n**Luis Arraez clears the tag, then clocks out**\n\nAn r/baseball highlight showed Arraez leap over the tag at home and then head for the dugout.\n\nWhy it works: He escaped the tag and the assignment.\n```\n"
   },
   {
     "id": "mark-davis-grass-commitment",
@@ -1109,6 +1109,36 @@
     "markdown": "---\nid: haliburton-eastbay-comeback\nrank: 1\ntitle: \"Tyrese Haliburton puts an Eastbay into the comeback reel\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-26\"\nheat: 98\ntags:\n  - r/nba\n  - Tyrese Haliburton\n  - Eastbay\n  - comeback\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba highlight showed Tyrese Haliburton completing an Eastbay dunk roughly\na year after the Achilles injury that ended his 2025 Finals run.\n\n## Why It Is Funny\n\nA careful comeback update would have been a jog or a set shot. Haliburton\ninstead selected the dunk-contest option and turned one clip into a much louder\nprogress report.\n\n## Comment Highlights\n\n- Label: Recovery volume\n  Summary: Fans treated the dunk as a particularly emphatic sign of athletic progress.\n  Why funny: The update arrived several levels above the minimum proof-of-movement requirement.\n  Source URL: https://www.reddit.com/r/nba/comments/1v6hqkb/highlights_a_year_removed_from_injuring_his/\n- Label: Offseason scouting\n  Summary: The thread immediately began evaluating Haliburton's current conditioning from one airborne finish.\n  Why funny: One Eastbay became a full preseason medical and roster meeting.\n  Source URL: https://www.reddit.com/r/nba/comments/1v6hqkb/highlights_a_year_removed_from_injuring_his/\n\n## Quote\n\nThe recovery update came with dunk-contest settings enabled.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v6hqkb/highlights_a_year_removed_from_injuring_his/\n- Source type: Reddit highlight post and public discussion\n- Verification notes: The public Reddit post and discussion were reviewed on 2026-07-26. The timing and injury context are attributed to the post's framing.\n\n## Sports Radar Markdown\n\n```md\n**Tyrese Haliburton puts an Eastbay into the comeback reel**\n\nA year after his Finals injury, Haliburton turned a recovery update into a dunk-contest clip.\n\nWhy it works: The progress report arrived several levels above the minimum requirement.\n```\n"
   },
   {
+    "id": "wemby-river-walk-paris",
+    "rank": 1,
+    "title": "Wemby exports the River Walk to Paris",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-08",
+    "heat": 98,
+    "tags": [
+      "r/nba",
+      "Victor Wembanyama",
+      "San Antonio",
+      "Paris"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba video post showed Victor Wembanyama in Paris comparing the view to San\nAntonio's River Walk.",
+    "whyFunny": "The French star returned home and immediately gave Paris the San Antonio\ntourist-board treatment. The Seine had been reassigned.",
+    "quote": "Paris, now a River Walk expansion market.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1viewo2/wemby_its_just_like_the_river_walk_in_san_antonio/",
+    "commentHighlights": [
+      {
+        "label": "Local meme certification",
+        "summary": "One fan explained that San Antonio travel videos often relabel famous foreign landmarks as local spots.",
+        "whyFunny": "Wembanyama appeared to bring a hometown internet bit all the way back to France.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1viewo2/comment/p2ed9nv/"
+      }
+    ],
+    "markdown": "---\nid: wemby-river-walk-paris\nrank: 1\ntitle: \"Wemby exports the River Walk to Paris\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-08\"\nheat: 98\ntags:\n  - r/nba\n  - Victor Wembanyama\n  - San Antonio\n  - Paris\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba video post showed Victor Wembanyama in Paris comparing the view to San\nAntonio's River Walk.\n\n## Why It Is Funny\n\nThe French star returned home and immediately gave Paris the San Antonio\ntourist-board treatment. The Seine had been reassigned.\n\n## Comment Highlights\n\n- Label: Local meme certification\n  Summary: One fan explained that San Antonio travel videos often relabel famous foreign landmarks as local spots.\n  Why funny: Wembanyama appeared to bring a hometown internet bit all the way back to France.\n  Source URL: https://www.reddit.com/r/nba/comments/1viewo2/comment/p2ed9nv/\n\n## Quote\n\nParis, now a River Walk expansion market.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1viewo2/wemby_its_just_like_the_river_walk_in_san_antonio/\n- Source type: Reddit top-day NBA video post\n- Verification notes: Sports Radar reviewed the live public r/nba post and comment thread on 2026-08-08. The summary describes the posted comparison and treats the local-meme connection as fan context, not a claim about Wembanyama's private intent.\n\n## Sports Radar Markdown\n\n```md\n**Wemby exports the River Walk to Paris**\n\nAn r/nba video post showed Wembanyama in Paris comparing the view to San Antonio's River Walk.\n\nWhy it works: The Seine had been reassigned.\n```\n"
+  },
+  {
     "id": "reaves-lebron-golf-ruined",
     "rank": 2,
     "title": "Austin Reaves gets his golf round ruined by LeBron news",
@@ -1554,7 +1584,7 @@
     "title": "Leipzig adds 'actually' to the transfer slogan",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-07",
     "heat": 96,
     "tags": [
@@ -1569,7 +1599,7 @@
     "quote": "The transfer fee came with one corrective adverb.",
     "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vh9e03/rb_leipzig_mock_journalist_fabrizio_romano_in/",
     "commentHighlights": [],
-    "markdown": "---\nid: leipzig-here-actually-go\nrank: 2\ntitle: \"Leipzig adds 'actually' to the transfer slogan\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-07\"\nheat: 96\ntags:\n  - r/soccer\n  - RB Leipzig\n  - Fabrizio Romano\n  - transfer announcement\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post highlighted RB Leipzig announcing a record sale with the line\n\"Here we actually go,\" a pointed edit of a transfer reporter's familiar slogan.\n\n## Why It Is Funny\n\nThe club completed a major transfer and used the announcement to litigate who\nwas allowed to call it finished. One adverb carried the entire disagreement.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's top-day review.\n\n## Quote\n\nThe transfer fee came with one corrective adverb.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vh9e03/rb_leipzig_mock_journalist_fabrizio_romano_in/\n- Source type: Reddit top-day transfer-culture post\n- Verification notes: Sports Radar reviewed the public r/soccer top-day page and post on 2026-08-07. The wording is attributed to Leipzig's public announcement; Sports Radar makes no claim about private negotiations.\n\n## Sports Radar Markdown\n\n```md\n**Leipzig adds 'actually' to the transfer slogan**\n\nAn r/soccer post showed Leipzig announcing a record sale with one pointed edit: \"Here we actually go.\"\n\nWhy it works: The transfer fee came with one corrective adverb.\n```\n"
+    "markdown": "---\nid: leipzig-here-actually-go\nrank: 2\ntitle: \"Leipzig adds 'actually' to the transfer slogan\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-07\"\nheat: 96\ntags:\n  - r/soccer\n  - RB Leipzig\n  - Fabrizio Romano\n  - transfer announcement\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post highlighted RB Leipzig announcing a record sale with the line\n\"Here we actually go,\" a pointed edit of a transfer reporter's familiar slogan.\n\n## Why It Is Funny\n\nThe club completed a major transfer and used the announcement to litigate who\nwas allowed to call it finished. One adverb carried the entire disagreement.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's top-day review.\n\n## Quote\n\nThe transfer fee came with one corrective adverb.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vh9e03/rb_leipzig_mock_journalist_fabrizio_romano_in/\n- Source type: Reddit top-day transfer-culture post\n- Verification notes: Sports Radar reviewed the public r/soccer top-day page and post on 2026-08-07. The wording is attributed to Leipzig's public announcement; Sports Radar makes no claim about private negotiations.\n\n## Sports Radar Markdown\n\n```md\n**Leipzig adds 'actually' to the transfer slogan**\n\nAn r/soccer post showed Leipzig announcing a record sale with one pointed edit: \"Here we actually go.\"\n\nWhy it works: The transfer fee came with one corrective adverb.\n```\n"
   },
   {
     "id": "lucky-benjamin-lockscreen",
@@ -1773,6 +1803,29 @@
       }
     ],
     "markdown": "---\nid: rodman-no-modern-scouting-report\nrank: 2\ntitle: \"Rodman's scouting report is no scouting\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-18\"\nheat: 96\ntags:\n  - r/nba\n  - Dennis Rodman\n  - Josh Hart\n  - player comparisons\npublic_ready: true\n---\n\n## Summary\n\nA fan asked Dennis Rodman which current player resembles him and suggested\nJosh Hart. Rodman said he could not answer because he does not watch basketball.\n\n## Why It Is Funny\n\nThe perfect retired-player comparison question reaches a man who has opted out\nof the entire comparison database. The scouting session ends before it starts.\n\n## Comment Highlights\n\n- Label: No modern comp\n  Summary: Fans argued that Rodman's rebounding peak makes every present-day comparison feel undersized.\n  Why funny: The thread keeps scouting after the person being scouted has clocked out.\n  Source URL: https://www.reddit.com/r/nba/comments/1uzg5uy/fan_is_josh_hart_the_version_of_you_hes_small_he/\n- Label: Rebound calculator\n  Summary: The discussion quickly moved from Hart's strong rebounding to Rodman's absurd peak numbers.\n  Why funny: A blunt non-answer triggers a full statistical defense anyway.\n  Source URL: https://www.reddit.com/r/nba/comments/1uzg5uy/fan_is_josh_hart_the_version_of_you_hes_small_he/\n\n## Quote\n\nThe comp question met an out-of-office reply.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uzg5uy/fan_is_josh_hart_the_version_of_you_hes_small_he/\n- Source type: Reddit / r/nba top-day public-interaction discussion\n- Verification notes: the public post preserves the short fan question and Rodman's response; the public copy paraphrases the exchange and keeps the fan reaction separate\n\n## Sports Radar Markdown\n\n```md\n**Rodman's scouting report is no scouting**\n\nAsked which current player resembles him, Dennis Rodman said he could not tell because he does not watch basketball.\n\nWhy it works: the perfect legend-comparison prompt finds a legend who deleted the whole database.\n```\n"
+  },
+  {
+    "id": "sam-cosmi-diggs-sister-veto",
+    "rank": 2,
+    "title": "Sam Cosmi closes the family loophole",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-08",
+    "heat": 96,
+    "tags": [
+      "r/nfl",
+      "Sam Cosmi",
+      "Stefon Diggs",
+      "Washington Commanders"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl highlight showed Sam Cosmi asked about new teammate Stefon Diggs and\nimmediately ruling out one possibility: dating his sister.",
+    "whyFunny": "The new-teammate evaluation skipped football and went straight to a family\nbackground check. Diggs passed the roster test but not the sibling screen.",
+    "quote": "Cleared for the depth chart, denied for the family tree.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vifel4/highlight_commanders_guard_sam_cosmi_when_asked/",
+    "commentHighlights": [],
+    "markdown": "---\nid: sam-cosmi-diggs-sister-veto\nrank: 2\ntitle: \"Sam Cosmi closes the family loophole\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-08\"\nheat: 96\ntags:\n  - r/nfl\n  - Sam Cosmi\n  - Stefon Diggs\n  - Washington Commanders\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl highlight showed Sam Cosmi asked about new teammate Stefon Diggs and\nimmediately ruling out one possibility: dating his sister.\n\n## Why It Is Funny\n\nThe new-teammate evaluation skipped football and went straight to a family\nbackground check. Diggs passed the roster test but not the sibling screen.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's top-day review.\n\n## Quote\n\nCleared for the depth chart, denied for the family tree.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vifel4/highlight_commanders_guard_sam_cosmi_when_asked/\n- Source type: Reddit top-day NFL interview highlight\n- Verification notes: Sports Radar reviewed the live public r/nfl post on 2026-08-08. The item paraphrases Cosmi's posted public answer and does not make a claim about anyone's private life.\n\n## Sports Radar Markdown\n\n```md\n**Sam Cosmi closes the family loophole**\n\nAn r/nfl highlight showed Cosmi welcome his new teammate with one immediate boundary.\n\nWhy it works: Cleared for the depth chart, denied for the family tree.\n```\n"
   },
   {
     "id": "seiya-suzuki-hundred-bananas",
@@ -2803,6 +2856,29 @@
     "markdown": "---\nid: kyle-juszczyk-contract-position\nrank: 3\ntitle: \"Kyle Juszczyk changes positions when payroll opens\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-13\"\nheat: 92\ntags:\n  - r/nfl\n  - Kyle Juszczyk\n  - fullback\n  - contracts\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl post framed Kyle Juszczyk as a tight end or fullback, with Kyle joking\nthat the fullback label is the one that hurts at negotiation time.\n\n## Why It Is Funny\n\nHe can be a hybrid everywhere except the paycheck. Positionless football\nsuddenly finds a very specific label when the contract spreadsheet opens.\n\n## Comment Highlights\n\n## Quote\n\nThe depth chart changes when payroll opens.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1uuq3yd/is_49ers_kyle_juszczyk_a_te_or_fb_im_a_fullback/\n- Source type: Reddit / r/nfl top-day interview headline\n- Verification notes: public post carries Juszczyk's contract-position joke; summarize the framing without making claims about a current negotiation\n\n## Sports Radar Markdown\n\n```md\n**Kyle Juszczyk changes positions when payroll opens**\n\nThe hybrid role becomes much less mysterious as soon as contract math begins.\n\nWhy it works: Positionless football meets a very specific pay category.\n```\n"
   },
   {
+    "id": "lamelo-historic-shoe-guest-list",
+    "rank": 3,
+    "title": "LaMelo drafts the all-time shoe campaign",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-08",
+    "heat": 94,
+    "tags": [
+      "r/nba",
+      "LaMelo Ball",
+      "signature shoes",
+      "dream lineup"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba post quoted LaMelo Ball naming Jesus, Martin Luther King Jr., and\nMalcolm X as the three people he would most like to see wearing his shoes.",
+    "whyFunny": "The question asked for dream endorsements. LaMelo assembled a historical summit\nwith a footwear requirement.",
+    "quote": "The campaign brief skipped directly to the all-time list.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vipfeg/lamelo_ball_on_3_people_he_would_like_to_wear_his/",
+    "commentHighlights": [],
+    "markdown": "---\nid: lamelo-historic-shoe-guest-list\nrank: 3\ntitle: \"LaMelo drafts the all-time shoe campaign\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-08\"\nheat: 94\ntags:\n  - r/nba\n  - LaMelo Ball\n  - signature shoes\n  - dream lineup\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post quoted LaMelo Ball naming Jesus, Martin Luther King Jr., and\nMalcolm X as the three people he would most like to see wearing his shoes.\n\n## Why It Is Funny\n\nThe question asked for dream endorsements. LaMelo assembled a historical summit\nwith a footwear requirement.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's top-day review.\n\n## Quote\n\nThe campaign brief skipped directly to the all-time list.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vipfeg/lamelo_ball_on_3_people_he_would_like_to_wear_his/\n- Source type: Reddit top-day NBA player-answer post\n- Verification notes: Sports Radar reviewed the live public r/nba post on 2026-08-08. The names are attributed to Ball's posted public answer; no additional meaning is inferred.\n\n## Sports Radar Markdown\n\n```md\n**LaMelo drafts the all-time shoe campaign**\n\nAn r/nba post quoted Ball choosing three historical figures for his dream shoe lineup.\n\nWhy it works: The campaign brief skipped directly to the all-time list.\n```\n"
+  },
+  {
     "id": "reaves-luka-home-bowling",
     "rank": 3,
     "title": "Luka loses home-lane advantage at 5:30 a.m.",
@@ -2988,7 +3064,7 @@
     "title": "Seth Jarvis discovers his true position",
     "league": "NHL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-07",
     "heat": 94,
     "tags": [
@@ -3003,7 +3079,7 @@
     "quote": "The goalie audition skipped the equipment check.",
     "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vi231i/ruff_please_enjoy_this_video_of_seth_jarvis_at/",
     "commentHighlights": [],
-    "markdown": "---\nid: seth-jarvis-goalie-audition\nrank: 3\ntitle: \"Seth Jarvis discovers his true position\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-07\"\nheat: 94\ntags:\n  - r/hockey\n  - Seth Jarvis\n  - goalie\n  - optional practice\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey video post showed Seth Jarvis in street clothes defending the net\nafter an optional practice and loudly declaring himself built for goalie duty.\n\n## Why It Is Funny\n\nThe emergency position change arrived without pads, skates, or anyone asking.\nJarvis supplied the confidence and treated equipment as a later detail.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's top-day review.\n\n## Quote\n\nThe goalie audition skipped the equipment check.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vi231i/ruff_please_enjoy_this_video_of_seth_jarvis_at/\n- Source type: Reddit top-day hockey practice video post\n- Verification notes: Sports Radar reviewed the public r/hockey top-day page and post on 2026-08-07. The item is framed as a playful practice moment, not a roster or position report.\n\n## Sports Radar Markdown\n\n```md\n**Seth Jarvis discovers his true position**\n\nAn r/hockey video post showed Jarvis in street clothes defending the net after optional practice.\n\nWhy it works: The goalie audition skipped the equipment check.\n```\n"
+    "markdown": "---\nid: seth-jarvis-goalie-audition\nrank: 3\ntitle: \"Seth Jarvis discovers his true position\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-07\"\nheat: 94\ntags:\n  - r/hockey\n  - Seth Jarvis\n  - goalie\n  - optional practice\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey video post showed Seth Jarvis in street clothes defending the net\nafter an optional practice and loudly declaring himself built for goalie duty.\n\n## Why It Is Funny\n\nThe emergency position change arrived without pads, skates, or anyone asking.\nJarvis supplied the confidence and treated equipment as a later detail.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's top-day review.\n\n## Quote\n\nThe goalie audition skipped the equipment check.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vi231i/ruff_please_enjoy_this_video_of_seth_jarvis_at/\n- Source type: Reddit top-day hockey practice video post\n- Verification notes: Sports Radar reviewed the public r/hockey top-day page and post on 2026-08-07. The item is framed as a playful practice moment, not a roster or position report.\n\n## Sports Radar Markdown\n\n```md\n**Seth Jarvis discovers his true position**\n\nAn r/hockey video post showed Jarvis in street clothes defending the net after optional practice.\n\nWhy it works: The goalie audition skipped the equipment check.\n```\n"
   },
   {
     "id": "spain-unbeaten-result-wall",
@@ -3712,6 +3788,29 @@
     "markdown": "---\nid: micah-richards-dive-time-capsule\nrank: 4\ntitle: \"Micah Richards turns a dive into a time capsule\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-02\"\nheat: 92\ntags:\n  - r/sports\n  - Micah Richards\n  - Stoke City\n  - archive clip\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports top-day post resurfaced an old Micah Richards dive against Stoke\nCity.\n\n## Why It Is Funny\n\nThe clip title is barely a sentence because the physical comedy supplies the\nrest. Sports archives have a way of returning one extremely specific memory\nto the group chat.\n\n## Comment Highlights\n\n- Label: Swimming event\n  Summary: Fans recast the old dive as a dolphin impression or an entry for a judging panel.\n  Why funny: The football clip kept attracting aquatic vocabulary.\n  Source URL: https://www.reddit.com/r/sports/comments/1vdimvv/micah_richards_dive_vs_stoke_city/\n- Label: Archive argument\n  Summary: The thread debated why a decade-old clip had returned, then continued scoring the dive anyway.\n  Why funny: Complaining about the replay became part of the replay's new life.\n  Source URL: https://www.reddit.com/r/sports/comments/1vdimvv/micah_richards_dive_vs_stoke_city/\n\n## Quote\n\nThe archive reopened one very short case file.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1vdimvv/micah_richards_dive_vs_stoke_city/\n- Source type: Reddit RSS top-day archive post\n- Verification notes: The RSS title and source URL were reviewed on 2026-08-02. Sports Radar describes only the resurfaced dive framing and makes no claim about the original match context.\n\n## Sports Radar Markdown\n\n```md\n**Micah Richards turns a dive into a time capsule**\n\nAn old Micah Richards dive against Stoke returned to the sports internet with almost no setup required.\n\nWhy it works: The archive reopened one very short case file.\n```\n"
   },
   {
+    "id": "michael-locksley-different-four-eight",
+    "rank": 4,
+    "title": "Michael Locksley finds a different 4-8",
+    "league": "College Football",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-08",
+    "heat": 92,
+    "tags": [
+      "r/CFB",
+      "Michael Locksley",
+      "Maryland",
+      "coach quotes"
+    ],
+    "public_ready": true,
+    "summary": "An r/CFB post quoted Michael Locksley saying Maryland's 4-8 season last year was\ndifferent from the 4-8 season before it.",
+    "whyFunny": "The record stayed exactly where it was while the explanation demanded nuance.\nHe did not say it was better. Different was doing all the work.",
+    "quote": "Same record, different vintage.",
+    "sourceUrl": "https://www.reddit.com/r/CFB/comments/1viahu1/howes_michael_locksley_im_not_diminishing_that_i/",
+    "commentHighlights": [],
+    "markdown": "---\nid: michael-locksley-different-four-eight\nrank: 4\ntitle: \"Michael Locksley finds a different 4-8\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-08\"\nheat: 92\ntags:\n  - r/CFB\n  - Michael Locksley\n  - Maryland\n  - coach quotes\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB post quoted Michael Locksley saying Maryland's 4-8 season last year was\ndifferent from the 4-8 season before it.\n\n## Why It Is Funny\n\nThe record stayed exactly where it was while the explanation demanded nuance.\nHe did not say it was better. Different was doing all the work.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's top-day review.\n\n## Quote\n\nSame record, different vintage.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1viahu1/howes_michael_locksley_im_not_diminishing_that_i/\n- Source type: Reddit top-day college-football coach-quote post\n- Verification notes: Sports Radar reviewed the live public r/CFB post on 2026-08-08. The summary preserves the distinction in the posted quote without judging either season's underlying performance.\n\n## Sports Radar Markdown\n\n```md\n**Michael Locksley finds a different 4-8**\n\nAn r/CFB post quoted Locksley distinguishing last year's 4-8 from the 4-8 before it.\n\nWhy it works: Same record, different vintage.\n```\n"
+  },
+  {
     "id": "munetaka-murakami-music-answer",
     "rank": 4,
     "title": "Munetaka Murakami answers the music question with one word",
@@ -3883,7 +3982,7 @@
     "title": "Ryan Day teaches discipline from the AMG",
     "league": "College Football",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-07",
     "heat": 92,
     "tags": [
@@ -3898,7 +3997,7 @@
     "quote": "Discipline, now with an AMG trim package.",
     "sourceUrl": "https://www.reddit.com/r/CFB/comments/1vi106d/on3_ryan_day_says_he_tells_players_he_could_floor/",
     "commentHighlights": [],
-    "markdown": "---\nid: ryan-day-amg-discipline\nrank: 4\ntitle: \"Ryan Day teaches discipline from the AMG\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-07\"\nheat: 92\ntags:\n  - r/CFB\n  - Ryan Day\n  - Ohio State\n  - AMG Mercedes\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB post relayed Ryan Day telling players that his AMG can go very fast,\nbut he does not floor it because he is disciplined.\n\n## Why It Is Funny\n\nThe life lesson arrived with a luxury-car specification built into it. The\nrestraint mattered, but making sure everyone knew what was being restrained\napparently mattered too.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's top-day review.\n\n## Quote\n\nDiscipline, now with an AMG trim package.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1vi106d/on3_ryan_day_says_he_tells_players_he_could_floor/\n- Source type: Reddit top-day coach-quote video post\n- Verification notes: Sports Radar reviewed the public r/CFB top-day page and attributed post on 2026-08-07. The summary treats the car example as a public coaching analogy, not a claim about driving behavior.\n\n## Sports Radar Markdown\n\n```md\n**Ryan Day teaches discipline from the AMG**\n\nAn r/CFB post said Day explains restraint by noting that his AMG could go fast, but he chooses not to floor it.\n\nWhy it works: Discipline, now with an AMG trim package.\n```\n"
+    "markdown": "---\nid: ryan-day-amg-discipline\nrank: 4\ntitle: \"Ryan Day teaches discipline from the AMG\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-07\"\nheat: 92\ntags:\n  - r/CFB\n  - Ryan Day\n  - Ohio State\n  - AMG Mercedes\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB post relayed Ryan Day telling players that his AMG can go very fast,\nbut he does not floor it because he is disciplined.\n\n## Why It Is Funny\n\nThe life lesson arrived with a luxury-car specification built into it. The\nrestraint mattered, but making sure everyone knew what was being restrained\napparently mattered too.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's top-day review.\n\n## Quote\n\nDiscipline, now with an AMG trim package.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1vi106d/on3_ryan_day_says_he_tells_players_he_could_floor/\n- Source type: Reddit top-day coach-quote video post\n- Verification notes: Sports Radar reviewed the public r/CFB top-day page and attributed post on 2026-08-07. The summary treats the car example as a public coaching analogy, not a claim about driving behavior.\n\n## Sports Radar Markdown\n\n```md\n**Ryan Day teaches discipline from the AMG**\n\nAn r/CFB post said Day explains restraint by noting that his AMG could go fast, but he chooses not to floor it.\n\nWhy it works: Discipline, now with an AMG trim package.\n```\n"
   },
   {
     "id": "zeferjahn-gameday-missing-pitch",
@@ -4681,7 +4780,7 @@
     "title": "Jaylen Brown adds one rivalry exception",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-07",
     "heat": 90,
     "tags": [
@@ -4696,7 +4795,7 @@
     "quote": "Mutual respect, subject to the schedule.",
     "sourceUrl": "https://www.reddit.com/r/nba/comments/1vhdm23/jaylen_brown_on_his_relationship_with_jayson/",
     "commentHighlights": [],
-    "markdown": "---\nid: jaylen-brown-sixers-exception\nrank: 5\ntitle: \"Jaylen Brown adds one rivalry exception\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-07\"\nheat: 90\ntags:\n  - r/nba\n  - Jaylen Brown\n  - Jayson Tatum\n  - Philadelphia 76ers\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post quoted Jaylen Brown expressing respect for former teammate Jayson\nTatum, with one exception reserved for games against Philadelphia.\n\n## Why It Is Funny\n\nThe relationship answer tried to stay diplomatic until the schedule entered\nthe room. Respect survived the trade, but not a Sixers matchup.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's top-day review.\n\n## Quote\n\nMutual respect, subject to the schedule.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vhdm23/jaylen_brown_on_his_relationship_with_jayson/\n- Source type: Reddit top-day player-quote post\n- Verification notes: Sports Radar reviewed the public r/nba top-day page and post on 2026-08-07. The item paraphrases only the public quote and does not infer the players' private relationship.\n\n## Sports Radar Markdown\n\n```md\n**Jaylen Brown adds one rivalry exception**\n\nAn r/nba post quoted Brown giving Tatum respect, except when the schedule says Philadelphia.\n\nWhy it works: Mutual respect, subject to the schedule.\n```\n"
+    "markdown": "---\nid: jaylen-brown-sixers-exception\nrank: 5\ntitle: \"Jaylen Brown adds one rivalry exception\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-07\"\nheat: 90\ntags:\n  - r/nba\n  - Jaylen Brown\n  - Jayson Tatum\n  - Philadelphia 76ers\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post quoted Jaylen Brown expressing respect for former teammate Jayson\nTatum, with one exception reserved for games against Philadelphia.\n\n## Why It Is Funny\n\nThe relationship answer tried to stay diplomatic until the schedule entered\nthe room. Respect survived the trade, but not a Sixers matchup.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's top-day review.\n\n## Quote\n\nMutual respect, subject to the schedule.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vhdm23/jaylen_brown_on_his_relationship_with_jayson/\n- Source type: Reddit top-day player-quote post\n- Verification notes: Sports Radar reviewed the public r/nba top-day page and post on 2026-08-07. The item paraphrases only the public quote and does not infer the players' private relationship.\n\n## Sports Radar Markdown\n\n```md\n**Jaylen Brown adds one rivalry exception**\n\nAn r/nba post quoted Brown giving Tatum respect, except when the schedule says Philadelphia.\n\nWhy it works: Mutual respect, subject to the schedule.\n```\n"
   },
   {
     "id": "kuzma-lifestyle-creep-lecture",
@@ -4984,6 +5083,29 @@
       }
     ],
     "markdown": "---\nid: sean-sweeney-46-minute-finals\nrank: 5\ntitle: \"Sean Sweeney wins the 46-minute Finals\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-23\"\nheat: 90\ntags:\n  - r/nba\n  - Sean Sweeney\n  - San Antonio Spurs\n  - NBA Finals\npublic_ready: true\n---\n\n## Summary\n\nSean Sweeney said his former Spurs staff was told it would have won the NBA\nFinals 4-1 if each game had ended after 46 minutes.\n\n## Why It Is Funny\n\nThe final two minutes were reclassified from basketball into an inconvenient\nformatting choice. Fans promptly awarded San Antonio the championship of a\nleague that stops just before closing time.\n\n## Comment Highlights\n\n- Label: Analytical championship\n  Summary: Fans promoted the Spurs to champions of the 46-minute game.\n  Why funny: A loss acquired a trophy by changing the unit of measurement.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvwxnq/magic_hc_and_exspurs_assistant_sean_sweeney_on/\n- Label: Per-46 era\n  Summary: The thread proposed replacing familiar per-36 statistics with a new 46-minute category.\n  Why funny: The cope became advanced analytics before the discussion was over.\n  Source URL: https://www.reddit.com/r/nba/comments/1uvwxnq/magic_hc_and_exspurs_assistant_sean_sweeney_on/\n\n## Quote\n\nThe championship ended two minutes before the championship.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uvwxnq/magic_hc_and_exspurs_assistant_sean_sweeney_on/\n- Source type: Reddit / r/nba top-day podcast quote and Finals reaction thread\n- Verification notes: the public post quotes Sweeney's 46-minute framing and also includes his acknowledgment that the Spurs made mistakes; this copy targets the unusual counterfactual, not the broader accountability debate\n\n## Sports Radar Markdown\n\n```md\n**Sean Sweeney wins the 46-minute Finals**\n\nSweeney said the Spurs would have won 4-1 if NBA games stopped two minutes early.\n\nWhy it works: the thread awarded San Antonio a championship in a league with a new closing time.\n```\n"
+  },
+  {
+    "id": "efl-substitution-shot-clock",
+    "rank": 5,
+    "title": "Soccer gets a substitution shot clock",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-08",
+    "heat": 90,
+    "tags": [
+      "r/soccer",
+      "EFL Cup",
+      "Middlesbrough",
+      "substitution rule"
+    ],
+    "public_ready": true,
+    "summary": "An r/soccer video post showed Middlesbrough play about a minute with 10 players\nafter a substitution took longer than the new 10-second limit.",
+    "whyFunny": "Soccer finally found a shot clock and attached it to walking off the field. A\nroutine substitution briefly became a timed elimination challenge.",
+    "quote": "Ten seconds to leave, one minute to think about it.",
+    "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vipcoo/new_rule_in_play_for_the_first_time_yesterday_in/",
+    "commentHighlights": [],
+    "markdown": "---\nid: efl-substitution-shot-clock\nrank: 5\ntitle: \"Soccer gets a substitution shot clock\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-08\"\nheat: 90\ntags:\n  - r/soccer\n  - EFL Cup\n  - Middlesbrough\n  - substitution rule\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer video post showed Middlesbrough play about a minute with 10 players\nafter a substitution took longer than the new 10-second limit.\n\n## Why It Is Funny\n\nSoccer finally found a shot clock and attached it to walking off the field. A\nroutine substitution briefly became a timed elimination challenge.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's top-day review.\n\n## Quote\n\nTen seconds to leave, one minute to think about it.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vipcoo/new_rule_in_play_for_the_first_time_yesterday_in/\n- Source type: Reddit top-day soccer rules video post\n- Verification notes: Sports Radar reviewed the live public r/soccer post on 2026-08-08. The summary attributes the timing and temporary player reduction to the posted match clip rather than presenting an independent rules report.\n\n## Sports Radar Markdown\n\n```md\n**Soccer gets a substitution shot clock**\n\nAn r/soccer post showed Middlesbrough briefly reduced to 10 players after a slow substitution.\n\nWhy it works: Ten seconds to leave, one minute to think about it.\n```\n"
   },
   {
     "id": "spain-viking-row-celebration",
