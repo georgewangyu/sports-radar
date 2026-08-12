@@ -2940,6 +2940,36 @@
     "markdown": "---\nid: evander-forty-yard-goal\nrank: 3\ntitle: \"Evander solves the 40-yard problem directly\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-02\"\nheat: 94\ntags:\n  - r/soccer\n  - FC Cincinnati\n  - Evander\n  - long-range goal\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post highlighted Evander driving in FC Cincinnati's go-ahead goal\nagainst San Jose from roughly 40 yards in the 82nd minute.\n\n## Why It Is Funny\n\nThe usual build-up instructions became optional. Evander saw an unreasonable\ndistance and treated it like the shortest route to goal.\n\n## Comment Highlights\n\n- Label: Bangers only\n  Summary: Fans grouped the strike with a run of spectacular MLS goals and declared the league committed to long-range chaos.\n  Why funny: Ordinary finishes were apparently unavailable that night.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/\n- Label: MLS after dark\n  Summary: The discussion folded a long weather delay and the late goal into the league's familiar after-dark lore.\n  Why funny: The storm postponed the match but improved the mythology.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/\n\n## Quote\n\nBuild-up play was reduced to one very long step.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/\n- Source type: Reddit RSS top-day post\n- Verification notes: The RSS title and source URL were reviewed on 2026-08-02. The score, minute, player, opponent, and approximate distance are attributed to the post title; no raw comments were promoted.\n\n## Sports Radar Markdown\n\n```md\n**Evander solves the 40-yard problem directly**\n\nAn r/soccer post highlighted Evander putting FC Cincinnati ahead from roughly 40 yards late against San Jose.\n\nWhy it works: Build-up play was reduced to one very long step.\n```\n"
   },
   {
+    "id": "fred-caipirinha-receipt-defense",
+    "rank": 3,
+    "title": "Fred brings receipts for only 27 caipirinhas",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-12",
+    "heat": 94,
+    "tags": [
+      "r/soccer",
+      "Fred",
+      "Fluminense",
+      "throwback lore"
+    ],
+    "public_ready": true,
+    "summary": "An r/soccer throwback revisited Fluminense striker Fred bringing a restaurant\nbill to a press conference to dispute a report that his group had consumed 60\ncaipirinhas; the receipt put the total at 27, plus one final drink.",
+    "whyFunny": "The defense did not challenge the night out, only the scale of it. Producing\nformal documentary evidence that the group had ordered 28 drinks turned damage\ncontrol into one of soccer's great technical corrections.",
+    "quote": "The defense rests at 27, plus one for the road.",
+    "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vme0ac/otd_15_years_ago_fluminense_striker_fred_brought/",
+    "commentHighlights": [
+      {
+        "label": "Receipt review",
+        "summary": "The thread audited the table count, drink total, and last-call exception as if the bill were match footage.",
+        "whyFunny": "The correction made the number smaller without making the story feel restrained.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vme0ac/otd_15_years_ago_fluminense_striker_fred_brought/"
+      }
+    ],
+    "markdown": "---\nid: fred-caipirinha-receipt-defense\nrank: 3\ntitle: \"Fred brings receipts for only 27 caipirinhas\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-12\"\nheat: 94\ntags:\n  - r/soccer\n  - Fred\n  - Fluminense\n  - throwback lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer throwback revisited Fluminense striker Fred bringing a restaurant\nbill to a press conference to dispute a report that his group had consumed 60\ncaipirinhas; the receipt put the total at 27, plus one final drink.\n\n## Why It Is Funny\n\nThe defense did not challenge the night out, only the scale of it. Producing\nformal documentary evidence that the group had ordered 28 drinks turned damage\ncontrol into one of soccer's great technical corrections.\n\n## Comment Highlights\n\n- Label: Receipt review\n  Summary: The thread audited the table count, drink total, and last-call exception as if the bill were match footage.\n  Why funny: The correction made the number smaller without making the story feel restrained.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vme0ac/otd_15_years_ago_fluminense_striker_fred_brought/\n\n## Quote\n\nThe defense rests at 27, plus one for the road.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vme0ac/otd_15_years_ago_fluminense_striker_fred_brought/\n- Source type: Reddit throwback media post\n- Verification notes: Sports Radar reviewed the public post, receipt image, and discussion on 2026-08-12. The drink totals and press-conference framing remain attributed to the throwback post; the public copy does not infer anything beyond that account.\n\n## Sports Radar Markdown\n\n```md\n**Fred brings receipts for only 27 caipirinhas**\n\nA soccer throwback featured a restaurant bill deployed to correct 60 drinks down to 27, plus one final order.\n\nWhy it works: The evidence made the number smaller without making the story feel restrained.\n```\n"
+  },
+  {
     "id": "gerrit-cole-broken-clock-balk",
     "rank": 3,
     "title": "Gerrit Cole reports a broken clock and gets a balk",
@@ -3547,36 +3577,6 @@
       }
     ],
     "markdown": "---\nid: ncaa-lawyers-google-after-ruling\nrank: 3\ntitle: \"The NCAA's legal bill discovers Google after the ruling\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-23\"\nheat: 94\ntags:\n  - r/CFB\n  - NCAA\n  - college eligibility\n  - legal fees\npublic_ready: true\n---\n\n## Summary\n\nAfter the NCAA questioned an Ohio judge's school ties in an eligibility case,\nattorney Tom Mars mocked the timing by describing expensive lawyers discovering\nthose degrees only after the ruling.\n\n## Why It Is Funny\n\nThe punchline turns a legal strategy into a very costly Google search performed\none result too late. The thread then spent as much time auditing the hourly rate\nas the case.\n\n## Comment Highlights\n\n- Label: Rent-per-hour review\n  Summary: Fans compared the quoted legal rate with rent and ordinary monthly expenses.\n  Why funny: The case briefly became a cost-of-living calculator for one hour of research.\n  Source URL: https://www.reddit.com/r/CFB/comments/1ut4eul/mars_if_i_were_the_ncaa_i_dont_think_id_be/\n- Label: Billing audit\n  Summary: Lawyers in the thread debated which firms and seniority levels could actually command the stated rate.\n  Why funny: A joke about missing one search produced a full unpaid billing review.\n  Source URL: https://www.reddit.com/r/CFB/comments/1ut4eul/mars_if_i_were_the_ncaa_i_dont_think_id_be/\n\n## Quote\n\nThe premium search package arrived after judgment.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1ut4eul/mars_if_i_were_the_ncaa_i_dont_think_id_be/\n- Source type: Reddit / r/CFB top-day public attorney quote and reaction thread\n- Verification notes: the post presents Mars's criticism of the NCAA's timing; the copy attributes the criticism to him and does not independently assert legal incompetence or the exact billed rate\n\n## Sports Radar Markdown\n\n```md\n**The NCAA's legal bill discovers Google after the ruling**\n\nAn attorney reduced the NCAA's complaint about a judge's school ties to one very late, very expensive search.\n\nWhy it works: the thread answered a legal dispute with a full billing audit.\n```\n"
-  },
-  {
-    "id": "nhl-marble-cup-ninth-place",
-    "rank": 3,
-    "title": "The NHL Marble Cup reaches ninth-place drama",
-    "league": "NHL",
-    "source": "Reddit",
-    "status": "today",
-    "date": "2026-08-12",
-    "heat": 94,
-    "tags": [
-      "r/hockey",
-      "NHL Marble Cup",
-      "fan-made",
-      "offseason"
-    ],
-    "public_ready": true,
-    "summary": "The fan-made NHL Marble Cup reached its race for ninth place, with team marbles\nturning a homemade obstacle course into a playoff-selection show.",
-    "whyFunny": "The real schedule is still quiet, so random motion now carries rivalry stakes.\nThe thread supplied tactical analysis, heartbreak, and officiating complaints\nto marbles that do not know which teams they represent.",
-    "quote": "The playoff picture is literally rolling into place.",
-    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vlszjc/2026_nhl_marble_cup_9th_place_race/",
-    "commentHighlights": [
-      {
-        "label": "Marble postseason",
-        "summary": "Fans tracked the ninth-place result into a fictional first-round matchup and reacted as if a real season had turned.",
-        "whyFunny": "An offseason craft project now has standings, playoff math, and devastated fan bases.",
-        "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vlszjc/2026_nhl_marble_cup_9th_place_race/"
-      }
-    ],
-    "markdown": "---\nid: nhl-marble-cup-ninth-place\nrank: 3\ntitle: \"The NHL Marble Cup reaches ninth-place drama\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-12\"\nheat: 94\ntags:\n  - r/hockey\n  - NHL Marble Cup\n  - fan-made\n  - offseason\npublic_ready: true\n---\n\n## Summary\n\nThe fan-made NHL Marble Cup reached its race for ninth place, with team marbles\nturning a homemade obstacle course into a playoff-selection show.\n\n## Why It Is Funny\n\nThe real schedule is still quiet, so random motion now carries rivalry stakes.\nThe thread supplied tactical analysis, heartbreak, and officiating complaints\nto marbles that do not know which teams they represent.\n\n## Comment Highlights\n\n- Label: Marble postseason\n  Summary: Fans tracked the ninth-place result into a fictional first-round matchup and reacted as if a real season had turned.\n  Why funny: An offseason craft project now has standings, playoff math, and devastated fan bases.\n  Source URL: https://www.reddit.com/r/hockey/comments/1vlszjc/2026_nhl_marble_cup_9th_place_race/\n\n## Quote\n\nThe playoff picture is literally rolling into place.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vlszjc/2026_nhl_marble_cup_9th_place_race/\n- Source type: Reddit fan-made video series\n- Verification notes: Sports Radar reviewed the public ninth-place race post, standings, and discussion on 2026-08-12. The competition and outcomes are explicitly fan-made offseason entertainment.\n\n## Sports Radar Markdown\n\n```md\n**The NHL Marble Cup reaches ninth-place drama**\n\nTeam marbles turned a homemade obstacle course into a playoff-selection show.\n\nWhy it works: Random motion now has standings, tactics, and devastated fan bases.\n```\n"
   },
   {
     "id": "shaq-rim-rejection",
@@ -4675,34 +4675,34 @@
     "markdown": "---\nid: nhl-marble-cup-28th-place\nrank: 4\ntitle: \"The NHL Marble Cup races for 28th place\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-24\"\nheat: 92\ntags:\n  - r/hockey\n  - NHL Marble Cup\n  - fan-made\n  - offseason\npublic_ready: true\n---\n\n## Summary\n\nA fan-made NHL Marble Cup reached race five with team-colored marbles competing\nfor the deeply prestigious prize of 28th place.\n\n## Why It Is Funny\n\nThe production gives the bottom of the standings a full race-day spectacle.\nHockey fans immediately supplied allegiance, strategy, and conspiracy theories\nto objects moving through a homemade course.\n\n## Comment Highlights\n\n- Label: Lottery replacement\n  Summary: Fans proposed settling the NHL draft lottery with the same marble-race format.\n  Why funny: A homemade offseason series was promoted into league governance within minutes.\n  Source URL: https://www.reddit.com/r/hockey/comments/1v4spsz/2026_nhl_marble_cup_28th_place_race/\n- Label: Marble strategy desk\n  Summary: The discussion analyzed course design, comebacks, collisions, and team form as if the marbles were making decisions.\n  Why funny: Random motion received a complete postgame tactical vocabulary.\n  Source URL: https://www.reddit.com/r/hockey/comments/1v4spsz/2026_nhl_marble_cup_28th_place_race/\n\n## Quote\n\nThe race for 28th has a broadcast package now.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1v4spsz/2026_nhl_marble_cup_28th_place_race/\n- Source type: Reddit fan-made video post\n- Verification notes: The public Reddit post and discussion were reviewed on 2026-07-24.\n\n## Sports Radar Markdown\n\n```md\n**The NHL Marble Cup races for 28th place**\n\nTeam-colored marbles received a full race-day spectacle for the bottom of the standings.\n\nWhy it works: Random motion immediately produced strategy, fandom, and conspiracy theories.\n```\n"
   },
   {
-    "id": "toronto-four-team-expansion-math",
+    "id": "nhl-marble-cup-ninth-place",
     "rank": 4,
-    "title": "Toronto turns one NHL team into expansion math",
+    "title": "The NHL Marble Cup reaches ninth-place drama",
     "league": "NHL",
     "source": "Reddit",
     "status": "today",
     "date": "2026-08-12",
-    "heat": 92,
+    "heat": 94,
     "tags": [
       "r/hockey",
-      "Toronto",
-      "expansion",
-      "fan debate"
+      "NHL Marble Cup",
+      "fan-made",
+      "offseason"
     ],
     "public_ready": true,
-    "summary": "An r/hockey discussion used London's many soccer clubs to ask how many NHL\nteams the Greater Toronto Area could support, proposing a four-team local map\nas a thought experiment.",
-    "whyFunny": "Expansion talk became city planning, economics, and Canadian corporate-name\nsatire at once. Before a second team existed, the thread had already invented\nan entire division and worried about naming all its arenas.",
-    "quote": "The expansion map needs an arena-name generator.",
-    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vlt3j1/serious_discussion_why_does_toronto_only_have_1/",
+    "summary": "The fan-made NHL Marble Cup reached its race for ninth place, with team marbles\nturning a homemade obstacle course into a playoff-selection show.",
+    "whyFunny": "The real schedule is still quiet, so random motion now carries rivalry stakes.\nThe thread supplied tactical analysis, heartbreak, and officiating complaints\nto marbles that do not know which teams they represent.",
+    "quote": "The playoff picture is literally rolling into place.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vlszjc/2026_nhl_marble_cup_9th_place_race/",
     "commentHighlights": [
       {
-        "label": "Arena-name expansion draft",
-        "summary": "The discussion quickly imagined a collection of similarly branded Toronto-area arenas and teams backed by Canada's biggest companies.",
-        "whyFunny": "The hypothetical ran out of original venue names before it ran out of franchises.",
-        "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vlt3j1/serious_discussion_why_does_toronto_only_have_1/"
+        "label": "Marble postseason",
+        "summary": "Fans tracked the ninth-place result into a fictional first-round matchup and reacted as if a real season had turned.",
+        "whyFunny": "An offseason craft project now has standings, playoff math, and devastated fan bases.",
+        "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vlszjc/2026_nhl_marble_cup_9th_place_race/"
       }
     ],
-    "markdown": "---\nid: toronto-four-team-expansion-math\nrank: 4\ntitle: \"Toronto turns one NHL team into expansion math\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-12\"\nheat: 92\ntags:\n  - r/hockey\n  - Toronto\n  - expansion\n  - fan debate\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey discussion used London's many soccer clubs to ask how many NHL\nteams the Greater Toronto Area could support, proposing a four-team local map\nas a thought experiment.\n\n## Why It Is Funny\n\nExpansion talk became city planning, economics, and Canadian corporate-name\nsatire at once. Before a second team existed, the thread had already invented\nan entire division and worried about naming all its arenas.\n\n## Comment Highlights\n\n- Label: Arena-name expansion draft\n  Summary: The discussion quickly imagined a collection of similarly branded Toronto-area arenas and teams backed by Canada's biggest companies.\n  Why funny: The hypothetical ran out of original venue names before it ran out of franchises.\n  Source URL: https://www.reddit.com/r/hockey/comments/1vlt3j1/serious_discussion_why_does_toronto_only_have_1/\n\n## Quote\n\nThe expansion map needs an arena-name generator.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vlt3j1/serious_discussion_why_does_toronto_only_have_1/\n- Source type: Reddit fan discussion and original graphic\n- Verification notes: Sports Radar reviewed the public post and discussion on 2026-08-12. The four-team map is presented only as the poster's thought experiment, not a league plan or economic forecast.\n\n## Sports Radar Markdown\n\n```md\n**Toronto turns one NHL team into expansion math**\n\nAn r/hockey thought experiment tried to fit four teams into the Greater Toronto Area.\n\nWhy it works: The thread built a division and exhausted the arena-name supply before team two existed.\n```\n"
+    "markdown": "---\nid: nhl-marble-cup-ninth-place\nrank: 4\ntitle: \"The NHL Marble Cup reaches ninth-place drama\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-12\"\nheat: 94\ntags:\n  - r/hockey\n  - NHL Marble Cup\n  - fan-made\n  - offseason\npublic_ready: true\n---\n\n## Summary\n\nThe fan-made NHL Marble Cup reached its race for ninth place, with team marbles\nturning a homemade obstacle course into a playoff-selection show.\n\n## Why It Is Funny\n\nThe real schedule is still quiet, so random motion now carries rivalry stakes.\nThe thread supplied tactical analysis, heartbreak, and officiating complaints\nto marbles that do not know which teams they represent.\n\n## Comment Highlights\n\n- Label: Marble postseason\n  Summary: Fans tracked the ninth-place result into a fictional first-round matchup and reacted as if a real season had turned.\n  Why funny: An offseason craft project now has standings, playoff math, and devastated fan bases.\n  Source URL: https://www.reddit.com/r/hockey/comments/1vlszjc/2026_nhl_marble_cup_9th_place_race/\n\n## Quote\n\nThe playoff picture is literally rolling into place.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vlszjc/2026_nhl_marble_cup_9th_place_race/\n- Source type: Reddit fan-made video series\n- Verification notes: Sports Radar reviewed the public ninth-place race post, standings, and discussion on 2026-08-12. The competition and outcomes are explicitly fan-made offseason entertainment.\n\n## Sports Radar Markdown\n\n```md\n**The NHL Marble Cup reaches ninth-place drama**\n\nTeam marbles turned a homemade obstacle course into a playoff-selection show.\n\nWhy it works: Random motion now has standings, tactics, and devastated fan bases.\n```\n"
   },
   {
     "id": "trae-young-jersey-tear-quality-test",
@@ -5269,7 +5269,7 @@
     "title": "Jeff Teague gives LeBron a Christmas schedule theory",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-12",
     "heat": 90,
     "tags": [
@@ -5291,7 +5291,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1vllvey/jeff_teague_says_the_nba_scheduled_76ers_vs/"
       }
     ],
-    "markdown": "---\nid: lebron-christmas-schedule-theory\nrank: 5\ntitle: \"Jeff Teague gives LeBron a Christmas schedule theory\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-12\"\nheat: 90\ntags:\n  - r/nba\n  - Jeff Teague\n  - LeBron James\n  - Christmas game\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post circulated Jeff Teague's podcast riff that a Christmas matchup\nin Los Angeles was the league's way of letting LeBron spend the holiday at\nhome.\n\n## Why It Is Funny\n\nA marquee television game became a family-calendar favor in one sentence. The\nthread immediately transformed the schedule into matching pajamas, presents,\nand the latest entry in LeBron nickname lore.\n\n## Comment Highlights\n\n- Label: Holiday nickname workshop\n  Summary: The thread recast the matchup as a Christmas-morning family scene and generated a fresh batch of seasonal LeBron wordplay.\n  Why funny: National television scheduling was reduced to one dad trying to stay near the tree.\n  Source URL: https://www.reddit.com/r/nba/comments/1vllvey/jeff_teague_says_the_nba_scheduled_76ers_vs/\n\n## Quote\n\nThe Christmas schedule now comes with family-calendar lore.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vllvey/jeff_teague_says_the_nba_scheduled_76ers_vs/\n- Source type: Reddit post discussing a public podcast clip\n- Verification notes: Sports Radar reviewed the public post and discussion on 2026-08-12. The scheduling explanation is attributed to Jeff Teague's comedic podcast framing and is not presented as verified league inside information.\n\n## Sports Radar Markdown\n\n```md\n**Jeff Teague gives LeBron a Christmas schedule theory**\n\nAn r/nba post reframed a Los Angeles holiday matchup as a family-calendar favor.\n\nWhy it works: A marquee television game became one dad trying to stay near the tree.\n```\n"
+    "markdown": "---\nid: lebron-christmas-schedule-theory\nrank: 5\ntitle: \"Jeff Teague gives LeBron a Christmas schedule theory\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-12\"\nheat: 90\ntags:\n  - r/nba\n  - Jeff Teague\n  - LeBron James\n  - Christmas game\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post circulated Jeff Teague's podcast riff that a Christmas matchup\nin Los Angeles was the league's way of letting LeBron spend the holiday at\nhome.\n\n## Why It Is Funny\n\nA marquee television game became a family-calendar favor in one sentence. The\nthread immediately transformed the schedule into matching pajamas, presents,\nand the latest entry in LeBron nickname lore.\n\n## Comment Highlights\n\n- Label: Holiday nickname workshop\n  Summary: The thread recast the matchup as a Christmas-morning family scene and generated a fresh batch of seasonal LeBron wordplay.\n  Why funny: National television scheduling was reduced to one dad trying to stay near the tree.\n  Source URL: https://www.reddit.com/r/nba/comments/1vllvey/jeff_teague_says_the_nba_scheduled_76ers_vs/\n\n## Quote\n\nThe Christmas schedule now comes with family-calendar lore.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vllvey/jeff_teague_says_the_nba_scheduled_76ers_vs/\n- Source type: Reddit post discussing a public podcast clip\n- Verification notes: Sports Radar reviewed the public post and discussion on 2026-08-12. The scheduling explanation is attributed to Jeff Teague's comedic podcast framing and is not presented as verified league inside information.\n\n## Sports Radar Markdown\n\n```md\n**Jeff Teague gives LeBron a Christmas schedule theory**\n\nAn r/nba post reframed a Los Angeles holiday matchup as a family-calendar favor.\n\nWhy it works: A marquee television game became one dad trying to stay near the tree.\n```\n"
   },
   {
     "id": "kuzma-lifestyle-creep-lecture",
@@ -5911,6 +5911,36 @@
       }
     ],
     "markdown": "---\nid: tim-payne-olimpia-debut-goal\nrank: 5\ntitle: \"Tim Payne needs one match to open the Olimpia account\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-03\"\nheat: 90\ntags:\n  - r/sports\n  - Tim Payne\n  - Olimpia\n  - debut goal\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports top-day post highlighted Tim Payne scoring on his debut for\nParaguay's Olimpia.\n\n## Why It Is Funny\n\nThe introductory period lasted exactly as long as the first goal notification.\nPayne skipped the quiet onboarding phase and went straight to the part fans\nsend to the group chat.\n\n## Comment Highlights\n\n- Label: T-Pain soundtrack\n  Summary: Fans turned Payne's name and the extended goal call into an autotuned T-Pain bit.\n  Why funny: The debut goal arrived with its own accidental soundtrack.\n  Source URL: https://www.reddit.com/r/sports/comments/1vdvddv/tim_payne_scores_a_goal_in_his_debut_with/\n- Label: One-touch approval\n  Summary: The thread singled out the finish for how cleanly it arrived from one touch.\n  Why funny: The onboarding goal required almost no onboarding touches.\n  Source URL: https://www.reddit.com/r/sports/comments/1vdvddv/tim_payne_scores_a_goal_in_his_debut_with/\n\n## Quote\n\nThe onboarding checklist included one goal.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1vdvddv/tim_payne_scores_a_goal_in_his_debut_with/\n- Source type: Reddit RSS top-day post\n- Verification notes: The RSS title, source URL, and public thread were reviewed on 2026-08-03. The player, debut, goal, club, and country are attributed to the post title; comment material is paraphrased.\n\n## Sports Radar Markdown\n\n```md\n**Tim Payne needs one match to open the Olimpia account**\n\nAn r/sports post highlighted Payne scoring on his debut for Paraguay's Olimpia.\n\nWhy it works: The onboarding checklist included one goal.\n```\n"
+  },
+  {
+    "id": "toronto-four-team-expansion-math",
+    "rank": 5,
+    "title": "Toronto turns one NHL team into expansion math",
+    "league": "NHL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-12",
+    "heat": 92,
+    "tags": [
+      "r/hockey",
+      "Toronto",
+      "expansion",
+      "fan debate"
+    ],
+    "public_ready": true,
+    "summary": "An r/hockey discussion used London's many soccer clubs to ask how many NHL\nteams the Greater Toronto Area could support, proposing a four-team local map\nas a thought experiment.",
+    "whyFunny": "Expansion talk became city planning, economics, and Canadian corporate-name\nsatire at once. Before a second team existed, the thread had already invented\nan entire division and worried about naming all its arenas.",
+    "quote": "The expansion map needs an arena-name generator.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vlt3j1/serious_discussion_why_does_toronto_only_have_1/",
+    "commentHighlights": [
+      {
+        "label": "Arena-name expansion draft",
+        "summary": "The discussion quickly imagined a collection of similarly branded Toronto-area arenas and teams backed by Canada's biggest companies.",
+        "whyFunny": "The hypothetical ran out of original venue names before it ran out of franchises.",
+        "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vlt3j1/serious_discussion_why_does_toronto_only_have_1/"
+      }
+    ],
+    "markdown": "---\nid: toronto-four-team-expansion-math\nrank: 5\ntitle: \"Toronto turns one NHL team into expansion math\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-12\"\nheat: 92\ntags:\n  - r/hockey\n  - Toronto\n  - expansion\n  - fan debate\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey discussion used London's many soccer clubs to ask how many NHL\nteams the Greater Toronto Area could support, proposing a four-team local map\nas a thought experiment.\n\n## Why It Is Funny\n\nExpansion talk became city planning, economics, and Canadian corporate-name\nsatire at once. Before a second team existed, the thread had already invented\nan entire division and worried about naming all its arenas.\n\n## Comment Highlights\n\n- Label: Arena-name expansion draft\n  Summary: The discussion quickly imagined a collection of similarly branded Toronto-area arenas and teams backed by Canada's biggest companies.\n  Why funny: The hypothetical ran out of original venue names before it ran out of franchises.\n  Source URL: https://www.reddit.com/r/hockey/comments/1vlt3j1/serious_discussion_why_does_toronto_only_have_1/\n\n## Quote\n\nThe expansion map needs an arena-name generator.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vlt3j1/serious_discussion_why_does_toronto_only_have_1/\n- Source type: Reddit fan discussion and original graphic\n- Verification notes: Sports Radar reviewed the public post and discussion on 2026-08-12. The four-team map is presented only as the poster's thought experiment, not a league plan or economic forecast.\n\n## Sports Radar Markdown\n\n```md\n**Toronto turns one NHL team into expansion math**\n\nAn r/hockey thought experiment tried to fit four teams into the Greater Toronto Area.\n\nWhy it works: The thread built a division and exhausted the arena-name supply before team two existed.\n```\n"
   },
   {
     "id": "trae-young-god-height-nerf",
