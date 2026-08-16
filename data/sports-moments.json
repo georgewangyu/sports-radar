@@ -599,6 +599,36 @@
     "markdown": "---\nid: lebron-contract-timing\nrank: 1\ntitle: \"LeBron exit timing turns into contract-calendar comedy\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-06-30\"\nheat: 94\ntags:\n  - r/nba\n  - free agency\n  - timing\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba thread latched onto the timing of a LeBron exit report landing right\nafter his son's contract guarantee became public.\n\n## Why It Is Funny\n\nThe joke is not just the transaction. It is Reddit reading the NBA calendar\nlike a family-business escape room.\n\n## Comment Highlights\n\n- Label: Father-son matchup jokes\n  Summary: Early comments immediately jumped from \"play with my son\" to \"play against my son,\" turning a roster report into a hypothetical family rivalry.\n  Why funny: The thread found the sitcom premise hiding inside a cap transaction.\n  Source URL: https://www.reddit.com/r/nba/comments/1ujuc7s/lebron_waited_until_his_sons_contract_was/ouqxtv2/\n- Label: The dunk/block imagination loop\n  Summary: The replies kept escalating into LeBron and Bronny dunking on or blocking each other in real NBA minutes.\n  Why funny: It turns a front-office timing joke into playground stakes with Hall-of-Fame branding.\n  Source URL: https://www.reddit.com/r/nba/comments/1ujuc7s/lebron_waited_until_his_sons_contract_was/ourgo2w/\n- Label: Subreddit detonation forecast\n  Summary: Another branch reduced the whole scenario to the obvious meta-prediction: r/nba would melt down if father and son actually matched up.\n  Why funny: The funniest part is that everyone knows the thread is already rehearsing the future thread.\n  Source URL: https://www.reddit.com/r/nba/comments/1ujuc7s/lebron_waited_until_his_sons_contract_was/ourvz41/\n\n## Quote\n\nThe salary-cap sheet became a family group chat.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1ujuc7s/lebron_waited_until_his_sons_contract_was/\n- Source type: Reddit / r/nba top-day thread\n- Verification notes: treat as sports-culture reaction and timing joke, not new reporting\n\n## Sports Radar Markdown\n\n```md\n**LeBron exit timing turns into contract-calendar comedy**\n\nAn r/nba thread turned the timing of the report into the real story.\n\nWhy it works: Reddit treated free agency like a family-business escape room.\n```\n"
   },
   {
+    "id": "lebron-outlasts-westbrook-career",
+    "rank": 1,
+    "title": "LeBron outlasts Westbrook's entire NBA career",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-16",
+    "heat": 99,
+    "tags": [
+      "r/nba",
+      "LeBron James",
+      "Russell Westbrook",
+      "longevity lore"
+    ],
+    "public_ready": true,
+    "summary": "A top r/nba post noticed that Russell Westbrook's full 18-season career fit\nbetween LeBron James's first Finals appearance and LeBron still being active.",
+    "whyFunny": "It turns one extraordinary career into a unit of measurement for another. An\nentire MVP arc becomes a parenthetical inside the LeBron timeline.",
+    "quote": "One Hall of Fame career, nested inside another.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vpg0kw/russell_westbrooks_entire_18year_nba_career/",
+    "commentHighlights": [
+      {
+        "label": "Career as yardstick",
+        "summary": "The post lines up Westbrook's draft, MVP, triple-double record, team changes, and retirement against LeBron's longer timeline.",
+        "whyFunny": "A full career checklist still fits inside a single active-player era.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1vpg0kw/russell_westbrooks_entire_18year_nba_career/"
+      }
+    ],
+    "markdown": "---\nid: lebron-outlasts-westbrook-career\nrank: 1\ntitle: \"LeBron outlasts Westbrook's entire NBA career\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-16\"\nheat: 99\ntags:\n  - r/nba\n  - LeBron James\n  - Russell Westbrook\n  - longevity lore\npublic_ready: true\n---\n\n## Summary\n\nA top r/nba post noticed that Russell Westbrook's full 18-season career fit\nbetween LeBron James's first Finals appearance and LeBron still being active.\n\n## Why It Is Funny\n\nIt turns one extraordinary career into a unit of measurement for another. An\nentire MVP arc becomes a parenthetical inside the LeBron timeline.\n\n## Comment Highlights\n\n- Label: Career as yardstick\n  Summary: The post lines up Westbrook's draft, MVP, triple-double record, team changes, and retirement against LeBron's longer timeline.\n  Why funny: A full career checklist still fits inside a single active-player era.\n  Source URL: https://www.reddit.com/r/nba/comments/1vpg0kw/russell_westbrooks_entire_18year_nba_career/\n\n## Quote\n\nOne Hall of Fame career, nested inside another.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vpg0kw/russell_westbrooks_entire_18year_nba_career/\n- Source type: Reddit RSS top-day longevity post\n- Verification notes: Sports Radar reviewed the RSS title, source URL, and short feed preview on 2026-08-16. The 18-season comparison and active-player framing are attributed to the post rather than presented as independent reporting.\n\n## Sports Radar Markdown\n\n```md\n**LeBron outlasts Westbrook's entire NBA career**\n\nWestbrook's complete 18-season run fits between LeBron's first Finals and LeBron still playing.\n\nWhy it works: One legendary career somehow became a timestamp inside another.\n```\n"
+  },
+  {
     "id": "lebron-leconclave-smoke-signals",
     "rank": 1,
     "title": "LeBron's free agency gets a papal smoke system",
@@ -1222,7 +1252,7 @@
     "title": "Tress Way poses with a championship-grade Cowboys burn",
     "league": "NFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-15",
     "heat": 98,
     "tags": [
@@ -1244,7 +1274,7 @@
         "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vp3hxw/highlight_commanders_punter_tress_way_took_a/"
       }
     ],
-    "markdown": "---\nid: tress-way-championship-shirt\nrank: 1\ntitle: \"Tress Way poses with a championship-grade Cowboys burn\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-15\"\nheat: 98\ntags:\n  - r/nfl\n  - Tress Way\n  - Washington Commanders\n  - rivalry lore\npublic_ready: true\n---\n\n## Summary\n\nCommanders punter Tress Way posed with a spectator whose shirt used one of his\npasses to make a brutally specific comparison with Dak Prescott.\n\n## Why It Is Funny\n\nThe shirt turns a punter's trick play into a divisional-rivalry receipt. The\nthread admired how much Cowboys history could fit into one narrow stat.\n\n## Comment Highlights\n\n- Label: Punter receipt\n  Summary: The thread expanded the shirt's comparison to more Cowboys quarterbacks and praised the specificity of the burn.\n  Why funny: A single punter completion became a full rival-franchise audit.\n  Source URL: https://www.reddit.com/r/nfl/comments/1vp3hxw/highlight_commanders_punter_tress_way_took_a/\n\n## Quote\n\nThe punter brought the receipt.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vp3hxw/highlight_commanders_punter_tress_way_took_a/\n- Source type: Reddit post showing a public fan photo and discussion\n- Verification notes: Sports Radar reviewed the public post and discussion on 2026-08-15. The comparison is presented as the text on a fan's shirt, not as independent statistical reporting, and the public copy omits the spectator's identity.\n\n## Sports Radar Markdown\n\n```md\n**Tress Way poses with a championship-grade Cowboys burn**\n\nA spectator turned one punter pass into an entire NFC East history lesson.\n\nWhy it works: The rivalry receipt is so specific that the shirt does all the talking.\n```\n"
+    "markdown": "---\nid: tress-way-championship-shirt\nrank: 1\ntitle: \"Tress Way poses with a championship-grade Cowboys burn\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-15\"\nheat: 98\ntags:\n  - r/nfl\n  - Tress Way\n  - Washington Commanders\n  - rivalry lore\npublic_ready: true\n---\n\n## Summary\n\nCommanders punter Tress Way posed with a spectator whose shirt used one of his\npasses to make a brutally specific comparison with Dak Prescott.\n\n## Why It Is Funny\n\nThe shirt turns a punter's trick play into a divisional-rivalry receipt. The\nthread admired how much Cowboys history could fit into one narrow stat.\n\n## Comment Highlights\n\n- Label: Punter receipt\n  Summary: The thread expanded the shirt's comparison to more Cowboys quarterbacks and praised the specificity of the burn.\n  Why funny: A single punter completion became a full rival-franchise audit.\n  Source URL: https://www.reddit.com/r/nfl/comments/1vp3hxw/highlight_commanders_punter_tress_way_took_a/\n\n## Quote\n\nThe punter brought the receipt.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vp3hxw/highlight_commanders_punter_tress_way_took_a/\n- Source type: Reddit post showing a public fan photo and discussion\n- Verification notes: Sports Radar reviewed the public post and discussion on 2026-08-15. The comparison is presented as the text on a fan's shirt, not as independent statistical reporting, and the public copy omits the spectator's identity.\n\n## Sports Radar Markdown\n\n```md\n**Tress Way poses with a championship-grade Cowboys burn**\n\nA spectator turned one punter pass into an entire NFC East history lesson.\n\nWhy it works: The rivalry receipt is so specific that the shirt does all the talking.\n```\n"
   },
   {
     "id": "tsubakuro-helmet-launch",
@@ -1377,6 +1407,29 @@
       }
     ],
     "markdown": "---\nid: fulham-empty-net-shootout\nrank: 2\ntitle: \"A penalty shootout continues without an opponent\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-13\"\nheat: 97\ntags:\n  - r/soccer\n  - Fulham\n  - Malaga\n  - preseason\npublic_ready: true\n---\n\n## Summary\n\nAfter Fulham left the pitch following a preseason draw with Malaga, a Malaga\nplayer still took a penalty into the empty goal amid a dispute over whether a\nshootout had been agreed.\n\n## Why It Is Funny\n\nThe match ended, one team went home, and the shootout carried on anyway. The\nempty net turned contract interpretation into the lowest-pressure penalty with\nthe highest possible risk of embarrassment.\n\n## Comment Highlights\n\n- Label: Contractual penalties\n  Summary: The thread debated whether the friendly required a shootout while treating the empty-net attempt as its own competitive event.\n  Why funny: Preseason produced a rules hearing and a penalty with no goalkeeper.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vmqr00/fulham_players_left_the_pitch_and_declined_to/\n\n## Quote\n\nThe keeper had already left the building.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vmqr00/fulham_players_left_the_pitch_and_declined_to/\n- Source type: Reddit match video and discussion\n- Verification notes: Sports Radar reviewed the public post and discussion on 2026-08-13. Accounts differed over whether penalties were contractually required, so the public copy presents that point only as a dispute and describes the visible empty-net attempt.\n\n## Sports Radar Markdown\n\n```md\n**A penalty shootout continues without an opponent**\n\nFulham left after a preseason draw, and Malaga still sent a penalty into the empty net.\n\nWhy it works: A contract dispute became the world's least-defended shootout.\n```\n"
+  },
+  {
+    "id": "fenerbahce-goalkeeper-revenge-rating",
+    "rank": 2,
+    "title": "A sold goalkeeper returns with a 10 out of 10",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-16",
+    "heat": 98,
+    "tags": [
+      "r/soccer",
+      "Fenerbahce",
+      "Irfan Can Egribayaat",
+      "revenge game"
+    ],
+    "public_ready": true,
+    "summary": "An r/soccer post framed Irfan Can Egribayaat's first meeting with Fenerbahce\nafter being sold as an immediate 10-out-of-10 performance against his old club.",
+    "whyFunny": "The transfer receipt arrived one day after the transaction. Sports normally\nlets a revenge narrative simmer; this one barely cleared the checkout screen.",
+    "quote": "The return policy was immediate.",
+    "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vpdb44/one_day_after_being_sold_by_fenerbahce_irfan_can/",
+    "commentHighlights": [],
+    "markdown": "---\nid: fenerbahce-goalkeeper-revenge-rating\nrank: 2\ntitle: \"A sold goalkeeper returns with a 10 out of 10\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-16\"\nheat: 98\ntags:\n  - r/soccer\n  - Fenerbahce\n  - Irfan Can Egribayaat\n  - revenge game\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post framed Irfan Can Egribayaat's first meeting with Fenerbahce\nafter being sold as an immediate 10-out-of-10 performance against his old club.\n\n## Why It Is Funny\n\nThe transfer receipt arrived one day after the transaction. Sports normally\nlets a revenge narrative simmer; this one barely cleared the checkout screen.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThe return policy was immediate.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vpdb44/one_day_after_being_sold_by_fenerbahce_irfan_can/\n- Source type: Reddit RSS top-day post\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-16. The sale timing and 10-out-of-10 rating are attributed to the post title, not independently reported here.\n\n## Sports Radar Markdown\n\n```md\n**A sold goalkeeper returns with a 10 out of 10**\n\nOne day after Fenerbahce sold him, Irfan Can Egribayaat came back with the post's perfect rating.\n\nWhy it works: The revenge game arrived before the transfer receipt could cool.\n```\n"
   },
   {
     "id": "reaves-lebron-golf-ruined",
@@ -2462,7 +2515,7 @@
     "title": "The White Sox clinch fewer than 100 losses",
     "league": "MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-15",
     "heat": 97,
     "tags": [
@@ -2484,7 +2537,7 @@
         "sourceUrl": "https://www.reddit.com/r/baseball/comments/1vopddy/with_a_95_win_over_the_detroit_tigers_tonight_the/"
       }
     ],
-    "markdown": "---\nid: white-sox-not-100-losses\nrank: 2\ntitle: \"The White Sox clinch fewer than 100 losses\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-15\"\nheat: 97\ntags:\n  - r/baseball\n  - Chicago White Sox\n  - 100 losses\n  - negative milestone\npublic_ready: true\n---\n\n## Summary\n\nAfter a 9-5 win, an r/baseball post marked the White Sox as mathematically safe\nfrom a 100-loss season for the first time since 2022.\n\n## Why It Is Funny\n\nIt has the grammar of a playoff clincher and the threshold of a long recovery.\nThe celebration is real, but the banner would need very careful wording.\n\n## Comment Highlights\n\n- Label: Wrong elimination\n  Summary: Readers briefly mistook the headline for postseason elimination before noticing the much stranger achievement.\n  Why funny: The familiar bad-news template was hiding a modest piece of good news.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vopddy/with_a_95_win_over_the_detroit_tigers_tonight_the/\n\n## Quote\n\nHang the carefully worded banner.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vopddy/with_a_95_win_over_the_detroit_tigers_tonight_the/\n- Source type: Reddit record post and discussion\n- Verification notes: Sports Radar reviewed the public post and discussion on 2026-08-15. The public copy limits itself to the 9-5 result and the post's mathematical 100-loss threshold.\n\n## Sports Radar Markdown\n\n```md\n**The White Sox clinch fewer than 100 losses**\n\nA 9-5 win secured Chicago's first season since 2022 without triple-digit losses.\n\nWhy it works: A recovery milestone arrived wearing the language of a playoff clincher.\n```\n"
+    "markdown": "---\nid: white-sox-not-100-losses\nrank: 2\ntitle: \"The White Sox clinch fewer than 100 losses\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-15\"\nheat: 97\ntags:\n  - r/baseball\n  - Chicago White Sox\n  - 100 losses\n  - negative milestone\npublic_ready: true\n---\n\n## Summary\n\nAfter a 9-5 win, an r/baseball post marked the White Sox as mathematically safe\nfrom a 100-loss season for the first time since 2022.\n\n## Why It Is Funny\n\nIt has the grammar of a playoff clincher and the threshold of a long recovery.\nThe celebration is real, but the banner would need very careful wording.\n\n## Comment Highlights\n\n- Label: Wrong elimination\n  Summary: Readers briefly mistook the headline for postseason elimination before noticing the much stranger achievement.\n  Why funny: The familiar bad-news template was hiding a modest piece of good news.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vopddy/with_a_95_win_over_the_detroit_tigers_tonight_the/\n\n## Quote\n\nHang the carefully worded banner.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vopddy/with_a_95_win_over_the_detroit_tigers_tonight_the/\n- Source type: Reddit record post and discussion\n- Verification notes: Sports Radar reviewed the public post and discussion on 2026-08-15. The public copy limits itself to the 9-5 result and the post's mathematical 100-loss threshold.\n\n## Sports Radar Markdown\n\n```md\n**The White Sox clinch fewer than 100 losses**\n\nA 9-5 win secured Chicago's first season since 2022 without triple-digit losses.\n\nWhy it works: A recovery milestone arrived wearing the language of a playoff clincher.\n```\n"
   },
   {
     "id": "white-sox-magic-wand-giveaway",
@@ -3288,6 +3341,29 @@
     "markdown": "---\nid: jon-sumrall-sec-complaint-form\nrank: 3\ntitle: \"Jon Sumrall declines the SEC complaint form\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-22\"\nheat: 94\ntags:\n  - r/CFB\n  - Jon Sumrall\n  - Florida\n  - SEC schedule\npublic_ready: true\n---\n\n## Summary\n\nAsked about the SEC's nine-game conference schedule, Florida coach Jon Sumrall\nsaid he was not going to complain about the demands of being an SEC head coach.\n\n## Why It Is Funny\n\nThe answer is ordinary coach confidence, but the thread heard it as a violation\nof conference tradition. Apparently the first rule of the SEC is explaining\nhow uniquely difficult the SEC is.\n\n## Comment Highlights\n\n- Label: Two-word approval\n  Summary: Fans responded with a long chorus of the same compact expression of approval.\n  Why funny: A scheduling debate briefly achieved the simplest consensus in college football.\n  Source URL: https://www.reddit.com/r/CFB/comments/1v3gbhv/carter_im_not_going_to_whine_and_complain_about/\n- Label: New-coach confidence\n  Summary: The thread framed the quote as peak first-year swagger before any October press conference can test it.\n  Why funny: Every new coach begins by mentally bending the schedule into shape.\n  Source URL: https://www.reddit.com/r/CFB/comments/1v3gbhv/carter_im_not_going_to_whine_and_complain_about/\n\n## Quote\n\nThe complaint form came back unsigned.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1v3gbhv/carter_im_not_going_to_whine_and_complain_about/\n- Source type: Reddit / r/CFB top-day coaching quote and reaction thread\n- Verification notes: the public post attributes the no-complaining answer to Sumrall; the copy treats the reaction as conference humor rather than predicting Florida's results\n\n## Sports Radar Markdown\n\n```md\n**Jon Sumrall declines the SEC complaint form**\n\nFlorida's new coach answered the nine-game schedule question without requesting sympathy.\n\nWhy it works: the thread treated that as a violation of conference tradition.\n```\n"
   },
   {
+    "id": "joshua-baez-three-debut-homers",
+    "rank": 3,
+    "title": "Joshua Baez starts his career three homers deep",
+    "league": "MLB",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-16",
+    "heat": 97,
+    "tags": [
+      "r/baseball",
+      "Joshua Baez",
+      "St. Louis Cardinals",
+      "debut lore"
+    ],
+    "public_ready": true,
+    "summary": "An r/baseball post collected all three Joshua Baez home runs from his major\nleague debut and framed him as the first player to homer in each of his first\nthree at-bats.",
+    "whyFunny": "Most debuts offer a first hit or a keepsake ball. This one needed a running\ninventory and made the fourth plate appearance feel like a plot twist.",
+    "quote": "The tutorial level had three home-run buttons.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1vpe0z0/all_3_home_runs_from_joshua_báez_in_his/",
+    "commentHighlights": [],
+    "markdown": "---\nid: joshua-baez-three-debut-homers\nrank: 3\ntitle: \"Joshua Baez starts his career three homers deep\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-16\"\nheat: 97\ntags:\n  - r/baseball\n  - Joshua Baez\n  - St. Louis Cardinals\n  - debut lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post collected all three Joshua Baez home runs from his major\nleague debut and framed him as the first player to homer in each of his first\nthree at-bats.\n\n## Why It Is Funny\n\nMost debuts offer a first hit or a keepsake ball. This one needed a running\ninventory and made the fourth plate appearance feel like a plot twist.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThe tutorial level had three home-run buttons.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vpe0z0/all_3_home_runs_from_joshua_báez_in_his/\n- Source type: Reddit RSS top-day highlight compilation\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-16. The three-home-run sequence and historical-first framing are attributed to the post title rather than independently verified reporting.\n\n## Sports Radar Markdown\n\n```md\n**Joshua Baez starts his career three homers deep**\n\nThe debut compilation needed three home-run clips before Baez recorded a different outcome.\n\nWhy it works: His first day in the majors played like somebody forgot to raise the difficulty.\n```\n"
+  },
+  {
     "id": "julian-ryerson-palace-flip-flops",
     "rank": 3,
     "title": "Julian Ryerson brings flip-flops to the Royal Palace",
@@ -3824,7 +3900,7 @@
     "title": "The Onion puts Angels-Royals on mute",
     "league": "MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-15",
     "heat": 96,
     "tags": [
@@ -3847,7 +3923,7 @@
         "sourceUrl": "https://www.reddit.com/r/baseball/comments/1vonwrb/the_onion_announcers_watch_angelsroyals_game_in/"
       }
     ],
-    "markdown": "---\nid: onion-angels-royals-silence\nrank: 3\ntitle: \"The Onion puts Angels-Royals on mute\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-15\"\nheat: 96\ntags:\n  - r/baseball\n  - The Onion\n  - Angels\n  - Royals\n  - satire\npublic_ready: true\n---\n\n## Summary\n\nAn Onion sports graphic imagined the Angels-Royals broadcast team watching the\ngame in complete silence.\n\n## Why It Is Funny\n\nThe satire removes the booth without changing the telecast. Nothing dramatic\nhappens; the announcers simply decide the box score can speak for itself.\n\n## Comment Highlights\n\n- Label: The quiet booth\n  Summary: The thread treated the fake broadcast decision as an unusually honest form of baseball coverage.\n  Why funny: The missing commentary became the entire commentary.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vonwrb/the_onion_announcers_watch_angelsroyals_game_in/\n\n## Quote\n\nThe booth has no further questions.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vonwrb/the_onion_announcers_watch_angelsroyals_game_in/\n- Source type: Reddit post sharing an Onion satire graphic\n- Verification notes: Sports Radar reviewed the public satire post and discussion on 2026-08-15. The public copy labels the item as satire and does not present the fictional broadcast as real.\n\n## Sports Radar Markdown\n\n```md\n**The Onion puts Angels-Royals on mute**\n\nThe fake broadcast booth watches in total silence and somehow completes the assignment.\n\nWhy it works: Removing every word became the sharpest possible game commentary.\n```\n"
+    "markdown": "---\nid: onion-angels-royals-silence\nrank: 3\ntitle: \"The Onion puts Angels-Royals on mute\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-15\"\nheat: 96\ntags:\n  - r/baseball\n  - The Onion\n  - Angels\n  - Royals\n  - satire\npublic_ready: true\n---\n\n## Summary\n\nAn Onion sports graphic imagined the Angels-Royals broadcast team watching the\ngame in complete silence.\n\n## Why It Is Funny\n\nThe satire removes the booth without changing the telecast. Nothing dramatic\nhappens; the announcers simply decide the box score can speak for itself.\n\n## Comment Highlights\n\n- Label: The quiet booth\n  Summary: The thread treated the fake broadcast decision as an unusually honest form of baseball coverage.\n  Why funny: The missing commentary became the entire commentary.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vonwrb/the_onion_announcers_watch_angelsroyals_game_in/\n\n## Quote\n\nThe booth has no further questions.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vonwrb/the_onion_announcers_watch_angelsroyals_game_in/\n- Source type: Reddit post sharing an Onion satire graphic\n- Verification notes: Sports Radar reviewed the public satire post and discussion on 2026-08-15. The public copy labels the item as satire and does not present the fictional broadcast as real.\n\n## Sports Radar Markdown\n\n```md\n**The Onion puts Angels-Royals on mute**\n\nThe fake broadcast booth watches in total silence and somehow completes the assignment.\n\nWhy it works: Removing every word became the sharpest possible game commentary.\n```\n"
   },
   {
     "id": "shaq-rim-rejection",
@@ -4231,7 +4307,7 @@
     "title": "Hockey reopens the guaranteed Cup archive",
     "league": "NHL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-15",
     "heat": 95,
     "tags": [
@@ -4253,7 +4329,7 @@
         "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vos7jj/what_is_one_team_you_were_so_sure_was_winning_the/"
       }
     ],
-    "markdown": "---\nid: hockey-guaranteed-cup-heartbreak\nrank: 4\ntitle: \"Hockey reopens the guaranteed Cup archive\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-15\"\nheat: 95\ntags:\n  - r/hockey\n  - Stanley Cup\n  - fan confidence\n  - heartbreak lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey thread asked fans to name the team they were certain would win the\nStanley Cup before the season ended differently.\n\n## Why It Is Funny\n\nEvery fan arrived with a confident old forecast and a much longer forensic\nreport. The thread became a museum of predictions that felt obvious right up\nuntil they became lore.\n\n## Comment Highlights\n\n- Label: Personal heartbreak archives\n  Summary: Fans nominated different seasons, then explained the exact bounce, matchup, or collapse that still bothers them.\n  Why funny: Everybody brought evidence, and none of it could change the ending.\n  Source URL: https://www.reddit.com/r/hockey/comments/1vos7jj/what_is_one_team_you_were_so_sure_was_winning_the/\n\n## Quote\n\nConfidence ages directly into lore.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vos7jj/what_is_one_team_you_were_so_sure_was_winning_the/\n- Source type: Reddit fan prompt and discussion\n- Verification notes: Sports Radar reviewed the public post and discussion on 2026-08-15. The public copy summarizes the shared fan-prediction structure without repeating individual claims or treating retrospective opinions as reporting.\n\n## Sports Radar Markdown\n\n```md\n**Hockey reopens the guaranteed Cup archive**\n\nFans named the teams they knew would win, then reopened the evidence for why they did not.\n\nWhy it works: Every confident prediction came with its own years-late forensic report.\n```\n"
+    "markdown": "---\nid: hockey-guaranteed-cup-heartbreak\nrank: 4\ntitle: \"Hockey reopens the guaranteed Cup archive\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-15\"\nheat: 95\ntags:\n  - r/hockey\n  - Stanley Cup\n  - fan confidence\n  - heartbreak lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey thread asked fans to name the team they were certain would win the\nStanley Cup before the season ended differently.\n\n## Why It Is Funny\n\nEvery fan arrived with a confident old forecast and a much longer forensic\nreport. The thread became a museum of predictions that felt obvious right up\nuntil they became lore.\n\n## Comment Highlights\n\n- Label: Personal heartbreak archives\n  Summary: Fans nominated different seasons, then explained the exact bounce, matchup, or collapse that still bothers them.\n  Why funny: Everybody brought evidence, and none of it could change the ending.\n  Source URL: https://www.reddit.com/r/hockey/comments/1vos7jj/what_is_one_team_you_were_so_sure_was_winning_the/\n\n## Quote\n\nConfidence ages directly into lore.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vos7jj/what_is_one_team_you_were_so_sure_was_winning_the/\n- Source type: Reddit fan prompt and discussion\n- Verification notes: Sports Radar reviewed the public post and discussion on 2026-08-15. The public copy summarizes the shared fan-prediction structure without repeating individual claims or treating retrospective opinions as reporting.\n\n## Sports Radar Markdown\n\n```md\n**Hockey reopens the guaranteed Cup archive**\n\nFans named the teams they knew would win, then reopened the evidence for why they did not.\n\nWhy it works: Every confident prediction came with its own years-late forensic report.\n```\n"
   },
   {
     "id": "japan-knockout-world-cup-curse",
@@ -4326,6 +4402,29 @@
       }
     ],
     "markdown": "---\nid: jaylen-speed-lebron-philly-pitch\nrank: 4\ntitle: \"Jaylen Brown and Speed pitch LeBron with pure group-chat logic\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-10\"\nheat: 87\ntags:\n  - r/nba\n  - Jaylen Brown\n  - LeBron\n  - Philadelphia\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip paired Jaylen Brown and IShowSpeed in an improvised LeBron-to-\nPhiladelphia recruiting pitch that sounded more like friends planning a trip.\n\n## Why It Is Funny\n\nRoster construction, contracts, and basketball fit all gave way to the oldest\npersuasion strategy available: name the people, name the food, demand the pull-up.\n\n## Comment Highlights\n\n- Label: Two conversations at once\n  Summary: Fans heard a basketball pitch and a city-tour pitch happening in parallel.\n  Why funny: The sales case gets less coherent and more convincing at the same time.\n  Source URL: https://www.reddit.com/r/nba/comments/1us5d4o/jaylen_brown_you_gotta_say_lebron_you_got_to_pull/\n- Label: Cheesesteak roster math\n  Summary: The thread enjoyed how quickly Philadelphia food became part of the personnel argument.\n  Why funny: A championship pitch briefly turns into a lunch recommendation.\n  Source URL: https://www.reddit.com/r/nba/comments/1us5d4o/jaylen_brown_you_gotta_say_lebron_you_got_to_pull/\n\n## Quote\n\nThe depth chart came with a cheesesteak clause.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1us5d4o/jaylen_brown_you_gotta_say_lebron_you_got_to_pull/\n- Source type: Reddit / r/nba top-day clip thread\n- Verification notes: present this as playful public recruiting talk, not evidence of an actual transaction\n\n## Sports Radar Markdown\n\n```md\n**Jaylen Brown and Speed pitch LeBron with pure group-chat logic**\n\nAn r/nba clip turned roster recruitment into names, food, and a demand to pull up.\n\nWhy it works: the basketball case slowly becomes a city-tour itinerary.\n```\n"
+  },
+  {
+    "id": "joey-crawford-hall-of-fame-brag",
+    "rank": 4,
+    "title": "Joey Crawford inducts his own confidence too",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-16",
+    "heat": 96,
+    "tags": [
+      "r/nba",
+      "Joey Crawford",
+      "Hall of Fame",
+      "referee lore"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba post pulled a line from new Hall of Famer Joey Crawford's speech in\nwhich the longtime referee declared that his list of accomplishments was not\nbragging because he had done it.",
+    "whyFunny": "The official famous for making the call made the final call on his own legacy.\nEven the acceptance speech came with no replay review.",
+    "quote": "The ruling on the floor: he did it.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vpjzdi/new_hall_of_famer_joey_crawford_on_his/",
+    "commentHighlights": [],
+    "markdown": "---\nid: joey-crawford-hall-of-fame-brag\nrank: 4\ntitle: \"Joey Crawford inducts his own confidence too\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-16\"\nheat: 96\ntags:\n  - r/nba\n  - Joey Crawford\n  - Hall of Fame\n  - referee lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post pulled a line from new Hall of Famer Joey Crawford's speech in\nwhich the longtime referee declared that his list of accomplishments was not\nbragging because he had done it.\n\n## Why It Is Funny\n\nThe official famous for making the call made the final call on his own legacy.\nEven the acceptance speech came with no replay review.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThe ruling on the floor: he did it.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vpjzdi/new_hall_of_famer_joey_crawford_on_his/\n- Source type: Reddit RSS top-day speech clip\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-16. The speech line is paraphrased from the title; the public copy does not claim an independently reviewed transcript.\n\n## Sports Radar Markdown\n\n```md\n**Joey Crawford inducts his own confidence too**\n\nThe longtime referee used his Hall of Fame speech to uphold the call on his own career.\n\nWhy it works: Even his self-assessment arrived as a final ruling with no replay review.\n```\n"
   },
   {
     "id": "josh-hart-pocket-counting",
@@ -5297,7 +5396,7 @@
     "title": "Atlanta's hockey comeback starts at the mall",
     "league": "NHL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-15",
     "heat": 94,
     "tags": [
@@ -5320,7 +5419,7 @@
         "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vohsoo/alpharetta_approves_plan_for_north_point_mall/"
       }
     ],
-    "markdown": "---\nid: alpharetta-mall-hockey-arena\nrank: 5\ntitle: \"Atlanta's hockey comeback starts at the mall\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-15\"\nheat: 94\ntags:\n  - r/hockey\n  - Atlanta\n  - Alpharetta\n  - arena proposal\n  - expansion lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey post linked a report about an approved Alpharetta mall\nredevelopment plan that includes a proposed 20,000-seat hockey arena.\n\n## Why It Is Funny\n\nAtlanta's latest hockey-return chapter begins with suburban mall geography.\nThe expansion dream has not arrived, but it already has a food-court origin\nstory.\n\n## Comment Highlights\n\n- Label: Arena map committee\n  Summary: The thread immediately debated the suburban location, traffic, transit, and whether another Atlanta hockey chapter could work there.\n  Why funny: A mall plan became a full civic hearing on the future of hockey in Georgia.\n  Source URL: https://www.reddit.com/r/hockey/comments/1vohsoo/alpharetta_approves_plan_for_north_point_mall/\n\n## Quote\n\nThe comeback has a food-court origin story.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vohsoo/alpharetta_approves_plan_for_north_point_mall/\n- Source type: Reddit discussion linking local reporting about a redevelopment proposal\n- Verification notes: Sports Radar reviewed the public post, linked-source description, and discussion on 2026-08-15. The public copy describes the arena as part of a proposal and does not claim that an NHL franchise has been awarded.\n\n## Sports Radar Markdown\n\n```md\n**Atlanta's hockey comeback starts at the mall**\n\nAn Alpharetta redevelopment plan put a 20,000-seat arena beside Atlanta's latest hockey dream.\n\nWhy it works: Expansion lore found the most suburban possible opening scene.\n```\n"
+    "markdown": "---\nid: alpharetta-mall-hockey-arena\nrank: 5\ntitle: \"Atlanta's hockey comeback starts at the mall\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-15\"\nheat: 94\ntags:\n  - r/hockey\n  - Atlanta\n  - Alpharetta\n  - arena proposal\n  - expansion lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey post linked a report about an approved Alpharetta mall\nredevelopment plan that includes a proposed 20,000-seat hockey arena.\n\n## Why It Is Funny\n\nAtlanta's latest hockey-return chapter begins with suburban mall geography.\nThe expansion dream has not arrived, but it already has a food-court origin\nstory.\n\n## Comment Highlights\n\n- Label: Arena map committee\n  Summary: The thread immediately debated the suburban location, traffic, transit, and whether another Atlanta hockey chapter could work there.\n  Why funny: A mall plan became a full civic hearing on the future of hockey in Georgia.\n  Source URL: https://www.reddit.com/r/hockey/comments/1vohsoo/alpharetta_approves_plan_for_north_point_mall/\n\n## Quote\n\nThe comeback has a food-court origin story.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vohsoo/alpharetta_approves_plan_for_north_point_mall/\n- Source type: Reddit discussion linking local reporting about a redevelopment proposal\n- Verification notes: Sports Radar reviewed the public post, linked-source description, and discussion on 2026-08-15. The public copy describes the arena as part of a proposal and does not claim that an NHL franchise has been awarded.\n\n## Sports Radar Markdown\n\n```md\n**Atlanta's hockey comeback starts at the mall**\n\nAn Alpharetta redevelopment plan put a 20,000-seat arena beside Atlanta's latest hockey dream.\n\nWhy it works: Expansion lore found the most suburban possible opening scene.\n```\n"
   },
   {
     "id": "cam-ward-dodgeball-restraint",
@@ -6327,6 +6426,29 @@
       }
     ],
     "markdown": "---\nid: palestra-mecca-argument\nrank: 5\ntitle: \"The Palestra starts a college-basketball pilgrimage debate\"\nleague: \"NCAA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-26\"\nheat: 90\ntags:\n  - r/CollegeBasketball\n  - The Palestra\n  - Philadelphia\n  - basketball history\npublic_ready: true\n---\n\n## Summary\n\nA visitor posted a photo from Philadelphia's Palestra and called it the Mecca\nof college basketball, sending fans into a tour of the sport's historic gyms.\n\n## Why It Is Funny\n\nOne arena photo became a pilgrimage committee meeting. Every fan arrived with\na different sacred site, a local record, and at least one architectural\ntechnicality.\n\n## Comment Highlights\n\n- Label: Competing pilgrimages\n  Summary: Fans nominated alternate historic gyms and even a famously oversized Memphis landmark.\n  Why funny: The Mecca title immediately expanded into a bracket with no final round.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1v6saab/visited_the_mecca_of_college_basketball_last_week/\n- Label: Time-machine seating\n  Summary: Visitors described the Palestra's close sightlines as watching basketball from another era.\n  Why funny: The strongest review treated the building as both an arena and a working time machine.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1v6saab/visited_the_mecca_of_college_basketball_last_week/\n\n## Quote\n\nThe pilgrimage bracket has no championship game.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1v6saab/visited_the_mecca_of_college_basketball_last_week/\n- Source type: Reddit image post and public discussion\n- Verification notes: The public Reddit post, image context, and discussion were reviewed on 2026-07-26. Disputed venue records in the thread were not promoted as facts.\n\n## Sports Radar Markdown\n\n```md\n**The Palestra starts a college-basketball pilgrimage debate**\n\nOne arena photo sent fans into a bracket of historic gyms, local records, and sacred-site nominations.\n\nWhy it works: The pilgrimage committee could not agree on a destination.\n```\n"
+  },
+  {
+    "id": "rays-upper-deck-reopens",
+    "rank": 5,
+    "title": "The Rays unlock the whole upper deck",
+    "league": "MLB",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-16",
+    "heat": 95,
+    "tags": [
+      "r/baseball",
+      "Tampa Bay Rays",
+      "attendance lore",
+      "upper deck"
+    ],
+    "public_ready": true,
+    "summary": "An r/baseball fan post noticed that every upper-deck section was open for a\nRays game for the first time since the 2023 playoffs.",
+    "whyFunny": "The crowd update reads like a stadium expansion pack finally unlocked. For a\nfranchise with years of attendance lore, open sections became the headline.",
+    "quote": "Upper deck: fully unlocked.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1vpi5bo/the_rays_have_parts_of_every_upper_deck_section/",
+    "commentHighlights": [],
+    "markdown": "---\nid: rays-upper-deck-reopens\nrank: 5\ntitle: \"The Rays unlock the whole upper deck\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-16\"\nheat: 95\ntags:\n  - r/baseball\n  - Tampa Bay Rays\n  - attendance lore\n  - upper deck\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball fan post noticed that every upper-deck section was open for a\nRays game for the first time since the 2023 playoffs.\n\n## Why It Is Funny\n\nThe crowd update reads like a stadium expansion pack finally unlocked. For a\nfranchise with years of attendance lore, open sections became the headline.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nUpper deck: fully unlocked.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vpi5bo/the_rays_have_parts_of_every_upper_deck_section/\n- Source type: Reddit RSS top-day fan attendance post\n- Verification notes: Sports Radar reviewed the RSS title, source URL, and short feed preview on 2026-08-16. The first-since-2023 framing is attributed to the fan post and is not presented as an independently audited attendance record.\n\n## Sports Radar Markdown\n\n```md\n**The Rays unlock the whole upper deck**\n\nA fan post marked every upper-deck section open for the first time since the 2023 playoffs.\n\nWhy it works: Tampa Bay attendance lore turned available seating into an unlockable achievement.\n```\n"
   },
   {
     "id": "tim-payne-olimpia-debut-goal",
