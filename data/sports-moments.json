@@ -599,12 +599,42 @@
     "markdown": "---\nid: lebron-contract-timing\nrank: 1\ntitle: \"LeBron exit timing turns into contract-calendar comedy\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-06-30\"\nheat: 94\ntags:\n  - r/nba\n  - free agency\n  - timing\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba thread latched onto the timing of a LeBron exit report landing right\nafter his son's contract guarantee became public.\n\n## Why It Is Funny\n\nThe joke is not just the transaction. It is Reddit reading the NBA calendar\nlike a family-business escape room.\n\n## Comment Highlights\n\n- Label: Father-son matchup jokes\n  Summary: Early comments immediately jumped from \"play with my son\" to \"play against my son,\" turning a roster report into a hypothetical family rivalry.\n  Why funny: The thread found the sitcom premise hiding inside a cap transaction.\n  Source URL: https://www.reddit.com/r/nba/comments/1ujuc7s/lebron_waited_until_his_sons_contract_was/ouqxtv2/\n- Label: The dunk/block imagination loop\n  Summary: The replies kept escalating into LeBron and Bronny dunking on or blocking each other in real NBA minutes.\n  Why funny: It turns a front-office timing joke into playground stakes with Hall-of-Fame branding.\n  Source URL: https://www.reddit.com/r/nba/comments/1ujuc7s/lebron_waited_until_his_sons_contract_was/ourgo2w/\n- Label: Subreddit detonation forecast\n  Summary: Another branch reduced the whole scenario to the obvious meta-prediction: r/nba would melt down if father and son actually matched up.\n  Why funny: The funniest part is that everyone knows the thread is already rehearsing the future thread.\n  Source URL: https://www.reddit.com/r/nba/comments/1ujuc7s/lebron_waited_until_his_sons_contract_was/ourvz41/\n\n## Quote\n\nThe salary-cap sheet became a family group chat.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1ujuc7s/lebron_waited_until_his_sons_contract_was/\n- Source type: Reddit / r/nba top-day thread\n- Verification notes: treat as sports-culture reaction and timing joke, not new reporting\n\n## Sports Radar Markdown\n\n```md\n**LeBron exit timing turns into contract-calendar comedy**\n\nAn r/nba thread turned the timing of the report into the real story.\n\nWhy it works: Reddit treated free agency like a family-business escape room.\n```\n"
   },
   {
+    "id": "lebron-eight-degrees-nba-history",
+    "rank": 1,
+    "title": "LeBron is eight degrees from the entire NBA",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-17",
+    "heat": 99,
+    "tags": [
+      "r/nba",
+      "LeBron James",
+      "NBA history",
+      "graph lore"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba graph post says every player in league history is no more than eight\nteammate-link steps from LeBron James. Only eight players sit at the full\ndistance, all from the league's first season.",
+    "whyFunny": "LeBron's longevity has turned the entire NBA into a party game. Seventy-nine\nseasons of player history now fit inside one very committed chain of mutuals.",
+    "quote": "The NBA has eight degrees of LeBron.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vq0wmm/graphsketball_lebron_is_at_most_8_degrees_away/",
+    "commentHighlights": [
+      {
+        "label": "The farthest row",
+        "summary": "The graph post says the only eight-step players appeared in the league's 1946-47 opening season and never played another NBA season.",
+        "whyFunny": "The remote edge of basketball history still needs only eight introductions to reach LeBron.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1vq0wmm/graphsketball_lebron_is_at_most_8_degrees_away/"
+      }
+    ],
+    "markdown": "---\nid: lebron-eight-degrees-nba-history\nrank: 1\ntitle: \"LeBron is eight degrees from the entire NBA\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-17\"\nheat: 99\ntags:\n  - r/nba\n  - LeBron James\n  - NBA history\n  - graph lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba graph post says every player in league history is no more than eight\nteammate-link steps from LeBron James. Only eight players sit at the full\ndistance, all from the league's first season.\n\n## Why It Is Funny\n\nLeBron's longevity has turned the entire NBA into a party game. Seventy-nine\nseasons of player history now fit inside one very committed chain of mutuals.\n\n## Comment Highlights\n\n- Label: The farthest row\n  Summary: The graph post says the only eight-step players appeared in the league's 1946-47 opening season and never played another NBA season.\n  Why funny: The remote edge of basketball history still needs only eight introductions to reach LeBron.\n  Source URL: https://www.reddit.com/r/nba/comments/1vq0wmm/graphsketball_lebron_is_at_most_8_degrees_away/\n\n## Quote\n\nThe NBA has eight degrees of LeBron.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vq0wmm/graphsketball_lebron_is_at_most_8_degrees_away/\n- Source type: Reddit RSS top-day graph post\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-17. The distance calculation and historical endpoints are attributed to the post rather than presented as an independently audited dataset.\n\n## Sports Radar Markdown\n\n```md\n**LeBron is eight degrees from the entire NBA**\n\nA graph post says every player in league history sits within eight teammate links of LeBron.\n\nWhy it works: Seventy-nine seasons of basketball now look like one very committed chain of mutuals.\n```\n"
+  },
+  {
     "id": "lebron-outlasts-westbrook-career",
     "rank": 1,
     "title": "LeBron outlasts Westbrook's entire NBA career",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-16",
     "heat": 99,
     "tags": [
@@ -626,7 +656,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1vpg0kw/russell_westbrooks_entire_18year_nba_career/"
       }
     ],
-    "markdown": "---\nid: lebron-outlasts-westbrook-career\nrank: 1\ntitle: \"LeBron outlasts Westbrook's entire NBA career\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-16\"\nheat: 99\ntags:\n  - r/nba\n  - LeBron James\n  - Russell Westbrook\n  - longevity lore\npublic_ready: true\n---\n\n## Summary\n\nA top r/nba post noticed that Russell Westbrook's full 18-season career fit\nbetween LeBron James's first Finals appearance and LeBron still being active.\n\n## Why It Is Funny\n\nIt turns one extraordinary career into a unit of measurement for another. An\nentire MVP arc becomes a parenthetical inside the LeBron timeline.\n\n## Comment Highlights\n\n- Label: Career as yardstick\n  Summary: The post lines up Westbrook's draft, MVP, triple-double record, team changes, and retirement against LeBron's longer timeline.\n  Why funny: A full career checklist still fits inside a single active-player era.\n  Source URL: https://www.reddit.com/r/nba/comments/1vpg0kw/russell_westbrooks_entire_18year_nba_career/\n\n## Quote\n\nOne Hall of Fame career, nested inside another.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vpg0kw/russell_westbrooks_entire_18year_nba_career/\n- Source type: Reddit RSS top-day longevity post\n- Verification notes: Sports Radar reviewed the RSS title, source URL, and short feed preview on 2026-08-16. The 18-season comparison and active-player framing are attributed to the post rather than presented as independent reporting.\n\n## Sports Radar Markdown\n\n```md\n**LeBron outlasts Westbrook's entire NBA career**\n\nWestbrook's complete 18-season run fits between LeBron's first Finals and LeBron still playing.\n\nWhy it works: One legendary career somehow became a timestamp inside another.\n```\n"
+    "markdown": "---\nid: lebron-outlasts-westbrook-career\nrank: 1\ntitle: \"LeBron outlasts Westbrook's entire NBA career\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-16\"\nheat: 99\ntags:\n  - r/nba\n  - LeBron James\n  - Russell Westbrook\n  - longevity lore\npublic_ready: true\n---\n\n## Summary\n\nA top r/nba post noticed that Russell Westbrook's full 18-season career fit\nbetween LeBron James's first Finals appearance and LeBron still being active.\n\n## Why It Is Funny\n\nIt turns one extraordinary career into a unit of measurement for another. An\nentire MVP arc becomes a parenthetical inside the LeBron timeline.\n\n## Comment Highlights\n\n- Label: Career as yardstick\n  Summary: The post lines up Westbrook's draft, MVP, triple-double record, team changes, and retirement against LeBron's longer timeline.\n  Why funny: A full career checklist still fits inside a single active-player era.\n  Source URL: https://www.reddit.com/r/nba/comments/1vpg0kw/russell_westbrooks_entire_18year_nba_career/\n\n## Quote\n\nOne Hall of Fame career, nested inside another.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vpg0kw/russell_westbrooks_entire_18year_nba_career/\n- Source type: Reddit RSS top-day longevity post\n- Verification notes: Sports Radar reviewed the RSS title, source URL, and short feed preview on 2026-08-16. The 18-season comparison and active-player framing are attributed to the post rather than presented as independent reporting.\n\n## Sports Radar Markdown\n\n```md\n**LeBron outlasts Westbrook's entire NBA career**\n\nWestbrook's complete 18-season run fits between LeBron's first Finals and LeBron still playing.\n\nWhy it works: One legendary career somehow became a timestamp inside another.\n```\n"
   },
   {
     "id": "lebron-leconclave-smoke-signals",
@@ -1414,7 +1444,7 @@
     "title": "A sold goalkeeper returns with a 10 out of 10",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-16",
     "heat": 98,
     "tags": [
@@ -1429,7 +1459,7 @@
     "quote": "The return policy was immediate.",
     "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vpdb44/one_day_after_being_sold_by_fenerbahce_irfan_can/",
     "commentHighlights": [],
-    "markdown": "---\nid: fenerbahce-goalkeeper-revenge-rating\nrank: 2\ntitle: \"A sold goalkeeper returns with a 10 out of 10\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-16\"\nheat: 98\ntags:\n  - r/soccer\n  - Fenerbahce\n  - Irfan Can Egribayaat\n  - revenge game\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post framed Irfan Can Egribayaat's first meeting with Fenerbahce\nafter being sold as an immediate 10-out-of-10 performance against his old club.\n\n## Why It Is Funny\n\nThe transfer receipt arrived one day after the transaction. Sports normally\nlets a revenge narrative simmer; this one barely cleared the checkout screen.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThe return policy was immediate.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vpdb44/one_day_after_being_sold_by_fenerbahce_irfan_can/\n- Source type: Reddit RSS top-day post\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-16. The sale timing and 10-out-of-10 rating are attributed to the post title, not independently reported here.\n\n## Sports Radar Markdown\n\n```md\n**A sold goalkeeper returns with a 10 out of 10**\n\nOne day after Fenerbahce sold him, Irfan Can Egribayaat came back with the post's perfect rating.\n\nWhy it works: The revenge game arrived before the transfer receipt could cool.\n```\n"
+    "markdown": "---\nid: fenerbahce-goalkeeper-revenge-rating\nrank: 2\ntitle: \"A sold goalkeeper returns with a 10 out of 10\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-16\"\nheat: 98\ntags:\n  - r/soccer\n  - Fenerbahce\n  - Irfan Can Egribayaat\n  - revenge game\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post framed Irfan Can Egribayaat's first meeting with Fenerbahce\nafter being sold as an immediate 10-out-of-10 performance against his old club.\n\n## Why It Is Funny\n\nThe transfer receipt arrived one day after the transaction. Sports normally\nlets a revenge narrative simmer; this one barely cleared the checkout screen.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThe return policy was immediate.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vpdb44/one_day_after_being_sold_by_fenerbahce_irfan_can/\n- Source type: Reddit RSS top-day post\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-16. The sale timing and 10-out-of-10 rating are attributed to the post title, not independently reported here.\n\n## Sports Radar Markdown\n\n```md\n**A sold goalkeeper returns with a 10 out of 10**\n\nOne day after Fenerbahce sold him, Irfan Can Egribayaat came back with the post's perfect rating.\n\nWhy it works: The revenge game arrived before the transfer receipt could cool.\n```\n"
   },
   {
     "id": "reaves-lebron-golf-ruined",
@@ -2311,6 +2341,36 @@
       }
     ],
     "markdown": "---\nid: england-camera-cable-heartbeat\nrank: 2\ntitle: \"Soccer needed ball telemetry for an invisible cable\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-12\"\nheat: 94\ntags:\n  - r/soccer\n  - England\n  - Norway\n  - camera-cable\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer thread blamed a strange bounce before England's goal on an overhead\ncamera cable, then FIFA sensor data said there was no evidence of contact.\n\n## Why It Is Funny\n\nA normal argument about a bouncing ball escalated into forensic analysis of\nthe ball's electronic heartbeat and a cable many viewers could not even see.\n\n## Comment Highlights\n\n- Label: Enhance the invisible cable\n  Summary: Fans repeatedly asked one another to point out the exact frame where the supposed contact happened.\n  Why funny: Thousands of confident opinions were built around an object half the thread could not locate.\n  Source URL: https://www.reddit.com/r/soccer/comments/1utx6yf/englands_goal_was_a_result_of_the_ball_hitting/\n- Label: Ask the ball\n  Summary: The debate pivoted to whether the connected ball's sensor could settle the argument.\n  Why funny: Match discourse became a hardware diagnostic in real time.\n  Source URL: https://www.reddit.com/r/soccer/comments/1utx6yf/englands_goal_was_a_result_of_the_ball_hitting/\n\n## Quote\n\nThe ball had to testify about the cable.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1utx6yf/englands_goal_was_a_result_of_the_ball_hitting/\n- Source type: Reddit / r/soccer top-day clip discussion\n- Verification notes: public thread confirms the cable theory and later sensor-data dispute; do not state cable contact as established fact\n\n## Sports Radar Markdown\n\n```md\n**Soccer needed ball telemetry for an invisible cable**\n\nA disputed bounce before England's goal turned into forensic analysis of a connected ball.\n\nWhy it works: The match argument required both VAR and tech support.\n```\n"
+  },
+  {
+    "id": "steph-curry-panthers-win-splits",
+    "rank": 2,
+    "title": "Steph's jumper apparently checks the Panthers score",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-17",
+    "heat": 98,
+    "tags": [
+      "r/nba",
+      "Stephen Curry",
+      "Carolina Panthers",
+      "weird stats"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba original post calculated that Stephen Curry shoots 42.3 percent from\nthree after Carolina Panthers wins and 35.2 percent after Panthers losses.",
+    "whyFunny": "The Panthers accidentally became a seven-point shooting slider. It is the\nkind of split that turns football fandom into an NBA performance variable.",
+    "quote": "Carolina controls the hidden shooting slider.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vq0llf/oc_steph_curry_shoots_423_from_three_after/",
+    "commentHighlights": [
+      {
+        "label": "Fan-made split",
+        "summary": "The post also compared Warriors win rates after Panthers wins and losses, extending the premise from Curry's shooting to team results.",
+        "whyFunny": "One football score somehow became a full basketball dashboard.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1vq0llf/oc_steph_curry_shoots_423_from_three_after/"
+      }
+    ],
+    "markdown": "---\nid: steph-curry-panthers-win-splits\nrank: 2\ntitle: \"Steph's jumper apparently checks the Panthers score\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-17\"\nheat: 98\ntags:\n  - r/nba\n  - Stephen Curry\n  - Carolina Panthers\n  - weird stats\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba original post calculated that Stephen Curry shoots 42.3 percent from\nthree after Carolina Panthers wins and 35.2 percent after Panthers losses.\n\n## Why It Is Funny\n\nThe Panthers accidentally became a seven-point shooting slider. It is the\nkind of split that turns football fandom into an NBA performance variable.\n\n## Comment Highlights\n\n- Label: Fan-made split\n  Summary: The post also compared Warriors win rates after Panthers wins and losses, extending the premise from Curry's shooting to team results.\n  Why funny: One football score somehow became a full basketball dashboard.\n  Source URL: https://www.reddit.com/r/nba/comments/1vq0llf/oc_steph_curry_shoots_423_from_three_after/\n\n## Quote\n\nCarolina controls the hidden shooting slider.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vq0llf/oc_steph_curry_shoots_423_from_three_after/\n- Source type: Reddit RSS top-day original analysis\n- Verification notes: Sports Radar reviewed the RSS title, source URL, and short feed preview on 2026-08-17. The percentages and statistical framing come from the fan analysis and were not independently recalculated.\n\n## Sports Radar Markdown\n\n```md\n**Steph's jumper apparently checks the Panthers score**\n\nA fan analysis found a 7.1-point gap in Curry's three-point shooting after Panthers wins versus losses.\n\nWhy it works: Carolina football became the strangest variable on an NBA shooting chart.\n```\n"
   },
   {
     "id": "steven-adams-beach-log",
@@ -3269,6 +3329,29 @@
     "markdown": "---\nid: gerrit-cole-broken-clock-balk\nrank: 3\ntitle: \"Gerrit Cole reports a broken clock and gets a balk\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-23\"\nheat: 94\ntags:\n  - r/baseball\n  - Gerrit Cole\n  - pitch clock\n  - balk\npublic_ready: true\n---\n\n## Summary\n\nGerrit Cole noticed the pitch clock had gone dark and tried to tell the\numpires, but he did it without properly stepping off the rubber and was called\nfor a balk.\n\n## Why It Is Funny\n\nThe equipment failed, Cole filed a live bug report, and baseball penalized the\nreporting method. It is a perfect collision between common sense and a rule\nfamous for resisting plain-language explanation.\n\n## Comment Highlights\n\n- Label: Pointing history\n  Summary: Fans connected the moment to Cole's broader history of pointing at problems during games.\n  Why funny: The gesture itself has apparently become a recurring opponent.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v3oway/gerrit_cole_gets_called_for_a_balk_for_trying_to/\n- Label: Clock-balk vocabulary\n  Summary: The thread tried to invent one compact word for talking about a clock and receiving a balk.\n  Why funny: Baseball's least explainable rule immediately generated its own language patch.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v3oway/gerrit_cole_gets_called_for_a_balk_for_trying_to/\n\n## Quote\n\nThe bug report came with a one-base penalty.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v3oway/gerrit_cole_gets_called_for_a_balk_for_trying_to/\n- Source type: Reddit / r/baseball top-day game clip and rules discussion\n- Verification notes: the fresh public post shows Cole signaling the broken clock and notes that he had not stepped off properly; the copy does not claim the balk call was incorrect\n\n## Sports Radar Markdown\n\n```md\n**Gerrit Cole reports a broken clock and gets a balk**\n\nCole noticed the pitch clock had failed, reported it from the rubber, and received a one-base penalty.\n\nWhy it works: baseball accepted the bug report and rejected the reporting method.\n```\n"
   },
   {
+    "id": "haliburton-warriors-draft-two",
+    "rank": 3,
+    "title": "Haliburton leaves one workout certain he is going second",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-17",
+    "heat": 97,
+    "tags": [
+      "r/nba",
+      "Tyrese Haliburton",
+      "Golden State Warriors",
+      "draft lore"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba post relayed Tyrese Haliburton saying his Golden State workout felt\nso perfect that he expected the Warriors to draft him second, right before the\nteam explained that fit and pick number were separate questions.",
+    "whyFunny": "The workout ended like a successful job interview followed by a very specific\nbudget meeting. Everyone agreed on the chemistry; the second pick remained a\ndifferent species of commitment.",
+    "quote": "Perfect fit, complicated draft slot.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vqe016/tyrese_haliburton_my_golden_state_workout_that/",
+    "commentHighlights": [],
+    "markdown": "---\nid: haliburton-warriors-draft-two\nrank: 3\ntitle: \"Haliburton leaves one workout certain he is going second\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-17\"\nheat: 97\ntags:\n  - r/nba\n  - Tyrese Haliburton\n  - Golden State Warriors\n  - draft lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post relayed Tyrese Haliburton saying his Golden State workout felt\nso perfect that he expected the Warriors to draft him second, right before the\nteam explained that fit and pick number were separate questions.\n\n## Why It Is Funny\n\nThe workout ended like a successful job interview followed by a very specific\nbudget meeting. Everyone agreed on the chemistry; the second pick remained a\ndifferent species of commitment.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nPerfect fit, complicated draft slot.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vqe016/tyrese_haliburton_my_golden_state_workout_that/\n- Source type: Reddit RSS top-day player-story post\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-17. The workout and interview account is attributed to Haliburton through the source post, not independently reported here.\n\n## Sports Radar Markdown\n\n```md\n**Haliburton leaves one workout certain he is going second**\n\nHaliburton said the Golden State workout felt perfect until fit and draft position became separate conversations.\n\nWhy it works: The interview sounded like a yes right up until the second pick entered the room.\n```\n"
+  },
+  {
     "id": "ja-morant-teammate-ragebait",
     "rank": 3,
     "title": "Ja Morant discovers the roster's ragebait department",
@@ -3346,7 +3429,7 @@
     "title": "Joshua Baez starts his career three homers deep",
     "league": "MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-16",
     "heat": 97,
     "tags": [
@@ -3361,7 +3444,7 @@
     "quote": "The tutorial level had three home-run buttons.",
     "sourceUrl": "https://www.reddit.com/r/baseball/comments/1vpe0z0/all_3_home_runs_from_joshua_báez_in_his/",
     "commentHighlights": [],
-    "markdown": "---\nid: joshua-baez-three-debut-homers\nrank: 3\ntitle: \"Joshua Baez starts his career three homers deep\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-16\"\nheat: 97\ntags:\n  - r/baseball\n  - Joshua Baez\n  - St. Louis Cardinals\n  - debut lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post collected all three Joshua Baez home runs from his major\nleague debut and framed him as the first player to homer in each of his first\nthree at-bats.\n\n## Why It Is Funny\n\nMost debuts offer a first hit or a keepsake ball. This one needed a running\ninventory and made the fourth plate appearance feel like a plot twist.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThe tutorial level had three home-run buttons.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vpe0z0/all_3_home_runs_from_joshua_báez_in_his/\n- Source type: Reddit RSS top-day highlight compilation\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-16. The three-home-run sequence and historical-first framing are attributed to the post title rather than independently verified reporting.\n\n## Sports Radar Markdown\n\n```md\n**Joshua Baez starts his career three homers deep**\n\nThe debut compilation needed three home-run clips before Baez recorded a different outcome.\n\nWhy it works: His first day in the majors played like somebody forgot to raise the difficulty.\n```\n"
+    "markdown": "---\nid: joshua-baez-three-debut-homers\nrank: 3\ntitle: \"Joshua Baez starts his career three homers deep\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-16\"\nheat: 97\ntags:\n  - r/baseball\n  - Joshua Baez\n  - St. Louis Cardinals\n  - debut lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post collected all three Joshua Baez home runs from his major\nleague debut and framed him as the first player to homer in each of his first\nthree at-bats.\n\n## Why It Is Funny\n\nMost debuts offer a first hit or a keepsake ball. This one needed a running\ninventory and made the fourth plate appearance feel like a plot twist.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThe tutorial level had three home-run buttons.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vpe0z0/all_3_home_runs_from_joshua_báez_in_his/\n- Source type: Reddit RSS top-day highlight compilation\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-16. The three-home-run sequence and historical-first framing are attributed to the post title rather than independently verified reporting.\n\n## Sports Radar Markdown\n\n```md\n**Joshua Baez starts his career three homers deep**\n\nThe debut compilation needed three home-run clips before Baez recorded a different outcome.\n\nWhy it works: His first day in the majors played like somebody forgot to raise the difficulty.\n```\n"
   },
   {
     "id": "julian-ryerson-palace-flip-flops",
@@ -4302,6 +4385,36 @@
     "markdown": "---\nid: galaxy-stadium-big-12-orbit\nrank: 4\ntitle: \"Galaxy Stadium puts the Big 12 in orbit\"\nleague: \"NCAAF\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-17\"\nheat: 92\ntags:\n  - r/CFB\n  - Texas Tech\n  - stadium names\n  - Big 12\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB post linking a report about Texas Tech's planned Galaxy Stadium name\nprompted fans to debate whether they would ever stop calling the venue the Jones.\n\n## Why It Is Funny\n\nCorporate naming rights accidentally give a West Texas football stadium a\nsci-fi name. The thread immediately drafts the rest of the Big 12 into a space conference.\n\n## Comment Highlights\n\n- Label: Legacy-name resistance\n  Summary: Fans compared the change to famous buildings whose old names survived every sponsor update.\n  Why funny: A multimillion-dollar rebrand meets the unstoppable force of local habit.\n  Source URL: https://www.reddit.com/r/CFB/comments/1uyy87s/galaxy_stadium_texas_tech_lands_75_million_naming/\n- Label: Space-conference expansion\n  Summary: The thread grouped Galaxy Stadium with other Big 12 space associations and started inventing more cosmic sponsors.\n  Why funny: One venue name turns conference realignment into a solar-system map.\n  Source URL: https://www.reddit.com/r/CFB/comments/1uyy87s/galaxy_stadium_texas_tech_lands_75_million_naming/\n\n## Quote\n\nThe Big 12 has entered its space era.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1uyy87s/galaxy_stadium_texas_tech_lands_75_million_naming/\n- Source type: Reddit / r/CFB top-day link discussion\n- Verification notes: the Reddit post links an On3 report about the planned naming-rights change; the public copy attributes the report and focuses on fan reaction rather than independently asserting deal terms\n\n## Sports Radar Markdown\n\n```md\n**Galaxy Stadium puts the Big 12 in orbit**\n\nA reported Texas Tech stadium rename gave West Texas football a sci-fi label and fans a fresh reason to ignore corporate naming rights.\n\nWhy it works: one sponsor turns the conference map into a space program.\n```\n"
   },
   {
+    "id": "gobert-fadeaway-game-seven-lore",
+    "rank": 4,
+    "title": "Gobert's fadeaway returns as the Game 7 omen",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-17",
+    "heat": 96,
+    "tags": [
+      "r/nba",
+      "Rudy Gobert",
+      "Nikola Jokic",
+      "Game 7 lore"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba throwback resurfaced Rudy Gobert's fadeaway over Nikola Jokic in Game\n7 of the 2024 Western Conference semifinals and framed it as the shot that made\nDenver's loss feel inevitable.",
+    "whyFunny": "A Gobert fadeaway is already a basketball emergency alert. Landing it over\nJokic during a comeback made the possession feel like the universe had filed\nthe final result early.",
+    "quote": "The fadeaway was the omen.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vq6c8y/rudy_gobert_hits_a_demoralizing_fadeaway_jumper/",
+    "commentHighlights": [
+      {
+        "label": "The omen shot",
+        "summary": "The feed preview described Minnesota completing a major comeback before the jumper turned a close finish into an impending-loss feeling.",
+        "whyFunny": "The least expected shot became the one that made the ending feel prewritten.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1vq6c8y/rudy_gobert_hits_a_demoralizing_fadeaway_jumper/"
+      }
+    ],
+    "markdown": "---\nid: gobert-fadeaway-game-seven-lore\nrank: 4\ntitle: \"Gobert's fadeaway returns as the Game 7 omen\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-17\"\nheat: 96\ntags:\n  - r/nba\n  - Rudy Gobert\n  - Nikola Jokic\n  - Game 7 lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba throwback resurfaced Rudy Gobert's fadeaway over Nikola Jokic in Game\n7 of the 2024 Western Conference semifinals and framed it as the shot that made\nDenver's loss feel inevitable.\n\n## Why It Is Funny\n\nA Gobert fadeaway is already a basketball emergency alert. Landing it over\nJokic during a comeback made the possession feel like the universe had filed\nthe final result early.\n\n## Comment Highlights\n\n- Label: The omen shot\n  Summary: The feed preview described Minnesota completing a major comeback before the jumper turned a close finish into an impending-loss feeling.\n  Why funny: The least expected shot became the one that made the ending feel prewritten.\n  Source URL: https://www.reddit.com/r/nba/comments/1vq6c8y/rudy_gobert_hits_a_demoralizing_fadeaway_jumper/\n\n## Quote\n\nThe fadeaway was the omen.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vq6c8y/rudy_gobert_hits_a_demoralizing_fadeaway_jumper/\n- Source type: Reddit RSS top-day throwback highlight\n- Verification notes: Sports Radar reviewed the RSS title, source URL, and short feed preview on 2026-08-17. The shot's emotional meaning is the post's retrospective framing rather than a new game report.\n\n## Sports Radar Markdown\n\n```md\n**Gobert's fadeaway returns as the Game 7 omen**\n\nThe 2024 throwback recasts one Gobert jumper as the moment Denver's night started feeling scripted.\n\nWhy it works: When that fadeaway drops over Jokic, the basketball gods have stopped being subtle.\n```\n"
+  },
+  {
     "id": "hockey-guaranteed-cup-heartbreak",
     "rank": 4,
     "title": "Hockey reopens the guaranteed Cup archive",
@@ -4409,7 +4522,7 @@
     "title": "Joey Crawford inducts his own confidence too",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-16",
     "heat": 96,
     "tags": [
@@ -4424,7 +4537,7 @@
     "quote": "The ruling on the floor: he did it.",
     "sourceUrl": "https://www.reddit.com/r/nba/comments/1vpjzdi/new_hall_of_famer_joey_crawford_on_his/",
     "commentHighlights": [],
-    "markdown": "---\nid: joey-crawford-hall-of-fame-brag\nrank: 4\ntitle: \"Joey Crawford inducts his own confidence too\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-16\"\nheat: 96\ntags:\n  - r/nba\n  - Joey Crawford\n  - Hall of Fame\n  - referee lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post pulled a line from new Hall of Famer Joey Crawford's speech in\nwhich the longtime referee declared that his list of accomplishments was not\nbragging because he had done it.\n\n## Why It Is Funny\n\nThe official famous for making the call made the final call on his own legacy.\nEven the acceptance speech came with no replay review.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThe ruling on the floor: he did it.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vpjzdi/new_hall_of_famer_joey_crawford_on_his/\n- Source type: Reddit RSS top-day speech clip\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-16. The speech line is paraphrased from the title; the public copy does not claim an independently reviewed transcript.\n\n## Sports Radar Markdown\n\n```md\n**Joey Crawford inducts his own confidence too**\n\nThe longtime referee used his Hall of Fame speech to uphold the call on his own career.\n\nWhy it works: Even his self-assessment arrived as a final ruling with no replay review.\n```\n"
+    "markdown": "---\nid: joey-crawford-hall-of-fame-brag\nrank: 4\ntitle: \"Joey Crawford inducts his own confidence too\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-16\"\nheat: 96\ntags:\n  - r/nba\n  - Joey Crawford\n  - Hall of Fame\n  - referee lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post pulled a line from new Hall of Famer Joey Crawford's speech in\nwhich the longtime referee declared that his list of accomplishments was not\nbragging because he had done it.\n\n## Why It Is Funny\n\nThe official famous for making the call made the final call on his own legacy.\nEven the acceptance speech came with no replay review.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThe ruling on the floor: he did it.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vpjzdi/new_hall_of_famer_joey_crawford_on_his/\n- Source type: Reddit RSS top-day speech clip\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-16. The speech line is paraphrased from the title; the public copy does not claim an independently reviewed transcript.\n\n## Sports Radar Markdown\n\n```md\n**Joey Crawford inducts his own confidence too**\n\nThe longtime referee used his Hall of Fame speech to uphold the call on his own career.\n\nWhy it works: Even his self-assessment arrived as a final ruling with no replay review.\n```\n"
   },
   {
     "id": "josh-hart-pocket-counting",
@@ -5815,6 +5928,29 @@
     "markdown": "---\nid: lebron-christmas-schedule-theory\nrank: 5\ntitle: \"Jeff Teague gives LeBron a Christmas schedule theory\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-12\"\nheat: 90\ntags:\n  - r/nba\n  - Jeff Teague\n  - LeBron James\n  - Christmas game\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post circulated Jeff Teague's podcast riff that a Christmas matchup\nin Los Angeles was the league's way of letting LeBron spend the holiday at\nhome.\n\n## Why It Is Funny\n\nA marquee television game became a family-calendar favor in one sentence. The\nthread immediately transformed the schedule into matching pajamas, presents,\nand the latest entry in LeBron nickname lore.\n\n## Comment Highlights\n\n- Label: Holiday nickname workshop\n  Summary: The thread recast the matchup as a Christmas-morning family scene and generated a fresh batch of seasonal LeBron wordplay.\n  Why funny: National television scheduling was reduced to one dad trying to stay near the tree.\n  Source URL: https://www.reddit.com/r/nba/comments/1vllvey/jeff_teague_says_the_nba_scheduled_76ers_vs/\n\n## Quote\n\nThe Christmas schedule now comes with family-calendar lore.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vllvey/jeff_teague_says_the_nba_scheduled_76ers_vs/\n- Source type: Reddit post discussing a public podcast clip\n- Verification notes: Sports Radar reviewed the public post and discussion on 2026-08-12. The scheduling explanation is attributed to Jeff Teague's comedic podcast framing and is not presented as verified league inside information.\n\n## Sports Radar Markdown\n\n```md\n**Jeff Teague gives LeBron a Christmas schedule theory**\n\nAn r/nba post reframed a Los Angeles holiday matchup as a family-calendar favor.\n\nWhy it works: A marquee television game became one dad trying to stay near the tree.\n```\n"
   },
   {
+    "id": "kobe-gasol-hit-stick-throwback",
+    "rank": 5,
+    "title": "Kobe brings the hit stick to Pau Gasol",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-17",
+    "heat": 95,
+    "tags": [
+      "r/nba",
+      "Kobe Bryant",
+      "Pau Gasol",
+      "throwback lore"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba highlight rewound 18 years to Kobe Bryant colliding with Pau Gasol\nand summarized the moment with one football-game phrase: the hit stick.",
+    "whyFunny": "The clip treats friendship and basketball position as temporary settings. The\nvideo-game label does the rest, turning a physical throwback into a controller\ninput.",
+    "quote": "Teammate settings temporarily disabled.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vq8ccs/highlight_18_years_ago_kobe_with_the_hit_stick_on/",
+    "commentHighlights": [],
+    "markdown": "---\nid: kobe-gasol-hit-stick-throwback\nrank: 5\ntitle: \"Kobe brings the hit stick to Pau Gasol\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-17\"\nheat: 95\ntags:\n  - r/nba\n  - Kobe Bryant\n  - Pau Gasol\n  - throwback lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba highlight rewound 18 years to Kobe Bryant colliding with Pau Gasol\nand summarized the moment with one football-game phrase: the hit stick.\n\n## Why It Is Funny\n\nThe clip treats friendship and basketball position as temporary settings. The\nvideo-game label does the rest, turning a physical throwback into a controller\ninput.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nTeammate settings temporarily disabled.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vq8ccs/highlight_18_years_ago_kobe_with_the_hit_stick_on/\n- Source type: Reddit RSS top-day throwback highlight\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-17. The public copy stays within the post's 18-year throwback and hit-stick framing without adding unverified event context.\n\n## Sports Radar Markdown\n\n```md\n**Kobe brings the hit stick to Pau Gasol**\n\nAn 18-year-old throwback turns one Kobe-Gasol collision into a video-game input.\n\nWhy it works: Teammate settings were apparently disabled for the possession.\n```\n"
+  },
+  {
     "id": "kuzma-lifestyle-creep-lecture",
     "rank": 5,
     "title": "Kyle Kuzma turns athlete finance talk into a budget intervention",
@@ -6433,7 +6569,7 @@
     "title": "The Rays unlock the whole upper deck",
     "league": "MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-16",
     "heat": 95,
     "tags": [
@@ -6448,7 +6584,7 @@
     "quote": "Upper deck: fully unlocked.",
     "sourceUrl": "https://www.reddit.com/r/baseball/comments/1vpi5bo/the_rays_have_parts_of_every_upper_deck_section/",
     "commentHighlights": [],
-    "markdown": "---\nid: rays-upper-deck-reopens\nrank: 5\ntitle: \"The Rays unlock the whole upper deck\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-16\"\nheat: 95\ntags:\n  - r/baseball\n  - Tampa Bay Rays\n  - attendance lore\n  - upper deck\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball fan post noticed that every upper-deck section was open for a\nRays game for the first time since the 2023 playoffs.\n\n## Why It Is Funny\n\nThe crowd update reads like a stadium expansion pack finally unlocked. For a\nfranchise with years of attendance lore, open sections became the headline.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nUpper deck: fully unlocked.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vpi5bo/the_rays_have_parts_of_every_upper_deck_section/\n- Source type: Reddit RSS top-day fan attendance post\n- Verification notes: Sports Radar reviewed the RSS title, source URL, and short feed preview on 2026-08-16. The first-since-2023 framing is attributed to the fan post and is not presented as an independently audited attendance record.\n\n## Sports Radar Markdown\n\n```md\n**The Rays unlock the whole upper deck**\n\nA fan post marked every upper-deck section open for the first time since the 2023 playoffs.\n\nWhy it works: Tampa Bay attendance lore turned available seating into an unlockable achievement.\n```\n"
+    "markdown": "---\nid: rays-upper-deck-reopens\nrank: 5\ntitle: \"The Rays unlock the whole upper deck\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-16\"\nheat: 95\ntags:\n  - r/baseball\n  - Tampa Bay Rays\n  - attendance lore\n  - upper deck\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball fan post noticed that every upper-deck section was open for a\nRays game for the first time since the 2023 playoffs.\n\n## Why It Is Funny\n\nThe crowd update reads like a stadium expansion pack finally unlocked. For a\nfranchise with years of attendance lore, open sections became the headline.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nUpper deck: fully unlocked.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vpi5bo/the_rays_have_parts_of_every_upper_deck_section/\n- Source type: Reddit RSS top-day fan attendance post\n- Verification notes: Sports Radar reviewed the RSS title, source URL, and short feed preview on 2026-08-16. The first-since-2023 framing is attributed to the fan post and is not presented as an independently audited attendance record.\n\n## Sports Radar Markdown\n\n```md\n**The Rays unlock the whole upper deck**\n\nA fan post marked every upper-deck section open for the first time since the 2023 playoffs.\n\nWhy it works: Tampa Bay attendance lore turned available seating into an unlockable achievement.\n```\n"
   },
   {
     "id": "tim-payne-olimpia-debut-goal",
