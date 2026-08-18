@@ -414,6 +414,36 @@
     "markdown": "---\nid: nhl-offseason-crime-syndicate\nrank: 1\ntitle: \"Hockey's offseason builds an entire crime syndicate\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-12\"\nheat: 98\ntags:\n  - r/hockey\n  - offseason\n  - fan-made\n  - hockey lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey fan post turned a large cast of NHL-player lookalikes into a fully\nmapped fictional crime organization with bosses, crews, undercover cops, and\ninternal rivalries.\n\n## Why It Is Funny\n\nThe offseason did not produce a depth chart; it produced organized-crime lore.\nEvery face received a role, a reporting line, and enough backstory to support a\nprestige television season.\n\n## Comment Highlights\n\n- Label: August world-building\n  Summary: The thread treated the fan-made hierarchy as exactly the kind of elaborate project hockey's quiet season is built for.\n  Why funny: A joke image arrived with more organizational design than many real front offices.\n  Source URL: https://www.reddit.com/r/hockey/comments/1vmfrae/years_ago_my_brother_and_i_created_a_crime/\n\n## Quote\n\nThe offseason org chart has entered its prestige-drama phase.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vmfrae/years_ago_my_brother_and_i_created_a_crime/\n- Source type: Reddit fan-made image and lore post\n- Verification notes: Sports Radar reviewed the public post and its creator-supplied fictional character descriptions on 2026-08-12. The public copy treats the entire premise as fan fiction, not a claim about real people.\n\n## Sports Radar Markdown\n\n```md\n**Hockey's offseason builds an entire crime syndicate**\n\nAn r/hockey fan gave NHL-player lookalikes a complete fictional underworld hierarchy.\n\nWhy it works: The joke arrived with reporting lines, rivalries, and a full season of lore.\n```\n"
   },
   {
+    "id": "jokic-tree-planting-loophole",
+    "rank": 1,
+    "title": "Jokic gets the tree-planting loophole",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-18",
+    "heat": 99,
+    "tags": [
+      "r/nba",
+      "Nikola Jokic",
+      "salary-cap parody",
+      "fan lore"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba fan post turned the day's Clippers salary-cap discussion into a\nJokic roster-building plan: take the veteran minimum and receive the rest for\nplanting a few trees.",
+    "whyFunny": "The joke gives Denver a perfectly on-brand paperwork loophole. Even imaginary\nsalary-cap engineering has to include land, quiet, and an agricultural side\nquest for Jokic.",
+    "quote": "The tree-planting exception has entered the CBA.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vr0h9p/can_nikola_jokic_now_sign_for_veteran_minimum_and/",
+    "commentHighlights": [
+      {
+        "label": "Roster-building pitch",
+        "summary": "The post imagined Denver using the fictional side payment to keep more roster salary available.",
+        "whyFunny": "A fan turned an investigation headline into a complete team-building proposal.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1vr0h9p/can_nikola_jokic_now_sign_for_veteran_minimum_and/"
+      }
+    ],
+    "markdown": "---\nid: jokic-tree-planting-loophole\nrank: 1\ntitle: \"Jokic gets the tree-planting loophole\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-18\"\nheat: 99\ntags:\n  - r/nba\n  - Nikola Jokic\n  - salary-cap parody\n  - fan lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba fan post turned the day's Clippers salary-cap discussion into a\nJokic roster-building plan: take the veteran minimum and receive the rest for\nplanting a few trees.\n\n## Why It Is Funny\n\nThe joke gives Denver a perfectly on-brand paperwork loophole. Even imaginary\nsalary-cap engineering has to include land, quiet, and an agricultural side\nquest for Jokic.\n\n## Comment Highlights\n\n- Label: Roster-building pitch\n  Summary: The post imagined Denver using the fictional side payment to keep more roster salary available.\n  Why funny: A fan turned an investigation headline into a complete team-building proposal.\n  Source URL: https://www.reddit.com/r/nba/comments/1vr0h9p/can_nikola_jokic_now_sign_for_veteran_minimum_and/\n\n## Quote\n\nThe tree-planting exception has entered the CBA.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vr0h9p/can_nikola_jokic_now_sign_for_veteran_minimum_and/\n- Source type: Reddit RSS top-day fan parody\n- Verification notes: Sports Radar reviewed the RSS title, source URL, and short feed preview on 2026-08-18. The proposed arrangement is clearly treated as a fan joke, not a real contract or salary-cap claim.\n\n## Sports Radar Markdown\n\n```md\n**Jokic gets the tree-planting loophole**\n\nAn r/nba fan solved Denver's roster math with a veteran minimum and a very large tree-planting budget.\n\nWhy it works: Even imaginary cap engineering gives Jokic an agricultural side quest.\n```\n"
+  },
+  {
     "id": "jokic-delicious-gar-repeat",
     "rank": 1,
     "title": "Jokic's horse stable completes the repeat",
@@ -604,7 +634,7 @@
     "title": "LeBron is eight degrees from the entire NBA",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-17",
     "heat": 99,
     "tags": [
@@ -626,7 +656,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1vq0wmm/graphsketball_lebron_is_at_most_8_degrees_away/"
       }
     ],
-    "markdown": "---\nid: lebron-eight-degrees-nba-history\nrank: 1\ntitle: \"LeBron is eight degrees from the entire NBA\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-17\"\nheat: 99\ntags:\n  - r/nba\n  - LeBron James\n  - NBA history\n  - graph lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba graph post says every player in league history is no more than eight\nteammate-link steps from LeBron James. Only eight players sit at the full\ndistance, all from the league's first season.\n\n## Why It Is Funny\n\nLeBron's longevity has turned the entire NBA into a party game. Seventy-nine\nseasons of player history now fit inside one very committed chain of mutuals.\n\n## Comment Highlights\n\n- Label: The farthest row\n  Summary: The graph post says the only eight-step players appeared in the league's 1946-47 opening season and never played another NBA season.\n  Why funny: The remote edge of basketball history still needs only eight introductions to reach LeBron.\n  Source URL: https://www.reddit.com/r/nba/comments/1vq0wmm/graphsketball_lebron_is_at_most_8_degrees_away/\n\n## Quote\n\nThe NBA has eight degrees of LeBron.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vq0wmm/graphsketball_lebron_is_at_most_8_degrees_away/\n- Source type: Reddit RSS top-day graph post\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-17. The distance calculation and historical endpoints are attributed to the post rather than presented as an independently audited dataset.\n\n## Sports Radar Markdown\n\n```md\n**LeBron is eight degrees from the entire NBA**\n\nA graph post says every player in league history sits within eight teammate links of LeBron.\n\nWhy it works: Seventy-nine seasons of basketball now look like one very committed chain of mutuals.\n```\n"
+    "markdown": "---\nid: lebron-eight-degrees-nba-history\nrank: 1\ntitle: \"LeBron is eight degrees from the entire NBA\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-17\"\nheat: 99\ntags:\n  - r/nba\n  - LeBron James\n  - NBA history\n  - graph lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba graph post says every player in league history is no more than eight\nteammate-link steps from LeBron James. Only eight players sit at the full\ndistance, all from the league's first season.\n\n## Why It Is Funny\n\nLeBron's longevity has turned the entire NBA into a party game. Seventy-nine\nseasons of player history now fit inside one very committed chain of mutuals.\n\n## Comment Highlights\n\n- Label: The farthest row\n  Summary: The graph post says the only eight-step players appeared in the league's 1946-47 opening season and never played another NBA season.\n  Why funny: The remote edge of basketball history still needs only eight introductions to reach LeBron.\n  Source URL: https://www.reddit.com/r/nba/comments/1vq0wmm/graphsketball_lebron_is_at_most_8_degrees_away/\n\n## Quote\n\nThe NBA has eight degrees of LeBron.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vq0wmm/graphsketball_lebron_is_at_most_8_degrees_away/\n- Source type: Reddit RSS top-day graph post\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-17. The distance calculation and historical endpoints are attributed to the post rather than presented as an independently audited dataset.\n\n## Sports Radar Markdown\n\n```md\n**LeBron is eight degrees from the entire NBA**\n\nA graph post says every player in league history sits within eight teammate links of LeBron.\n\nWhy it works: Seventy-nine seasons of basketball now look like one very committed chain of mutuals.\n```\n"
   },
   {
     "id": "lebron-outlasts-westbrook-career",
@@ -1801,6 +1831,29 @@
     "markdown": "---\nid: bill-self-kansas-tournament-simulator\nrank: 2\ntitle: \"Kansas turns Bill Self lore into a tournament simulator\"\nleague: \"College Basketball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-10\"\nheat: 96\ntags:\n  - r/CollegeBasketball\n  - Kansas\n  - Bill Self\n  - fan game\npublic_ready: true\n---\n\n## Summary\n\nAn r/CollegeBasketball post shared a fan-built game for drafting an all-time\nBill Self lineup and sending it through Kansas tournament history.\n\n## Why It Is Funny\n\nThe simulator does not merely celebrate great players. It lets Kansas fans\nreopen old bracket wounds, test alternate lineups, and discover whether the\nalgorithm has also learned to call a team soft.\n\n## Comment Highlights\n\n- Label: Historically accurate heartbreak\n  Summary: Fans compared their simulated exits with memorable Kansas tournament losses.\n  Why funny: The game recreates both the fantasy roster and the emotional scar tissue.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vjz7rh/the_bill_self_algorithm_820_but_make_it_kansas/\n\n## Quote\n\nKansas basketball lore now has a replay button.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vjz7rh/the_bill_self_algorithm_820_but_make_it_kansas/\n- Source type: Reddit top-day college-basketball fan-project post\n- Verification notes: Sports Radar reviewed the public r/CollegeBasketball post and linked project discussion on 2026-08-10. The summary describes the public game concept without copying its data or thread text.\n\n## Sports Radar Markdown\n\n```md\n**Kansas turns Bill Self lore into a tournament simulator**\n\nA fan-built game lets Kansas supporters draft an all-time lineup and revisit tournament history.\n\nWhy it works: The fantasy roster comes bundled with historically accurate stress.\n```\n"
   },
   {
+    "id": "kelce-slow-motion-juke",
+    "rank": 2,
+    "title": "Kelce keeps winning the slow-motion juke",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-18",
+    "heat": 98,
+    "tags": [
+      "r/nfl",
+      "Travis Kelce",
+      "highlight",
+      "veteran lore"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl highlight framed Travis Kelce's latest open-field escape as another\ndefender losing to a juke that appears to be happening in slow motion.",
+    "whyFunny": "The move looks fully available for review and still keeps working. Kelce has\nturned visible processing time into one of football's most durable glitches.",
+    "quote": "The loading screen remains undefeated.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vr2p01/highlight_travis_kelce_is_still_juking_defenders/",
+    "commentHighlights": [],
+    "markdown": "---\nid: kelce-slow-motion-juke\nrank: 2\ntitle: \"Kelce keeps winning the slow-motion juke\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-18\"\nheat: 98\ntags:\n  - r/nfl\n  - Travis Kelce\n  - highlight\n  - veteran lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl highlight framed Travis Kelce's latest open-field escape as another\ndefender losing to a juke that appears to be happening in slow motion.\n\n## Why It Is Funny\n\nThe move looks fully available for review and still keeps working. Kelce has\nturned visible processing time into one of football's most durable glitches.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThe loading screen remains undefeated.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vr2p01/highlight_travis_kelce_is_still_juking_defenders/\n- Source type: Reddit RSS top-day highlight\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-18. The public copy stays within the post's slow-motion-juke framing without adding unverified game context.\n\n## Sports Radar Markdown\n\n```md\n**Kelce keeps winning the slow-motion juke**\n\nAnother defender loses to a Kelce move that appears to arrive with advance notice.\n\nWhy it works: The loading screen is visible, and the football glitch still works.\n```\n"
+  },
+  {
     "id": "lebron-three-years-younger-counter",
     "rank": 2,
     "title": "LeBron answers the three-years-younger excuse before it lands",
@@ -2348,7 +2401,7 @@
     "title": "Steph's jumper apparently checks the Panthers score",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-17",
     "heat": 98,
     "tags": [
@@ -2370,7 +2423,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1vq0llf/oc_steph_curry_shoots_423_from_three_after/"
       }
     ],
-    "markdown": "---\nid: steph-curry-panthers-win-splits\nrank: 2\ntitle: \"Steph's jumper apparently checks the Panthers score\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-17\"\nheat: 98\ntags:\n  - r/nba\n  - Stephen Curry\n  - Carolina Panthers\n  - weird stats\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba original post calculated that Stephen Curry shoots 42.3 percent from\nthree after Carolina Panthers wins and 35.2 percent after Panthers losses.\n\n## Why It Is Funny\n\nThe Panthers accidentally became a seven-point shooting slider. It is the\nkind of split that turns football fandom into an NBA performance variable.\n\n## Comment Highlights\n\n- Label: Fan-made split\n  Summary: The post also compared Warriors win rates after Panthers wins and losses, extending the premise from Curry's shooting to team results.\n  Why funny: One football score somehow became a full basketball dashboard.\n  Source URL: https://www.reddit.com/r/nba/comments/1vq0llf/oc_steph_curry_shoots_423_from_three_after/\n\n## Quote\n\nCarolina controls the hidden shooting slider.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vq0llf/oc_steph_curry_shoots_423_from_three_after/\n- Source type: Reddit RSS top-day original analysis\n- Verification notes: Sports Radar reviewed the RSS title, source URL, and short feed preview on 2026-08-17. The percentages and statistical framing come from the fan analysis and were not independently recalculated.\n\n## Sports Radar Markdown\n\n```md\n**Steph's jumper apparently checks the Panthers score**\n\nA fan analysis found a 7.1-point gap in Curry's three-point shooting after Panthers wins versus losses.\n\nWhy it works: Carolina football became the strangest variable on an NBA shooting chart.\n```\n"
+    "markdown": "---\nid: steph-curry-panthers-win-splits\nrank: 2\ntitle: \"Steph's jumper apparently checks the Panthers score\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-17\"\nheat: 98\ntags:\n  - r/nba\n  - Stephen Curry\n  - Carolina Panthers\n  - weird stats\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba original post calculated that Stephen Curry shoots 42.3 percent from\nthree after Carolina Panthers wins and 35.2 percent after Panthers losses.\n\n## Why It Is Funny\n\nThe Panthers accidentally became a seven-point shooting slider. It is the\nkind of split that turns football fandom into an NBA performance variable.\n\n## Comment Highlights\n\n- Label: Fan-made split\n  Summary: The post also compared Warriors win rates after Panthers wins and losses, extending the premise from Curry's shooting to team results.\n  Why funny: One football score somehow became a full basketball dashboard.\n  Source URL: https://www.reddit.com/r/nba/comments/1vq0llf/oc_steph_curry_shoots_423_from_three_after/\n\n## Quote\n\nCarolina controls the hidden shooting slider.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vq0llf/oc_steph_curry_shoots_423_from_three_after/\n- Source type: Reddit RSS top-day original analysis\n- Verification notes: Sports Radar reviewed the RSS title, source URL, and short feed preview on 2026-08-17. The percentages and statistical framing come from the fan analysis and were not independently recalculated.\n\n## Sports Radar Markdown\n\n```md\n**Steph's jumper apparently checks the Panthers score**\n\nA fan analysis found a 7.1-point gap in Curry's three-point shooting after Panthers wins versus losses.\n\nWhy it works: Carolina football became the strangest variable on an NBA shooting chart.\n```\n"
   },
   {
     "id": "steven-adams-beach-log",
@@ -3334,7 +3387,7 @@
     "title": "Haliburton leaves one workout certain he is going second",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-17",
     "heat": 97,
     "tags": [
@@ -3349,7 +3402,30 @@
     "quote": "Perfect fit, complicated draft slot.",
     "sourceUrl": "https://www.reddit.com/r/nba/comments/1vqe016/tyrese_haliburton_my_golden_state_workout_that/",
     "commentHighlights": [],
-    "markdown": "---\nid: haliburton-warriors-draft-two\nrank: 3\ntitle: \"Haliburton leaves one workout certain he is going second\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-17\"\nheat: 97\ntags:\n  - r/nba\n  - Tyrese Haliburton\n  - Golden State Warriors\n  - draft lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post relayed Tyrese Haliburton saying his Golden State workout felt\nso perfect that he expected the Warriors to draft him second, right before the\nteam explained that fit and pick number were separate questions.\n\n## Why It Is Funny\n\nThe workout ended like a successful job interview followed by a very specific\nbudget meeting. Everyone agreed on the chemistry; the second pick remained a\ndifferent species of commitment.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nPerfect fit, complicated draft slot.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vqe016/tyrese_haliburton_my_golden_state_workout_that/\n- Source type: Reddit RSS top-day player-story post\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-17. The workout and interview account is attributed to Haliburton through the source post, not independently reported here.\n\n## Sports Radar Markdown\n\n```md\n**Haliburton leaves one workout certain he is going second**\n\nHaliburton said the Golden State workout felt perfect until fit and draft position became separate conversations.\n\nWhy it works: The interview sounded like a yes right up until the second pick entered the room.\n```\n"
+    "markdown": "---\nid: haliburton-warriors-draft-two\nrank: 3\ntitle: \"Haliburton leaves one workout certain he is going second\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-17\"\nheat: 97\ntags:\n  - r/nba\n  - Tyrese Haliburton\n  - Golden State Warriors\n  - draft lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post relayed Tyrese Haliburton saying his Golden State workout felt\nso perfect that he expected the Warriors to draft him second, right before the\nteam explained that fit and pick number were separate questions.\n\n## Why It Is Funny\n\nThe workout ended like a successful job interview followed by a very specific\nbudget meeting. Everyone agreed on the chemistry; the second pick remained a\ndifferent species of commitment.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nPerfect fit, complicated draft slot.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vqe016/tyrese_haliburton_my_golden_state_workout_that/\n- Source type: Reddit RSS top-day player-story post\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-17. The workout and interview account is attributed to Haliburton through the source post, not independently reported here.\n\n## Sports Radar Markdown\n\n```md\n**Haliburton leaves one workout certain he is going second**\n\nHaliburton said the Golden State workout felt perfect until fit and draft position became separate conversations.\n\nWhy it works: The interview sounded like a yes right up until the second pick entered the room.\n```\n"
+  },
+  {
+    "id": "hue-jackson-cleveland-no-failure",
+    "rank": 3,
+    "title": "Hue Jackson declares the Cleveland era failure-free",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-18",
+    "heat": 97,
+    "tags": [
+      "r/nfl",
+      "Hue Jackson",
+      "Cleveland Browns",
+      "coaching lore"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl highlight resurfaced Hue Jackson saying he did not fail during his\ntime coaching Cleveland.",
+    "whyFunny": "The statement asks one of football's most documented eras to accept a new\nself-evaluation. Browns lore has apparently reached the appeal stage.",
+    "quote": "Cleveland lore has entered the appeal process.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vqvyst/highlight_hue_jackson_says_he_did_not_fail_in/",
+    "commentHighlights": [],
+    "markdown": "---\nid: hue-jackson-cleveland-no-failure\nrank: 3\ntitle: \"Hue Jackson declares the Cleveland era failure-free\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-18\"\nheat: 97\ntags:\n  - r/nfl\n  - Hue Jackson\n  - Cleveland Browns\n  - coaching lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl highlight resurfaced Hue Jackson saying he did not fail during his\ntime coaching Cleveland.\n\n## Why It Is Funny\n\nThe statement asks one of football's most documented eras to accept a new\nself-evaluation. Browns lore has apparently reached the appeal stage.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nCleveland lore has entered the appeal process.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vqvyst/highlight_hue_jackson_says_he_did_not_fail_in/\n- Source type: Reddit RSS top-day interview highlight\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-18. The copy attributes the statement to the highlight and treats the reaction as established football lore rather than new reporting.\n\n## Sports Radar Markdown\n\n```md\n**Hue Jackson declares the Cleveland era failure-free**\n\nAn interview highlight gives one of football's most remembered coaching runs a fresh self-review.\n\nWhy it works: Browns lore has apparently reached the appeal stage.\n```\n"
   },
   {
     "id": "ja-morant-teammate-ragebait",
@@ -4205,6 +4281,36 @@
     "markdown": "---\nid: auburn-greece-competed-caption\nrank: 4\ntitle: \"Auburn's Greece trip discovers the word 'competed'\"\nleague: \"College Basketball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-10\"\nheat: 92\ntags:\n  - r/CollegeBasketball\n  - Auburn\n  - Greece\n  - exhibition\npublic_ready: true\n---\n\n## Summary\n\nAn r/CollegeBasketball thread covered Auburn's two-point exhibition loss in\nGreece after a rematch that featured heavy reserve minutes.\n\n## Why It Is Funny\n\nThe thread locked onto the one-word recap \"competed\" and treated it as a tiny\nmasterpiece of preseason damage control. Context survived; the caption still\nbecame the joke.\n\n## Comment Highlights\n\n- Label: Losses scheduled early\n  Summary: Fans reframed an August exhibition loss as strategic calendar management.\n  Why funny: Preseason optimism can turn any result into part of the plan.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vk1crq/auburn_hoops_drops_second_game_of_greece_trip_7068/\n\n## Quote\n\nCompeted: the entire exhibition press release.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vk1crq/auburn_hoops_drops_second_game_of_greece_trip_7068/\n- Source type: Reddit top-day college-basketball exhibition thread\n- Verification notes: Sports Radar reviewed the public r/CollegeBasketball post and discussion on 2026-08-10. The public copy notes the reserve-heavy rematch context and treats the caption reaction as fan framing, not a season forecast.\n\n## Sports Radar Markdown\n\n```md\n**Auburn's Greece trip discovers the word 'competed'**\n\nAn exhibition thread turned one compact recap into the whole preseason story.\n\nWhy it works: Context survived, but the caption became the scoreboard.\n```\n"
   },
   {
+    "id": "byu-usc-preseason-tie",
+    "rank": 4,
+    "title": "BYU and USC share one preseason ranking",
+    "league": "College Football",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-18",
+    "heat": 96,
+    "tags": [
+      "r/CFB",
+      "BYU",
+      "USC",
+      "AP poll"
+    ],
+    "public_ready": true,
+    "summary": "An r/CFB post spotted BYU and USC tied at No. 14 in the preseason AP poll, the\nfirst preseason tie in 17 years. It also noted that BYU replaced No. 14 USC on\nNotre Dame's schedule.",
+    "whyFunny": "College football found the neatest possible substitution and then made the\npoll match it. Notre Dame swapped one No. 14 for another without moving the\nlabel.",
+    "quote": "Notre Dame kept the No. 14 slot.",
+    "sourceUrl": "https://www.reddit.com/r/CFB/comments/1vqx1s3/byu_and_usc_are_the_first_tied_teams_in_a/",
+    "commentHighlights": [
+      {
+        "label": "Matching replacement",
+        "summary": "The post connected the poll tie to Notre Dame replacing USC with BYU on its schedule.",
+        "whyFunny": "The schedule change looks like a one-for-one ranking exchange.",
+        "sourceUrl": "https://www.reddit.com/r/CFB/comments/1vqx1s3/byu_and_usc_are_the_first_tied_teams_in_a/"
+      }
+    ],
+    "markdown": "---\nid: byu-usc-preseason-tie\nrank: 4\ntitle: \"BYU and USC share one preseason ranking\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-18\"\nheat: 96\ntags:\n  - r/CFB\n  - BYU\n  - USC\n  - AP poll\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB post spotted BYU and USC tied at No. 14 in the preseason AP poll, the\nfirst preseason tie in 17 years. It also noted that BYU replaced No. 14 USC on\nNotre Dame's schedule.\n\n## Why It Is Funny\n\nCollege football found the neatest possible substitution and then made the\npoll match it. Notre Dame swapped one No. 14 for another without moving the\nlabel.\n\n## Comment Highlights\n\n- Label: Matching replacement\n  Summary: The post connected the poll tie to Notre Dame replacing USC with BYU on its schedule.\n  Why funny: The schedule change looks like a one-for-one ranking exchange.\n  Source URL: https://www.reddit.com/r/CFB/comments/1vqx1s3/byu_and_usc_are_the_first_tied_teams_in_a/\n\n## Quote\n\nNotre Dame kept the No. 14 slot.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1vqx1s3/byu_and_usc_are_the_first_tied_teams_in_a/\n- Source type: Reddit RSS top-day fan observation\n- Verification notes: Sports Radar reviewed the RSS title, source URL, and short feed preview on 2026-08-18. The tie history and schedule coincidence are attributed to the post rather than presented as an independently audited poll archive.\n\n## Sports Radar Markdown\n\n```md\n**BYU and USC share one preseason ranking**\n\nThe first preseason AP tie in 17 years put both teams at No. 14 after BYU replaced No. 14 USC on Notre Dame's schedule.\n\nWhy it works: College football completed a one-for-one ranking exchange.\n```\n"
+  },
+  {
     "id": "cfb-moments-never-happened",
     "rank": 4,
     "title": "College football remembers games that never happened",
@@ -4390,7 +4496,7 @@
     "title": "Gobert's fadeaway returns as the Game 7 omen",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-17",
     "heat": 96,
     "tags": [
@@ -4412,7 +4518,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1vq6c8y/rudy_gobert_hits_a_demoralizing_fadeaway_jumper/"
       }
     ],
-    "markdown": "---\nid: gobert-fadeaway-game-seven-lore\nrank: 4\ntitle: \"Gobert's fadeaway returns as the Game 7 omen\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-17\"\nheat: 96\ntags:\n  - r/nba\n  - Rudy Gobert\n  - Nikola Jokic\n  - Game 7 lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba throwback resurfaced Rudy Gobert's fadeaway over Nikola Jokic in Game\n7 of the 2024 Western Conference semifinals and framed it as the shot that made\nDenver's loss feel inevitable.\n\n## Why It Is Funny\n\nA Gobert fadeaway is already a basketball emergency alert. Landing it over\nJokic during a comeback made the possession feel like the universe had filed\nthe final result early.\n\n## Comment Highlights\n\n- Label: The omen shot\n  Summary: The feed preview described Minnesota completing a major comeback before the jumper turned a close finish into an impending-loss feeling.\n  Why funny: The least expected shot became the one that made the ending feel prewritten.\n  Source URL: https://www.reddit.com/r/nba/comments/1vq6c8y/rudy_gobert_hits_a_demoralizing_fadeaway_jumper/\n\n## Quote\n\nThe fadeaway was the omen.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vq6c8y/rudy_gobert_hits_a_demoralizing_fadeaway_jumper/\n- Source type: Reddit RSS top-day throwback highlight\n- Verification notes: Sports Radar reviewed the RSS title, source URL, and short feed preview on 2026-08-17. The shot's emotional meaning is the post's retrospective framing rather than a new game report.\n\n## Sports Radar Markdown\n\n```md\n**Gobert's fadeaway returns as the Game 7 omen**\n\nThe 2024 throwback recasts one Gobert jumper as the moment Denver's night started feeling scripted.\n\nWhy it works: When that fadeaway drops over Jokic, the basketball gods have stopped being subtle.\n```\n"
+    "markdown": "---\nid: gobert-fadeaway-game-seven-lore\nrank: 4\ntitle: \"Gobert's fadeaway returns as the Game 7 omen\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-17\"\nheat: 96\ntags:\n  - r/nba\n  - Rudy Gobert\n  - Nikola Jokic\n  - Game 7 lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba throwback resurfaced Rudy Gobert's fadeaway over Nikola Jokic in Game\n7 of the 2024 Western Conference semifinals and framed it as the shot that made\nDenver's loss feel inevitable.\n\n## Why It Is Funny\n\nA Gobert fadeaway is already a basketball emergency alert. Landing it over\nJokic during a comeback made the possession feel like the universe had filed\nthe final result early.\n\n## Comment Highlights\n\n- Label: The omen shot\n  Summary: The feed preview described Minnesota completing a major comeback before the jumper turned a close finish into an impending-loss feeling.\n  Why funny: The least expected shot became the one that made the ending feel prewritten.\n  Source URL: https://www.reddit.com/r/nba/comments/1vq6c8y/rudy_gobert_hits_a_demoralizing_fadeaway_jumper/\n\n## Quote\n\nThe fadeaway was the omen.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vq6c8y/rudy_gobert_hits_a_demoralizing_fadeaway_jumper/\n- Source type: Reddit RSS top-day throwback highlight\n- Verification notes: Sports Radar reviewed the RSS title, source URL, and short feed preview on 2026-08-17. The shot's emotional meaning is the post's retrospective framing rather than a new game report.\n\n## Sports Radar Markdown\n\n```md\n**Gobert's fadeaway returns as the Game 7 omen**\n\nThe 2024 throwback recasts one Gobert jumper as the moment Denver's night started feeling scripted.\n\nWhy it works: When that fadeaway drops over Jokic, the basketball gods have stopped being subtle.\n```\n"
   },
   {
     "id": "hockey-guaranteed-cup-heartbreak",
@@ -5933,7 +6039,7 @@
     "title": "Kobe brings the hit stick to Pau Gasol",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-17",
     "heat": 95,
     "tags": [
@@ -5948,7 +6054,7 @@
     "quote": "Teammate settings temporarily disabled.",
     "sourceUrl": "https://www.reddit.com/r/nba/comments/1vq8ccs/highlight_18_years_ago_kobe_with_the_hit_stick_on/",
     "commentHighlights": [],
-    "markdown": "---\nid: kobe-gasol-hit-stick-throwback\nrank: 5\ntitle: \"Kobe brings the hit stick to Pau Gasol\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-17\"\nheat: 95\ntags:\n  - r/nba\n  - Kobe Bryant\n  - Pau Gasol\n  - throwback lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba highlight rewound 18 years to Kobe Bryant colliding with Pau Gasol\nand summarized the moment with one football-game phrase: the hit stick.\n\n## Why It Is Funny\n\nThe clip treats friendship and basketball position as temporary settings. The\nvideo-game label does the rest, turning a physical throwback into a controller\ninput.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nTeammate settings temporarily disabled.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vq8ccs/highlight_18_years_ago_kobe_with_the_hit_stick_on/\n- Source type: Reddit RSS top-day throwback highlight\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-17. The public copy stays within the post's 18-year throwback and hit-stick framing without adding unverified event context.\n\n## Sports Radar Markdown\n\n```md\n**Kobe brings the hit stick to Pau Gasol**\n\nAn 18-year-old throwback turns one Kobe-Gasol collision into a video-game input.\n\nWhy it works: Teammate settings were apparently disabled for the possession.\n```\n"
+    "markdown": "---\nid: kobe-gasol-hit-stick-throwback\nrank: 5\ntitle: \"Kobe brings the hit stick to Pau Gasol\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-17\"\nheat: 95\ntags:\n  - r/nba\n  - Kobe Bryant\n  - Pau Gasol\n  - throwback lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba highlight rewound 18 years to Kobe Bryant colliding with Pau Gasol\nand summarized the moment with one football-game phrase: the hit stick.\n\n## Why It Is Funny\n\nThe clip treats friendship and basketball position as temporary settings. The\nvideo-game label does the rest, turning a physical throwback into a controller\ninput.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nTeammate settings temporarily disabled.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vq8ccs/highlight_18_years_ago_kobe_with_the_hit_stick_on/\n- Source type: Reddit RSS top-day throwback highlight\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-17. The public copy stays within the post's 18-year throwback and hit-stick framing without adding unverified event context.\n\n## Sports Radar Markdown\n\n```md\n**Kobe brings the hit stick to Pau Gasol**\n\nAn 18-year-old throwback turns one Kobe-Gasol collision into a video-game input.\n\nWhy it works: Teammate settings were apparently disabled for the possession.\n```\n"
   },
   {
     "id": "kuzma-lifestyle-creep-lecture",
@@ -6437,6 +6543,29 @@
     "sourceUrl": "https://www.reddit.com/r/CFB/comments/1vffpzd/behrens_logo_news_texas_am_athletics_has_once/",
     "commentHighlights": [],
     "markdown": "---\nid: texas-am-logo-undo\nrank: 5\ntitle: \"Texas A&M presses undo on its primary logo\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-05\"\nheat: 90\ntags:\n  - r/CFB\n  - Texas A&M\n  - college branding\n  - logo lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB post noted that Texas A&M restored the TAM mark as its primary\nathletics logo, reversing a 2021 switch to the Texas-outline mark.\n\n## Why It Is Funny\n\nCollege sports can turn a logo hierarchy into a full tradition hearing. Five\nyears of branding strategy ended with the visual equivalent of an undo button.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's top-day review.\n\n## Quote\n\nThe brand refresh refreshed itself backward.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1vffpzd/behrens_logo_news_texas_am_athletics_has_once/\n- Source type: Reddit top-day college-branding post\n- Verification notes: Sports Radar reviewed the public r/CFB top-day page and post title on 2026-08-05. The logo change is attributed to the linked report through the post.\n\n## Sports Radar Markdown\n\n```md\n**Texas A&M presses undo on its primary logo**\n\nAn r/CFB post said the TAM mark is primary again, reversing a 2021 athletics branding change.\n\nWhy it works: The brand refresh refreshed itself backward.\n```\n"
+  },
+  {
+    "id": "bears-indiana-stadium-chat",
+    "rank": 5,
+    "title": "The Bears put Indiana in the stadium group chat",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-18",
+    "heat": 95,
+    "tags": [
+      "r/nfl",
+      "Chicago Bears",
+      "Indiana",
+      "stadium saga"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl post relayed Bears chairman George McCaskey saying the team is moving\nforward with Indiana as a possible stadium location.",
+    "whyFunny": "The stadium search has expanded beyond Chicago-area map arguments into a full\nstate identity question. The Indiana Bears are no longer just a group-chat\nthreat.",
+    "quote": "The stadium saga crossed the state line.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vqzr57/george_mccaskey_says_bears_are_moving_forward/",
+    "commentHighlights": [],
+    "markdown": "---\nid: bears-indiana-stadium-chat\nrank: 5\ntitle: \"The Bears put Indiana in the stadium group chat\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-18\"\nheat: 95\ntags:\n  - r/nfl\n  - Chicago Bears\n  - Indiana\n  - stadium saga\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl post relayed Bears chairman George McCaskey saying the team is moving\nforward with Indiana as a possible stadium location.\n\n## Why It Is Funny\n\nThe stadium search has expanded beyond Chicago-area map arguments into a full\nstate identity question. The Indiana Bears are no longer just a group-chat\nthreat.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThe stadium saga crossed the state line.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vqzr57/george_mccaskey_says_bears_are_moving_forward/\n- Source type: Reddit RSS top-day team-location post\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-18. The copy preserves Indiana as a possible location under discussion and does not imply a finalized move.\n\n## Sports Radar Markdown\n\n```md\n**The Bears put Indiana in the stadium group chat**\n\nThe latest stadium update moved Indiana from a hypothetical to an active option.\n\nWhy it works: A local stadium debate has become a full state identity question.\n```\n"
   },
   {
     "id": "skylar-wicks-five-school-map",
