@@ -414,6 +414,36 @@
     "markdown": "---\nid: nhl-offseason-crime-syndicate\nrank: 1\ntitle: \"Hockey's offseason builds an entire crime syndicate\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-12\"\nheat: 98\ntags:\n  - r/hockey\n  - offseason\n  - fan-made\n  - hockey lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey fan post turned a large cast of NHL-player lookalikes into a fully\nmapped fictional crime organization with bosses, crews, undercover cops, and\ninternal rivalries.\n\n## Why It Is Funny\n\nThe offseason did not produce a depth chart; it produced organized-crime lore.\nEvery face received a role, a reporting line, and enough backstory to support a\nprestige television season.\n\n## Comment Highlights\n\n- Label: August world-building\n  Summary: The thread treated the fan-made hierarchy as exactly the kind of elaborate project hockey's quiet season is built for.\n  Why funny: A joke image arrived with more organizational design than many real front offices.\n  Source URL: https://www.reddit.com/r/hockey/comments/1vmfrae/years_ago_my_brother_and_i_created_a_crime/\n\n## Quote\n\nThe offseason org chart has entered its prestige-drama phase.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vmfrae/years_ago_my_brother_and_i_created_a_crime/\n- Source type: Reddit fan-made image and lore post\n- Verification notes: Sports Radar reviewed the public post and its creator-supplied fictional character descriptions on 2026-08-12. The public copy treats the entire premise as fan fiction, not a claim about real people.\n\n## Sports Radar Markdown\n\n```md\n**Hockey's offseason builds an entire crime syndicate**\n\nAn r/hockey fan gave NHL-player lookalikes a complete fictional underworld hierarchy.\n\nWhy it works: The joke arrived with reporting lines, rivalries, and a full season of lore.\n```\n"
   },
   {
+    "id": "javale-mcgee-approved-workout",
+    "rank": 1,
+    "title": "JaVale McGee trains only for the approved buttons",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-21",
+    "heat": 99,
+    "tags": [
+      "r/nba",
+      "JaVale McGee",
+      "Golden State Warriors",
+      "role-player lore"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba post relayed JaVale McGee's explanation that his Warriors workouts\nfocused on conditioning because his game role was screens, rim runs, and lobs.",
+    "whyFunny": "McGee treated the rotation like a video game with most of the buttons disabled.\nIf a jump shot would send him to the bench, practicing one was apparently just\nunauthorized feature development.",
+    "quote": "Only train the buttons the coach lets you press.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vu015v/mcgee_i_barely_worked_out_when_i_was_playing_with/",
+    "commentHighlights": [
+      {
+        "label": "Role description as workout plan",
+        "summary": "The source framing turns a tightly defined Warriors role into McGee's reason for skipping skills he would not be allowed to use.",
+        "whyFunny": "The depth chart doubles as a product requirements document.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1vu015v/mcgee_i_barely_worked_out_when_i_was_playing_with/"
+      }
+    ],
+    "markdown": "---\nid: javale-mcgee-approved-workout\nrank: 1\ntitle: \"JaVale McGee trains only for the approved buttons\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-21\"\nheat: 99\ntags:\n  - r/nba\n  - JaVale McGee\n  - Golden State Warriors\n  - role-player lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post relayed JaVale McGee's explanation that his Warriors workouts\nfocused on conditioning because his game role was screens, rim runs, and lobs.\n\n## Why It Is Funny\n\nMcGee treated the rotation like a video game with most of the buttons disabled.\nIf a jump shot would send him to the bench, practicing one was apparently just\nunauthorized feature development.\n\n## Comment Highlights\n\n- Label: Role description as workout plan\n  Summary: The source framing turns a tightly defined Warriors role into McGee's reason for skipping skills he would not be allowed to use.\n  Why funny: The depth chart doubles as a product requirements document.\n  Source URL: https://www.reddit.com/r/nba/comments/1vu015v/mcgee_i_barely_worked_out_when_i_was_playing_with/\n\n## Quote\n\nOnly train the buttons the coach lets you press.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vu015v/mcgee_i_barely_worked_out_when_i_was_playing_with/\n- Source type: Reddit RSS top-day role-player story\n- Verification notes: Sports Radar reviewed the RSS title and source preview on 2026-08-21. The public copy paraphrases McGee's role-and-workout explanation and does not extend it into a broader claim about his training.\n\n## Sports Radar Markdown\n\n```md\n**JaVale McGee trains only for the approved buttons**\n\nMcGee said his Warriors workouts stayed on conditioning because the job was screens, rim runs, and lobs.\n\nWhy it works: The rotation became a video game with every unauthorized button disabled.\n```\n"
+  },
+  {
     "id": "jokic-tree-planting-loophole",
     "rank": 1,
     "title": "Jokic gets the tree-planting loophole",
@@ -1066,7 +1096,7 @@
     "title": "Russ answers the real-player check with some days",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-20",
     "heat": 99,
     "tags": [
@@ -1088,7 +1118,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1vtkfm7/kid_are_you_a_real_nba_player_russ_some_days_i/"
       }
     ],
-    "markdown": "---\nid: russ-real-player-some-days\nrank: 1\ntitle: \"Russ answers the real-player check with some days\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-20\"\nheat: 99\ntags:\n  - r/nba\n  - Russell Westbrook\n  - fan interaction\n  - self-deprecating humor\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post captured a child asking Russell Westbrook whether he is a real\nNBA player. His answer reduced the question to a wonderfully modest \"some\ndays.\"\n\n## Why It Is Funny\n\nThe question invited a simple yes, but Russ answered like he was reviewing his\nown weekly availability. A superstar resume briefly became a day-to-day\nstatus.\n\n## Comment Highlights\n\n- Label: Day-to-day identity\n  Summary: The source title pairs a child's literal question with Westbrook's self-deprecating answer.\n  Why funny: A permanent career achievement gets treated like a daily decision.\n  Source URL: https://www.reddit.com/r/nba/comments/1vtkfm7/kid_are_you_a_real_nba_player_russ_some_days_i/\n\n## Quote\n\nRuss listed himself as day-to-day.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vtkfm7/kid_are_you_a_real_nba_player_russ_some_days_i/\n- Source type: Reddit RSS top-day fan-interaction post\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-20. The public copy paraphrases the exchange and adds no game or roster context.\n\n## Sports Radar Markdown\n\n```md\n**Russ answers the real-player check with some days**\n\nA child asked Russell Westbrook whether he was a real NBA player, and Russ gave himself a day-to-day designation.\n\nWhy it works: A superstar resume briefly became a weekly availability report.\n```\n"
+    "markdown": "---\nid: russ-real-player-some-days\nrank: 1\ntitle: \"Russ answers the real-player check with some days\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-20\"\nheat: 99\ntags:\n  - r/nba\n  - Russell Westbrook\n  - fan interaction\n  - self-deprecating humor\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post captured a child asking Russell Westbrook whether he is a real\nNBA player. His answer reduced the question to a wonderfully modest \"some\ndays.\"\n\n## Why It Is Funny\n\nThe question invited a simple yes, but Russ answered like he was reviewing his\nown weekly availability. A superstar resume briefly became a day-to-day\nstatus.\n\n## Comment Highlights\n\n- Label: Day-to-day identity\n  Summary: The source title pairs a child's literal question with Westbrook's self-deprecating answer.\n  Why funny: A permanent career achievement gets treated like a daily decision.\n  Source URL: https://www.reddit.com/r/nba/comments/1vtkfm7/kid_are_you_a_real_nba_player_russ_some_days_i/\n\n## Quote\n\nRuss listed himself as day-to-day.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vtkfm7/kid_are_you_a_real_nba_player_russ_some_days_i/\n- Source type: Reddit RSS top-day fan-interaction post\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-20. The public copy paraphrases the exchange and adds no game or roster context.\n\n## Sports Radar Markdown\n\n```md\n**Russ answers the real-player check with some days**\n\nA child asked Russell Westbrook whether he was a real NBA player, and Russ gave himself a day-to-day designation.\n\nWhy it works: A superstar resume briefly became a weekly availability report.\n```\n"
   },
   {
     "id": "steve-kerr-lebron-rumor-troll",
@@ -1793,6 +1823,29 @@
       }
     ],
     "markdown": "---\nid: jaylen-brown-packed-up\nrank: 2\ntitle: \"Jaylen Brown's trade reaction becomes workplace-comedy fuel\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-10\"\nheat: 92\ntags:\n  - r/nba\n  - Jaylen Brown\n  - trades\n  - workplace-comedy\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba thread turned Jaylen Brown's jokingly blunt reaction to being traded\ninto a debate about the strangest version of getting reassigned at work.\n\n## Why It Is Funny\n\nThe language sounds like a normal employee finding out the badge stopped\nworking, except the workplace is the NBA and the relocation comes with a max contract.\n\n## Comment Highlights\n\n- Label: The key-card version of a trade\n  Summary: Fans focused on how quickly a franchise relationship can become an access-denied moment.\n  Why funny: A blockbuster transaction gets reduced to office-building logistics.\n  Source URL: https://www.reddit.com/r/nba/comments/1us3nu7/jaylen_brown_on_being_traded_they_packed_me_up/\n- Label: Salary meets sympathy\n  Summary: The thread kept comparing the emotional complaint with the scale of an NBA contract.\n  Why funny: Both sides of the argument sound reasonable until they share the same sentence.\n  Source URL: https://www.reddit.com/r/nba/comments/1us3nu7/jaylen_brown_on_being_traded_they_packed_me_up/\n\n## Quote\n\nThe trade became an access-denied notification.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1us3nu7/jaylen_brown_on_being_traded_they_packed_me_up/\n- Source type: Reddit / r/nba top-day thread\n- Verification notes: frame this as a public player-reaction clip and fan discussion; avoid presenting the thread's salary estimates as verified reporting\n\n## Sports Radar Markdown\n\n```md\n**Jaylen Brown's trade reaction becomes workplace-comedy fuel**\n\nAn r/nba thread translated a blockbuster move into the world's most expensive badge-deactivation story.\n\nWhy it works: NBA transaction drama suddenly sounds like an ordinary bad day at the office.\n```\n"
+  },
+  {
+    "id": "jermaine-oneal-stops-at-55",
+    "rank": 2,
+    "title": "Jermaine O'Neal stops at 55 for Reggie",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-21",
+    "heat": 98,
+    "tags": [
+      "r/nba",
+      "Jermaine O'Neal",
+      "Reggie Miller",
+      "teammate lore"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba throwback post framed Jermaine O'Neal as checking himself out after\n55 points so Reggie Miller could keep the Pacers' single-game scoring record.",
+    "whyFunny": "Most record chases end with everyone feeding the hot hand. This one apparently\nended with O'Neal protecting a teammate's number like it was part of the team\nequipment.",
+    "quote": "Fifty-five was enough. Reggie's 57 stayed on the wall.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vtnsbp/highlights_jermaine_oneal_scores_55_points_in_36/",
+    "commentHighlights": [],
+    "markdown": "---\nid: jermaine-oneal-stops-at-55\nrank: 2\ntitle: \"Jermaine O'Neal stops at 55 for Reggie\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-21\"\nheat: 98\ntags:\n  - r/nba\n  - Jermaine O'Neal\n  - Reggie Miller\n  - teammate lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba throwback post framed Jermaine O'Neal as checking himself out after\n55 points so Reggie Miller could keep the Pacers' single-game scoring record.\n\n## Why It Is Funny\n\nMost record chases end with everyone feeding the hot hand. This one apparently\nended with O'Neal protecting a teammate's number like it was part of the team\nequipment.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nFifty-five was enough. Reggie's 57 stayed on the wall.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vtnsbp/highlights_jermaine_oneal_scores_55_points_in_36/\n- Source type: Reddit RSS top-day NBA throwback\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-21. The scoring and substitution details remain attributed to the source post rather than presented as independent historical reporting.\n\n## Sports Radar Markdown\n\n```md\n**Jermaine O'Neal stops at 55 for Reggie**\n\nAn NBA throwback says O'Neal checked himself out two points short of Reggie Miller's Pacers record.\n\nWhy it works: The franchise record was treated like a teammate's reserved parking spot.\n```\n"
   },
   {
     "id": "joe-flacco-visor-roast",
@@ -2658,7 +2711,7 @@
     "title": "The Nuggets put a draft pick on the Jokic clock",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-20",
     "heat": 98,
     "tags": [
@@ -2673,7 +2726,7 @@
     "quote": "Denver put the pick on the Jokic clock.",
     "sourceUrl": "https://www.reddit.com/r/nba/comments/1vt3qcb/nikola_jokic_will_be_36_years_old_when_the/",
     "commentHighlights": [],
-    "markdown": "---\nid: jokic-age-36-draft-pick\nrank: 2\ntitle: \"The Nuggets put a draft pick on the Jokic clock\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-20\"\nheat: 98\ntags:\n  - r/nba\n  - Nikola Jokic\n  - Denver Nuggets\n  - future draft pick\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post noted that Nikola Jokic will be 36 when Denver can use the 2031\nfirst-round pick acquired in the Payton Watson trade.\n\n## Why It Is Funny\n\nFuture draft assets already require patience, but this one comes with a Jokic\nage calculator attached. The trade timeline is long enough to feel like a\nretirement-planning worksheet.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nDenver put the pick on the Jokic clock.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vt3qcb/nikola_jokic_will_be_36_years_old_when_the/\n- Source type: Reddit RSS top-day fan observation\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-20. The age comparison is attributed to the post and is not presented as independent trade analysis.\n\n## Sports Radar Markdown\n\n```md\n**The Nuggets put a draft pick on the Jokic clock**\n\nDenver's new 2031 first-round pick arrives with one memorable timestamp: Jokic will be 36 when it can be used.\n\nWhy it works: A future asset became a retirement-planning worksheet.\n```\n"
+    "markdown": "---\nid: jokic-age-36-draft-pick\nrank: 2\ntitle: \"The Nuggets put a draft pick on the Jokic clock\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-20\"\nheat: 98\ntags:\n  - r/nba\n  - Nikola Jokic\n  - Denver Nuggets\n  - future draft pick\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post noted that Nikola Jokic will be 36 when Denver can use the 2031\nfirst-round pick acquired in the Payton Watson trade.\n\n## Why It Is Funny\n\nFuture draft assets already require patience, but this one comes with a Jokic\nage calculator attached. The trade timeline is long enough to feel like a\nretirement-planning worksheet.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nDenver put the pick on the Jokic clock.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vt3qcb/nikola_jokic_will_be_36_years_old_when_the/\n- Source type: Reddit RSS top-day fan observation\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-20. The age comparison is attributed to the post and is not presented as independent trade analysis.\n\n## Sports Radar Markdown\n\n```md\n**The Nuggets put a draft pick on the Jokic clock**\n\nDenver's new 2031 first-round pick arrives with one memorable timestamp: Jokic will be 36 when it can be used.\n\nWhy it works: A future asset became a retirement-planning worksheet.\n```\n"
   },
   {
     "id": "white-sox-not-100-losses",
@@ -3369,6 +3422,29 @@
     "markdown": "---\nid: evander-forty-yard-goal\nrank: 3\ntitle: \"Evander solves the 40-yard problem directly\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-02\"\nheat: 94\ntags:\n  - r/soccer\n  - FC Cincinnati\n  - Evander\n  - long-range goal\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post highlighted Evander driving in FC Cincinnati's go-ahead goal\nagainst San Jose from roughly 40 yards in the 82nd minute.\n\n## Why It Is Funny\n\nThe usual build-up instructions became optional. Evander saw an unreasonable\ndistance and treated it like the shortest route to goal.\n\n## Comment Highlights\n\n- Label: Bangers only\n  Summary: Fans grouped the strike with a run of spectacular MLS goals and declared the league committed to long-range chaos.\n  Why funny: Ordinary finishes were apparently unavailable that night.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/\n- Label: MLS after dark\n  Summary: The discussion folded a long weather delay and the late goal into the league's familiar after-dark lore.\n  Why funny: The storm postponed the match but improved the mythology.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/\n\n## Quote\n\nBuild-up play was reduced to one very long step.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/\n- Source type: Reddit RSS top-day post\n- Verification notes: The RSS title and source URL were reviewed on 2026-08-02. The score, minute, player, opponent, and approximate distance are attributed to the post title; no raw comments were promoted.\n\n## Sports Radar Markdown\n\n```md\n**Evander solves the 40-yard problem directly**\n\nAn r/soccer post highlighted Evander putting FC Cincinnati ahead from roughly 40 yards late against San Jose.\n\nWhy it works: Build-up play was reduced to one very long step.\n```\n"
   },
   {
+    "id": "fernando-mendoza-booth-regards",
+    "rank": 3,
+    "title": "Fernando Mendoza sends regards to the booth",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-21",
+    "heat": 97,
+    "tags": [
+      "r/nfl",
+      "Fernando Mendoza",
+      "Joe Buck",
+      "broadcast moment"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl highlight post paired Fernando Mendoza sending his regards to Joe\nBuck with Buck describing the quarterback as polished, if occasionally\nvanilla.",
+    "whyFunny": "Mendoza delivered the friendly broadcast shout-out. The booth returned it with\nwhat sounded like a performance review hiding inside a compliment.",
+    "quote": "Regards sent. Scouting note returned.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vu48r6/highlight_fernando_mendoza_sends_his_regards_to/",
+    "commentHighlights": [],
+    "markdown": "---\nid: fernando-mendoza-booth-regards\nrank: 3\ntitle: \"Fernando Mendoza sends regards to the booth\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-21\"\nheat: 97\ntags:\n  - r/nfl\n  - Fernando Mendoza\n  - Joe Buck\n  - broadcast moment\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl highlight post paired Fernando Mendoza sending his regards to Joe\nBuck with Buck describing the quarterback as polished, if occasionally\nvanilla.\n\n## Why It Is Funny\n\nMendoza delivered the friendly broadcast shout-out. The booth returned it with\nwhat sounded like a performance review hiding inside a compliment.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nRegards sent. Scouting note returned.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vu48r6/highlight_fernando_mendoza_sends_his_regards_to/\n- Source type: Reddit RSS top-day broadcast highlight\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-21. The public copy stays within the brief booth exchange described by the post and adds no claim about the speakers' intent or relationship.\n\n## Sports Radar Markdown\n\n```md\n**Fernando Mendoza sends regards to the booth**\n\nMendoza offered Joe Buck a friendly shout-out, and the booth sent back a compliment with a scouting note attached.\n\nWhy it works: One broadcast greeting somehow became a compact performance review.\n```\n"
+  },
+  {
     "id": "fred-caipirinha-receipt-defense",
     "rank": 3,
     "title": "Fred brings receipts for only 27 caipirinhas",
@@ -3909,7 +3985,7 @@
     "title": "Oneil Cruz brings a sledgehammer on deck",
     "league": "MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-20",
     "heat": 97,
     "tags": [
@@ -3924,7 +4000,7 @@
     "quote": "The power-hitting metaphor brought its own equipment.",
     "sourceUrl": "https://www.reddit.com/r/baseball/comments/1vsukgs/oneil_cruz_on_deck_with_a_sledgehammer/",
     "commentHighlights": [],
-    "markdown": "---\nid: oneil-cruz-on-deck-sledgehammer\nrank: 3\ntitle: \"Oneil Cruz brings a sledgehammer on deck\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-20\"\nheat: 97\ntags:\n  - r/baseball\n  - Oneil Cruz\n  - on-deck circle\n  - baseball visual\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post showed Oneil Cruz waiting on deck with a sledgehammer.\n\n## Why It Is Funny\n\nBaseball already talks about power in construction-site language. Cruz simply\nbrought the prop that makes the metaphor literal.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThe power-hitting metaphor brought its own equipment.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vsukgs/oneil_cruz_on_deck_with_a_sledgehammer/\n- Source type: Reddit RSS top-day baseball visual\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-20. The public copy stays within the visible sledgehammer framing and adds no unverified game context.\n\n## Sports Radar Markdown\n\n```md\n**Oneil Cruz brings a sledgehammer on deck**\n\nThe baseball power metaphor reached its logical conclusion in the on-deck circle.\n\nWhy it works: Cruz brought the construction-site prop that the scouting language always promised.\n```\n"
+    "markdown": "---\nid: oneil-cruz-on-deck-sledgehammer\nrank: 3\ntitle: \"Oneil Cruz brings a sledgehammer on deck\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-20\"\nheat: 97\ntags:\n  - r/baseball\n  - Oneil Cruz\n  - on-deck circle\n  - baseball visual\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post showed Oneil Cruz waiting on deck with a sledgehammer.\n\n## Why It Is Funny\n\nBaseball already talks about power in construction-site language. Cruz simply\nbrought the prop that makes the metaphor literal.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThe power-hitting metaphor brought its own equipment.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vsukgs/oneil_cruz_on_deck_with_a_sledgehammer/\n- Source type: Reddit RSS top-day baseball visual\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-20. The public copy stays within the visible sledgehammer framing and adds no unverified game context.\n\n## Sports Radar Markdown\n\n```md\n**Oneil Cruz brings a sledgehammer on deck**\n\nThe baseball power metaphor reached its logical conclusion in the on-deck circle.\n\nWhy it works: Cruz brought the construction-site prop that the scouting language always promised.\n```\n"
   },
   {
     "id": "infantino-withdrawal-tracker",
@@ -4536,7 +4612,7 @@
     "title": "Draymond's China tour adds a lion-head goose",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-20",
     "heat": 96,
     "tags": [
@@ -4551,7 +4627,7 @@
     "quote": "The tour itinerary unlocked a goose encounter.",
     "sourceUrl": "https://www.reddit.com/r/nba/comments/1vssu2y/draymond_green_surprised_with_a_lionhead_goose_at/",
     "commentHighlights": [],
-    "markdown": "---\nid: draymond-lion-head-goose\nrank: 4\ntitle: \"Draymond's China tour adds a lion-head goose\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-20\"\nheat: 96\ntags:\n  - r/nba\n  - Draymond Green\n  - China tour\n  - animal cameo\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post showed Draymond Green being surprised by a lion-head goose during\nhis China tour.\n\n## Why It Is Funny\n\nBasketball tours usually promise clinics, crowds, and sponsor stops. This one\nadded an animal cameo that sounds like it was generated by combining three\nunrelated itinerary notes.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThe tour itinerary unlocked a goose encounter.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vssu2y/draymond_green_surprised_with_a_lionhead_goose_at/\n- Source type: Reddit RSS top-day tour post\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-20. The public copy describes only the animal surprise named in the post.\n\n## Sports Radar Markdown\n\n```md\n**Draymond's China tour adds a lion-head goose**\n\nThe basketball itinerary took an unexpected turn into animal-cameo territory.\n\nWhy it works: The source title sounds like three unrelated tour notes merged into one scene.\n```\n"
+    "markdown": "---\nid: draymond-lion-head-goose\nrank: 4\ntitle: \"Draymond's China tour adds a lion-head goose\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-20\"\nheat: 96\ntags:\n  - r/nba\n  - Draymond Green\n  - China tour\n  - animal cameo\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post showed Draymond Green being surprised by a lion-head goose during\nhis China tour.\n\n## Why It Is Funny\n\nBasketball tours usually promise clinics, crowds, and sponsor stops. This one\nadded an animal cameo that sounds like it was generated by combining three\nunrelated itinerary notes.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThe tour itinerary unlocked a goose encounter.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vssu2y/draymond_green_surprised_with_a_lionhead_goose_at/\n- Source type: Reddit RSS top-day tour post\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-20. The public copy describes only the animal surprise named in the post.\n\n## Sports Radar Markdown\n\n```md\n**Draymond's China tour adds a lion-head goose**\n\nThe basketball itinerary took an unexpected turn into animal-cameo territory.\n\nWhy it works: The source title sounds like three unrelated tour notes merged into one scene.\n```\n"
   },
   {
     "id": "galaxy-stadium-big-12-orbit",
@@ -4618,6 +4694,29 @@
       }
     ],
     "markdown": "---\nid: gobert-fadeaway-game-seven-lore\nrank: 4\ntitle: \"Gobert's fadeaway returns as the Game 7 omen\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-17\"\nheat: 96\ntags:\n  - r/nba\n  - Rudy Gobert\n  - Nikola Jokic\n  - Game 7 lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba throwback resurfaced Rudy Gobert's fadeaway over Nikola Jokic in Game\n7 of the 2024 Western Conference semifinals and framed it as the shot that made\nDenver's loss feel inevitable.\n\n## Why It Is Funny\n\nA Gobert fadeaway is already a basketball emergency alert. Landing it over\nJokic during a comeback made the possession feel like the universe had filed\nthe final result early.\n\n## Comment Highlights\n\n- Label: The omen shot\n  Summary: The feed preview described Minnesota completing a major comeback before the jumper turned a close finish into an impending-loss feeling.\n  Why funny: The least expected shot became the one that made the ending feel prewritten.\n  Source URL: https://www.reddit.com/r/nba/comments/1vq6c8y/rudy_gobert_hits_a_demoralizing_fadeaway_jumper/\n\n## Quote\n\nThe fadeaway was the omen.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vq6c8y/rudy_gobert_hits_a_demoralizing_fadeaway_jumper/\n- Source type: Reddit RSS top-day throwback highlight\n- Verification notes: Sports Radar reviewed the RSS title, source URL, and short feed preview on 2026-08-17. The shot's emotional meaning is the post's retrospective framing rather than a new game report.\n\n## Sports Radar Markdown\n\n```md\n**Gobert's fadeaway returns as the Game 7 omen**\n\nThe 2024 throwback recasts one Gobert jumper as the moment Denver's night started feeling scripted.\n\nWhy it works: When that fadeaway drops over Jokic, the basketball gods have stopped being subtle.\n```\n"
+  },
+  {
+    "id": "greg-sankey-affidavit-lineup-card",
+    "rank": 4,
+    "title": "Greg Sankey brings an affidavit to the lineup card",
+    "league": "NCAA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-21",
+    "heat": 96,
+    "tags": [
+      "r/CollegeBasketball",
+      "Greg Sankey",
+      "LSU",
+      "eligibility bureaucracy"
+    ],
+    "public_ready": true,
+    "summary": "A top-day r/CollegeBasketball post said Greg Sankey filed an affidavit in\nLouisiana while trying to stop LSU from playing RJ Luis.",
+    "whyFunny": "College eligibility disputes already feel like a second sport. This one moved\nthe lineup decision from the scorer's table to a stack of legal paperwork.",
+    "quote": "The eligibility chart now needs a legal appendix.",
+    "sourceUrl": "https://www.reddit.com/r/CollegeBasketball/comments/1vtuvhs/greg_sankey_has_filed_an_affidavit_in_louisiana/",
+    "commentHighlights": [],
+    "markdown": "---\nid: greg-sankey-affidavit-lineup-card\nrank: 4\ntitle: \"Greg Sankey brings an affidavit to the lineup card\"\nleague: \"NCAA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-21\"\nheat: 96\ntags:\n  - r/CollegeBasketball\n  - Greg Sankey\n  - LSU\n  - eligibility bureaucracy\npublic_ready: true\n---\n\n## Summary\n\nA top-day r/CollegeBasketball post said Greg Sankey filed an affidavit in\nLouisiana while trying to stop LSU from playing RJ Luis.\n\n## Why It Is Funny\n\nCollege eligibility disputes already feel like a second sport. This one moved\nthe lineup decision from the scorer's table to a stack of legal paperwork.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThe eligibility chart now needs a legal appendix.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vtuvhs/greg_sankey_has_filed_an_affidavit_in_louisiana/\n- Source type: Reddit RSS top-day college-basketball bureaucracy post\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-21. The filing claim remains attributed to the Reddit post, and the public copy adds no legal conclusion or eligibility ruling.\n\n## Sports Radar Markdown\n\n```md\n**Greg Sankey brings an affidavit to the lineup card**\n\nA college-basketball eligibility fight arrived with enough paperwork to need its own bench spot.\n\nWhy it works: The lineup decision migrated from the scorer's table to a legal appendix.\n```\n"
   },
   {
     "id": "hockey-guaranteed-cup-heartbreak",
@@ -5883,7 +5982,7 @@
     "title": "Dan Campbell introduces the caffeine cutback",
     "league": "NFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-20",
     "heat": 95,
     "tags": [
@@ -5898,7 +5997,7 @@
     "quote": "This is apparently the low-caffeine setting.",
     "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vst05q/dan_campbell_has_cut_back_on_the_caffeine/",
     "commentHighlights": [],
-    "markdown": "---\nid: dan-campbell-caffeine-cutback\nrank: 5\ntitle: \"Dan Campbell introduces the caffeine cutback\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-20\"\nheat: 95\ntags:\n  - r/nfl\n  - Dan Campbell\n  - caffeine\n  - coach lore\npublic_ready: true\n---\n\n## Summary\n\nA top-day r/nfl post framed Dan Campbell as having cut back on caffeine.\n\n## Why It Is Funny\n\nCampbell's public persona already operates near the maximum setting. The idea\nof a reduced-caffeine version still sounds more energized than most coaches at\nfull strength.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThis is apparently the low-caffeine setting.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vst05q/dan_campbell_has_cut_back_on_the_caffeine/\n- Source type: Reddit RSS top-day coach-lore post\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-20. The copy treats the caffeine framing as light coach lore and adds no health claim.\n\n## Sports Radar Markdown\n\n```md\n**Dan Campbell introduces the caffeine cutback**\n\nThe reduced-caffeine setting still appears to be operating above the league average.\n\nWhy it works: Campbell's dial starts where most coaching energy charts end.\n```\n"
+    "markdown": "---\nid: dan-campbell-caffeine-cutback\nrank: 5\ntitle: \"Dan Campbell introduces the caffeine cutback\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-20\"\nheat: 95\ntags:\n  - r/nfl\n  - Dan Campbell\n  - caffeine\n  - coach lore\npublic_ready: true\n---\n\n## Summary\n\nA top-day r/nfl post framed Dan Campbell as having cut back on caffeine.\n\n## Why It Is Funny\n\nCampbell's public persona already operates near the maximum setting. The idea\nof a reduced-caffeine version still sounds more energized than most coaches at\nfull strength.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThis is apparently the low-caffeine setting.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vst05q/dan_campbell_has_cut_back_on_the_caffeine/\n- Source type: Reddit RSS top-day coach-lore post\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-20. The copy treats the caffeine framing as light coach lore and adds no health claim.\n\n## Sports Radar Markdown\n\n```md\n**Dan Campbell introduces the caffeine cutback**\n\nThe reduced-caffeine setting still appears to be operating above the league average.\n\nWhy it works: Campbell's dial starts where most coaching energy charts end.\n```\n"
   },
   {
     "id": "deuce-mcbride-role-review",
@@ -6154,6 +6253,29 @@
       }
     ],
     "markdown": "---\nid: lebron-christmas-schedule-theory\nrank: 5\ntitle: \"Jeff Teague gives LeBron a Christmas schedule theory\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-12\"\nheat: 90\ntags:\n  - r/nba\n  - Jeff Teague\n  - LeBron James\n  - Christmas game\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post circulated Jeff Teague's podcast riff that a Christmas matchup\nin Los Angeles was the league's way of letting LeBron spend the holiday at\nhome.\n\n## Why It Is Funny\n\nA marquee television game became a family-calendar favor in one sentence. The\nthread immediately transformed the schedule into matching pajamas, presents,\nand the latest entry in LeBron nickname lore.\n\n## Comment Highlights\n\n- Label: Holiday nickname workshop\n  Summary: The thread recast the matchup as a Christmas-morning family scene and generated a fresh batch of seasonal LeBron wordplay.\n  Why funny: National television scheduling was reduced to one dad trying to stay near the tree.\n  Source URL: https://www.reddit.com/r/nba/comments/1vllvey/jeff_teague_says_the_nba_scheduled_76ers_vs/\n\n## Quote\n\nThe Christmas schedule now comes with family-calendar lore.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vllvey/jeff_teague_says_the_nba_scheduled_76ers_vs/\n- Source type: Reddit post discussing a public podcast clip\n- Verification notes: Sports Radar reviewed the public post and discussion on 2026-08-12. The scheduling explanation is attributed to Jeff Teague's comedic podcast framing and is not presented as verified league inside information.\n\n## Sports Radar Markdown\n\n```md\n**Jeff Teague gives LeBron a Christmas schedule theory**\n\nAn r/nba post reframed a Los Angeles holiday matchup as a family-calendar favor.\n\nWhy it works: A marquee television game became one dad trying to stay near the tree.\n```\n"
+  },
+  {
+    "id": "joe-burrow-cancels-next-year",
+    "rank": 5,
+    "title": "Joe Burrow cancels next year",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-21",
+    "heat": 95,
+    "tags": [
+      "r/nfl",
+      "Joe Burrow",
+      "Super Bowl",
+      "quarterback quote"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl highlight post framed Joe Burrow as done postponing the Bengals'\nSuper Bowl goal to another season.",
+    "whyFunny": "Every fan base keeps a renewable supply of next year. Burrow tried to cancel\nthe subscription before the season could charge it again.",
+    "quote": "The next-year subscription is canceled.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vtqf84/highlight_bengals_qb_joe_burrow_says_hes_trying/",
+    "commentHighlights": [],
+    "markdown": "---\nid: joe-burrow-cancels-next-year\nrank: 5\ntitle: \"Joe Burrow cancels next year\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-21\"\nheat: 95\ntags:\n  - r/nfl\n  - Joe Burrow\n  - Super Bowl\n  - quarterback quote\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl highlight post framed Joe Burrow as done postponing the Bengals'\nSuper Bowl goal to another season.\n\n## Why It Is Funny\n\nEvery fan base keeps a renewable supply of next year. Burrow tried to cancel\nthe subscription before the season could charge it again.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThe next-year subscription is canceled.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vtqf84/highlight_bengals_qb_joe_burrow_says_hes_trying/\n- Source type: Reddit RSS top-day quarterback highlight\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-21. The public copy paraphrases Burrow's no-more-next-year framing and does not present it as a prediction.\n\n## Sports Radar Markdown\n\n```md\n**Joe Burrow cancels next year**\n\nBurrow is done renewing the Bengals' Super Bowl goal for another season.\n\nWhy it works: Every fan base has a next-year subscription, and the quarterback just tried to cancel it.\n```\n"
   },
   {
     "id": "kobe-gasol-hit-stick-throwback",
