@@ -419,7 +419,7 @@
     "title": "Hull turns canceled trains into extra time",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-22",
     "heat": 99,
     "tags": [
@@ -441,7 +441,7 @@
         "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vvc3z0/hull_supporters_cheer_as_the_trains_to_manchester/"
       }
     ],
-    "markdown": "---\nid: hull-train-cancellation-cheer\nrank: 1\ntitle: \"Hull turns canceled trains into extra time\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-22\"\nheat: 99\ntags:\n  - r/soccer\n  - Hull City\n  - Manchester United\n  - away-day lore\npublic_ready: true\n---\n\n## Summary\n\nA top-day r/soccer clip showed Hull supporters cheering a stadium announcement\nthat trains to Manchester had been canceled.\n\n## Why It Is Funny\n\nThe final whistle was no longer enough. The home crowd treated the away fans'\ntravel problem like stoppage time added specifically for banter.\n\n## Comment Highlights\n\n- Label: One more home-field penalty\n  Summary: The thread reframed the canceled trains as an extra consequence for visiting supporters after the match.\n  Why funny: Public transit became part of the home-field advantage.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vvc3z0/hull_supporters_cheer_as_the_trains_to_manchester/\n\n## Quote\n\nThe away day came with mandatory extra time.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vvc3z0/hull_supporters_cheer_as_the_trains_to_manchester/\n- Source type: Reddit RSS top-day stadium clip\n- Verification notes: Sports Radar reviewed the live Reddit post and visible thread on 2026-08-22. The public copy paraphrases the crowd reaction and thread framing without naming commenters or claiming why the trains were canceled.\n\n## Sports Radar Markdown\n\n```md\n**Hull turns canceled trains into extra time**\n\nHull supporters cheered when the stadium announced that trains to Manchester had been canceled.\n\nWhy it works: Public transit became one last piece of home-field advantage.\n```\n"
+    "markdown": "---\nid: hull-train-cancellation-cheer\nrank: 1\ntitle: \"Hull turns canceled trains into extra time\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-22\"\nheat: 99\ntags:\n  - r/soccer\n  - Hull City\n  - Manchester United\n  - away-day lore\npublic_ready: true\n---\n\n## Summary\n\nA top-day r/soccer clip showed Hull supporters cheering a stadium announcement\nthat trains to Manchester had been canceled.\n\n## Why It Is Funny\n\nThe final whistle was no longer enough. The home crowd treated the away fans'\ntravel problem like stoppage time added specifically for banter.\n\n## Comment Highlights\n\n- Label: One more home-field penalty\n  Summary: The thread reframed the canceled trains as an extra consequence for visiting supporters after the match.\n  Why funny: Public transit became part of the home-field advantage.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vvc3z0/hull_supporters_cheer_as_the_trains_to_manchester/\n\n## Quote\n\nThe away day came with mandatory extra time.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vvc3z0/hull_supporters_cheer_as_the_trains_to_manchester/\n- Source type: Reddit RSS top-day stadium clip\n- Verification notes: Sports Radar reviewed the live Reddit post and visible thread on 2026-08-22. The public copy paraphrases the crowd reaction and thread framing without naming commenters or claiming why the trains were canceled.\n\n## Sports Radar Markdown\n\n```md\n**Hull turns canceled trains into extra time**\n\nHull supporters cheered when the stadium announced that trains to Manchester had been canceled.\n\nWhy it works: Public transit became one last piece of home-field advantage.\n```\n"
   },
   {
     "id": "javale-mcgee-approved-workout",
@@ -813,6 +813,36 @@
       }
     ],
     "markdown": "---\nid: arraez-clears-tag-clocks-out\nrank: 1\ntitle: \"Luis Arraez clears the tag, then clocks out\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-07\"\nheat: 98\ntags:\n  - r/baseball\n  - Luis Arraez\n  - home plate\n  - baserunning\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball highlight showed Luis Arraez leap over a tag at home, land safely,\nand then head toward the dugout instead of finishing the play.\n\n## Why It Is Funny\n\nThe difficult escape worked; the easy next instruction did not. Arraez beat the\ntag and then appeared to clock out before the play was over.\n\n## Comment Highlights\n\n- Label: Stadium-wide rundown\n  Summary: One fan imagined changing the rule so the catcher had to chase the runner around the entire stadium.\n  Why funny: The unfinished tag play became a full-venue pursuit instead of a routine out.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vhk8n0/comment/p25wgjn/\n\n## Quote\n\nHe escaped the tag and the assignment.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vhk8n0/highlight_luis_arraez_leaped_over_the_tag_at_home/\n- Source type: Reddit top-day baseball highlight\n- Verification notes: Sports Radar reviewed the public r/baseball top-day page and post on 2026-08-07. The summary describes the post's visible play framing without adding a rules claim.\n\n## Sports Radar Markdown\n\n```md\n**Luis Arraez clears the tag, then clocks out**\n\nAn r/baseball highlight showed Arraez leap over the tag at home and then head for the dugout.\n\nWhy it works: He escaped the tag and the assignment.\n```\n"
+  },
+  {
+    "id": "maguire-holds-back-own-teammate",
+    "rank": 1,
+    "title": "Maguire holds back the wrong teammate",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-23",
+    "heat": 99,
+    "tags": [
+      "r/soccer",
+      "Harry Maguire",
+      "Noussair Mazraoui",
+      "accidental defending"
+    ],
+    "public_ready": true,
+    "summary": "A top-day r/soccer clip showed Harry Maguire accidentally holding teammate\nNoussair Mazraoui as Hull City scored.",
+    "whyFunny": "The defense briefly became a buddy system for the wrong team. Maguire supplied\nthe hold-me-back routine before anyone had started a fight.",
+    "quote": "Wrong player successfully marked.",
+    "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vw407j/maguire_accidentally_holding_his_teammate/",
+    "commentHighlights": [
+      {
+        "label": "The hold-me-back defense",
+        "summary": "The thread recast the accidental grab as one teammate calmly preventing another from intervening.",
+        "whyFunny": "A defensive mistake acquired the choreography of a fake confrontation.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vw407j/maguire_accidentally_holding_his_teammate/"
+      }
+    ],
+    "markdown": "---\nid: maguire-holds-back-own-teammate\nrank: 1\ntitle: \"Maguire holds back the wrong teammate\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-23\"\nheat: 99\ntags:\n  - r/soccer\n  - Harry Maguire\n  - Noussair Mazraoui\n  - accidental defending\npublic_ready: true\n---\n\n## Summary\n\nA top-day r/soccer clip showed Harry Maguire accidentally holding teammate\nNoussair Mazraoui as Hull City scored.\n\n## Why It Is Funny\n\nThe defense briefly became a buddy system for the wrong team. Maguire supplied\nthe hold-me-back routine before anyone had started a fight.\n\n## Comment Highlights\n\n- Label: The hold-me-back defense\n  Summary: The thread recast the accidental grab as one teammate calmly preventing another from intervening.\n  Why funny: A defensive mistake acquired the choreography of a fake confrontation.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vw407j/maguire_accidentally_holding_his_teammate/\n\n## Quote\n\nWrong player successfully marked.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vw407j/maguire_accidentally_holding_his_teammate/\n- Source type: Reddit RSS top-day match clip\n- Verification notes: Sports Radar reviewed the live Reddit post and visible thread on 2026-08-23. The public copy stays within the clip title's accidental-hold framing and does not add match context beyond the source post.\n\n## Sports Radar Markdown\n\n```md\n**Maguire holds back the wrong teammate**\n\nHarry Maguire accidentally held teammate Noussair Mazraoui as Hull City scored.\n\nWhy it works: The defense turned into a hold-me-back routine for the wrong team.\n```\n"
   },
   {
     "id": "mark-davis-grass-commitment",
@@ -2759,6 +2789,29 @@
     "markdown": "---\nid: jokic-age-36-draft-pick\nrank: 2\ntitle: \"The Nuggets put a draft pick on the Jokic clock\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-20\"\nheat: 98\ntags:\n  - r/nba\n  - Nikola Jokic\n  - Denver Nuggets\n  - future draft pick\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post noted that Nikola Jokic will be 36 when Denver can use the 2031\nfirst-round pick acquired in the Payton Watson trade.\n\n## Why It Is Funny\n\nFuture draft assets already require patience, but this one comes with a Jokic\nage calculator attached. The trade timeline is long enough to feel like a\nretirement-planning worksheet.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nDenver put the pick on the Jokic clock.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vt3qcb/nikola_jokic_will_be_36_years_old_when_the/\n- Source type: Reddit RSS top-day fan observation\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-20. The age comparison is attributed to the post and is not presented as independent trade analysis.\n\n## Sports Radar Markdown\n\n```md\n**The Nuggets put a draft pick on the Jokic clock**\n\nDenver's new 2031 first-round pick arrives with one memorable timestamp: Jokic will be 36 when it can be used.\n\nWhy it works: A future asset became a retirement-planning worksheet.\n```\n"
   },
   {
+    "id": "walter-cup-still-missing",
+    "rank": 2,
+    "title": "The Walter Cup remains professionally missing",
+    "league": "PWHL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-23",
+    "heat": 98,
+    "tags": [
+      "r/hockey",
+      "PWHL",
+      "Walter Cup",
+      "trophy lore"
+    ],
+    "public_ready": true,
+    "summary": "A top-day r/hockey post relayed a reporter's update that the Walter Cup seen at\nAbby Roque's camp was not the missing trophy.",
+    "whyFunny": "The sighting produced an official non-update: one cup had been located, and it\nwas specifically the wrong cup. Trophy lore now has its own lost-luggage desk.",
+    "quote": "Cup located. Mystery unchanged.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vvrow3/kennedy_the_pwhl_just_confirmed_to_me_that_the/",
+    "commentHighlights": [],
+    "markdown": "---\nid: walter-cup-still-missing\nrank: 2\ntitle: \"The Walter Cup remains professionally missing\"\nleague: \"PWHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-23\"\nheat: 98\ntags:\n  - r/hockey\n  - PWHL\n  - Walter Cup\n  - trophy lore\npublic_ready: true\n---\n\n## Summary\n\nA top-day r/hockey post relayed a reporter's update that the Walter Cup seen at\nAbby Roque's camp was not the missing trophy.\n\n## Why It Is Funny\n\nThe sighting produced an official non-update: one cup had been located, and it\nwas specifically the wrong cup. Trophy lore now has its own lost-luggage desk.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nCup located. Mystery unchanged.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vvrow3/kennedy_the_pwhl_just_confirmed_to_me_that_the/\n- Source type: Reddit RSS top-day post relaying a public reporter update\n- Verification notes: Sports Radar reviewed the live Reddit post and visible thread on 2026-08-23. The copy attributes the PWHL confirmation to the source post and treats the missing-trophy story as ongoing fan lore rather than independent reporting.\n\n## Sports Radar Markdown\n\n```md\n**The Walter Cup remains professionally missing**\n\nThe cup seen at Abby Roque's camp was confirmed to be a different Walter Cup.\n\nWhy it works: One trophy was located specifically to confirm the mystery had not moved.\n```\n"
+  },
+  {
     "id": "white-sox-not-100-losses",
     "rank": 2,
     "title": "The White Sox clinch fewer than 100 losses",
@@ -2938,7 +2991,7 @@
     "title": "Winterthur brings the away end by boat",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-22",
     "heat": 98,
     "tags": [
@@ -2953,7 +3006,7 @@
     "quote": "The away end has entered by sea.",
     "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vv2ujk/fc_winterthur_2nd_swiss_tier_fans_arriving_for/",
     "commentHighlights": [],
-    "markdown": "---\nid: winterthur-away-day-by-boat\nrank: 2\ntitle: \"Winterthur brings the away end by boat\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-22\"\nheat: 98\ntags:\n  - r/soccer\n  - FC Winterthur\n  - Rapperswil\n  - away-day travel\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer clip showed FC Winterthur supporters arriving for a second-tier\nSwiss away match in Rapperswil by boat.\n\n## Why It Is Funny\n\nMost away sections organize a bus. Winterthur brought the singing section\nacross the water like the fixture had unlocked a naval entrance.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nThe away end has entered by sea.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vv2ujk/fc_winterthur_2nd_swiss_tier_fans_arriving_for/\n- Source type: Reddit RSS top-day supporter clip\n- Verification notes: Sports Radar reviewed the live Reddit post on 2026-08-22. The public copy stays within the visible boat-arrival framing and makes no claim about the trip beyond the source post.\n\n## Sports Radar Markdown\n\n```md\n**Winterthur brings the away end by boat**\n\nFC Winterthur supporters arrived for a Swiss second-tier away match by boat.\n\nWhy it works: The singing section unlocked a naval entrance.\n```\n"
+    "markdown": "---\nid: winterthur-away-day-by-boat\nrank: 2\ntitle: \"Winterthur brings the away end by boat\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-22\"\nheat: 98\ntags:\n  - r/soccer\n  - FC Winterthur\n  - Rapperswil\n  - away-day travel\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer clip showed FC Winterthur supporters arriving for a second-tier\nSwiss away match in Rapperswil by boat.\n\n## Why It Is Funny\n\nMost away sections organize a bus. Winterthur brought the singing section\nacross the water like the fixture had unlocked a naval entrance.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nThe away end has entered by sea.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vv2ujk/fc_winterthur_2nd_swiss_tier_fans_arriving_for/\n- Source type: Reddit RSS top-day supporter clip\n- Verification notes: Sports Radar reviewed the live Reddit post on 2026-08-22. The public copy stays within the visible boat-arrival framing and makes no claim about the trip beyond the source post.\n\n## Sports Radar Markdown\n\n```md\n**Winterthur brings the away end by boat**\n\nFC Winterthur supporters arrived for a Swiss second-tier away match by boat.\n\nWhy it works: The singing section unlocked a naval entrance.\n```\n"
   },
   {
     "id": "gleague-250-dollar-tryout",
@@ -3930,7 +3983,7 @@
     "title": "Luka scores through the perfect Simmons defense",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-22",
     "heat": 97,
     "tags": [
@@ -3945,7 +3998,37 @@
     "quote": "Perfect process. Same two points.",
     "sourceUrl": "https://www.reddit.com/r/nba/comments/1vuunph/highlight_ben_simmons_plays_suffocating_defense/",
     "commentHighlights": [],
-    "markdown": "---\nid: simmons-defense-luka-scores-anyway\nrank: 3\ntitle: \"Luka scores through the perfect Simmons defense\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-22\"\nheat: 97\ntags:\n  - r/nba\n  - Ben Simmons\n  - Luka Doncic\n  - throwback highlight\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba throwback showed Ben Simmons staying attached to Luka Doncic through\nan entire possession, only for Doncic to make the shot anyway.\n\n## Why It Is Funny\n\nSimmons completed every step of the defensive assignment. Doncic treated the\nrubric like a suggestion and submitted the bucket anyway.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nPerfect process. Same two points.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vuunph/highlight_ben_simmons_plays_suffocating_defense/\n- Source type: Reddit RSS top-day NBA throwback\n- Verification notes: Sports Radar reviewed the live Reddit post and visible thread on 2026-08-22. The copy identifies the clip as a throwback and paraphrases the defense-versus-shot framing without adding game context or statistics.\n\n## Sports Radar Markdown\n\n```md\n**Luka scores through the perfect Simmons defense**\n\nBen Simmons stayed attached for the whole possession, and Luka Doncic made the shot anyway.\n\nWhy it works: Simmons completed the rubric; Luka submitted the bucket.\n```\n"
+    "markdown": "---\nid: simmons-defense-luka-scores-anyway\nrank: 3\ntitle: \"Luka scores through the perfect Simmons defense\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-22\"\nheat: 97\ntags:\n  - r/nba\n  - Ben Simmons\n  - Luka Doncic\n  - throwback highlight\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba throwback showed Ben Simmons staying attached to Luka Doncic through\nan entire possession, only for Doncic to make the shot anyway.\n\n## Why It Is Funny\n\nSimmons completed every step of the defensive assignment. Doncic treated the\nrubric like a suggestion and submitted the bucket anyway.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nPerfect process. Same two points.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vuunph/highlight_ben_simmons_plays_suffocating_defense/\n- Source type: Reddit RSS top-day NBA throwback\n- Verification notes: Sports Radar reviewed the live Reddit post and visible thread on 2026-08-22. The copy identifies the clip as a throwback and paraphrases the defense-versus-shot framing without adding game context or statistics.\n\n## Sports Radar Markdown\n\n```md\n**Luka scores through the perfect Simmons defense**\n\nBen Simmons stayed attached for the whole possession, and Luka Doncic made the shot anyway.\n\nWhy it works: Simmons completed the rubric; Luka submitted the bucket.\n```\n"
+  },
+  {
+    "id": "mourinho-five-second-sprint",
+    "rank": 3,
+    "title": "Mourinho personally enforces five seconds",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-23",
+    "heat": 97,
+    "tags": [
+      "r/soccer",
+      "Jose Mourinho",
+      "Denzel Dumfries",
+      "touchline sprint"
+    ],
+    "public_ready": true,
+    "summary": "An r/soccer clip showed Jose Mourinho running from the dugout to remind Denzel\nDumfries about the five-second limit on throw-ins.",
+    "whyFunny": "The rule came with live delivery. Mourinho turned a tiny procedural reminder\ninto a touchline emergency requiring the manager's personal sprint.",
+    "quote": "Five seconds, personally delivered.",
+    "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vw3fg9/jose_mourinho_running_in_from_the_dugout_to/",
+    "commentHighlights": [
+      {
+        "label": "The special run",
+        "summary": "The thread treated Mourinho's dash as a returning piece of managerial choreography.",
+        "whyFunny": "Five seconds of urgency summoned an entire touchline performance.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vw3fg9/jose_mourinho_running_in_from_the_dugout_to/"
+      }
+    ],
+    "markdown": "---\nid: mourinho-five-second-sprint\nrank: 3\ntitle: \"Mourinho personally enforces five seconds\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-23\"\nheat: 97\ntags:\n  - r/soccer\n  - Jose Mourinho\n  - Denzel Dumfries\n  - touchline sprint\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer clip showed Jose Mourinho running from the dugout to remind Denzel\nDumfries about the five-second limit on throw-ins.\n\n## Why It Is Funny\n\nThe rule came with live delivery. Mourinho turned a tiny procedural reminder\ninto a touchline emergency requiring the manager's personal sprint.\n\n## Comment Highlights\n\n- Label: The special run\n  Summary: The thread treated Mourinho's dash as a returning piece of managerial choreography.\n  Why funny: Five seconds of urgency summoned an entire touchline performance.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vw3fg9/jose_mourinho_running_in_from_the_dugout_to/\n\n## Quote\n\nFive seconds, personally delivered.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vw3fg9/jose_mourinho_running_in_from_the_dugout_to/\n- Source type: Reddit RSS top-day touchline clip\n- Verification notes: Sports Radar reviewed the live Reddit post and visible thread on 2026-08-23. The public copy paraphrases the source title's rule-reminder framing without adding match or officiating claims.\n\n## Sports Radar Markdown\n\n```md\n**Mourinho personally enforces five seconds**\n\nJose Mourinho ran from the dugout to remind Denzel Dumfries about the throw-in clock.\n\nWhy it works: A tiny rule reminder became a manager-level touchline emergency.\n```\n"
   },
   {
     "id": "nesta-son-world-cup-proof",
@@ -4825,6 +4908,36 @@
     "markdown": "---\nid: hockey-guaranteed-cup-heartbreak\nrank: 4\ntitle: \"Hockey reopens the guaranteed Cup archive\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-15\"\nheat: 95\ntags:\n  - r/hockey\n  - Stanley Cup\n  - fan confidence\n  - heartbreak lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey thread asked fans to name the team they were certain would win the\nStanley Cup before the season ended differently.\n\n## Why It Is Funny\n\nEvery fan arrived with a confident old forecast and a much longer forensic\nreport. The thread became a museum of predictions that felt obvious right up\nuntil they became lore.\n\n## Comment Highlights\n\n- Label: Personal heartbreak archives\n  Summary: Fans nominated different seasons, then explained the exact bounce, matchup, or collapse that still bothers them.\n  Why funny: Everybody brought evidence, and none of it could change the ending.\n  Source URL: https://www.reddit.com/r/hockey/comments/1vos7jj/what_is_one_team_you_were_so_sure_was_winning_the/\n\n## Quote\n\nConfidence ages directly into lore.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vos7jj/what_is_one_team_you_were_so_sure_was_winning_the/\n- Source type: Reddit fan prompt and discussion\n- Verification notes: Sports Radar reviewed the public post and discussion on 2026-08-15. The public copy summarizes the shared fan-prediction structure without repeating individual claims or treating retrospective opinions as reporting.\n\n## Sports Radar Markdown\n\n```md\n**Hockey reopens the guaranteed Cup archive**\n\nFans named the teams they knew would win, then reopened the evidence for why they did not.\n\nWhy it works: Every confident prediction came with its own years-late forensic report.\n```\n"
   },
   {
+    "id": "japan-table-tennis-pinwheel",
+    "rank": 4,
+    "title": "Japan turns doubles defense into a pinwheel",
+    "league": "Table Tennis",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-23",
+    "heat": 96,
+    "tags": [
+      "r/sports",
+      "Japan",
+      "China",
+      "doubles rotation"
+    ],
+    "public_ready": true,
+    "summary": "An r/sports table-tennis clip showed Japan's blue pair rotating around each\nother through a frantic defensive rally against China.",
+    "whyFunny": "The point looked less like doubles positioning and more like a perfectly timed\ncarousel. Every emergency return also advanced the choreography.",
+    "quote": "Rotate first. Return everything.",
+    "sourceUrl": "https://www.reddit.com/r/sports/comments/1vw95lk/japan_blue_wins_with_solid_defence_against_china/",
+    "commentHighlights": [
+      {
+        "label": "Circle defense",
+        "summary": "The thread focused on Japan's continuous rotation while China stayed mostly on its own side of the table.",
+        "whyFunny": "One rally made elite defense look like a coordinated dance instruction.",
+        "sourceUrl": "https://www.reddit.com/r/sports/comments/1vw95lk/japan_blue_wins_with_solid_defence_against_china/"
+      }
+    ],
+    "markdown": "---\nid: japan-table-tennis-pinwheel\nrank: 4\ntitle: \"Japan turns doubles defense into a pinwheel\"\nleague: \"Table Tennis\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-23\"\nheat: 96\ntags:\n  - r/sports\n  - Japan\n  - China\n  - doubles rotation\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports table-tennis clip showed Japan's blue pair rotating around each\nother through a frantic defensive rally against China.\n\n## Why It Is Funny\n\nThe point looked less like doubles positioning and more like a perfectly timed\ncarousel. Every emergency return also advanced the choreography.\n\n## Comment Highlights\n\n- Label: Circle defense\n  Summary: The thread focused on Japan's continuous rotation while China stayed mostly on its own side of the table.\n  Why funny: One rally made elite defense look like a coordinated dance instruction.\n  Source URL: https://www.reddit.com/r/sports/comments/1vw95lk/japan_blue_wins_with_solid_defence_against_china/\n\n## Quote\n\nRotate first. Return everything.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1vw95lk/japan_blue_wins_with_solid_defence_against_china/\n- Source type: Reddit RSS top-day table-tennis clip\n- Verification notes: Sports Radar reviewed the live Reddit post and visible thread on 2026-08-23. The public copy describes only the visible doubles rotation and rally framing, not the broader match result.\n\n## Sports Radar Markdown\n\n```md\n**Japan turns doubles defense into a pinwheel**\n\nJapan's blue pair rotated around each other through a frantic table-tennis rally against China.\n\nWhy it works: Every emergency return also advanced the choreography.\n```\n"
+  },
+  {
     "id": "japan-knockout-world-cup-curse",
     "rank": 4,
     "title": "Japan's World Cup exit turns into a full tournament prophecy",
@@ -5164,7 +5277,7 @@
     "title": "Ochocinco turns the field into a proposal stage",
     "league": "NFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-22",
     "heat": 96,
     "tags": [
@@ -5179,7 +5292,7 @@
     "quote": "One field, two scheduled events.",
     "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vunq5r/highlight_ochocinco_proposes_to_a_cheerleader_2005/",
     "commentHighlights": [],
-    "markdown": "---\nid: ochocinco-cheerleader-proposal\nrank: 4\ntitle: \"Ochocinco turns the field into a proposal stage\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-22\"\nheat: 96\ntags:\n  - r/nfl\n  - Chad Johnson\n  - Ochocinco\n  - celebration lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl throwback resurfaced a 2005 highlight of Ochocinco proposing to a\ncheerleader on the field.\n\n## Why It Is Funny\n\nThe play ended, but Ochocinco had already booked the field for a second event.\nEven the celebration came with its own halftime show.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nOne field, two scheduled events.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vunq5r/highlight_ochocinco_proposes_to_a_cheerleader_2005/\n- Source type: Reddit RSS top-day NFL throwback\n- Verification notes: Sports Radar reviewed the live Reddit post on 2026-08-22. The public copy stays within the source title's 2005 proposal framing and does not infer a real engagement or relationship.\n\n## Sports Radar Markdown\n\n```md\n**Ochocinco turns the field into a proposal stage**\n\nA 2005 throwback resurfaced Ochocinco proposing to a cheerleader on the field.\n\nWhy it works: The play ended, but he had already booked the field for a second event.\n```\n"
+    "markdown": "---\nid: ochocinco-cheerleader-proposal\nrank: 4\ntitle: \"Ochocinco turns the field into a proposal stage\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-22\"\nheat: 96\ntags:\n  - r/nfl\n  - Chad Johnson\n  - Ochocinco\n  - celebration lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl throwback resurfaced a 2005 highlight of Ochocinco proposing to a\ncheerleader on the field.\n\n## Why It Is Funny\n\nThe play ended, but Ochocinco had already booked the field for a second event.\nEven the celebration came with its own halftime show.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nOne field, two scheduled events.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vunq5r/highlight_ochocinco_proposes_to_a_cheerleader_2005/\n- Source type: Reddit RSS top-day NFL throwback\n- Verification notes: Sports Radar reviewed the live Reddit post on 2026-08-22. The public copy stays within the source title's 2005 proposal framing and does not infer a real engagement or relationship.\n\n## Sports Radar Markdown\n\n```md\n**Ochocinco turns the field into a proposal stage**\n\nA 2005 throwback resurfaced Ochocinco proposing to a cheerleader on the field.\n\nWhy it works: The play ended, but he had already booked the field for a second event.\n```\n"
   },
   {
     "id": "embolo-nba-flopping-crossover",
@@ -6513,7 +6626,7 @@
     "title": "LSU has more coaches than players",
     "league": "NCAA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-22",
     "heat": 95,
     "tags": [
@@ -6528,7 +6641,7 @@
     "quote": "The staff meeting can run five-on-four.",
     "sourceUrl": "https://www.reddit.com/r/CollegeBasketball/comments/1vurb0l/according_to_lsus_mens_basketball_page_they_have/",
     "commentHighlights": [],
-    "markdown": "---\nid: lsu-more-coaches-than-players\nrank: 5\ntitle: \"LSU has more coaches than players\"\nleague: \"NCAA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-22\"\nheat: 95\ntags:\n  - r/CollegeBasketball\n  - LSU\n  - roster math\n  - offseason\npublic_ready: true\n---\n\n## Summary\n\nAn r/CollegeBasketball post noticed that LSU's official men's roster page\nlisted four players while the coaching staff listed five.\n\n## Why It Is Funny\n\nThe bench is currently deep only if everyone carrying a clipboard checks in.\nLSU assembled the staff meeting before it finished assembling the team.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nThe staff meeting can run five-on-four.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vurb0l/according_to_lsus_mens_basketball_page_they_have/\n- Source type: Reddit RSS top-day roster-page find\n- Verification notes: Sports Radar reviewed the live Reddit post and LSU's linked official 2026-27 roster page on 2026-08-22. At review time, the official page listed four players and five coaches; the copy treats that current page state as offseason roster math, not a final-season roster claim.\n\n## Sports Radar Markdown\n\n```md\n**LSU has more coaches than players**\n\nLSU's official men's roster page currently lists four players and five coaches.\n\nWhy it works: The staff meeting can run five-on-four before the team can.\n```\n"
+    "markdown": "---\nid: lsu-more-coaches-than-players\nrank: 5\ntitle: \"LSU has more coaches than players\"\nleague: \"NCAA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-22\"\nheat: 95\ntags:\n  - r/CollegeBasketball\n  - LSU\n  - roster math\n  - offseason\npublic_ready: true\n---\n\n## Summary\n\nAn r/CollegeBasketball post noticed that LSU's official men's roster page\nlisted four players while the coaching staff listed five.\n\n## Why It Is Funny\n\nThe bench is currently deep only if everyone carrying a clipboard checks in.\nLSU assembled the staff meeting before it finished assembling the team.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nThe staff meeting can run five-on-four.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vurb0l/according_to_lsus_mens_basketball_page_they_have/\n- Source type: Reddit RSS top-day roster-page find\n- Verification notes: Sports Radar reviewed the live Reddit post and LSU's linked official 2026-27 roster page on 2026-08-22. At review time, the official page listed four players and five coaches; the copy treats that current page state as offseason roster math, not a final-season roster claim.\n\n## Sports Radar Markdown\n\n```md\n**LSU has more coaches than players**\n\nLSU's official men's roster page currently lists four players and five coaches.\n\nWhy it works: The staff meeting can run five-on-four before the team can.\n```\n"
   },
   {
     "id": "maa-nonu-solo-haka",
@@ -6755,6 +6868,29 @@
       }
     ],
     "markdown": "---\nid: oregon-fraser-valley-conference-math\nrank: 5\ntitle: \"Oregon's Canadian exhibition breaks the conference forecast\"\nleague: \"College Basketball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-10\"\nheat: 90\ntags:\n  - r/CollegeBasketball\n  - Oregon\n  - Fraser Valley\n  - exhibition\npublic_ready: true\n---\n\n## Summary\n\nAn r/CollegeBasketball post logged Oregon's 121-40 exhibition win over Fraser\nValley in British Columbia.\n\n## Why It Is Funny\n\nAn 81-point margin was too large to leave in August, so fans immediately used\nit to produce deeply unserious Big Ten forecasts. Exhibition math had already\ndeclared a champion.\n\n## Comment Highlights\n\n- Label: August standings model\n  Summary: Fans used separate Canadian exhibition scores to jokingly rank Big Ten teams.\n  Why funny: A summer tune-up became a fully confident conference projection.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vjuabj/oregon_121_fraser_valley_40/\n\n## Quote\n\nThe August standings model has no confidence interval.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vjuabj/oregon_121_fraser_valley_40/\n- Source type: Reddit top-day college-basketball exhibition post\n- Verification notes: Sports Radar reviewed the public r/CollegeBasketball post and discussion on 2026-08-10. The score and location come from the public post; the conference forecast is explicitly presented as fan humor.\n\n## Sports Radar Markdown\n\n```md\n**Oregon's Canadian exhibition breaks the conference forecast**\n\nOregon's 121-40 summer result became instant material for fake Big Ten math.\n\nWhy it works: Exhibition season has already declared a champion.\n```\n"
+  },
+  {
+    "id": "schaefer-tiny-fight-card",
+    "rank": 5,
+    "title": "Schaefer accepts hockey camp's smallest fight",
+    "league": "NHL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-23",
+    "heat": 95,
+    "tags": [
+      "r/hockey",
+      "Matthew Schaefer",
+      "Matt Martin",
+      "hockey camp"
+    ],
+    "public_ready": true,
+    "summary": "A top-day r/hockey camp clip showed Matthew Schaefer joining a playful tiny\nfight with a young camper.",
+    "whyFunny": "Hockey camp compressed the full fight-card ritual into its friendliest possible\nweight class. Schaefer treated the miniature challenge like real ice business.",
+    "quote": "The undercard has never been smaller.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vvprku/matthew_schaefer_gets_into_a_tiny_fight_at_matt/",
+    "commentHighlights": [],
+    "markdown": "---\nid: schaefer-tiny-fight-card\nrank: 5\ntitle: \"Schaefer accepts hockey camp's smallest fight\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-23\"\nheat: 95\ntags:\n  - r/hockey\n  - Matthew Schaefer\n  - Matt Martin\n  - hockey camp\npublic_ready: true\n---\n\n## Summary\n\nA top-day r/hockey camp clip showed Matthew Schaefer joining a playful tiny\nfight with a young camper.\n\n## Why It Is Funny\n\nHockey camp compressed the full fight-card ritual into its friendliest possible\nweight class. Schaefer treated the miniature challenge like real ice business.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nThe undercard has never been smaller.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vvprku/matthew_schaefer_gets_into_a_tiny_fight_at_matt/\n- Source type: Reddit RSS top-day hockey-camp clip\n- Verification notes: Sports Radar reviewed the live Reddit post and visible thread on 2026-08-23. The public copy keeps the moment playful and within the source title's tiny-fight framing without identifying the camper.\n\n## Sports Radar Markdown\n\n```md\n**Schaefer accepts hockey camp's smallest fight**\n\nMatthew Schaefer joined a playful tiny fight with a young camper.\n\nWhy it works: Hockey camp compressed the full fight-card ritual into its friendliest weight class.\n```\n"
   },
   {
     "id": "sean-sweeney-46-minute-finals",
