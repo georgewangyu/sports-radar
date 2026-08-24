@@ -540,6 +540,36 @@
     "markdown": "---\nid: jokic-delicious-gar-repeat\nrank: 1\ntitle: \"Jokic's horse stable completes the repeat\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-28\"\nheat: 98\ntags:\n  - r/nba\n  - Nikola Jokic\n  - horse racing\n  - offseason lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post celebrated Delicious Gar extending its winning streak and giving\nNikola Jokic's Dream Catcher stable a second straight win in Serbia's\nDužijanca race.\n\n## Why It Is Funny\n\nJokic's offseason side quest now has enough continuity for its own dynasty\ngraphic. The basketball thread immediately treated the stable like a second\nfranchise.\n\n## Comment Highlights\n\n- Label: Second trophy room\n  Summary: Fans compared the horse operation's repeat with the championship language normally reserved for NBA teams.\n  Why funny: Jokic's least surprising offseason hobby now needs its own standings.\n  Source URL: https://www.reddit.com/r/nba/comments/1v8b7zd/nikola_jokic_has_won_the_most_prestigious_horse/\n- Label: Offseason payroll\n  Summary: The thread joked that elite basketball money had arrived in a much smaller racing league.\n  Why funny: The salary-cap conversation followed Jokic all the way to the stable.\n  Source URL: https://www.reddit.com/r/nba/comments/1v8b7zd/nikola_jokic_has_won_the_most_prestigious_horse/\n\n## Quote\n\nThe offseason dynasty has four legs.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v8b7zd/nikola_jokic_has_won_the_most_prestigious_horse/\n- Source type: Reddit media post and public discussion\n- Verification notes: The public post title and discussion were reviewed on 2026-07-28. Race details are attributed to the post rather than presented as independent reporting.\n\n## Sports Radar Markdown\n\n```md\n**Jokic's horse stable completes the repeat**\n\nDelicious Gar extended its streak and gave Jokic's stable another offseason title.\n\nWhy it works: The offseason dynasty has four legs.\n```\n"
   },
   {
+    "id": "kareem-benson-rookie-test",
+    "rank": 1,
+    "title": "Kareem ends the rookie test after two minutes",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-24",
+    "heat": 99,
+    "tags": [
+      "r/nba",
+      "Kareem Abdul-Jabbar",
+      "Kent Benson",
+      "archive lore"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba archive post revisited Kent Benson's 1977 debut, when the rookie tried\nto establish himself against Kareem Abdul-Jabbar and the exchange ended with\nKareem throwing a punch.",
+    "whyFunny": "The rookie's opening statement received an immediate peer review. Barely two\nminutes into a career, the league's biggest test had already closed the exam.",
+    "quote": "Rookie orientation ended early.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vwo467/in_1977_rookie_kent_benson_barely_two_minutes/",
+    "commentHighlights": [
+      {
+        "label": "Rookie speedrun",
+        "summary": "The source post framed Benson's attempt to establish himself as a debut experiment that lasted barely two minutes.",
+        "whyFunny": "Career orientation became an immediate lesson in league hierarchy.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1vwo467/in_1977_rookie_kent_benson_barely_two_minutes/"
+      }
+    ],
+    "markdown": "---\nid: kareem-benson-rookie-test\nrank: 1\ntitle: \"Kareem ends the rookie test after two minutes\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-24\"\nheat: 99\ntags:\n  - r/nba\n  - Kareem Abdul-Jabbar\n  - Kent Benson\n  - archive lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba archive post revisited Kent Benson's 1977 debut, when the rookie tried\nto establish himself against Kareem Abdul-Jabbar and the exchange ended with\nKareem throwing a punch.\n\n## Why It Is Funny\n\nThe rookie's opening statement received an immediate peer review. Barely two\nminutes into a career, the league's biggest test had already closed the exam.\n\n## Comment Highlights\n\n- Label: Rookie speedrun\n  Summary: The source post framed Benson's attempt to establish himself as a debut experiment that lasted barely two minutes.\n  Why funny: Career orientation became an immediate lesson in league hierarchy.\n  Source URL: https://www.reddit.com/r/nba/comments/1vwo467/in_1977_rookie_kent_benson_barely_two_minutes/\n\n## Quote\n\nRookie orientation ended early.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vwo467/in_1977_rookie_kent_benson_barely_two_minutes/\n- Source type: Reddit RSS top-day archival basketball post\n- Verification notes: Sports Radar reviewed the captured Reddit RSS item and confirmed the source thread returned HTTP 200 on 2026-08-24. The copy attributes the 1977 incident to the archive post rather than presenting new reporting.\n\n## Sports Radar Markdown\n\n```md\n**Kareem ends the rookie test after two minutes**\n\nAn archive post revisited Kent Benson testing Kareem Abdul-Jabbar almost immediately in his NBA debut.\n\nWhy it works: The rookie's opening statement received an instant peer review.\n```\n"
+  },
+  {
     "id": "kat-msg-chokeslam-crossover",
     "rank": 1,
     "title": "KAT turns Madison Square Garden into a crossover episode",
@@ -820,7 +850,7 @@
     "title": "Maguire holds back the wrong teammate",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-23",
     "heat": 99,
     "tags": [
@@ -842,7 +872,7 @@
         "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vw407j/maguire_accidentally_holding_his_teammate/"
       }
     ],
-    "markdown": "---\nid: maguire-holds-back-own-teammate\nrank: 1\ntitle: \"Maguire holds back the wrong teammate\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-23\"\nheat: 99\ntags:\n  - r/soccer\n  - Harry Maguire\n  - Noussair Mazraoui\n  - accidental defending\npublic_ready: true\n---\n\n## Summary\n\nA top-day r/soccer clip showed Harry Maguire accidentally holding teammate\nNoussair Mazraoui as Hull City scored.\n\n## Why It Is Funny\n\nThe defense briefly became a buddy system for the wrong team. Maguire supplied\nthe hold-me-back routine before anyone had started a fight.\n\n## Comment Highlights\n\n- Label: The hold-me-back defense\n  Summary: The thread recast the accidental grab as one teammate calmly preventing another from intervening.\n  Why funny: A defensive mistake acquired the choreography of a fake confrontation.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vw407j/maguire_accidentally_holding_his_teammate/\n\n## Quote\n\nWrong player successfully marked.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vw407j/maguire_accidentally_holding_his_teammate/\n- Source type: Reddit RSS top-day match clip\n- Verification notes: Sports Radar reviewed the live Reddit post and visible thread on 2026-08-23. The public copy stays within the clip title's accidental-hold framing and does not add match context beyond the source post.\n\n## Sports Radar Markdown\n\n```md\n**Maguire holds back the wrong teammate**\n\nHarry Maguire accidentally held teammate Noussair Mazraoui as Hull City scored.\n\nWhy it works: The defense turned into a hold-me-back routine for the wrong team.\n```\n"
+    "markdown": "---\nid: maguire-holds-back-own-teammate\nrank: 1\ntitle: \"Maguire holds back the wrong teammate\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-23\"\nheat: 99\ntags:\n  - r/soccer\n  - Harry Maguire\n  - Noussair Mazraoui\n  - accidental defending\npublic_ready: true\n---\n\n## Summary\n\nA top-day r/soccer clip showed Harry Maguire accidentally holding teammate\nNoussair Mazraoui as Hull City scored.\n\n## Why It Is Funny\n\nThe defense briefly became a buddy system for the wrong team. Maguire supplied\nthe hold-me-back routine before anyone had started a fight.\n\n## Comment Highlights\n\n- Label: The hold-me-back defense\n  Summary: The thread recast the accidental grab as one teammate calmly preventing another from intervening.\n  Why funny: A defensive mistake acquired the choreography of a fake confrontation.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vw407j/maguire_accidentally_holding_his_teammate/\n\n## Quote\n\nWrong player successfully marked.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vw407j/maguire_accidentally_holding_his_teammate/\n- Source type: Reddit RSS top-day match clip\n- Verification notes: Sports Radar reviewed the live Reddit post and visible thread on 2026-08-23. The public copy stays within the clip title's accidental-hold framing and does not add match context beyond the source post.\n\n## Sports Radar Markdown\n\n```md\n**Maguire holds back the wrong teammate**\n\nHarry Maguire accidentally held teammate Noussair Mazraoui as Hull City scored.\n\nWhy it works: The defense turned into a hold-me-back routine for the wrong team.\n```\n"
   },
   {
     "id": "mark-davis-grass-commitment",
@@ -1908,6 +1938,29 @@
     "markdown": "---\nid: jermaine-oneal-stops-at-55\nrank: 2\ntitle: \"Jermaine O'Neal stops at 55 for Reggie\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-21\"\nheat: 98\ntags:\n  - r/nba\n  - Jermaine O'Neal\n  - Reggie Miller\n  - teammate lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba throwback post framed Jermaine O'Neal as checking himself out after\n55 points so Reggie Miller could keep the Pacers' single-game scoring record.\n\n## Why It Is Funny\n\nMost record chases end with everyone feeding the hot hand. This one apparently\nended with O'Neal protecting a teammate's number like it was part of the team\nequipment.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nFifty-five was enough. Reggie's 57 stayed on the wall.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vtnsbp/highlights_jermaine_oneal_scores_55_points_in_36/\n- Source type: Reddit RSS top-day NBA throwback\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-21. The scoring and substitution details remain attributed to the source post rather than presented as independent historical reporting.\n\n## Sports Radar Markdown\n\n```md\n**Jermaine O'Neal stops at 55 for Reggie**\n\nAn NBA throwback says O'Neal checked himself out two points short of Reggie Miller's Pacers record.\n\nWhy it works: The franchise record was treated like a teammate's reserved parking spot.\n```\n"
   },
   {
+    "id": "butler-friendship-reset",
+    "rank": 2,
+    "title": "Jimmy Butler friendship resets every morning",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-24",
+    "heat": 98,
+    "tags": [
+      "r/nba",
+      "Jimmy Butler",
+      "Max Strus",
+      "teammate lore"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba post relayed Max Strus describing Jimmy Butler's teammate rhythm:\ndinner-level friendship one night, no acknowledgment at practice, then normal\nservice again once the game began.",
+    "whyFunny": "The relationship apparently ran on game-day software. Friendship was available,\nbut only after a fresh daily login.",
+    "quote": "Best-friend status requires daily renewal.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vx3ece/max_strus_said_that_butler_would_treat_him_like/",
+    "commentHighlights": [],
+    "markdown": "---\nid: butler-friendship-reset\nrank: 2\ntitle: \"Jimmy Butler friendship resets every morning\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-24\"\nheat: 98\ntags:\n  - r/nba\n  - Jimmy Butler\n  - Max Strus\n  - teammate lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post relayed Max Strus describing Jimmy Butler's teammate rhythm:\ndinner-level friendship one night, no acknowledgment at practice, then normal\nservice again once the game began.\n\n## Why It Is Funny\n\nThe relationship apparently ran on game-day software. Friendship was available,\nbut only after a fresh daily login.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nBest-friend status requires daily renewal.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vx3ece/max_strus_said_that_butler_would_treat_him_like/\n- Source type: Reddit RSS top-day post relaying a public teammate recollection\n- Verification notes: Sports Radar reviewed the captured Reddit RSS item and confirmed the source thread returned HTTP 200 on 2026-08-24. The public copy paraphrases the post's recollection without reproducing its long quoted passage.\n\n## Sports Radar Markdown\n\n```md\n**Jimmy Butler friendship resets every morning**\n\nMax Strus described a teammate rhythm that could jump from dinner-level friendship to zero acknowledgment by practice.\n\nWhy it works: Best-friend status apparently required a fresh game-day login.\n```\n"
+  },
+  {
     "id": "joe-flacco-visor-roast",
     "rank": 2,
     "title": "Joe Flacco turns a quarterback visor into a roast target",
@@ -2794,7 +2847,7 @@
     "title": "The Walter Cup remains professionally missing",
     "league": "PWHL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-23",
     "heat": 98,
     "tags": [
@@ -2809,7 +2862,7 @@
     "quote": "Cup located. Mystery unchanged.",
     "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vvrow3/kennedy_the_pwhl_just_confirmed_to_me_that_the/",
     "commentHighlights": [],
-    "markdown": "---\nid: walter-cup-still-missing\nrank: 2\ntitle: \"The Walter Cup remains professionally missing\"\nleague: \"PWHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-23\"\nheat: 98\ntags:\n  - r/hockey\n  - PWHL\n  - Walter Cup\n  - trophy lore\npublic_ready: true\n---\n\n## Summary\n\nA top-day r/hockey post relayed a reporter's update that the Walter Cup seen at\nAbby Roque's camp was not the missing trophy.\n\n## Why It Is Funny\n\nThe sighting produced an official non-update: one cup had been located, and it\nwas specifically the wrong cup. Trophy lore now has its own lost-luggage desk.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nCup located. Mystery unchanged.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vvrow3/kennedy_the_pwhl_just_confirmed_to_me_that_the/\n- Source type: Reddit RSS top-day post relaying a public reporter update\n- Verification notes: Sports Radar reviewed the live Reddit post and visible thread on 2026-08-23. The copy attributes the PWHL confirmation to the source post and treats the missing-trophy story as ongoing fan lore rather than independent reporting.\n\n## Sports Radar Markdown\n\n```md\n**The Walter Cup remains professionally missing**\n\nThe cup seen at Abby Roque's camp was confirmed to be a different Walter Cup.\n\nWhy it works: One trophy was located specifically to confirm the mystery had not moved.\n```\n"
+    "markdown": "---\nid: walter-cup-still-missing\nrank: 2\ntitle: \"The Walter Cup remains professionally missing\"\nleague: \"PWHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-23\"\nheat: 98\ntags:\n  - r/hockey\n  - PWHL\n  - Walter Cup\n  - trophy lore\npublic_ready: true\n---\n\n## Summary\n\nA top-day r/hockey post relayed a reporter's update that the Walter Cup seen at\nAbby Roque's camp was not the missing trophy.\n\n## Why It Is Funny\n\nThe sighting produced an official non-update: one cup had been located, and it\nwas specifically the wrong cup. Trophy lore now has its own lost-luggage desk.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nCup located. Mystery unchanged.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vvrow3/kennedy_the_pwhl_just_confirmed_to_me_that_the/\n- Source type: Reddit RSS top-day post relaying a public reporter update\n- Verification notes: Sports Radar reviewed the live Reddit post and visible thread on 2026-08-23. The copy attributes the PWHL confirmation to the source post and treats the missing-trophy story as ongoing fan lore rather than independent reporting.\n\n## Sports Radar Markdown\n\n```md\n**The Walter Cup remains professionally missing**\n\nThe cup seen at Abby Roque's camp was confirmed to be a different Walter Cup.\n\nWhy it works: One trophy was located specifically to confirm the mystery had not moved.\n```\n"
   },
   {
     "id": "white-sox-not-100-losses",
@@ -4006,7 +4059,7 @@
     "title": "Mourinho personally enforces five seconds",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-23",
     "heat": 97,
     "tags": [
@@ -4028,7 +4081,7 @@
         "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vw3fg9/jose_mourinho_running_in_from_the_dugout_to/"
       }
     ],
-    "markdown": "---\nid: mourinho-five-second-sprint\nrank: 3\ntitle: \"Mourinho personally enforces five seconds\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-23\"\nheat: 97\ntags:\n  - r/soccer\n  - Jose Mourinho\n  - Denzel Dumfries\n  - touchline sprint\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer clip showed Jose Mourinho running from the dugout to remind Denzel\nDumfries about the five-second limit on throw-ins.\n\n## Why It Is Funny\n\nThe rule came with live delivery. Mourinho turned a tiny procedural reminder\ninto a touchline emergency requiring the manager's personal sprint.\n\n## Comment Highlights\n\n- Label: The special run\n  Summary: The thread treated Mourinho's dash as a returning piece of managerial choreography.\n  Why funny: Five seconds of urgency summoned an entire touchline performance.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vw3fg9/jose_mourinho_running_in_from_the_dugout_to/\n\n## Quote\n\nFive seconds, personally delivered.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vw3fg9/jose_mourinho_running_in_from_the_dugout_to/\n- Source type: Reddit RSS top-day touchline clip\n- Verification notes: Sports Radar reviewed the live Reddit post and visible thread on 2026-08-23. The public copy paraphrases the source title's rule-reminder framing without adding match or officiating claims.\n\n## Sports Radar Markdown\n\n```md\n**Mourinho personally enforces five seconds**\n\nJose Mourinho ran from the dugout to remind Denzel Dumfries about the throw-in clock.\n\nWhy it works: A tiny rule reminder became a manager-level touchline emergency.\n```\n"
+    "markdown": "---\nid: mourinho-five-second-sprint\nrank: 3\ntitle: \"Mourinho personally enforces five seconds\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-23\"\nheat: 97\ntags:\n  - r/soccer\n  - Jose Mourinho\n  - Denzel Dumfries\n  - touchline sprint\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer clip showed Jose Mourinho running from the dugout to remind Denzel\nDumfries about the five-second limit on throw-ins.\n\n## Why It Is Funny\n\nThe rule came with live delivery. Mourinho turned a tiny procedural reminder\ninto a touchline emergency requiring the manager's personal sprint.\n\n## Comment Highlights\n\n- Label: The special run\n  Summary: The thread treated Mourinho's dash as a returning piece of managerial choreography.\n  Why funny: Five seconds of urgency summoned an entire touchline performance.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vw3fg9/jose_mourinho_running_in_from_the_dugout_to/\n\n## Quote\n\nFive seconds, personally delivered.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vw3fg9/jose_mourinho_running_in_from_the_dugout_to/\n- Source type: Reddit RSS top-day touchline clip\n- Verification notes: Sports Radar reviewed the live Reddit post and visible thread on 2026-08-23. The public copy paraphrases the source title's rule-reminder framing without adding match or officiating claims.\n\n## Sports Radar Markdown\n\n```md\n**Mourinho personally enforces five seconds**\n\nJose Mourinho ran from the dugout to remind Denzel Dumfries about the throw-in clock.\n\nWhy it works: A tiny rule reminder became a manager-level touchline emergency.\n```\n"
   },
   {
     "id": "nesta-son-world-cup-proof",
@@ -4291,6 +4344,29 @@
       }
     ],
     "markdown": "---\nid: curry-lebron-golf-first\nrank: 3\ntitle: \"Steph Curry keeps turning LeBron speculation back into golf\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-09\"\nheat: 90\ntags:\n  - r/nba\n  - LeBron\n  - Curry\n  - golf\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post about Steph Curry's LeBron comments made the basketball fantasy\nfeel almost secondary to the recurring golf subplot.\n\n## Why It Is Funny\n\nFans want the impossible superteam answer. Curry's framing gives the thread a\nmuch calmer image: two all-time stars negotiating vibes on a course.\n\n## Comment Highlights\n\n- Label: Golf as the safer dream pairing\n  Summary: The thread gets to enjoy the basketball possibility while still laughing at how often the conversation drifts back to golf.\n  Why funny: The lower-stakes version somehow feels more believable than the basketball one.\n  Source URL: https://www.reddit.com/r/nba/comments/1ur1aro/steph_curry_on_the_possibility_of_playing_with/\n- Label: LeBron decision-watch fatigue\n  Summary: Reactions treat every LeBron answer as part transaction watch, part offseason talk-show script.\n  Why funny: Even the cautious answer becomes another episode in the same summer storyline.\n  Source URL: https://www.reddit.com/r/nba/comments/1ur1aro/steph_curry_on_the_possibility_of_playing_with/\n\n## Quote\n\nThe buddy-cop version may just be a tee time.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1ur1aro/steph_curry_on_the_possibility_of_playing_with/\n- Source type: Reddit / r/nba top-day thread\n- Verification notes: summarize the fan framing; do not present speculation as reporting\n\n## Sports Radar Markdown\n\n```md\n**Steph Curry keeps turning LeBron speculation back into golf**\n\nAn r/nba thread made the dream pairing feel almost less important than the tee time.\n\nWhy it works: the NBA's biggest fantasy gets rerouted into dad-sport diplomacy.\n```\n"
+  },
+  {
+    "id": "svechnikov-cup-dumpling-pregame",
+    "rank": 3,
+    "title": "Svechnikov gives Cup night a dumpling pregame",
+    "league": "NHL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-24",
+    "heat": 97,
+    "tags": [
+      "r/hockey",
+      "Andrei Svechnikov",
+      "Stanley Cup",
+      "pelmeni"
+    ],
+    "public_ready": true,
+    "summary": "A top-day r/hockey post showed Andrei Svechnikov visiting a North Carolina\nchildren's hospital and making Russian pelmeni before a night out with the Cup.",
+    "whyFunny": "The Stanley Cup itinerary acquired a home-cooked warmup. Before the trophy\ncould go out, somebody had to make sure the dumplings were ready.",
+    "quote": "Pelmeni before the parade.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vwmpts/andrei_svechnikov_visits_north_carolina_childrens/",
+    "commentHighlights": [],
+    "markdown": "---\nid: svechnikov-cup-dumpling-pregame\nrank: 3\ntitle: \"Svechnikov gives Cup night a dumpling pregame\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-24\"\nheat: 97\ntags:\n  - r/hockey\n  - Andrei Svechnikov\n  - Stanley Cup\n  - pelmeni\npublic_ready: true\n---\n\n## Summary\n\nA top-day r/hockey post showed Andrei Svechnikov visiting a North Carolina\nchildren's hospital and making Russian pelmeni before a night out with the Cup.\n\n## Why It Is Funny\n\nThe Stanley Cup itinerary acquired a home-cooked warmup. Before the trophy\ncould go out, somebody had to make sure the dumplings were ready.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nPelmeni before the parade.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vwmpts/andrei_svechnikov_visits_north_carolina_childrens/\n- Source type: Reddit RSS top-day public hockey post\n- Verification notes: Sports Radar reviewed the captured Reddit RSS item and confirmed the source thread returned HTTP 200 on 2026-08-24. The copy stays within the hospital-visit, pelmeni, and Cup-day framing supplied by the source post.\n\n## Sports Radar Markdown\n\n```md\n**Svechnikov gives Cup night a dumpling pregame**\n\nAndrei Svechnikov visited a children's hospital and made pelmeni before taking the Cup out.\n\nWhy it works: The trophy itinerary started with a home-cooked warmup.\n```\n"
   },
   {
     "id": "bills-stadium-broken-table",
@@ -4913,7 +4989,7 @@
     "title": "Japan turns doubles defense into a pinwheel",
     "league": "Table Tennis",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-23",
     "heat": 96,
     "tags": [
@@ -4935,7 +5011,7 @@
         "sourceUrl": "https://www.reddit.com/r/sports/comments/1vw95lk/japan_blue_wins_with_solid_defence_against_china/"
       }
     ],
-    "markdown": "---\nid: japan-table-tennis-pinwheel\nrank: 4\ntitle: \"Japan turns doubles defense into a pinwheel\"\nleague: \"Table Tennis\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-23\"\nheat: 96\ntags:\n  - r/sports\n  - Japan\n  - China\n  - doubles rotation\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports table-tennis clip showed Japan's blue pair rotating around each\nother through a frantic defensive rally against China.\n\n## Why It Is Funny\n\nThe point looked less like doubles positioning and more like a perfectly timed\ncarousel. Every emergency return also advanced the choreography.\n\n## Comment Highlights\n\n- Label: Circle defense\n  Summary: The thread focused on Japan's continuous rotation while China stayed mostly on its own side of the table.\n  Why funny: One rally made elite defense look like a coordinated dance instruction.\n  Source URL: https://www.reddit.com/r/sports/comments/1vw95lk/japan_blue_wins_with_solid_defence_against_china/\n\n## Quote\n\nRotate first. Return everything.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1vw95lk/japan_blue_wins_with_solid_defence_against_china/\n- Source type: Reddit RSS top-day table-tennis clip\n- Verification notes: Sports Radar reviewed the live Reddit post and visible thread on 2026-08-23. The public copy describes only the visible doubles rotation and rally framing, not the broader match result.\n\n## Sports Radar Markdown\n\n```md\n**Japan turns doubles defense into a pinwheel**\n\nJapan's blue pair rotated around each other through a frantic table-tennis rally against China.\n\nWhy it works: Every emergency return also advanced the choreography.\n```\n"
+    "markdown": "---\nid: japan-table-tennis-pinwheel\nrank: 4\ntitle: \"Japan turns doubles defense into a pinwheel\"\nleague: \"Table Tennis\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-23\"\nheat: 96\ntags:\n  - r/sports\n  - Japan\n  - China\n  - doubles rotation\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports table-tennis clip showed Japan's blue pair rotating around each\nother through a frantic defensive rally against China.\n\n## Why It Is Funny\n\nThe point looked less like doubles positioning and more like a perfectly timed\ncarousel. Every emergency return also advanced the choreography.\n\n## Comment Highlights\n\n- Label: Circle defense\n  Summary: The thread focused on Japan's continuous rotation while China stayed mostly on its own side of the table.\n  Why funny: One rally made elite defense look like a coordinated dance instruction.\n  Source URL: https://www.reddit.com/r/sports/comments/1vw95lk/japan_blue_wins_with_solid_defence_against_china/\n\n## Quote\n\nRotate first. Return everything.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1vw95lk/japan_blue_wins_with_solid_defence_against_china/\n- Source type: Reddit RSS top-day table-tennis clip\n- Verification notes: Sports Radar reviewed the live Reddit post and visible thread on 2026-08-23. The public copy describes only the visible doubles rotation and rally framing, not the broader match result.\n\n## Sports Radar Markdown\n\n```md\n**Japan turns doubles defense into a pinwheel**\n\nJapan's blue pair rotated around each other through a frantic table-tennis rally against China.\n\nWhy it works: Every emergency return also advanced the choreography.\n```\n"
   },
   {
     "id": "japan-knockout-world-cup-curse",
@@ -5067,6 +5143,29 @@
       }
     ],
     "markdown": "---\nid: josh-hart-pocket-counting\nrank: 4\ntitle: \"Josh Hart issues pocket-counting etiquette\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-29\"\nheat: 92\ntags:\n  - r/nba\n  - Josh Hart\n  - Draymond Green\n  - Jalen Brunson\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post shared Josh Hart responding after Draymond Green questioned Jalen\nBrunson's contract discount and suggested Hart should have taken less instead.\n\n## Why It Is Funny\n\nGreen volunteered Hart for someone else's financial sacrifice, so Hart replied\nwith a compact rule against counting other people's money. Contract analysis\nbecame a manners lesson.\n\n## Comment Highlights\n\n- Label: Volunteer accountant\n  Summary: Fans focused on Green naming Hart as the person who should have surrendered salary.\n  Why funny: The financial advice became much easier once it involved somebody else's paycheck.\n  Source URL: https://www.reddit.com/r/nba/comments/1v9hbbu/josh_hart_in_response_to_draymond_green_saying/\n- Label: Role-player mirror\n  Summary: The discussion compared Hart and Green as players with similarly connective team roles.\n  Why funny: The argument sounded like two versions of the same job debating who should fund the roster.\n  Source URL: https://www.reddit.com/r/nba/comments/1v9hbbu/josh_hart_in_response_to_draymond_green_saying/\n\n## Quote\n\nThe contract debate received a manners policy.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v9hbbu/josh_hart_in_response_to_draymond_green_saying/\n- Source type: Reddit post linking public clips and social responses\n- Verification notes: The public post, linked material, and discussion were reviewed on 2026-07-29. The summary does not take a position on the players' contract choices.\n\n## Sports Radar Markdown\n\n```md\n**Josh Hart issues pocket-counting etiquette**\n\nAfter Draymond volunteered Hart to take less money, Hart turned the contract debate into a manners lesson.\n\nWhy it works: The contract debate received a manners policy.\n```\n"
+  },
+  {
+    "id": "keller-harper-jersey-swap",
+    "rank": 4,
+    "title": "Keller and Harper complete the cross-sport trade",
+    "league": "Hockey / MLB",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-24",
+    "heat": 96,
+    "tags": [
+      "r/hockey",
+      "Megan Keller",
+      "Bryce Harper",
+      "jersey swap"
+    ],
+    "public_ready": true,
+    "summary": "An r/hockey post showed Olympic gold medalist Megan Keller and Phillies first\nbaseman Bryce Harper exchanging jerseys.",
+    "whyFunny": "The cleanest trade of the summer required no cap space, draft picks, or front\noffice leak. Two jerseys moved and everyone won immediately.",
+    "quote": "One-for-one. No picks attached.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vwelzy/olympic_gold_medalist_megan_keller_exchanging/",
+    "commentHighlights": [],
+    "markdown": "---\nid: keller-harper-jersey-swap\nrank: 4\ntitle: \"Keller and Harper complete the cross-sport trade\"\nleague: \"Hockey / MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-24\"\nheat: 96\ntags:\n  - r/hockey\n  - Megan Keller\n  - Bryce Harper\n  - jersey swap\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey post showed Olympic gold medalist Megan Keller and Phillies first\nbaseman Bryce Harper exchanging jerseys.\n\n## Why It Is Funny\n\nThe cleanest trade of the summer required no cap space, draft picks, or front\noffice leak. Two jerseys moved and everyone won immediately.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nOne-for-one. No picks attached.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vwelzy/olympic_gold_medalist_megan_keller_exchanging/\n- Source type: Reddit RSS top-day cross-sport photo post\n- Verification notes: Sports Radar reviewed the captured Reddit RSS item and confirmed the source thread returned HTTP 200 on 2026-08-24. The copy describes only the public jersey exchange identified by the source post.\n\n## Sports Radar Markdown\n\n```md\n**Keller and Harper complete the cross-sport trade**\n\nMegan Keller and Bryce Harper exchanged jerseys in a clean one-for-one deal.\n\nWhy it works: No cap space, draft picks, or front-office leak were required.\n```\n"
   },
   {
     "id": "klay-full-government-response",
@@ -6769,6 +6868,29 @@
     "markdown": "---\nid: rivercats-mascot-scooter-collision\nrank: 5\ntitle: \"Minor-league high jinks produce a scooter collision\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-29\"\nheat: 90\ntags:\n  - r/baseball\n  - Sacramento River Cats\n  - Alek Thomas\n  - mascot\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball clip showed a pregame collision between a Sacramento River Cats\nmascot riding a scooter and Oklahoma City player Alek Thomas leaving the\ndugout.\n\n## Why It Is Funny\n\nMinor-league baseball's commitment to entertainment briefly created an\nunexpected traffic hazard. A routine jog onto the field met a mascot commute\nwith no visible right of way.\n\n## Comment Highlights\n\n- Label: Dugout crosswalk\n  Summary: Fans recast the edge of the dugout as a street where everyone should have checked both ways.\n  Why funny: Pregame access suddenly needed pedestrian and scooter rules.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v9csar/rivercats_mascot_runs_into_alek_thomas/\n- Label: Clean block review\n  Summary: The thread jokingly reviewed the collision with football-style contact language.\n  Why funny: Mascot traffic received an instant officiating breakdown.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v9csar/rivercats_mascot_runs_into_alek_thomas/\n\n## Quote\n\nThe dugout now needs a marked scooter lane.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v9csar/rivercats_mascot_runs_into_alek_thomas/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public clip and discussion were reviewed on 2026-07-29. The summary describes a collision without assigning blame, and it does not make claims about injuries.\n\n## Sports Radar Markdown\n\n```md\n**Minor-league high jinks produce a scooter collision**\n\nA mascot on a scooter and a player leaving the dugout discovered the same piece of field at once.\n\nWhy it works: The dugout now needs a marked scooter lane.\n```\n"
   },
   {
+    "id": "nhl-marble-cup-montreal-ottawa",
+    "rank": 5,
+    "title": "Montreal and Ottawa settle it by marble",
+    "league": "NHL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-24",
+    "heat": 95,
+    "tags": [
+      "r/hockey",
+      "Montreal Canadiens",
+      "Ottawa Senators",
+      "NHL Marble Cup"
+    ],
+    "public_ready": true,
+    "summary": "A fan-made 2026 NHL Marble Cup post staged an Eastern quarterfinal between\nMontreal and Ottawa, with the winner advancing to face Boston's marbles.",
+    "whyFunny": "Canadian rivalry outsourced its postseason stress to tiny rolling spheres.\nThe bracket still found a way to put Boston on the other side.",
+    "quote": "Rivalry, now friction-powered.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vwfei0/2026_nhl_marble_cup_ecqf_a2_montreal_canadiens_12/",
+    "commentHighlights": [],
+    "markdown": "---\nid: nhl-marble-cup-montreal-ottawa\nrank: 5\ntitle: \"Montreal and Ottawa settle it by marble\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-24\"\nheat: 95\ntags:\n  - r/hockey\n  - Montreal Canadiens\n  - Ottawa Senators\n  - NHL Marble Cup\npublic_ready: true\n---\n\n## Summary\n\nA fan-made 2026 NHL Marble Cup post staged an Eastern quarterfinal between\nMontreal and Ottawa, with the winner advancing to face Boston's marbles.\n\n## Why It Is Funny\n\nCanadian rivalry outsourced its postseason stress to tiny rolling spheres.\nThe bracket still found a way to put Boston on the other side.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nRivalry, now friction-powered.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vwfei0/2026_nhl_marble_cup_ecqf_a2_montreal_canadiens_12/\n- Source type: Reddit RSS top-day fan-made NHL Marble Cup post\n- Verification notes: Sports Radar reviewed the captured Reddit RSS item and confirmed the source thread returned HTTP 200 on 2026-08-24. The public copy treats the Marble Cup as fan-made sports-internet culture and does not imply an official NHL competition.\n\n## Sports Radar Markdown\n\n```md\n**Montreal and Ottawa settle it by marble**\n\nThe fan-made NHL Marble Cup sent Montreal and Ottawa into a rolling-sphere quarterfinal.\n\nWhy it works: Canadian rivalry outsourced its postseason stress to tiny marbles.\n```\n"
+  },
+  {
     "id": "nmsu-utep-one-week-rematch",
     "rank": 5,
     "title": "New Mexico State and UTEP schedule immediate revenge",
@@ -6875,7 +6997,7 @@
     "title": "Schaefer accepts hockey camp's smallest fight",
     "league": "NHL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-23",
     "heat": 95,
     "tags": [
@@ -6890,7 +7012,7 @@
     "quote": "The undercard has never been smaller.",
     "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vvprku/matthew_schaefer_gets_into_a_tiny_fight_at_matt/",
     "commentHighlights": [],
-    "markdown": "---\nid: schaefer-tiny-fight-card\nrank: 5\ntitle: \"Schaefer accepts hockey camp's smallest fight\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-23\"\nheat: 95\ntags:\n  - r/hockey\n  - Matthew Schaefer\n  - Matt Martin\n  - hockey camp\npublic_ready: true\n---\n\n## Summary\n\nA top-day r/hockey camp clip showed Matthew Schaefer joining a playful tiny\nfight with a young camper.\n\n## Why It Is Funny\n\nHockey camp compressed the full fight-card ritual into its friendliest possible\nweight class. Schaefer treated the miniature challenge like real ice business.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nThe undercard has never been smaller.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vvprku/matthew_schaefer_gets_into_a_tiny_fight_at_matt/\n- Source type: Reddit RSS top-day hockey-camp clip\n- Verification notes: Sports Radar reviewed the live Reddit post and visible thread on 2026-08-23. The public copy keeps the moment playful and within the source title's tiny-fight framing without identifying the camper.\n\n## Sports Radar Markdown\n\n```md\n**Schaefer accepts hockey camp's smallest fight**\n\nMatthew Schaefer joined a playful tiny fight with a young camper.\n\nWhy it works: Hockey camp compressed the full fight-card ritual into its friendliest weight class.\n```\n"
+    "markdown": "---\nid: schaefer-tiny-fight-card\nrank: 5\ntitle: \"Schaefer accepts hockey camp's smallest fight\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-23\"\nheat: 95\ntags:\n  - r/hockey\n  - Matthew Schaefer\n  - Matt Martin\n  - hockey camp\npublic_ready: true\n---\n\n## Summary\n\nA top-day r/hockey camp clip showed Matthew Schaefer joining a playful tiny\nfight with a young camper.\n\n## Why It Is Funny\n\nHockey camp compressed the full fight-card ritual into its friendliest possible\nweight class. Schaefer treated the miniature challenge like real ice business.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nThe undercard has never been smaller.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vvprku/matthew_schaefer_gets_into_a_tiny_fight_at_matt/\n- Source type: Reddit RSS top-day hockey-camp clip\n- Verification notes: Sports Radar reviewed the live Reddit post and visible thread on 2026-08-23. The public copy keeps the moment playful and within the source title's tiny-fight framing without identifying the camper.\n\n## Sports Radar Markdown\n\n```md\n**Schaefer accepts hockey camp's smallest fight**\n\nMatthew Schaefer joined a playful tiny fight with a young camper.\n\nWhy it works: Hockey camp compressed the full fight-card ritual into its friendliest weight class.\n```\n"
   },
   {
     "id": "sean-sweeney-46-minute-finals",
