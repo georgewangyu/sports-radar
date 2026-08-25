@@ -240,6 +240,37 @@
     "markdown": "---\nid: bark-in-park-dog-left-field\nrank: 1\ntitle: \"Bark in the Park sends a dog to left field\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-01\"\nheat: 98\ntags:\n  - r/baseball\n  - minor league baseball\n  - Greensboro Grasshoppers\n  - dogs\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post showed a dog loose in left field during a Greensboro\nGrasshoppers Bark in the Park game. The outfielder lifted the visitor over the\nwall and returned him to the stands.\n\n## Why It Is Funny\n\nThe promotion delivered exactly what it advertised, just with more defensive\nresponsibility than planned. Left field briefly became the stadium's lost-dog\ndesk.\n\n## Comment Highlights\n\n- Label: Extra outfielder\n  Summary: Fans recast the dog as an unexpected member of the defensive lineup.\n  Why funny: The roster move required treats instead of paperwork.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vccicg/dudes_posting_their_ws_a_dog_got_loose_during/\n- Label: Bark in the actual park\n  Summary: The thread treated the escape as the most literal possible version of the promotion.\n  Why funny: The event name stopped being branding and became a play-by-play note.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vccicg/dudes_posting_their_ws_a_dog_got_loose_during/\n\n## Quote\n\nLeft field handled one very good pickup.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vccicg/dudes_posting_their_ws_a_dog_got_loose_during/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public post was reviewed on 2026-08-01. It identifies the team as the Greensboro Grasshoppers and shows the outfielder returning the dog over the wall.\n\n## Sports Radar Markdown\n\n```md\n**Bark in the Park sends a dog to left field**\n\nA dog escaped onto the field at a minor league Bark in the Park game, so the outfielder added one very friendly retrieval to his defensive line.\n\nWhy it works: Left field briefly became the stadium's lost-dog desk.\n```\n"
   },
   {
+    "id": "bill-simmons-bronny-defensive-assignment",
+    "rank": 1,
+    "title": "Bill Simmons invents the Bronny defensive assignment",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-25",
+    "heat": 99,
+    "tags": [
+      "r/nba",
+      "Bill Simmons",
+      "Bronny James",
+      "LeBron James",
+      "mailbag theory"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba post shared Bill Simmons reading a mailbag joke about an Eastern\ncontender acquiring Bronny James solely to guard LeBron in a playoff series.",
+    "whyFunny": "The hypothetical turns a family relationship into a one-line roster loophole.\nInstead of solving LeBron with scheme or size, the front office simply drafts\nthe awkwardness.",
+    "quote": "The defensive scheme is family dinner.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vxjwyt/bill_simmons_reading_mailbag_question_why_couldnt/",
+    "commentHighlights": [
+      {
+        "label": "Family scouting report",
+        "summary": "The thread split between fans treating paternal restraint as a real matchup edge and fans expecting LeBron to compete even harder.",
+        "whyFunny": "The joke produced a complete playoff debate around one impossible-to-model variable.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1vxjwyt/bill_simmons_reading_mailbag_question_why_couldnt/"
+      }
+    ],
+    "markdown": "---\nid: bill-simmons-bronny-defensive-assignment\nrank: 1\ntitle: \"Bill Simmons invents the Bronny defensive assignment\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-25\"\nheat: 99\ntags:\n  - r/nba\n  - Bill Simmons\n  - Bronny James\n  - LeBron James\n  - mailbag theory\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post shared Bill Simmons reading a mailbag joke about an Eastern\ncontender acquiring Bronny James solely to guard LeBron in a playoff series.\n\n## Why It Is Funny\n\nThe hypothetical turns a family relationship into a one-line roster loophole.\nInstead of solving LeBron with scheme or size, the front office simply drafts\nthe awkwardness.\n\n## Comment Highlights\n\n- Label: Family scouting report\n  Summary: The thread split between fans treating paternal restraint as a real matchup edge and fans expecting LeBron to compete even harder.\n  Why funny: The joke produced a complete playoff debate around one impossible-to-model variable.\n  Source URL: https://www.reddit.com/r/nba/comments/1vxjwyt/bill_simmons_reading_mailbag_question_why_couldnt/\n\n## Quote\n\nThe defensive scheme is family dinner.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vxjwyt/bill_simmons_reading_mailbag_question_why_couldnt/\n- Source type: Reddit RSS top-day post sharing a public sports-mailbag clip\n- Verification notes: Sports Radar reviewed the captured RSS item and live Reddit thread on 2026-08-25. The source and thread frame the premise as a joke, not an actual roster proposal.\n\n## Sports Radar Markdown\n\n```md\n**Bill Simmons invents the Bronny defensive assignment**\n\nA mailbag joke proposed acquiring Bronny James solely to guard LeBron in a playoff series.\n\nWhy it works: The roster solution is not scheme or size; it is family awkwardness.\n```\n"
+  },
+  {
     "id": "cookie-monster-skubal-split",
     "rank": 1,
     "title": "Cookie Monster creates a new Tarik Skubal split",
@@ -545,7 +576,7 @@
     "title": "Kareem ends the rookie test after two minutes",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-24",
     "heat": 99,
     "tags": [
@@ -567,7 +598,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1vwo467/in_1977_rookie_kent_benson_barely_two_minutes/"
       }
     ],
-    "markdown": "---\nid: kareem-benson-rookie-test\nrank: 1\ntitle: \"Kareem ends the rookie test after two minutes\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-24\"\nheat: 99\ntags:\n  - r/nba\n  - Kareem Abdul-Jabbar\n  - Kent Benson\n  - archive lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba archive post revisited Kent Benson's 1977 debut, when the rookie tried\nto establish himself against Kareem Abdul-Jabbar and the exchange ended with\nKareem throwing a punch.\n\n## Why It Is Funny\n\nThe rookie's opening statement received an immediate peer review. Barely two\nminutes into a career, the league's biggest test had already closed the exam.\n\n## Comment Highlights\n\n- Label: Rookie speedrun\n  Summary: The source post framed Benson's attempt to establish himself as a debut experiment that lasted barely two minutes.\n  Why funny: Career orientation became an immediate lesson in league hierarchy.\n  Source URL: https://www.reddit.com/r/nba/comments/1vwo467/in_1977_rookie_kent_benson_barely_two_minutes/\n\n## Quote\n\nRookie orientation ended early.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vwo467/in_1977_rookie_kent_benson_barely_two_minutes/\n- Source type: Reddit RSS top-day archival basketball post\n- Verification notes: Sports Radar reviewed the captured Reddit RSS item and confirmed the source thread returned HTTP 200 on 2026-08-24. The copy attributes the 1977 incident to the archive post rather than presenting new reporting.\n\n## Sports Radar Markdown\n\n```md\n**Kareem ends the rookie test after two minutes**\n\nAn archive post revisited Kent Benson testing Kareem Abdul-Jabbar almost immediately in his NBA debut.\n\nWhy it works: The rookie's opening statement received an instant peer review.\n```\n"
+    "markdown": "---\nid: kareem-benson-rookie-test\nrank: 1\ntitle: \"Kareem ends the rookie test after two minutes\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-24\"\nheat: 99\ntags:\n  - r/nba\n  - Kareem Abdul-Jabbar\n  - Kent Benson\n  - archive lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba archive post revisited Kent Benson's 1977 debut, when the rookie tried\nto establish himself against Kareem Abdul-Jabbar and the exchange ended with\nKareem throwing a punch.\n\n## Why It Is Funny\n\nThe rookie's opening statement received an immediate peer review. Barely two\nminutes into a career, the league's biggest test had already closed the exam.\n\n## Comment Highlights\n\n- Label: Rookie speedrun\n  Summary: The source post framed Benson's attempt to establish himself as a debut experiment that lasted barely two minutes.\n  Why funny: Career orientation became an immediate lesson in league hierarchy.\n  Source URL: https://www.reddit.com/r/nba/comments/1vwo467/in_1977_rookie_kent_benson_barely_two_minutes/\n\n## Quote\n\nRookie orientation ended early.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vwo467/in_1977_rookie_kent_benson_barely_two_minutes/\n- Source type: Reddit RSS top-day archival basketball post\n- Verification notes: Sports Radar reviewed the captured Reddit RSS item and confirmed the source thread returned HTTP 200 on 2026-08-24. The copy attributes the 1977 incident to the archive post rather than presenting new reporting.\n\n## Sports Radar Markdown\n\n```md\n**Kareem ends the rookie test after two minutes**\n\nAn archive post revisited Kent Benson testing Kareem Abdul-Jabbar almost immediately in his NBA debut.\n\nWhy it works: The rookie's opening statement received an instant peer review.\n```\n"
   },
   {
     "id": "kat-msg-chokeslam-crossover",
@@ -1713,6 +1744,30 @@
     "markdown": "---\nid: bald-lebron-final-form\nrank: 2\ntitle: \"Bald LeBron enters his final form\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-17\"\nheat: 96\ntags:\n  - r/nba\n  - LeBron James\n  - hair\n  - offseason\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post shared LeBron James with a freshly shaved head, sending the\nthread into instant nickname, headband, and late-career-transformation mode.\n\n## Why It Is Funny\n\nOne haircut becomes a new basketball era before anyone sees a possession. Fans\ntreated the clean shave like the unlock screen for a veteran's final form.\n\n## Comment Highlights\n\n- Label: Full-Unc upgrade\n  Summary: Fans imagined the shaved head paired with a headband, gray beard, goggles, and increasingly elaborate veteran accessories.\n  Why funny: A simple haircut turns into a complete character-build menu.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyoliv/lebron_debuts_the_new_bald_look/\n- Label: Final-form scouting\n  Summary: The thread predicted that embracing the look would somehow make the league even less prepared for him.\n  Why funny: Hair maintenance is analyzed as a competitive variable.\n  Source URL: https://www.reddit.com/r/nba/comments/1uyoliv/lebron_debuts_the_new_bald_look/\n\n## Quote\n\nThe haircut already has a scouting report.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uyoliv/lebron_debuts_the_new_bald_look/\n- Source type: Reddit / r/nba top-day public appearance clip\n- Verification notes: the source is a public appearance clip and fan reaction thread; the public copy describes the visible haircut and clearly frames performance predictions as jokes\n\n## Sports Radar Markdown\n\n```md\n**Bald LeBron enters his final form**\n\nLeBron showed up with a shaved head, and the thread immediately declared a new late-career evolution.\n\nWhy it works: one haircut gets treated like a competitive upgrade before he plays a minute.\n```\n"
   },
   {
+    "id": "barkley-hakeem-story-interruption",
+    "rank": 2,
+    "title": "Barkley ends Kenny's Hakeem story before it starts",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-25",
+    "heat": 98,
+    "tags": [
+      "r/nba",
+      "Charles Barkley",
+      "Kenny Smith",
+      "Hakeem Olajuwon",
+      "studio banter"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba highlight showed Kenny Smith beginning a Hakeem Olajuwon story before\nCharles Barkley cut in with a joke and took over the moment.",
+    "whyFunny": "Kenny had barely opened the archive when Barkley closed the tab. The speed of\nthe interruption became the whole highlight.",
+    "quote": "Story time lost the opening tip.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vxklby/highlight_kenny_smith_tries_to_tell_a_story_about/",
+    "commentHighlights": [],
+    "markdown": "---\nid: barkley-hakeem-story-interruption\nrank: 2\ntitle: \"Barkley ends Kenny's Hakeem story before it starts\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-25\"\nheat: 98\ntags:\n  - r/nba\n  - Charles Barkley\n  - Kenny Smith\n  - Hakeem Olajuwon\n  - studio banter\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba highlight showed Kenny Smith beginning a Hakeem Olajuwon story before\nCharles Barkley cut in with a joke and took over the moment.\n\n## Why It Is Funny\n\nKenny had barely opened the archive when Barkley closed the tab. The speed of\nthe interruption became the whole highlight.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nStory time lost the opening tip.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vxklby/highlight_kenny_smith_tries_to_tell_a_story_about/\n- Source type: Reddit RSS top-day public studio highlight\n- Verification notes: Sports Radar reviewed the captured RSS item and live Reddit thread on 2026-08-25. The copy describes the visible interruption without reproducing the clip or thread's extended dialogue.\n\n## Sports Radar Markdown\n\n```md\n**Barkley ends Kenny's Hakeem story before it starts**\n\nKenny Smith opened a Hakeem story and Charles Barkley beat the story itself to air.\n\nWhy it works: The interruption became the highlight before the anecdote had a chance.\n```\n"
+  },
+  {
     "id": "blake-voicemail-psychologist",
     "rank": 2,
     "title": "Blake Griffin voicemail story is sports-office sitcom material",
@@ -1943,7 +1998,7 @@
     "title": "Jimmy Butler friendship resets every morning",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-24",
     "heat": 98,
     "tags": [
@@ -1958,7 +2013,7 @@
     "quote": "Best-friend status requires daily renewal.",
     "sourceUrl": "https://www.reddit.com/r/nba/comments/1vx3ece/max_strus_said_that_butler_would_treat_him_like/",
     "commentHighlights": [],
-    "markdown": "---\nid: butler-friendship-reset\nrank: 2\ntitle: \"Jimmy Butler friendship resets every morning\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-24\"\nheat: 98\ntags:\n  - r/nba\n  - Jimmy Butler\n  - Max Strus\n  - teammate lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post relayed Max Strus describing Jimmy Butler's teammate rhythm:\ndinner-level friendship one night, no acknowledgment at practice, then normal\nservice again once the game began.\n\n## Why It Is Funny\n\nThe relationship apparently ran on game-day software. Friendship was available,\nbut only after a fresh daily login.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nBest-friend status requires daily renewal.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vx3ece/max_strus_said_that_butler_would_treat_him_like/\n- Source type: Reddit RSS top-day post relaying a public teammate recollection\n- Verification notes: Sports Radar reviewed the captured Reddit RSS item and confirmed the source thread returned HTTP 200 on 2026-08-24. The public copy paraphrases the post's recollection without reproducing its long quoted passage.\n\n## Sports Radar Markdown\n\n```md\n**Jimmy Butler friendship resets every morning**\n\nMax Strus described a teammate rhythm that could jump from dinner-level friendship to zero acknowledgment by practice.\n\nWhy it works: Best-friend status apparently required a fresh game-day login.\n```\n"
+    "markdown": "---\nid: butler-friendship-reset\nrank: 2\ntitle: \"Jimmy Butler friendship resets every morning\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-24\"\nheat: 98\ntags:\n  - r/nba\n  - Jimmy Butler\n  - Max Strus\n  - teammate lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post relayed Max Strus describing Jimmy Butler's teammate rhythm:\ndinner-level friendship one night, no acknowledgment at practice, then normal\nservice again once the game began.\n\n## Why It Is Funny\n\nThe relationship apparently ran on game-day software. Friendship was available,\nbut only after a fresh daily login.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nBest-friend status requires daily renewal.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vx3ece/max_strus_said_that_butler_would_treat_him_like/\n- Source type: Reddit RSS top-day post relaying a public teammate recollection\n- Verification notes: Sports Radar reviewed the captured Reddit RSS item and confirmed the source thread returned HTTP 200 on 2026-08-24. The public copy paraphrases the post's recollection without reproducing its long quoted passage.\n\n## Sports Radar Markdown\n\n```md\n**Jimmy Butler friendship resets every morning**\n\nMax Strus described a teammate rhythm that could jump from dinner-level friendship to zero acknowledgment by practice.\n\nWhy it works: Best-friend status apparently required a fresh game-day login.\n```\n"
   },
   {
     "id": "joe-flacco-visor-roast",
@@ -3265,6 +3320,30 @@
     "markdown": "---\nid: anthony-edwards-ant-jr-practice\nrank: 3\ntitle: \"Ant Jr. reports for practice\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-28\"\nheat: 94\ntags:\n  - r/nba\n  - Anthony Edwards\n  - Minnesota Timberwolves\n  - dogs\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post shared a Timberwolves Instagram clip of Anthony Edwards bringing\nhis dog, identified in the post as Ant Jr., to practice.\n\n## Why It Is Funny\n\nEdwards apparently gave the dog both the family brand and team access. The\npractice guest instantly sounded less like a pet and more like a developmental\nprospect.\n\n## Comment Highlights\n\n- Label: Naming rights\n  Summary: Fans focused on the decision to give the dog Edwards's own nickname with a junior suffix.\n  Why funny: The pet arrived with a franchise-ready identity before taking the floor.\n  Source URL: https://www.reddit.com/r/nba/comments/1v8i6k9/anthony_edwards_brings_ant_jr_with_him_to_practice/\n- Label: Scouting report\n  Summary: The thread treated the practice visit like the first look at an unusually literal next-generation Ant.\n  Why funny: A casual dog visit received prospect-level framing.\n  Source URL: https://www.reddit.com/r/nba/comments/1v8i6k9/anthony_edwards_brings_ant_jr_with_him_to_practice/\n\n## Quote\n\nThe next Ant entered the development program early.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v8i6k9/anthony_edwards_brings_ant_jr_with_him_to_practice/\n- Source type: Reddit post linking a public Minnesota Timberwolves Instagram clip\n- Verification notes: The public Reddit post, linked-source attribution, and discussion were reviewed on 2026-07-28. The summary avoids unrelated personal claims from the thread.\n\n## Sports Radar Markdown\n\n```md\n**Ant Jr. reports for practice**\n\nAnthony Edwards brought his dog Ant Jr. to practice and the thread immediately opened a scouting file.\n\nWhy it works: The next Ant entered the development program early.\n```\n"
   },
   {
+    "id": "reaves-ljubljana-luka-hero",
+    "rank": 3,
+    "title": "Austin Reaves concedes Ljubljana to Luka",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-25",
+    "heat": 97,
+    "tags": [
+      "r/nba",
+      "Austin Reaves",
+      "Luka Doncic",
+      "Ljubljana",
+      "teammate lore"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba post relayed Austin Reaves leaving a hospital visit in Ljubljana and\nreadily admitting the children were there for local hero Luka Doncic.",
+    "whyFunny": "Reaves received the away-game scouting report and accepted it immediately.\nThere was no campaign for shared billing in Luka's hometown.",
+    "quote": "Ljubljana already had its headliner.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vx6ty7/ekipa_austin_reaves_after_visiting_kids_with_the/",
+    "commentHighlights": [],
+    "markdown": "---\nid: reaves-ljubljana-luka-hero\nrank: 3\ntitle: \"Austin Reaves concedes Ljubljana to Luka\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-25\"\nheat: 97\ntags:\n  - r/nba\n  - Austin Reaves\n  - Luka Doncic\n  - Ljubljana\n  - teammate lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post relayed Austin Reaves leaving a hospital visit in Ljubljana and\nreadily admitting the children were there for local hero Luka Doncic.\n\n## Why It Is Funny\n\nReaves received the away-game scouting report and accepted it immediately.\nThere was no campaign for shared billing in Luka's hometown.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nLjubljana already had its headliner.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vx6ty7/ekipa_austin_reaves_after_visiting_kids_with_the/\n- Source type: Reddit RSS top-day post relaying a public hospital-visit exchange\n- Verification notes: Sports Radar reviewed the captured RSS item and live Reddit thread on 2026-08-25. The public copy paraphrases the exchange and keeps the hospital visit respectful.\n\n## Sports Radar Markdown\n\n```md\n**Austin Reaves concedes Ljubljana to Luka**\n\nAustin Reaves left a hospital visit in Ljubljana fully aware the children had one local hero in mind.\n\nWhy it works: He accepted the hometown depth chart without asking for shared billing.\n```\n"
+  },
+  {
     "id": "bam-adebayo-83-rating",
     "rank": 3,
     "title": "Bam asks 2K to lower his rating to 83",
@@ -4351,7 +4430,7 @@
     "title": "Svechnikov gives Cup night a dumpling pregame",
     "league": "NHL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-24",
     "heat": 97,
     "tags": [
@@ -4366,7 +4445,7 @@
     "quote": "Pelmeni before the parade.",
     "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vwmpts/andrei_svechnikov_visits_north_carolina_childrens/",
     "commentHighlights": [],
-    "markdown": "---\nid: svechnikov-cup-dumpling-pregame\nrank: 3\ntitle: \"Svechnikov gives Cup night a dumpling pregame\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-24\"\nheat: 97\ntags:\n  - r/hockey\n  - Andrei Svechnikov\n  - Stanley Cup\n  - pelmeni\npublic_ready: true\n---\n\n## Summary\n\nA top-day r/hockey post showed Andrei Svechnikov visiting a North Carolina\nchildren's hospital and making Russian pelmeni before a night out with the Cup.\n\n## Why It Is Funny\n\nThe Stanley Cup itinerary acquired a home-cooked warmup. Before the trophy\ncould go out, somebody had to make sure the dumplings were ready.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nPelmeni before the parade.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vwmpts/andrei_svechnikov_visits_north_carolina_childrens/\n- Source type: Reddit RSS top-day public hockey post\n- Verification notes: Sports Radar reviewed the captured Reddit RSS item and confirmed the source thread returned HTTP 200 on 2026-08-24. The copy stays within the hospital-visit, pelmeni, and Cup-day framing supplied by the source post.\n\n## Sports Radar Markdown\n\n```md\n**Svechnikov gives Cup night a dumpling pregame**\n\nAndrei Svechnikov visited a children's hospital and made pelmeni before taking the Cup out.\n\nWhy it works: The trophy itinerary started with a home-cooked warmup.\n```\n"
+    "markdown": "---\nid: svechnikov-cup-dumpling-pregame\nrank: 3\ntitle: \"Svechnikov gives Cup night a dumpling pregame\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-24\"\nheat: 97\ntags:\n  - r/hockey\n  - Andrei Svechnikov\n  - Stanley Cup\n  - pelmeni\npublic_ready: true\n---\n\n## Summary\n\nA top-day r/hockey post showed Andrei Svechnikov visiting a North Carolina\nchildren's hospital and making Russian pelmeni before a night out with the Cup.\n\n## Why It Is Funny\n\nThe Stanley Cup itinerary acquired a home-cooked warmup. Before the trophy\ncould go out, somebody had to make sure the dumplings were ready.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nPelmeni before the parade.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vwmpts/andrei_svechnikov_visits_north_carolina_childrens/\n- Source type: Reddit RSS top-day public hockey post\n- Verification notes: Sports Radar reviewed the captured Reddit RSS item and confirmed the source thread returned HTTP 200 on 2026-08-24. The copy stays within the hospital-visit, pelmeni, and Cup-day framing supplied by the source post.\n\n## Sports Radar Markdown\n\n```md\n**Svechnikov gives Cup night a dumpling pregame**\n\nAndrei Svechnikov visited a children's hospital and made pelmeni before taking the Cup out.\n\nWhy it works: The trophy itinerary started with a home-cooked warmup.\n```\n"
   },
   {
     "id": "bills-stadium-broken-table",
@@ -5150,7 +5229,7 @@
     "title": "Keller and Harper complete the cross-sport trade",
     "league": "Hockey / MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-24",
     "heat": 96,
     "tags": [
@@ -5165,7 +5244,7 @@
     "quote": "One-for-one. No picks attached.",
     "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vwelzy/olympic_gold_medalist_megan_keller_exchanging/",
     "commentHighlights": [],
-    "markdown": "---\nid: keller-harper-jersey-swap\nrank: 4\ntitle: \"Keller and Harper complete the cross-sport trade\"\nleague: \"Hockey / MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-24\"\nheat: 96\ntags:\n  - r/hockey\n  - Megan Keller\n  - Bryce Harper\n  - jersey swap\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey post showed Olympic gold medalist Megan Keller and Phillies first\nbaseman Bryce Harper exchanging jerseys.\n\n## Why It Is Funny\n\nThe cleanest trade of the summer required no cap space, draft picks, or front\noffice leak. Two jerseys moved and everyone won immediately.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nOne-for-one. No picks attached.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vwelzy/olympic_gold_medalist_megan_keller_exchanging/\n- Source type: Reddit RSS top-day cross-sport photo post\n- Verification notes: Sports Radar reviewed the captured Reddit RSS item and confirmed the source thread returned HTTP 200 on 2026-08-24. The copy describes only the public jersey exchange identified by the source post.\n\n## Sports Radar Markdown\n\n```md\n**Keller and Harper complete the cross-sport trade**\n\nMegan Keller and Bryce Harper exchanged jerseys in a clean one-for-one deal.\n\nWhy it works: No cap space, draft picks, or front-office leak were required.\n```\n"
+    "markdown": "---\nid: keller-harper-jersey-swap\nrank: 4\ntitle: \"Keller and Harper complete the cross-sport trade\"\nleague: \"Hockey / MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-24\"\nheat: 96\ntags:\n  - r/hockey\n  - Megan Keller\n  - Bryce Harper\n  - jersey swap\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey post showed Olympic gold medalist Megan Keller and Phillies first\nbaseman Bryce Harper exchanging jerseys.\n\n## Why It Is Funny\n\nThe cleanest trade of the summer required no cap space, draft picks, or front\noffice leak. Two jerseys moved and everyone won immediately.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nOne-for-one. No picks attached.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vwelzy/olympic_gold_medalist_megan_keller_exchanging/\n- Source type: Reddit RSS top-day cross-sport photo post\n- Verification notes: Sports Radar reviewed the captured Reddit RSS item and confirmed the source thread returned HTTP 200 on 2026-08-24. The copy describes only the public jersey exchange identified by the source post.\n\n## Sports Radar Markdown\n\n```md\n**Keller and Harper complete the cross-sport trade**\n\nMegan Keller and Bryce Harper exchanged jerseys in a clean one-for-one deal.\n\nWhy it works: No cap space, draft picks, or front-office leak were required.\n```\n"
   },
   {
     "id": "klay-full-government-response",
@@ -5297,6 +5376,29 @@
     "sourceUrl": "https://www.reddit.com/r/CFB/comments/1viahu1/howes_michael_locksley_im_not_diminishing_that_i/",
     "commentHighlights": [],
     "markdown": "---\nid: michael-locksley-different-four-eight\nrank: 4\ntitle: \"Michael Locksley finds a different 4-8\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-08\"\nheat: 92\ntags:\n  - r/CFB\n  - Michael Locksley\n  - Maryland\n  - coach quotes\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB post quoted Michael Locksley saying Maryland's 4-8 season last year was\ndifferent from the 4-8 season before it.\n\n## Why It Is Funny\n\nThe record stayed exactly where it was while the explanation demanded nuance.\nHe did not say it was better. Different was doing all the work.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's top-day review.\n\n## Quote\n\nSame record, different vintage.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1viahu1/howes_michael_locksley_im_not_diminishing_that_i/\n- Source type: Reddit top-day college-football coach-quote post\n- Verification notes: Sports Radar reviewed the live public r/CFB post on 2026-08-08. The summary preserves the distinction in the posted quote without judging either season's underlying performance.\n\n## Sports Radar Markdown\n\n```md\n**Michael Locksley finds a different 4-8**\n\nAn r/CFB post quoted Locksley distinguishing last year's 4-8 from the 4-8 before it.\n\nWhy it works: Same record, different vintage.\n```\n"
+  },
+  {
+    "id": "mcdaniel-youngest-day",
+    "rank": 4,
+    "title": "Mike McDaniel wins the youngest day of his life",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-25",
+    "heat": 96,
+    "tags": [
+      "r/nfl",
+      "Mike McDaniel",
+      "sideline philosophy",
+      "accidental wisdom"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl highlight captured Mike McDaniel calling the day cool because it was\nthe youngest he would ever be for the rest of his life.",
+    "whyFunny": "The observation is technically airtight and somehow sounds like both a\npregame speech and an existential notification from the calendar.",
+    "quote": "The calendar keeps the game ball.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vxdd69/highlight_mike_mcdaniel_today_was_cool_because/",
+    "commentHighlights": [],
+    "markdown": "---\nid: mcdaniel-youngest-day\nrank: 4\ntitle: \"Mike McDaniel wins the youngest day of his life\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-25\"\nheat: 96\ntags:\n  - r/nfl\n  - Mike McDaniel\n  - sideline philosophy\n  - accidental wisdom\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl highlight captured Mike McDaniel calling the day cool because it was\nthe youngest he would ever be for the rest of his life.\n\n## Why It Is Funny\n\nThe observation is technically airtight and somehow sounds like both a\npregame speech and an existential notification from the calendar.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nThe calendar keeps the game ball.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vxdd69/highlight_mike_mcdaniel_today_was_cool_because/\n- Source type: Reddit RSS top-day public highlight\n- Verification notes: Sports Radar reviewed the captured RSS item and live Reddit page on 2026-08-25. The public copy lightly paraphrases one short on-camera remark.\n\n## Sports Radar Markdown\n\n```md\n**Mike McDaniel wins the youngest day of his life**\n\nMike McDaniel celebrated the youngest he will ever be for the rest of his life.\n\nWhy it works: A technically perfect observation becomes sideline philosophy.\n```\n"
   },
   {
     "id": "munetaka-murakami-music-answer",
@@ -6873,7 +6975,7 @@
     "title": "Montreal and Ottawa settle it by marble",
     "league": "NHL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-24",
     "heat": 95,
     "tags": [
@@ -6888,7 +6990,7 @@
     "quote": "Rivalry, now friction-powered.",
     "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vwfei0/2026_nhl_marble_cup_ecqf_a2_montreal_canadiens_12/",
     "commentHighlights": [],
-    "markdown": "---\nid: nhl-marble-cup-montreal-ottawa\nrank: 5\ntitle: \"Montreal and Ottawa settle it by marble\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-24\"\nheat: 95\ntags:\n  - r/hockey\n  - Montreal Canadiens\n  - Ottawa Senators\n  - NHL Marble Cup\npublic_ready: true\n---\n\n## Summary\n\nA fan-made 2026 NHL Marble Cup post staged an Eastern quarterfinal between\nMontreal and Ottawa, with the winner advancing to face Boston's marbles.\n\n## Why It Is Funny\n\nCanadian rivalry outsourced its postseason stress to tiny rolling spheres.\nThe bracket still found a way to put Boston on the other side.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nRivalry, now friction-powered.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vwfei0/2026_nhl_marble_cup_ecqf_a2_montreal_canadiens_12/\n- Source type: Reddit RSS top-day fan-made NHL Marble Cup post\n- Verification notes: Sports Radar reviewed the captured Reddit RSS item and confirmed the source thread returned HTTP 200 on 2026-08-24. The public copy treats the Marble Cup as fan-made sports-internet culture and does not imply an official NHL competition.\n\n## Sports Radar Markdown\n\n```md\n**Montreal and Ottawa settle it by marble**\n\nThe fan-made NHL Marble Cup sent Montreal and Ottawa into a rolling-sphere quarterfinal.\n\nWhy it works: Canadian rivalry outsourced its postseason stress to tiny marbles.\n```\n"
+    "markdown": "---\nid: nhl-marble-cup-montreal-ottawa\nrank: 5\ntitle: \"Montreal and Ottawa settle it by marble\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-24\"\nheat: 95\ntags:\n  - r/hockey\n  - Montreal Canadiens\n  - Ottawa Senators\n  - NHL Marble Cup\npublic_ready: true\n---\n\n## Summary\n\nA fan-made 2026 NHL Marble Cup post staged an Eastern quarterfinal between\nMontreal and Ottawa, with the winner advancing to face Boston's marbles.\n\n## Why It Is Funny\n\nCanadian rivalry outsourced its postseason stress to tiny rolling spheres.\nThe bracket still found a way to put Boston on the other side.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nRivalry, now friction-powered.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vwfei0/2026_nhl_marble_cup_ecqf_a2_montreal_canadiens_12/\n- Source type: Reddit RSS top-day fan-made NHL Marble Cup post\n- Verification notes: Sports Radar reviewed the captured Reddit RSS item and confirmed the source thread returned HTTP 200 on 2026-08-24. The public copy treats the Marble Cup as fan-made sports-internet culture and does not imply an official NHL competition.\n\n## Sports Radar Markdown\n\n```md\n**Montreal and Ottawa settle it by marble**\n\nThe fan-made NHL Marble Cup sent Montreal and Ottawa into a rolling-sphere quarterfinal.\n\nWhy it works: Canadian rivalry outsourced its postseason stress to tiny marbles.\n```\n"
   },
   {
     "id": "nmsu-utep-one-week-rematch",
@@ -6990,6 +7092,30 @@
       }
     ],
     "markdown": "---\nid: oregon-fraser-valley-conference-math\nrank: 5\ntitle: \"Oregon's Canadian exhibition breaks the conference forecast\"\nleague: \"College Basketball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-10\"\nheat: 90\ntags:\n  - r/CollegeBasketball\n  - Oregon\n  - Fraser Valley\n  - exhibition\npublic_ready: true\n---\n\n## Summary\n\nAn r/CollegeBasketball post logged Oregon's 121-40 exhibition win over Fraser\nValley in British Columbia.\n\n## Why It Is Funny\n\nAn 81-point margin was too large to leave in August, so fans immediately used\nit to produce deeply unserious Big Ten forecasts. Exhibition math had already\ndeclared a champion.\n\n## Comment Highlights\n\n- Label: August standings model\n  Summary: Fans used separate Canadian exhibition scores to jokingly rank Big Ten teams.\n  Why funny: A summer tune-up became a fully confident conference projection.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vjuabj/oregon_121_fraser_valley_40/\n\n## Quote\n\nThe August standings model has no confidence interval.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vjuabj/oregon_121_fraser_valley_40/\n- Source type: Reddit top-day college-basketball exhibition post\n- Verification notes: Sports Radar reviewed the public r/CollegeBasketball post and discussion on 2026-08-10. The score and location come from the public post; the conference forecast is explicitly presented as fan humor.\n\n## Sports Radar Markdown\n\n```md\n**Oregon's Canadian exhibition breaks the conference forecast**\n\nOregon's 121-40 summer result became instant material for fake Big Ten math.\n\nWhy it works: Exhibition season has already declared a champion.\n```\n"
+  },
+  {
+    "id": "robert-horry-first-round-streak",
+    "rank": 5,
+    "title": "Robert Horry never meets a first-round exit",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-25",
+    "heat": 95,
+    "tags": [
+      "r/nba",
+      "Robert Horry",
+      "playoff lore",
+      "seven championships",
+      "birthday archive"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba birthday post credited Robert Horry with seven titles, championships\nwith three franchises, and a first-round series win in every season of his\n16-year career.",
+    "whyFunny": "The résumé reads less like one player's career than a permanent postseason\naccess pass. Even the first round apparently knew not to stop Big Shot Rob.",
+    "quote": "Sixteen seasons, no early checkout.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vxq4w2/robert_horry_has_3_achievements_we_might_not_ever/",
+    "commentHighlights": [],
+    "markdown": "---\nid: robert-horry-first-round-streak\nrank: 5\ntitle: \"Robert Horry never meets a first-round exit\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-25\"\nheat: 95\ntags:\n  - r/nba\n  - Robert Horry\n  - playoff lore\n  - seven championships\n  - birthday archive\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba birthday post credited Robert Horry with seven titles, championships\nwith three franchises, and a first-round series win in every season of his\n16-year career.\n\n## Why It Is Funny\n\nThe résumé reads less like one player's career than a permanent postseason\naccess pass. Even the first round apparently knew not to stop Big Shot Rob.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nSixteen seasons, no early checkout.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vxq4w2/robert_horry_has_3_achievements_we_might_not_ever/\n- Source type: Reddit RSS top-day birthday and career-lore post\n- Verification notes: Sports Radar reviewed the captured RSS item and live Reddit thread on 2026-08-25. The career totals are attributed to the source post rather than presented as new reporting.\n\n## Sports Radar Markdown\n\n```md\n**Robert Horry never meets a first-round exit**\n\nAn r/nba birthday post lined up a seven-ring résumé and 16 straight seasons with a first-round series win.\n\nWhy it works: Big Shot Rob's career reads like a permanent postseason access pass.\n```\n"
   },
   {
     "id": "schaefer-tiny-fight-card",
