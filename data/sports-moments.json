@@ -245,7 +245,7 @@
     "title": "Bill Simmons invents the Bronny defensive assignment",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-25",
     "heat": 99,
     "tags": [
@@ -268,7 +268,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1vxjwyt/bill_simmons_reading_mailbag_question_why_couldnt/"
       }
     ],
-    "markdown": "---\nid: bill-simmons-bronny-defensive-assignment\nrank: 1\ntitle: \"Bill Simmons invents the Bronny defensive assignment\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-25\"\nheat: 99\ntags:\n  - r/nba\n  - Bill Simmons\n  - Bronny James\n  - LeBron James\n  - mailbag theory\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post shared Bill Simmons reading a mailbag joke about an Eastern\ncontender acquiring Bronny James solely to guard LeBron in a playoff series.\n\n## Why It Is Funny\n\nThe hypothetical turns a family relationship into a one-line roster loophole.\nInstead of solving LeBron with scheme or size, the front office simply drafts\nthe awkwardness.\n\n## Comment Highlights\n\n- Label: Family scouting report\n  Summary: The thread split between fans treating paternal restraint as a real matchup edge and fans expecting LeBron to compete even harder.\n  Why funny: The joke produced a complete playoff debate around one impossible-to-model variable.\n  Source URL: https://www.reddit.com/r/nba/comments/1vxjwyt/bill_simmons_reading_mailbag_question_why_couldnt/\n\n## Quote\n\nThe defensive scheme is family dinner.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vxjwyt/bill_simmons_reading_mailbag_question_why_couldnt/\n- Source type: Reddit RSS top-day post sharing a public sports-mailbag clip\n- Verification notes: Sports Radar reviewed the captured RSS item and live Reddit thread on 2026-08-25. The source and thread frame the premise as a joke, not an actual roster proposal.\n\n## Sports Radar Markdown\n\n```md\n**Bill Simmons invents the Bronny defensive assignment**\n\nA mailbag joke proposed acquiring Bronny James solely to guard LeBron in a playoff series.\n\nWhy it works: The roster solution is not scheme or size; it is family awkwardness.\n```\n"
+    "markdown": "---\nid: bill-simmons-bronny-defensive-assignment\nrank: 1\ntitle: \"Bill Simmons invents the Bronny defensive assignment\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-25\"\nheat: 99\ntags:\n  - r/nba\n  - Bill Simmons\n  - Bronny James\n  - LeBron James\n  - mailbag theory\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post shared Bill Simmons reading a mailbag joke about an Eastern\ncontender acquiring Bronny James solely to guard LeBron in a playoff series.\n\n## Why It Is Funny\n\nThe hypothetical turns a family relationship into a one-line roster loophole.\nInstead of solving LeBron with scheme or size, the front office simply drafts\nthe awkwardness.\n\n## Comment Highlights\n\n- Label: Family scouting report\n  Summary: The thread split between fans treating paternal restraint as a real matchup edge and fans expecting LeBron to compete even harder.\n  Why funny: The joke produced a complete playoff debate around one impossible-to-model variable.\n  Source URL: https://www.reddit.com/r/nba/comments/1vxjwyt/bill_simmons_reading_mailbag_question_why_couldnt/\n\n## Quote\n\nThe defensive scheme is family dinner.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vxjwyt/bill_simmons_reading_mailbag_question_why_couldnt/\n- Source type: Reddit RSS top-day post sharing a public sports-mailbag clip\n- Verification notes: Sports Radar reviewed the captured RSS item and live Reddit thread on 2026-08-25. The source and thread frame the premise as a joke, not an actual roster proposal.\n\n## Sports Radar Markdown\n\n```md\n**Bill Simmons invents the Bronny defensive assignment**\n\nA mailbag joke proposed acquiring Bronny James solely to guard LeBron in a playoff series.\n\nWhy it works: The roster solution is not scheme or size; it is family awkwardness.\n```\n"
   },
   {
     "id": "cookie-monster-skubal-split",
@@ -1620,6 +1620,36 @@
     "markdown": "---\nid: wemby-river-walk-paris\nrank: 1\ntitle: \"Wemby exports the River Walk to Paris\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-08\"\nheat: 98\ntags:\n  - r/nba\n  - Victor Wembanyama\n  - San Antonio\n  - Paris\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba video post showed Victor Wembanyama in Paris comparing the view to San\nAntonio's River Walk.\n\n## Why It Is Funny\n\nThe French star returned home and immediately gave Paris the San Antonio\ntourist-board treatment. The Seine had been reassigned.\n\n## Comment Highlights\n\n- Label: Local meme certification\n  Summary: One fan explained that San Antonio travel videos often relabel famous foreign landmarks as local spots.\n  Why funny: Wembanyama appeared to bring a hometown internet bit all the way back to France.\n  Source URL: https://www.reddit.com/r/nba/comments/1viewo2/comment/p2ed9nv/\n\n## Quote\n\nParis, now a River Walk expansion market.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1viewo2/wemby_its_just_like_the_river_walk_in_san_antonio/\n- Source type: Reddit top-day NBA video post\n- Verification notes: Sports Radar reviewed the live public r/nba post and comment thread on 2026-08-08. The summary describes the posted comparison and treats the local-meme connection as fan context, not a claim about Wembanyama's private intent.\n\n## Sports Radar Markdown\n\n```md\n**Wemby exports the River Walk to Paris**\n\nAn r/nba video post showed Wembanyama in Paris comparing the view to San Antonio's River Walk.\n\nWhy it works: The Seine had been reassigned.\n```\n"
   },
   {
+    "id": "xavi-chocolate-third-choice",
+    "rank": 1,
+    "title": "Xavi handles chocolate and third choice in one interview",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-26",
+    "heat": 99,
+    "tags": [
+      "r/soccer",
+      "Xavi Hernandez",
+      "Netherlands",
+      "press conference"
+    ],
+    "public_ready": true,
+    "summary": "An r/soccer clip opened Xavi Hernandez's Netherlands introduction with two\nquestions: how to pronounce his name, then how it felt to be approached after\nPep Guardiola and Arne Slot. He answered the first with chocolate and the\nsecond without taking the bait.",
+    "whyFunny": "The interview moves from phonetics to a third-choice audit in seconds. Xavi\nrefuses to supply the embarrassment either question was shopping for.",
+    "quote": "Chocolate first. Third-choice audit second.",
+    "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vy7eeh/what_is_the_pronunciation_of_your_first_and_last/",
+    "commentHighlights": [
+      {
+        "label": "Pressure-tested calm",
+        "summary": "The thread treated years of Spanish football-media pressure as useful preparation for one very direct Dutch welcome.",
+        "whyFunny": "The room tried to create an awkward introduction and accidentally gave Xavi an easy drill.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vy7eeh/what_is_the_pronunciation_of_your_first_and_last/"
+      }
+    ],
+    "markdown": "---\nid: xavi-chocolate-third-choice\nrank: 1\ntitle: \"Xavi handles chocolate and third choice in one interview\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-26\"\nheat: 99\ntags:\n  - r/soccer\n  - Xavi Hernandez\n  - Netherlands\n  - press conference\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer clip opened Xavi Hernandez's Netherlands introduction with two\nquestions: how to pronounce his name, then how it felt to be approached after\nPep Guardiola and Arne Slot. He answered the first with chocolate and the\nsecond without taking the bait.\n\n## Why It Is Funny\n\nThe interview moves from phonetics to a third-choice audit in seconds. Xavi\nrefuses to supply the embarrassment either question was shopping for.\n\n## Comment Highlights\n\n- Label: Pressure-tested calm\n  Summary: The thread treated years of Spanish football-media pressure as useful preparation for one very direct Dutch welcome.\n  Why funny: The room tried to create an awkward introduction and accidentally gave Xavi an easy drill.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vy7eeh/what_is_the_pronunciation_of_your_first_and_last/\n\n## Quote\n\nChocolate first. Third-choice audit second.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vy7eeh/what_is_the_pronunciation_of_your_first_and_last/\n- Source type: Reddit RSS top-day post sharing a public interview clip\n- Verification notes: Sports Radar reviewed the captured RSS item, public thread, and comment feed on 2026-08-26. The public copy paraphrases the exchange and promotes no usernames or long comment text.\n\n## Sports Radar Markdown\n\n```md\n**Xavi handles chocolate and third choice in one interview**\n\nXavi explained his name with chocolate, then calmly accepted being the Netherlands' third coaching target.\n\nWhy it works: The interview moves from phonetics to rejection-email etiquette in seconds.\n```\n"
+  },
+  {
     "id": "fulham-empty-net-shootout",
     "rank": 2,
     "title": "A penalty shootout continues without an opponent",
@@ -1749,7 +1779,7 @@
     "title": "Barkley ends Kenny's Hakeem story before it starts",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-25",
     "heat": 98,
     "tags": [
@@ -1765,7 +1795,7 @@
     "quote": "Story time lost the opening tip.",
     "sourceUrl": "https://www.reddit.com/r/nba/comments/1vxklby/highlight_kenny_smith_tries_to_tell_a_story_about/",
     "commentHighlights": [],
-    "markdown": "---\nid: barkley-hakeem-story-interruption\nrank: 2\ntitle: \"Barkley ends Kenny's Hakeem story before it starts\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-25\"\nheat: 98\ntags:\n  - r/nba\n  - Charles Barkley\n  - Kenny Smith\n  - Hakeem Olajuwon\n  - studio banter\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba highlight showed Kenny Smith beginning a Hakeem Olajuwon story before\nCharles Barkley cut in with a joke and took over the moment.\n\n## Why It Is Funny\n\nKenny had barely opened the archive when Barkley closed the tab. The speed of\nthe interruption became the whole highlight.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nStory time lost the opening tip.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vxklby/highlight_kenny_smith_tries_to_tell_a_story_about/\n- Source type: Reddit RSS top-day public studio highlight\n- Verification notes: Sports Radar reviewed the captured RSS item and live Reddit thread on 2026-08-25. The copy describes the visible interruption without reproducing the clip or thread's extended dialogue.\n\n## Sports Radar Markdown\n\n```md\n**Barkley ends Kenny's Hakeem story before it starts**\n\nKenny Smith opened a Hakeem story and Charles Barkley beat the story itself to air.\n\nWhy it works: The interruption became the highlight before the anecdote had a chance.\n```\n"
+    "markdown": "---\nid: barkley-hakeem-story-interruption\nrank: 2\ntitle: \"Barkley ends Kenny's Hakeem story before it starts\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-25\"\nheat: 98\ntags:\n  - r/nba\n  - Charles Barkley\n  - Kenny Smith\n  - Hakeem Olajuwon\n  - studio banter\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba highlight showed Kenny Smith beginning a Hakeem Olajuwon story before\nCharles Barkley cut in with a joke and took over the moment.\n\n## Why It Is Funny\n\nKenny had barely opened the archive when Barkley closed the tab. The speed of\nthe interruption became the whole highlight.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nStory time lost the opening tip.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vxklby/highlight_kenny_smith_tries_to_tell_a_story_about/\n- Source type: Reddit RSS top-day public studio highlight\n- Verification notes: Sports Radar reviewed the captured RSS item and live Reddit thread on 2026-08-25. The copy describes the visible interruption without reproducing the clip or thread's extended dialogue.\n\n## Sports Radar Markdown\n\n```md\n**Barkley ends Kenny's Hakeem story before it starts**\n\nKenny Smith opened a Hakeem story and Charles Barkley beat the story itself to air.\n\nWhy it works: The interruption became the highlight before the anecdote had a chance.\n```\n"
   },
   {
     "id": "blake-voicemail-psychologist",
@@ -2543,6 +2573,29 @@
     "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vifel4/highlight_commanders_guard_sam_cosmi_when_asked/",
     "commentHighlights": [],
     "markdown": "---\nid: sam-cosmi-diggs-sister-veto\nrank: 2\ntitle: \"Sam Cosmi closes the family loophole\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-08\"\nheat: 96\ntags:\n  - r/nfl\n  - Sam Cosmi\n  - Stefon Diggs\n  - Washington Commanders\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl highlight showed Sam Cosmi asked about new teammate Stefon Diggs and\nimmediately ruling out one possibility: dating his sister.\n\n## Why It Is Funny\n\nThe new-teammate evaluation skipped football and went straight to a family\nbackground check. Diggs passed the roster test but not the sibling screen.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's top-day review.\n\n## Quote\n\nCleared for the depth chart, denied for the family tree.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vifel4/highlight_commanders_guard_sam_cosmi_when_asked/\n- Source type: Reddit top-day NFL interview highlight\n- Verification notes: Sports Radar reviewed the live public r/nfl post on 2026-08-08. The item paraphrases Cosmi's posted public answer and does not make a claim about anyone's private life.\n\n## Sports Radar Markdown\n\n```md\n**Sam Cosmi closes the family loophole**\n\nAn r/nfl highlight showed Cosmi welcome his new teammate with one immediate boundary.\n\nWhy it works: Cleared for the depth chart, denied for the family tree.\n```\n"
+  },
+  {
+    "id": "mcvay-reverse-portal-gummy",
+    "rank": 2,
+    "title": "Sean McVay diagnoses the reverse portal with a gummy",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-26",
+    "heat": 98,
+    "tags": [
+      "r/nfl",
+      "Sean McVay",
+      "college football portal",
+      "eligibility rules"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl post shared Sean McVay reacting to NFL players returning to the college\nfootball portal with, \"I feel like I took a freakin' gummy.\"",
+    "whyFunny": "Football's new eligibility path made an NFL head coach question the reality in\nfront of him. The rule explanation never had a chance against the reaction.",
+    "quote": "The portal has reached edible-level confusion.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vyaqez/sean_mcvay_on_nfl_players_returning_to_the_cfb/",
+    "commentHighlights": [],
+    "markdown": "---\nid: mcvay-reverse-portal-gummy\nrank: 2\ntitle: \"Sean McVay diagnoses the reverse portal with a gummy\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-26\"\nheat: 98\ntags:\n  - r/nfl\n  - Sean McVay\n  - college football portal\n  - eligibility rules\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl post shared Sean McVay reacting to NFL players returning to the college\nfootball portal with, \"I feel like I took a freakin' gummy.\"\n\n## Why It Is Funny\n\nFootball's new eligibility path made an NFL head coach question the reality in\nfront of him. The rule explanation never had a chance against the reaction.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nThe portal has reached edible-level confusion.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vyaqez/sean_mcvay_on_nfl_players_returning_to_the_cfb/\n- Source type: Reddit RSS top-day post sharing a public Sean McVay remark\n- Verification notes: Sports Radar reviewed the captured RSS item and confirmed the public Reddit thread returned HTTP 200 on 2026-08-26. The only direct quote is the short remark carried in the source title.\n\n## Sports Radar Markdown\n\n```md\n**Sean McVay diagnoses the reverse portal with a gummy**\n\nNFL players returning to college made Sean McVay briefly question reality.\n\nWhy it works: The eligibility rule loses the room before the explanation begins.\n```\n"
   },
   {
     "id": "seiya-suzuki-hundred-bananas",
@@ -3325,7 +3378,7 @@
     "title": "Austin Reaves concedes Ljubljana to Luka",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-25",
     "heat": 97,
     "tags": [
@@ -3341,7 +3394,7 @@
     "quote": "Ljubljana already had its headliner.",
     "sourceUrl": "https://www.reddit.com/r/nba/comments/1vx6ty7/ekipa_austin_reaves_after_visiting_kids_with_the/",
     "commentHighlights": [],
-    "markdown": "---\nid: reaves-ljubljana-luka-hero\nrank: 3\ntitle: \"Austin Reaves concedes Ljubljana to Luka\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-25\"\nheat: 97\ntags:\n  - r/nba\n  - Austin Reaves\n  - Luka Doncic\n  - Ljubljana\n  - teammate lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post relayed Austin Reaves leaving a hospital visit in Ljubljana and\nreadily admitting the children were there for local hero Luka Doncic.\n\n## Why It Is Funny\n\nReaves received the away-game scouting report and accepted it immediately.\nThere was no campaign for shared billing in Luka's hometown.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nLjubljana already had its headliner.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vx6ty7/ekipa_austin_reaves_after_visiting_kids_with_the/\n- Source type: Reddit RSS top-day post relaying a public hospital-visit exchange\n- Verification notes: Sports Radar reviewed the captured RSS item and live Reddit thread on 2026-08-25. The public copy paraphrases the exchange and keeps the hospital visit respectful.\n\n## Sports Radar Markdown\n\n```md\n**Austin Reaves concedes Ljubljana to Luka**\n\nAustin Reaves left a hospital visit in Ljubljana fully aware the children had one local hero in mind.\n\nWhy it works: He accepted the hometown depth chart without asking for shared billing.\n```\n"
+    "markdown": "---\nid: reaves-ljubljana-luka-hero\nrank: 3\ntitle: \"Austin Reaves concedes Ljubljana to Luka\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-25\"\nheat: 97\ntags:\n  - r/nba\n  - Austin Reaves\n  - Luka Doncic\n  - Ljubljana\n  - teammate lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post relayed Austin Reaves leaving a hospital visit in Ljubljana and\nreadily admitting the children were there for local hero Luka Doncic.\n\n## Why It Is Funny\n\nReaves received the away-game scouting report and accepted it immediately.\nThere was no campaign for shared billing in Luka's hometown.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nLjubljana already had its headliner.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vx6ty7/ekipa_austin_reaves_after_visiting_kids_with_the/\n- Source type: Reddit RSS top-day post relaying a public hospital-visit exchange\n- Verification notes: Sports Radar reviewed the captured RSS item and live Reddit thread on 2026-08-25. The public copy paraphrases the exchange and keeps the hospital visit respectful.\n\n## Sports Radar Markdown\n\n```md\n**Austin Reaves concedes Ljubljana to Luka**\n\nAustin Reaves left a hospital visit in Ljubljana fully aware the children had one local hero in mind.\n\nWhy it works: He accepted the hometown depth chart without asking for shared billing.\n```\n"
   },
   {
     "id": "bam-adebayo-83-rating",
@@ -3658,6 +3711,29 @@
       }
     ],
     "markdown": "---\nid: evander-forty-yard-goal\nrank: 3\ntitle: \"Evander solves the 40-yard problem directly\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-02\"\nheat: 94\ntags:\n  - r/soccer\n  - FC Cincinnati\n  - Evander\n  - long-range goal\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post highlighted Evander driving in FC Cincinnati's go-ahead goal\nagainst San Jose from roughly 40 yards in the 82nd minute.\n\n## Why It Is Funny\n\nThe usual build-up instructions became optional. Evander saw an unreasonable\ndistance and treated it like the shortest route to goal.\n\n## Comment Highlights\n\n- Label: Bangers only\n  Summary: Fans grouped the strike with a run of spectacular MLS goals and declared the league committed to long-range chaos.\n  Why funny: Ordinary finishes were apparently unavailable that night.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/\n- Label: MLS after dark\n  Summary: The discussion folded a long weather delay and the late goal into the league's familiar after-dark lore.\n  Why funny: The storm postponed the match but improved the mythology.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/\n\n## Quote\n\nBuild-up play was reduced to one very long step.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vd76zl/fc_cincinnati_32_san_jose_82_evander_drives_it_in/\n- Source type: Reddit RSS top-day post\n- Verification notes: The RSS title and source URL were reviewed on 2026-08-02. The score, minute, player, opponent, and approximate distance are attributed to the post title; no raw comments were promoted.\n\n## Sports Radar Markdown\n\n```md\n**Evander solves the 40-yard problem directly**\n\nAn r/soccer post highlighted Evander putting FC Cincinnati ahead from roughly 40 yards late against San Jose.\n\nWhy it works: Build-up play was reduced to one very long step.\n```\n"
+  },
+  {
+    "id": "nhl-ebug-double-zero",
+    "rank": 3,
+    "title": "Every NHL emergency goalie gets double zero",
+    "league": "NHL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-26",
+    "heat": 97,
+    "tags": [
+      "r/hockey",
+      "EBUG",
+      "emergency goalies",
+      "number 00"
+    ],
+    "public_ready": true,
+    "summary": "An r/hockey post relaying reporter Chris Johnston said every NHL emergency\nbackup goalie will wear No. 00 this season, with teams carrying both home and\nroad emergency-goalie gear.",
+    "whyFunny": "The league gave one universal number to the person nobody wants to need. Every\narena now has a human emergency exit dressed as `00`.",
+    "quote": "Break glass. Send in double zero.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vyan1k/johnston_further_to_thiswilds_new_ebug_announced/",
+    "commentHighlights": [],
+    "markdown": "---\nid: nhl-ebug-double-zero\nrank: 3\ntitle: \"Every NHL emergency goalie gets double zero\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-26\"\nheat: 97\ntags:\n  - r/hockey\n  - EBUG\n  - emergency goalies\n  - number 00\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey post relaying reporter Chris Johnston said every NHL emergency\nbackup goalie will wear No. 00 this season, with teams carrying both home and\nroad emergency-goalie gear.\n\n## Why It Is Funny\n\nThe league gave one universal number to the person nobody wants to need. Every\narena now has a human emergency exit dressed as `00`.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nBreak glass. Send in double zero.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vyan1k/johnston_further_to_thiswilds_new_ebug_announced/\n- Source type: Reddit RSS top-day post relaying a public hockey report\n- Verification notes: Sports Radar reviewed the captured RSS item and confirmed the public Reddit thread returned HTTP 200 on 2026-08-26. The uniform and eligibility details remain attributed to the source post.\n\n## Sports Radar Markdown\n\n```md\n**Every NHL emergency goalie gets double zero**\n\nThe NHL reportedly assigned No. 00 to every emergency backup goalie this season.\n\nWhy it works: The league standardized the uniform for its human emergency exit.\n```\n"
   },
   {
     "id": "fernando-mendoza-booth-regards",
@@ -5383,7 +5459,7 @@
     "title": "Mike McDaniel wins the youngest day of his life",
     "league": "NFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-25",
     "heat": 96,
     "tags": [
@@ -5398,7 +5474,7 @@
     "quote": "The calendar keeps the game ball.",
     "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vxdd69/highlight_mike_mcdaniel_today_was_cool_because/",
     "commentHighlights": [],
-    "markdown": "---\nid: mcdaniel-youngest-day\nrank: 4\ntitle: \"Mike McDaniel wins the youngest day of his life\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-25\"\nheat: 96\ntags:\n  - r/nfl\n  - Mike McDaniel\n  - sideline philosophy\n  - accidental wisdom\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl highlight captured Mike McDaniel calling the day cool because it was\nthe youngest he would ever be for the rest of his life.\n\n## Why It Is Funny\n\nThe observation is technically airtight and somehow sounds like both a\npregame speech and an existential notification from the calendar.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nThe calendar keeps the game ball.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vxdd69/highlight_mike_mcdaniel_today_was_cool_because/\n- Source type: Reddit RSS top-day public highlight\n- Verification notes: Sports Radar reviewed the captured RSS item and live Reddit page on 2026-08-25. The public copy lightly paraphrases one short on-camera remark.\n\n## Sports Radar Markdown\n\n```md\n**Mike McDaniel wins the youngest day of his life**\n\nMike McDaniel celebrated the youngest he will ever be for the rest of his life.\n\nWhy it works: A technically perfect observation becomes sideline philosophy.\n```\n"
+    "markdown": "---\nid: mcdaniel-youngest-day\nrank: 4\ntitle: \"Mike McDaniel wins the youngest day of his life\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-25\"\nheat: 96\ntags:\n  - r/nfl\n  - Mike McDaniel\n  - sideline philosophy\n  - accidental wisdom\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl highlight captured Mike McDaniel calling the day cool because it was\nthe youngest he would ever be for the rest of his life.\n\n## Why It Is Funny\n\nThe observation is technically airtight and somehow sounds like both a\npregame speech and an existential notification from the calendar.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nThe calendar keeps the game ball.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vxdd69/highlight_mike_mcdaniel_today_was_cool_because/\n- Source type: Reddit RSS top-day public highlight\n- Verification notes: Sports Radar reviewed the captured RSS item and live Reddit page on 2026-08-25. The public copy lightly paraphrases one short on-camera remark.\n\n## Sports Radar Markdown\n\n```md\n**Mike McDaniel wins the youngest day of his life**\n\nMike McDaniel celebrated the youngest he will ever be for the rest of his life.\n\nWhy it works: A technically perfect observation becomes sideline philosophy.\n```\n"
   },
   {
     "id": "munetaka-murakami-music-answer",
@@ -5713,6 +5789,30 @@
       }
     ],
     "markdown": "---\nid: 1995-recruiting-time-capsule\nrank: 4\ntitle: \"The 1995 recruiting rankings become a hindsight machine\"\nleague: \"NCAA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-11\"\nheat: 85\ntags:\n  - r/CollegeBasketball\n  - recruiting\n  - \"1995\"\n  - hindsight\npublic_ready: true\n---\n\n## Summary\n\nAn old 1995 basketball recruiting list resurfaced on r/CollegeBasketball as a\ntime capsule full of future stars, forgotten names, and Tyronn Lue in prospect form.\n\n## Why It Is Funny\n\nEvery old ranking becomes two documents at once: what evaluators believed then\nand what decades of hindsight will never let them forget.\n\n## Comment Highlights\n\n- Label: The top-five report card\n  Summary: Fans immediately graded the highest-ranked names against the careers they eventually had.\n  Why funny: Thirty years of basketball history gets turned into instant recruiting feedback.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1utilq9/1995_recruiting_rankings/\n- Label: Tyronn Lue before the lore\n  Summary: The post delighted in finding a future NBA player and coach inside an old prospect list.\n  Why funny: A familiar basketball figure appears as an unfinished origin story.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1utilq9/1995_recruiting_rankings/\n\n## Quote\n\nThe scouting archive came with thirty years of answer key.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1utilq9/1995_recruiting_rankings/\n- Source type: Reddit / r/CollegeBasketball top-day image thread\n- Verification notes: public page confirms the 1995-list framing and Tyronn Lue note; avoid reproducing the full image or asserting individual placements not reviewed here\n\n## Sports Radar Markdown\n\n```md\n**The 1995 recruiting rankings become a hindsight machine**\n\nAn old prospect list resurfaced with three decades of basketball context attached.\n\nWhy it works: every archived ranking eventually receives an answer key.\n```\n"
+  },
+  {
+    "id": "browns-two-dvoa-basements",
+    "rank": 4,
+    "title": "The Browns book two seats in the DVOA basement",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-26",
+    "heat": 96,
+    "tags": [
+      "r/nfl",
+      "Cleveland Browns",
+      "Deshaun Watson",
+      "Shedeur Sanders",
+      "DVOA"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl post citing passing DVOA placed Deshaun Watson's 2024 season 11th from\nthe bottom historically, then placed Shedeur Sanders's 2025 season fifth from\nthe bottom.",
+    "whyFunny": "Cleveland escaped one historic statistical basement and found a lower floor\nthe next season. Continuity arrived in the least useful category.",
+    "quote": "Cleveland discovered sub-basement analytics.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vyfldi/knowles_in_2024_his_last_year_playing_deshaun/",
+    "commentHighlights": [],
+    "markdown": "---\nid: browns-two-dvoa-basements\nrank: 4\ntitle: \"The Browns book two seats in the DVOA basement\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-26\"\nheat: 96\ntags:\n  - r/nfl\n  - Cleveland Browns\n  - Deshaun Watson\n  - Shedeur Sanders\n  - DVOA\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl post citing passing DVOA placed Deshaun Watson's 2024 season 11th from\nthe bottom historically, then placed Shedeur Sanders's 2025 season fifth from\nthe bottom.\n\n## Why It Is Funny\n\nCleveland escaped one historic statistical basement and found a lower floor\nthe next season. Continuity arrived in the least useful category.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nCleveland discovered sub-basement analytics.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vyfldi/knowles_in_2024_his_last_year_playing_deshaun/\n- Source type: Reddit RSS top-day post relaying public DVOA figures\n- Verification notes: Sports Radar reviewed the captured RSS item and confirmed the public Reddit thread returned HTTP 200 on 2026-08-26. The rankings are presented as figures cited by the source post, not independent Sports Radar reporting.\n\n## Sports Radar Markdown\n\n```md\n**The Browns book two seats in the DVOA basement**\n\nOne source post placed consecutive Cleveland passing seasons among the worst DVOA marks recorded.\n\nWhy it works: The franchise found continuity in the one category nobody orders.\n```\n"
   },
   {
     "id": "cowboys-brandon-myers-play-still-live",
@@ -7099,7 +7199,7 @@
     "title": "Robert Horry never meets a first-round exit",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-25",
     "heat": 95,
     "tags": [
@@ -7115,7 +7215,7 @@
     "quote": "Sixteen seasons, no early checkout.",
     "sourceUrl": "https://www.reddit.com/r/nba/comments/1vxq4w2/robert_horry_has_3_achievements_we_might_not_ever/",
     "commentHighlights": [],
-    "markdown": "---\nid: robert-horry-first-round-streak\nrank: 5\ntitle: \"Robert Horry never meets a first-round exit\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-25\"\nheat: 95\ntags:\n  - r/nba\n  - Robert Horry\n  - playoff lore\n  - seven championships\n  - birthday archive\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba birthday post credited Robert Horry with seven titles, championships\nwith three franchises, and a first-round series win in every season of his\n16-year career.\n\n## Why It Is Funny\n\nThe résumé reads less like one player's career than a permanent postseason\naccess pass. Even the first round apparently knew not to stop Big Shot Rob.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nSixteen seasons, no early checkout.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vxq4w2/robert_horry_has_3_achievements_we_might_not_ever/\n- Source type: Reddit RSS top-day birthday and career-lore post\n- Verification notes: Sports Radar reviewed the captured RSS item and live Reddit thread on 2026-08-25. The career totals are attributed to the source post rather than presented as new reporting.\n\n## Sports Radar Markdown\n\n```md\n**Robert Horry never meets a first-round exit**\n\nAn r/nba birthday post lined up a seven-ring résumé and 16 straight seasons with a first-round series win.\n\nWhy it works: Big Shot Rob's career reads like a permanent postseason access pass.\n```\n"
+    "markdown": "---\nid: robert-horry-first-round-streak\nrank: 5\ntitle: \"Robert Horry never meets a first-round exit\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-25\"\nheat: 95\ntags:\n  - r/nba\n  - Robert Horry\n  - playoff lore\n  - seven championships\n  - birthday archive\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba birthday post credited Robert Horry with seven titles, championships\nwith three franchises, and a first-round series win in every season of his\n16-year career.\n\n## Why It Is Funny\n\nThe résumé reads less like one player's career than a permanent postseason\naccess pass. Even the first round apparently knew not to stop Big Shot Rob.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nSixteen seasons, no early checkout.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vxq4w2/robert_horry_has_3_achievements_we_might_not_ever/\n- Source type: Reddit RSS top-day birthday and career-lore post\n- Verification notes: Sports Radar reviewed the captured RSS item and live Reddit thread on 2026-08-25. The career totals are attributed to the source post rather than presented as new reporting.\n\n## Sports Radar Markdown\n\n```md\n**Robert Horry never meets a first-round exit**\n\nAn r/nba birthday post lined up a seven-ring résumé and 16 straight seasons with a first-round series win.\n\nWhy it works: Big Shot Rob's career reads like a permanent postseason access pass.\n```\n"
   },
   {
     "id": "schaefer-tiny-fight-card",
@@ -7464,6 +7564,29 @@
     "sourceUrl": "https://www.reddit.com/r/baseball/comments/1vpi5bo/the_rays_have_parts_of_every_upper_deck_section/",
     "commentHighlights": [],
     "markdown": "---\nid: rays-upper-deck-reopens\nrank: 5\ntitle: \"The Rays unlock the whole upper deck\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-16\"\nheat: 95\ntags:\n  - r/baseball\n  - Tampa Bay Rays\n  - attendance lore\n  - upper deck\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball fan post noticed that every upper-deck section was open for a\nRays game for the first time since the 2023 playoffs.\n\n## Why It Is Funny\n\nThe crowd update reads like a stadium expansion pack finally unlocked. For a\nfranchise with years of attendance lore, open sections became the headline.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nUpper deck: fully unlocked.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vpi5bo/the_rays_have_parts_of_every_upper_deck_section/\n- Source type: Reddit RSS top-day fan attendance post\n- Verification notes: Sports Radar reviewed the RSS title, source URL, and short feed preview on 2026-08-16. The first-since-2023 framing is attributed to the fan post and is not presented as an independently audited attendance record.\n\n## Sports Radar Markdown\n\n```md\n**The Rays unlock the whole upper deck**\n\nA fan post marked every upper-deck section open for the first time since the 2023 playoffs.\n\nWhy it works: Tampa Bay attendance lore turned available seating into an unlockable achievement.\n```\n"
+  },
+  {
+    "id": "tim-duncan-missing-dpoy-roll-call",
+    "rank": 5,
+    "title": "Tim Duncan's missing DPOY starts an award-lore roll call",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-26",
+    "heat": 95,
+    "tags": [
+      "r/nba",
+      "Tim Duncan",
+      "Defensive Player of the Year",
+      "award lore"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba prompt noted that Tim Duncan made an All-Defensive team 15 times but\nnever won Defensive Player of the Year, then asked fans for other surprising\nmissing awards and titles.",
+    "whyFunny": "Even an all-time resume can contain one blank cell that looks like a clerical\nerror. The thread turned that gap into a league-wide trophy audit.",
+    "quote": "The resume has one very strange blank.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vyif7j/tim_duncan_never_got_dpoy_what_other_players/",
+    "commentHighlights": [],
+    "markdown": "---\nid: tim-duncan-missing-dpoy-roll-call\nrank: 5\ntitle: \"Tim Duncan's missing DPOY starts an award-lore roll call\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-26\"\nheat: 95\ntags:\n  - r/nba\n  - Tim Duncan\n  - Defensive Player of the Year\n  - award lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba prompt noted that Tim Duncan made an All-Defensive team 15 times but\nnever won Defensive Player of the Year, then asked fans for other surprising\nmissing awards and titles.\n\n## Why It Is Funny\n\nEven an all-time resume can contain one blank cell that looks like a clerical\nerror. The thread turned that gap into a league-wide trophy audit.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nThe resume has one very strange blank.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vyif7j/tim_duncan_never_got_dpoy_what_other_players/\n- Source type: Reddit RSS top-day fan discussion prompt\n- Verification notes: Sports Radar reviewed the captured RSS item and confirmed the public Reddit thread returned HTTP 200 on 2026-08-26. The public copy preserves the post's discussion framing instead of asserting a new award-history report.\n\n## Sports Radar Markdown\n\n```md\n**Tim Duncan's missing DPOY starts an award-lore roll call**\n\nFifteen All-Defensive selections and zero DPOY trophies opened a league-wide missing-award audit.\n\nWhy it works: Even an all-time resume can hide one blank that looks like a typo.\n```\n"
   },
   {
     "id": "tim-payne-olimpia-debut-goal",
