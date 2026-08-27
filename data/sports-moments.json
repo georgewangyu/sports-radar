@@ -505,6 +505,36 @@
     "markdown": "---\nid: javale-mcgee-approved-workout\nrank: 1\ntitle: \"JaVale McGee trains only for the approved buttons\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-21\"\nheat: 99\ntags:\n  - r/nba\n  - JaVale McGee\n  - Golden State Warriors\n  - role-player lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post relayed JaVale McGee's explanation that his Warriors workouts\nfocused on conditioning because his game role was screens, rim runs, and lobs.\n\n## Why It Is Funny\n\nMcGee treated the rotation like a video game with most of the buttons disabled.\nIf a jump shot would send him to the bench, practicing one was apparently just\nunauthorized feature development.\n\n## Comment Highlights\n\n- Label: Role description as workout plan\n  Summary: The source framing turns a tightly defined Warriors role into McGee's reason for skipping skills he would not be allowed to use.\n  Why funny: The depth chart doubles as a product requirements document.\n  Source URL: https://www.reddit.com/r/nba/comments/1vu015v/mcgee_i_barely_worked_out_when_i_was_playing_with/\n\n## Quote\n\nOnly train the buttons the coach lets you press.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vu015v/mcgee_i_barely_worked_out_when_i_was_playing_with/\n- Source type: Reddit RSS top-day role-player story\n- Verification notes: Sports Radar reviewed the RSS title and source preview on 2026-08-21. The public copy paraphrases McGee's role-and-workout explanation and does not extend it into a broader claim about his training.\n\n## Sports Radar Markdown\n\n```md\n**JaVale McGee trains only for the approved buttons**\n\nMcGee said his Warriors workouts stayed on conditioning because the job was screens, rim runs, and lobs.\n\nWhy it works: The rotation became a video game with every unauthorized button disabled.\n```\n"
   },
   {
+    "id": "harbaugh-infectious-energy-diagnosis",
+    "rank": 1,
+    "title": "John Harbaugh turns infectious energy into a diagnosis",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-27",
+    "heat": 99,
+    "tags": [
+      "r/nfl",
+      "John Harbaugh",
+      "Cam Skattebo",
+      "press conference"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl clip post shared John Harbaugh being asked whether Cam Skattebo's\nenergy was infectious. Harbaugh pointed to a 15-yard practice penalty and\nreclassified the energy as infectious in the disease sense.",
+    "whyFunny": "The question arrived looking for a compliment and left with a public-health\nwarning. Harbaugh turned one football cliche into a diagnosis in real time.",
+    "quote": "Infectious, but in the disease sense.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vzo8wa/highlight_john_harbaugh_was_asked_if_cam/",
+    "commentHighlights": [
+      {
+        "label": "Coach-parenting diagnosis",
+        "summary": "The thread treated the answer as a coach trying to praise the energy while correcting the behavior.",
+        "whyFunny": "The compliment and the warning occupy the same sentence.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vzo8wa/highlight_john_harbaugh_was_asked_if_cam/"
+      }
+    ],
+    "markdown": "---\nid: harbaugh-infectious-energy-diagnosis\nrank: 1\ntitle: \"John Harbaugh turns infectious energy into a diagnosis\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-27\"\nheat: 99\ntags:\n  - r/nfl\n  - John Harbaugh\n  - Cam Skattebo\n  - press conference\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl clip post shared John Harbaugh being asked whether Cam Skattebo's\nenergy was infectious. Harbaugh pointed to a 15-yard practice penalty and\nreclassified the energy as infectious in the disease sense.\n\n## Why It Is Funny\n\nThe question arrived looking for a compliment and left with a public-health\nwarning. Harbaugh turned one football cliche into a diagnosis in real time.\n\n## Comment Highlights\n\n- Label: Coach-parenting diagnosis\n  Summary: The thread treated the answer as a coach trying to praise the energy while correcting the behavior.\n  Why funny: The compliment and the warning occupy the same sentence.\n  Source URL: https://www.reddit.com/r/nfl/comments/1vzo8wa/highlight_john_harbaugh_was_asked_if_cam/\n\n## Quote\n\nInfectious, but in the disease sense.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vzo8wa/highlight_john_harbaugh_was_asked_if_cam/\n- Source type: Reddit RSS top-day post sharing a public practice clip\n- Verification notes: Sports Radar reviewed the captured RSS item and public Reddit thread on 2026-08-27. The public copy paraphrases the exchange and promotes no usernames or long comment text.\n\n## Sports Radar Markdown\n\n```md\n**John Harbaugh turns infectious energy into a diagnosis**\n\nAsked whether Cam Skattebo's energy was infectious, Harbaugh cited a practice penalty and chose the disease definition.\n\nWhy it works: A routine compliment prompt becomes a public-health warning in real time.\n```\n"
+  },
+  {
     "id": "jokic-tree-planting-loophole",
     "rank": 1,
     "title": "Jokic gets the tree-planting loophole",
@@ -1625,7 +1655,7 @@
     "title": "Xavi handles chocolate and third choice in one interview",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-26",
     "heat": 99,
     "tags": [
@@ -1647,7 +1677,7 @@
         "sourceUrl": "https://www.reddit.com/r/soccer/comments/1vy7eeh/what_is_the_pronunciation_of_your_first_and_last/"
       }
     ],
-    "markdown": "---\nid: xavi-chocolate-third-choice\nrank: 1\ntitle: \"Xavi handles chocolate and third choice in one interview\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-26\"\nheat: 99\ntags:\n  - r/soccer\n  - Xavi Hernandez\n  - Netherlands\n  - press conference\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer clip opened Xavi Hernandez's Netherlands introduction with two\nquestions: how to pronounce his name, then how it felt to be approached after\nPep Guardiola and Arne Slot. He answered the first with chocolate and the\nsecond without taking the bait.\n\n## Why It Is Funny\n\nThe interview moves from phonetics to a third-choice audit in seconds. Xavi\nrefuses to supply the embarrassment either question was shopping for.\n\n## Comment Highlights\n\n- Label: Pressure-tested calm\n  Summary: The thread treated years of Spanish football-media pressure as useful preparation for one very direct Dutch welcome.\n  Why funny: The room tried to create an awkward introduction and accidentally gave Xavi an easy drill.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vy7eeh/what_is_the_pronunciation_of_your_first_and_last/\n\n## Quote\n\nChocolate first. Third-choice audit second.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vy7eeh/what_is_the_pronunciation_of_your_first_and_last/\n- Source type: Reddit RSS top-day post sharing a public interview clip\n- Verification notes: Sports Radar reviewed the captured RSS item, public thread, and comment feed on 2026-08-26. The public copy paraphrases the exchange and promotes no usernames or long comment text.\n\n## Sports Radar Markdown\n\n```md\n**Xavi handles chocolate and third choice in one interview**\n\nXavi explained his name with chocolate, then calmly accepted being the Netherlands' third coaching target.\n\nWhy it works: The interview moves from phonetics to rejection-email etiquette in seconds.\n```\n"
+    "markdown": "---\nid: xavi-chocolate-third-choice\nrank: 1\ntitle: \"Xavi handles chocolate and third choice in one interview\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-26\"\nheat: 99\ntags:\n  - r/soccer\n  - Xavi Hernandez\n  - Netherlands\n  - press conference\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer clip opened Xavi Hernandez's Netherlands introduction with two\nquestions: how to pronounce his name, then how it felt to be approached after\nPep Guardiola and Arne Slot. He answered the first with chocolate and the\nsecond without taking the bait.\n\n## Why It Is Funny\n\nThe interview moves from phonetics to a third-choice audit in seconds. Xavi\nrefuses to supply the embarrassment either question was shopping for.\n\n## Comment Highlights\n\n- Label: Pressure-tested calm\n  Summary: The thread treated years of Spanish football-media pressure as useful preparation for one very direct Dutch welcome.\n  Why funny: The room tried to create an awkward introduction and accidentally gave Xavi an easy drill.\n  Source URL: https://www.reddit.com/r/soccer/comments/1vy7eeh/what_is_the_pronunciation_of_your_first_and_last/\n\n## Quote\n\nChocolate first. Third-choice audit second.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1vy7eeh/what_is_the_pronunciation_of_your_first_and_last/\n- Source type: Reddit RSS top-day post sharing a public interview clip\n- Verification notes: Sports Radar reviewed the captured RSS item, public thread, and comment feed on 2026-08-26. The public copy paraphrases the exchange and promotes no usernames or long comment text.\n\n## Sports Radar Markdown\n\n```md\n**Xavi handles chocolate and third choice in one interview**\n\nXavi explained his name with chocolate, then calmly accepted being the Netherlands' third coaching target.\n\nWhy it works: The interview moves from phonetics to rejection-email etiquette in seconds.\n```\n"
   },
   {
     "id": "fulham-empty-net-shootout",
@@ -2135,6 +2165,36 @@
     "markdown": "---\nid: kelce-slow-motion-juke\nrank: 2\ntitle: \"Kelce keeps winning the slow-motion juke\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-18\"\nheat: 98\ntags:\n  - r/nfl\n  - Travis Kelce\n  - highlight\n  - veteran lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl highlight framed Travis Kelce's latest open-field escape as another\ndefender losing to a juke that appears to be happening in slow motion.\n\n## Why It Is Funny\n\nThe move looks fully available for review and still keeps working. Kelce has\nturned visible processing time into one of football's most durable glitches.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nThe loading screen remains undefeated.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vr2p01/highlight_travis_kelce_is_still_juking_defenders/\n- Source type: Reddit RSS top-day highlight\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-18. The public copy stays within the post's slow-motion-juke framing without adding unverified game context.\n\n## Sports Radar Markdown\n\n```md\n**Kelce keeps winning the slow-motion juke**\n\nAnother defender loses to a Kelce move that appears to arrive with advance notice.\n\nWhy it works: The loading screen is visible, and the football glitch still works.\n```\n"
   },
   {
+    "id": "klay-miami-locker-first-day",
+    "rank": 2,
+    "title": "Klay's Miami locker tour becomes first day of school",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-27",
+    "heat": 98,
+    "tags": [
+      "r/nba",
+      "Klay Thompson",
+      "Miami Heat",
+      "locker room"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba post shared Klay Thompson getting his first look at his Miami Heat\nlocker, complete with the new-team welcome and a full tour of No. 11.",
+    "whyFunny": "A decorated veteran can change teams and instantly recover first-day-of-school\nenergy. The locker introduction makes a long NBA career look brand new again.",
+    "quote": "New locker. Same first-day energy.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vzapio/klays_first_look_at_his_miami_heat_locker/",
+    "commentHighlights": [
+      {
+        "label": "First-day framing",
+        "summary": "The thread treated the locker visit like a new student's first walk through school.",
+        "whyFunny": "All the career mileage disappears for one orientation tour.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1vzapio/klays_first_look_at_his_miami_heat_locker/"
+      }
+    ],
+    "markdown": "---\nid: klay-miami-locker-first-day\nrank: 2\ntitle: \"Klay's Miami locker tour becomes first day of school\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-27\"\nheat: 98\ntags:\n  - r/nba\n  - Klay Thompson\n  - Miami Heat\n  - locker room\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post shared Klay Thompson getting his first look at his Miami Heat\nlocker, complete with the new-team welcome and a full tour of No. 11.\n\n## Why It Is Funny\n\nA decorated veteran can change teams and instantly recover first-day-of-school\nenergy. The locker introduction makes a long NBA career look brand new again.\n\n## Comment Highlights\n\n- Label: First-day framing\n  Summary: The thread treated the locker visit like a new student's first walk through school.\n  Why funny: All the career mileage disappears for one orientation tour.\n  Source URL: https://www.reddit.com/r/nba/comments/1vzapio/klays_first_look_at_his_miami_heat_locker/\n\n## Quote\n\nNew locker. Same first-day energy.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vzapio/klays_first_look_at_his_miami_heat_locker/\n- Source type: Reddit RSS top-day post sharing a public locker-room clip\n- Verification notes: Sports Radar reviewed the captured RSS item and public Reddit thread on 2026-08-27. The thread reaction is summarized without usernames or copied comments.\n\n## Sports Radar Markdown\n\n```md\n**Klay's Miami locker tour becomes first day of school**\n\nKlay Thompson got his first look at his Heat locker and briefly became the new kid again.\n\nWhy it works: One orientation tour resets an entire veteran career to day one.\n```\n"
+  },
+  {
     "id": "lebron-three-years-younger-counter",
     "rank": 2,
     "title": "LeBron answers the three-years-younger excuse before it lands",
@@ -2580,7 +2640,7 @@
     "title": "Sean McVay diagnoses the reverse portal with a gummy",
     "league": "NFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-26",
     "heat": 98,
     "tags": [
@@ -2595,7 +2655,7 @@
     "quote": "The portal has reached edible-level confusion.",
     "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vyaqez/sean_mcvay_on_nfl_players_returning_to_the_cfb/",
     "commentHighlights": [],
-    "markdown": "---\nid: mcvay-reverse-portal-gummy\nrank: 2\ntitle: \"Sean McVay diagnoses the reverse portal with a gummy\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-26\"\nheat: 98\ntags:\n  - r/nfl\n  - Sean McVay\n  - college football portal\n  - eligibility rules\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl post shared Sean McVay reacting to NFL players returning to the college\nfootball portal with, \"I feel like I took a freakin' gummy.\"\n\n## Why It Is Funny\n\nFootball's new eligibility path made an NFL head coach question the reality in\nfront of him. The rule explanation never had a chance against the reaction.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nThe portal has reached edible-level confusion.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vyaqez/sean_mcvay_on_nfl_players_returning_to_the_cfb/\n- Source type: Reddit RSS top-day post sharing a public Sean McVay remark\n- Verification notes: Sports Radar reviewed the captured RSS item and confirmed the public Reddit thread returned HTTP 200 on 2026-08-26. The only direct quote is the short remark carried in the source title.\n\n## Sports Radar Markdown\n\n```md\n**Sean McVay diagnoses the reverse portal with a gummy**\n\nNFL players returning to college made Sean McVay briefly question reality.\n\nWhy it works: The eligibility rule loses the room before the explanation begins.\n```\n"
+    "markdown": "---\nid: mcvay-reverse-portal-gummy\nrank: 2\ntitle: \"Sean McVay diagnoses the reverse portal with a gummy\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-26\"\nheat: 98\ntags:\n  - r/nfl\n  - Sean McVay\n  - college football portal\n  - eligibility rules\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl post shared Sean McVay reacting to NFL players returning to the college\nfootball portal with, \"I feel like I took a freakin' gummy.\"\n\n## Why It Is Funny\n\nFootball's new eligibility path made an NFL head coach question the reality in\nfront of him. The rule explanation never had a chance against the reaction.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nThe portal has reached edible-level confusion.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vyaqez/sean_mcvay_on_nfl_players_returning_to_the_cfb/\n- Source type: Reddit RSS top-day post sharing a public Sean McVay remark\n- Verification notes: Sports Radar reviewed the captured RSS item and confirmed the public Reddit thread returned HTTP 200 on 2026-08-26. The only direct quote is the short remark carried in the source title.\n\n## Sports Radar Markdown\n\n```md\n**Sean McVay diagnoses the reverse portal with a gummy**\n\nNFL players returning to college made Sean McVay briefly question reality.\n\nWhy it works: The eligibility rule loses the room before the explanation begins.\n```\n"
   },
   {
     "id": "seiya-suzuki-hundred-bananas",
@@ -3641,6 +3701,30 @@
     "markdown": "---\nid: derrick-rose-out-of-office\nrank: 3\ntitle: \"Derrick Rose activates basketball out-of-office\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-26\"\nheat: 94\ntags:\n  - r/nba\n  - Derrick Rose\n  - LeBron James\n  - retirement\npublic_ready: true\n---\n\n## Summary\n\nAsked about LeBron James's reported move to Philadelphia, Derrick Rose said he\nwas happy for him but made clear that NBA transactions are no longer his life.\n\n## Why It Is Funny\n\nThe question invited analysis from a former MVP. Rose answered like someone\nwho had already returned his laptop, badge, and access to the roster rumor\nchannel.\n\n## Comment Highlights\n\n- Label: Out-of-office translation\n  Summary: Fans condensed Rose's response into the universal language of no longer working there.\n  Why funny: A major NBA move received the emotional energy of a message sent to a former employee.\n  Source URL: https://www.reddit.com/r/nba/comments/1v70syj/derrick_rose_on_lebron_james_decision_to_join_the/\n- Label: Longevity contrast\n  Summary: The thread compared Rose's distance from the league with LeBron's continued presence in it.\n  Why funny: Two stars from the same era now appear to be living on different basketball timelines.\n  Source URL: https://www.reddit.com/r/nba/comments/1v70syj/derrick_rose_on_lebron_james_decision_to_join_the/\n\n## Quote\n\nThe former employee has left the roster-rumor channel.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v70syj/derrick_rose_on_lebron_james_decision_to_join_the/\n- Source type: Reddit post quoting a public Derrick Rose response\n- Verification notes: The public Reddit post and discussion were reviewed on 2026-07-26. The summary paraphrases the short response and preserves the post's reported framing.\n\n## Sports Radar Markdown\n\n```md\n**Derrick Rose activates basketball out-of-office**\n\nRose wished LeBron well, then reminded everyone that NBA transactions are no longer his department.\n\nWhy it works: The former employee has left the roster-rumor channel.\n```\n"
   },
   {
+    "id": "draymond-klay-number-one-timeline",
+    "rank": 3,
+    "title": "Draymond writes Klay's missing No. 1-option timeline",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-27",
+    "heat": 97,
+    "tags": [
+      "r/nba",
+      "Draymond Green",
+      "Klay Thompson",
+      "Golden State Warriors",
+      "alternate history"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba post shared Draymond Green saying there was a 90 percent chance Klay\nThompson would have left Golden State to test a No. 1-option role before his\ninjury changed the path.",
+    "whyFunny": "Draymond delivered an unplayed career branch with the confidence of a weather\nforecast. One precise percentage opened a complete alternate NBA timeline.",
+    "quote": "A 90 percent alternate timeline.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1vz3yl0/green_there_was_a_90_chance_my_brother_klay/",
+    "commentHighlights": [],
+    "markdown": "---\nid: draymond-klay-number-one-timeline\nrank: 3\ntitle: \"Draymond writes Klay's missing No. 1-option timeline\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-27\"\nheat: 97\ntags:\n  - r/nba\n  - Draymond Green\n  - Klay Thompson\n  - Golden State Warriors\n  - alternate history\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post shared Draymond Green saying there was a 90 percent chance Klay\nThompson would have left Golden State to test a No. 1-option role before his\ninjury changed the path.\n\n## Why It Is Funny\n\nDraymond delivered an unplayed career branch with the confidence of a weather\nforecast. One precise percentage opened a complete alternate NBA timeline.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nA 90 percent alternate timeline.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vz3yl0/green_there_was_a_90_chance_my_brother_klay/\n- Source type: Reddit RSS top-day post sharing a public Draymond Green remark\n- Verification notes: Sports Radar reviewed the captured RSS item and public Reddit thread on 2026-08-27. The counterfactual remains attributed to Green rather than presented as independent reporting.\n\n## Sports Radar Markdown\n\n```md\n**Draymond writes Klay's missing No. 1-option timeline**\n\nDraymond gave Klay's unplayed lead-option career branch a 90 percent probability.\n\nWhy it works: The alternate history arrives with the confidence of a weather forecast.\n```\n"
+  },
+  {
     "id": "dwight-bynum-nyc-encounter",
     "rank": 3,
     "title": "Dwight Howard finds Andrew Bynum in the wild",
@@ -3718,7 +3802,7 @@
     "title": "Every NHL emergency goalie gets double zero",
     "league": "NHL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-26",
     "heat": 97,
     "tags": [
@@ -3733,7 +3817,7 @@
     "quote": "Break glass. Send in double zero.",
     "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vyan1k/johnston_further_to_thiswilds_new_ebug_announced/",
     "commentHighlights": [],
-    "markdown": "---\nid: nhl-ebug-double-zero\nrank: 3\ntitle: \"Every NHL emergency goalie gets double zero\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-26\"\nheat: 97\ntags:\n  - r/hockey\n  - EBUG\n  - emergency goalies\n  - number 00\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey post relaying reporter Chris Johnston said every NHL emergency\nbackup goalie will wear No. 00 this season, with teams carrying both home and\nroad emergency-goalie gear.\n\n## Why It Is Funny\n\nThe league gave one universal number to the person nobody wants to need. Every\narena now has a human emergency exit dressed as `00`.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nBreak glass. Send in double zero.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vyan1k/johnston_further_to_thiswilds_new_ebug_announced/\n- Source type: Reddit RSS top-day post relaying a public hockey report\n- Verification notes: Sports Radar reviewed the captured RSS item and confirmed the public Reddit thread returned HTTP 200 on 2026-08-26. The uniform and eligibility details remain attributed to the source post.\n\n## Sports Radar Markdown\n\n```md\n**Every NHL emergency goalie gets double zero**\n\nThe NHL reportedly assigned No. 00 to every emergency backup goalie this season.\n\nWhy it works: The league standardized the uniform for its human emergency exit.\n```\n"
+    "markdown": "---\nid: nhl-ebug-double-zero\nrank: 3\ntitle: \"Every NHL emergency goalie gets double zero\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-26\"\nheat: 97\ntags:\n  - r/hockey\n  - EBUG\n  - emergency goalies\n  - number 00\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey post relaying reporter Chris Johnston said every NHL emergency\nbackup goalie will wear No. 00 this season, with teams carrying both home and\nroad emergency-goalie gear.\n\n## Why It Is Funny\n\nThe league gave one universal number to the person nobody wants to need. Every\narena now has a human emergency exit dressed as `00`.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nBreak glass. Send in double zero.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vyan1k/johnston_further_to_thiswilds_new_ebug_announced/\n- Source type: Reddit RSS top-day post relaying a public hockey report\n- Verification notes: Sports Radar reviewed the captured RSS item and confirmed the public Reddit thread returned HTTP 200 on 2026-08-26. The uniform and eligibility details remain attributed to the source post.\n\n## Sports Radar Markdown\n\n```md\n**Every NHL emergency goalie gets double zero**\n\nThe NHL reportedly assigned No. 00 to every emergency backup goalie this season.\n\nWhy it works: The league standardized the uniform for its human emergency exit.\n```\n"
   },
   {
     "id": "fernando-mendoza-booth-regards",
@@ -5796,7 +5880,7 @@
     "title": "The Browns book two seats in the DVOA basement",
     "league": "NFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-26",
     "heat": 96,
     "tags": [
@@ -5812,7 +5896,7 @@
     "quote": "Cleveland discovered sub-basement analytics.",
     "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vyfldi/knowles_in_2024_his_last_year_playing_deshaun/",
     "commentHighlights": [],
-    "markdown": "---\nid: browns-two-dvoa-basements\nrank: 4\ntitle: \"The Browns book two seats in the DVOA basement\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-26\"\nheat: 96\ntags:\n  - r/nfl\n  - Cleveland Browns\n  - Deshaun Watson\n  - Shedeur Sanders\n  - DVOA\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl post citing passing DVOA placed Deshaun Watson's 2024 season 11th from\nthe bottom historically, then placed Shedeur Sanders's 2025 season fifth from\nthe bottom.\n\n## Why It Is Funny\n\nCleveland escaped one historic statistical basement and found a lower floor\nthe next season. Continuity arrived in the least useful category.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nCleveland discovered sub-basement analytics.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vyfldi/knowles_in_2024_his_last_year_playing_deshaun/\n- Source type: Reddit RSS top-day post relaying public DVOA figures\n- Verification notes: Sports Radar reviewed the captured RSS item and confirmed the public Reddit thread returned HTTP 200 on 2026-08-26. The rankings are presented as figures cited by the source post, not independent Sports Radar reporting.\n\n## Sports Radar Markdown\n\n```md\n**The Browns book two seats in the DVOA basement**\n\nOne source post placed consecutive Cleveland passing seasons among the worst DVOA marks recorded.\n\nWhy it works: The franchise found continuity in the one category nobody orders.\n```\n"
+    "markdown": "---\nid: browns-two-dvoa-basements\nrank: 4\ntitle: \"The Browns book two seats in the DVOA basement\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-26\"\nheat: 96\ntags:\n  - r/nfl\n  - Cleveland Browns\n  - Deshaun Watson\n  - Shedeur Sanders\n  - DVOA\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl post citing passing DVOA placed Deshaun Watson's 2024 season 11th from\nthe bottom historically, then placed Shedeur Sanders's 2025 season fifth from\nthe bottom.\n\n## Why It Is Funny\n\nCleveland escaped one historic statistical basement and found a lower floor\nthe next season. Continuity arrived in the least useful category.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nCleveland discovered sub-basement analytics.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vyfldi/knowles_in_2024_his_last_year_playing_deshaun/\n- Source type: Reddit RSS top-day post relaying public DVOA figures\n- Verification notes: Sports Radar reviewed the captured RSS item and confirmed the public Reddit thread returned HTTP 200 on 2026-08-26. The rankings are presented as figures cited by the source post, not independent Sports Radar reporting.\n\n## Sports Radar Markdown\n\n```md\n**The Browns book two seats in the DVOA basement**\n\nOne source post placed consecutive Cleveland passing seasons among the worst DVOA marks recorded.\n\nWhy it works: The franchise found continuity in the one category nobody orders.\n```\n"
   },
   {
     "id": "cowboys-brandon-myers-play-still-live",
@@ -6122,6 +6206,29 @@
     "sourceUrl": "https://www.reddit.com/r/baseball/comments/1vjb64q/nationals_legend_max_scherzer_just_struck_out/",
     "commentHighlights": [],
     "markdown": "---\nid: nationals-legend-chain-inning\nrank: 4\ntitle: \"Washington's alumni game happens in one inning\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-09\"\nheat: 93\ntags:\n  - r/baseball\n  - Washington Nationals\n  - Max Scherzer\n  - franchise lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post narrated Max Scherzer passing Walter Johnson on the strikeout\nlist, then allowing homers to Trea Turner and Bryce Harper, while calling every\nformer Washington player involved a Nationals legend.\n\n## Why It Is Funny\n\nThe current game briefly read like an alumni event. The repeated franchise\nlabel kept expanding until the whole inning belonged to Washington lore.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's top-day review.\n\n## Quote\n\nEverybody is a Nationals legend if the sentence is long enough.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vjb64q/nationals_legend_max_scherzer_just_struck_out/\n- Source type: Reddit top-day baseball game-reaction post\n- Verification notes: Sports Radar reviewed the live public r/baseball post on 2026-08-09. The summary treats \"Nationals legend\" as the thread's running joke and does not present it as an official designation.\n\n## Sports Radar Markdown\n\n```md\n**Washington's alumni game happens in one inning**\n\nAn r/baseball post turned a Scherzer milestone and two former-Nationals homers into one franchise-lore sentence.\n\nWhy it works: Everybody is a Nationals legend if the sentence is long enough.\n```\n"
+  },
+  {
+    "id": "commanders-inoperable-line-diagnosis",
+    "rank": 4,
+    "title": "Washington's offensive line receives an inoperable diagnosis",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-27",
+    "heat": 96,
+    "tags": [
+      "r/nfl",
+      "Washington Commanders",
+      "offensive line",
+      "training camp"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl post relayed a joint-practice assessment that described Washington's\noffensive line as \"inoperable\" and the worst the observer had seen in years.",
+    "whyFunny": "The training-camp report arrived formatted like a surgical consultation. The\nunit did not receive a grade so much as a diagnosis.",
+    "quote": "The preseason checkup became a surgical consult.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vz5ei7/jhabvala_commanders_ol_is_inoperable_worst_i_have/",
+    "commentHighlights": [],
+    "markdown": "---\nid: commanders-inoperable-line-diagnosis\nrank: 4\ntitle: \"Washington's offensive line receives an inoperable diagnosis\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-27\"\nheat: 96\ntags:\n  - r/nfl\n  - Washington Commanders\n  - offensive line\n  - training camp\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl post relayed a joint-practice assessment that described Washington's\noffensive line as \"inoperable\" and the worst the observer had seen in years.\n\n## Why It Is Funny\n\nThe training-camp report arrived formatted like a surgical consultation. The\nunit did not receive a grade so much as a diagnosis.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nThe preseason checkup became a surgical consult.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vz5ei7/jhabvala_commanders_ol_is_inoperable_worst_i_have/\n- Source type: Reddit RSS top-day post relaying a public joint-practice assessment\n- Verification notes: Sports Radar reviewed the captured RSS item and public Reddit thread on 2026-08-27. The diagnosis remains attributed to the source post and is not presented as independent reporting.\n\n## Sports Radar Markdown\n\n```md\n**Washington's offensive line receives an inoperable diagnosis**\n\nA joint-practice assessment described the Commanders' line as inoperable.\n\nWhy it works: The preseason report reads less like scouting and more like surgery.\n```\n"
   },
   {
     "id": "wemby-soccer-slip",
@@ -7543,6 +7650,36 @@
     "markdown": "---\nid: palestra-mecca-argument\nrank: 5\ntitle: \"The Palestra starts a college-basketball pilgrimage debate\"\nleague: \"NCAA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-26\"\nheat: 90\ntags:\n  - r/CollegeBasketball\n  - The Palestra\n  - Philadelphia\n  - basketball history\npublic_ready: true\n---\n\n## Summary\n\nA visitor posted a photo from Philadelphia's Palestra and called it the Mecca\nof college basketball, sending fans into a tour of the sport's historic gyms.\n\n## Why It Is Funny\n\nOne arena photo became a pilgrimage committee meeting. Every fan arrived with\na different sacred site, a local record, and at least one architectural\ntechnicality.\n\n## Comment Highlights\n\n- Label: Competing pilgrimages\n  Summary: Fans nominated alternate historic gyms and even a famously oversized Memphis landmark.\n  Why funny: The Mecca title immediately expanded into a bracket with no final round.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1v6saab/visited_the_mecca_of_college_basketball_last_week/\n- Label: Time-machine seating\n  Summary: Visitors described the Palestra's close sightlines as watching basketball from another era.\n  Why funny: The strongest review treated the building as both an arena and a working time machine.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1v6saab/visited_the_mecca_of_college_basketball_last_week/\n\n## Quote\n\nThe pilgrimage bracket has no championship game.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1v6saab/visited_the_mecca_of_college_basketball_last_week/\n- Source type: Reddit image post and public discussion\n- Verification notes: The public Reddit post, image context, and discussion were reviewed on 2026-07-26. Disputed venue records in the thread were not promoted as facts.\n\n## Sports Radar Markdown\n\n```md\n**The Palestra starts a college-basketball pilgrimage debate**\n\nOne arena photo sent fans into a bracket of historic gyms, local records, and sacred-site nominations.\n\nWhy it works: The pilgrimage committee could not agree on a destination.\n```\n"
   },
   {
+    "id": "pro-bowl-resume-only",
+    "rank": 5,
+    "title": "The Pro Bowl survives only as a line on the resume",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-27",
+    "heat": 95,
+    "tags": [
+      "r/nfl",
+      "Pro Bowl",
+      "NFL honors",
+      "all-star game"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl post reported that the NFL is ending the Pro Bowl game while keeping\nthe player honor and dropping alternate selections.",
+    "whyFunny": "The game faded so completely that the league kept the resume line and deleted\nthe appointment. The title survives after the event leaves the calendar.",
+    "quote": "The honor stayed. The event left.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vz9ew8/jones_nfl_ending_pro_bowl_game_player_honors_will/",
+    "commentHighlights": [
+      {
+        "label": "Long-running farewell",
+        "summary": "The thread debated which forgotten edition should count as the event's real ending.",
+        "whyFunny": "The official cancellation arrives years after fans began writing the obituary.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1vz9ew8/jones_nfl_ending_pro_bowl_game_player_honors_will/"
+      }
+    ],
+    "markdown": "---\nid: pro-bowl-resume-only\nrank: 5\ntitle: \"The Pro Bowl survives only as a line on the resume\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-27\"\nheat: 95\ntags:\n  - r/nfl\n  - Pro Bowl\n  - NFL honors\n  - all-star game\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl post reported that the NFL is ending the Pro Bowl game while keeping\nthe player honor and dropping alternate selections.\n\n## Why It Is Funny\n\nThe game faded so completely that the league kept the resume line and deleted\nthe appointment. The title survives after the event leaves the calendar.\n\n## Comment Highlights\n\n- Label: Long-running farewell\n  Summary: The thread debated which forgotten edition should count as the event's real ending.\n  Why funny: The official cancellation arrives years after fans began writing the obituary.\n  Source URL: https://www.reddit.com/r/nfl/comments/1vz9ew8/jones_nfl_ending_pro_bowl_game_player_honors_will/\n\n## Quote\n\nThe honor stayed. The event left.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vz9ew8/jones_nfl_ending_pro_bowl_game_player_honors_will/\n- Source type: Reddit RSS top-day post linking a public report\n- Verification notes: Sports Radar reviewed the captured RSS item and public Reddit thread on 2026-08-27. The format change remains attributed to the source report.\n\n## Sports Radar Markdown\n\n```md\n**The Pro Bowl survives only as a line on the resume**\n\nThe NFL reportedly kept the Pro Bowl honor while removing the game and alternate selections.\n\nWhy it works: The resume line survives after the event leaves the calendar.\n```\n"
+  },
+  {
     "id": "rays-upper-deck-reopens",
     "rank": 5,
     "title": "The Rays unlock the whole upper deck",
@@ -7571,7 +7708,7 @@
     "title": "Tim Duncan's missing DPOY starts an award-lore roll call",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-26",
     "heat": 95,
     "tags": [
@@ -7586,7 +7723,7 @@
     "quote": "The resume has one very strange blank.",
     "sourceUrl": "https://www.reddit.com/r/nba/comments/1vyif7j/tim_duncan_never_got_dpoy_what_other_players/",
     "commentHighlights": [],
-    "markdown": "---\nid: tim-duncan-missing-dpoy-roll-call\nrank: 5\ntitle: \"Tim Duncan's missing DPOY starts an award-lore roll call\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-26\"\nheat: 95\ntags:\n  - r/nba\n  - Tim Duncan\n  - Defensive Player of the Year\n  - award lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba prompt noted that Tim Duncan made an All-Defensive team 15 times but\nnever won Defensive Player of the Year, then asked fans for other surprising\nmissing awards and titles.\n\n## Why It Is Funny\n\nEven an all-time resume can contain one blank cell that looks like a clerical\nerror. The thread turned that gap into a league-wide trophy audit.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nThe resume has one very strange blank.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vyif7j/tim_duncan_never_got_dpoy_what_other_players/\n- Source type: Reddit RSS top-day fan discussion prompt\n- Verification notes: Sports Radar reviewed the captured RSS item and confirmed the public Reddit thread returned HTTP 200 on 2026-08-26. The public copy preserves the post's discussion framing instead of asserting a new award-history report.\n\n## Sports Radar Markdown\n\n```md\n**Tim Duncan's missing DPOY starts an award-lore roll call**\n\nFifteen All-Defensive selections and zero DPOY trophies opened a league-wide missing-award audit.\n\nWhy it works: Even an all-time resume can hide one blank that looks like a typo.\n```\n"
+    "markdown": "---\nid: tim-duncan-missing-dpoy-roll-call\nrank: 5\ntitle: \"Tim Duncan's missing DPOY starts an award-lore roll call\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-26\"\nheat: 95\ntags:\n  - r/nba\n  - Tim Duncan\n  - Defensive Player of the Year\n  - award lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba prompt noted that Tim Duncan made an All-Defensive team 15 times but\nnever won Defensive Player of the Year, then asked fans for other surprising\nmissing awards and titles.\n\n## Why It Is Funny\n\nEven an all-time resume can contain one blank cell that looks like a clerical\nerror. The thread turned that gap into a league-wide trophy audit.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nThe resume has one very strange blank.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vyif7j/tim_duncan_never_got_dpoy_what_other_players/\n- Source type: Reddit RSS top-day fan discussion prompt\n- Verification notes: Sports Radar reviewed the captured RSS item and confirmed the public Reddit thread returned HTTP 200 on 2026-08-26. The public copy preserves the post's discussion framing instead of asserting a new award-history report.\n\n## Sports Radar Markdown\n\n```md\n**Tim Duncan's missing DPOY starts an award-lore roll call**\n\nFifteen All-Defensive selections and zero DPOY trophies opened a league-wide missing-award audit.\n\nWhy it works: Even an all-time resume can hide one blank that looks like a typo.\n```\n"
   },
   {
     "id": "tim-payne-olimpia-debut-goal",
