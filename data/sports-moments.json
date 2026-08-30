@@ -240,6 +240,36 @@
     "markdown": "---\nid: bark-in-park-dog-left-field\nrank: 1\ntitle: \"Bark in the Park sends a dog to left field\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-01\"\nheat: 98\ntags:\n  - r/baseball\n  - minor league baseball\n  - Greensboro Grasshoppers\n  - dogs\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post showed a dog loose in left field during a Greensboro\nGrasshoppers Bark in the Park game. The outfielder lifted the visitor over the\nwall and returned him to the stands.\n\n## Why It Is Funny\n\nThe promotion delivered exactly what it advertised, just with more defensive\nresponsibility than planned. Left field briefly became the stadium's lost-dog\ndesk.\n\n## Comment Highlights\n\n- Label: Extra outfielder\n  Summary: Fans recast the dog as an unexpected member of the defensive lineup.\n  Why funny: The roster move required treats instead of paperwork.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vccicg/dudes_posting_their_ws_a_dog_got_loose_during/\n- Label: Bark in the actual park\n  Summary: The thread treated the escape as the most literal possible version of the promotion.\n  Why funny: The event name stopped being branding and became a play-by-play note.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vccicg/dudes_posting_their_ws_a_dog_got_loose_during/\n\n## Quote\n\nLeft field handled one very good pickup.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vccicg/dudes_posting_their_ws_a_dog_got_loose_during/\n- Source type: Reddit video post and public discussion\n- Verification notes: The public post was reviewed on 2026-08-01. It identifies the team as the Greensboro Grasshoppers and shows the outfielder returning the dog over the wall.\n\n## Sports Radar Markdown\n\n```md\n**Bark in the Park sends a dog to left field**\n\nA dog escaped onto the field at a minor league Bark in the Park game, so the outfielder added one very friendly retrieval to his defensive line.\n\nWhy it works: Left field briefly became the stadium's lost-dog desk.\n```\n"
   },
   {
+    "id": "bears-green-bay-chant-nashville",
+    "rank": 1,
+    "title": "Bears fans bring Green Bay hate to Nashville",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-30",
+    "heat": 99,
+    "tags": [
+      "r/nfl",
+      "Chicago Bears",
+      "Green Bay Packers",
+      "rivalry"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl clip post showed Bears fans chanting about Green Bay during a\npreseason game against Tennessee in Nashville. The Packers were not involved.",
+    "whyFunny": "Chicago rivalry protocol does not require the rival, the regular season, or\nthe correct state. It only requires enough Bears fans to begin the chant.",
+    "quote": "The Packers were absent. The rivalry still made the trip.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w20w2t/highlight_bears_fans_chant_green_bay_sucks_at/",
+    "commentHighlights": [
+      {
+        "label": "Rivalry without borders",
+        "summary": "The thread traded stories about hearing the same chant at baseball games, concerts, and away stadiums.",
+        "whyFunny": "The opponent keeps changing while the chant remains fully employed.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w20w2t/highlight_bears_fans_chant_green_bay_sucks_at/"
+      }
+    ],
+    "markdown": "---\nid: bears-green-bay-chant-nashville\nrank: 1\ntitle: \"Bears fans bring Green Bay hate to Nashville\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-30\"\nheat: 99\ntags:\n  - r/nfl\n  - Chicago Bears\n  - Green Bay Packers\n  - rivalry\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl clip post showed Bears fans chanting about Green Bay during a\npreseason game against Tennessee in Nashville. The Packers were not involved.\n\n## Why It Is Funny\n\nChicago rivalry protocol does not require the rival, the regular season, or\nthe correct state. It only requires enough Bears fans to begin the chant.\n\n## Comment Highlights\n\n- Label: Rivalry without borders\n  Summary: The thread traded stories about hearing the same chant at baseball games, concerts, and away stadiums.\n  Why funny: The opponent keeps changing while the chant remains fully employed.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w20w2t/highlight_bears_fans_chant_green_bay_sucks_at/\n\n## Quote\n\nThe Packers were absent. The rivalry still made the trip.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w20w2t/highlight_bears_fans_chant_green_bay_sucks_at/\n- Source type: Reddit top-day post sharing a public preseason clip\n- Verification notes: Sports Radar reviewed the recovered collector output and public Reddit thread on 2026-08-30. The copy describes the location, matchup, and chant from the source post without quoting the discussion.\n\n## Sports Radar Markdown\n\n```md\n**Bears fans bring Green Bay hate to Nashville**\n\nBears fans used a preseason game against Tennessee to resume a completely different rivalry.\n\nWhy it works: Chicago's chant travels without Green Bay, the regular season, or even the right opponent.\n```\n"
+  },
+  {
     "id": "bill-simmons-bronny-defensive-assignment",
     "rank": 1,
     "title": "Bill Simmons invents the Bronny defensive assignment",
@@ -1336,7 +1366,7 @@
     "title": "Tatum's China tour gets a child-sized sequel",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-29",
     "heat": 99,
     "tags": [
@@ -1358,7 +1388,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1w0u7wr/jayson_tatum_got_nutmegged_by_a_kid_in_china/"
       }
     ],
-    "markdown": "---\nid: tatum-china-nutmeg-sequel\nrank: 1\ntitle: \"Tatum's China tour gets a child-sized sequel\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-29\"\nheat: 99\ntags:\n  - r/nba\n  - Jayson Tatum\n  - China\n  - youth camp\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip post showed a child slipping the ball between Jayson Tatum's legs\nduring a relaxed basketball activity in China. Tatum laughed and kept the camp\nmoment moving.\n\n## Why It Is Funny\n\nYesterday's miss-streak clip already gave the trip a running subplot. One\nsmall defender arrived with the perfect sequel before the tour could reset.\n\n## Comment Highlights\n\n- Label: The lowlight sequel\n  Summary: The thread treated the clip as another chapter in the same playful China-tour reel while also noting that Tatum was having fun with children.\n  Why funny: A casual camp activity acquired continuity, callbacks, and its own tiny antagonist.\n  Source URL: https://www.reddit.com/r/nba/comments/1w0u7wr/jayson_tatum_got_nutmegged_by_a_kid_in_china/\n\n## Quote\n\nThe sequel found a smaller defender.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w0u7wr/jayson_tatum_got_nutmegged_by_a_kid_in_china/\n- Source type: Reddit top-day post sharing a public youth-camp clip\n- Verification notes: Sports Radar reviewed the captured RSS item and public Reddit thread on 2026-08-29. The copy describes a playful camp moment and does not present it as competitive basketball.\n\n## Sports Radar Markdown\n\n```md\n**Tatum's China tour gets a child-sized sequel**\n\nA child slipped the ball between Jayson Tatum's legs and gave the China-tour reel another episode.\n\nWhy it works: Yesterday's miss-streak subplot barely had time to breathe before a much smaller defender delivered the callback.\n```\n"
+    "markdown": "---\nid: tatum-china-nutmeg-sequel\nrank: 1\ntitle: \"Tatum's China tour gets a child-sized sequel\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-29\"\nheat: 99\ntags:\n  - r/nba\n  - Jayson Tatum\n  - China\n  - youth camp\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip post showed a child slipping the ball between Jayson Tatum's legs\nduring a relaxed basketball activity in China. Tatum laughed and kept the camp\nmoment moving.\n\n## Why It Is Funny\n\nYesterday's miss-streak clip already gave the trip a running subplot. One\nsmall defender arrived with the perfect sequel before the tour could reset.\n\n## Comment Highlights\n\n- Label: The lowlight sequel\n  Summary: The thread treated the clip as another chapter in the same playful China-tour reel while also noting that Tatum was having fun with children.\n  Why funny: A casual camp activity acquired continuity, callbacks, and its own tiny antagonist.\n  Source URL: https://www.reddit.com/r/nba/comments/1w0u7wr/jayson_tatum_got_nutmegged_by_a_kid_in_china/\n\n## Quote\n\nThe sequel found a smaller defender.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w0u7wr/jayson_tatum_got_nutmegged_by_a_kid_in_china/\n- Source type: Reddit top-day post sharing a public youth-camp clip\n- Verification notes: Sports Radar reviewed the captured RSS item and public Reddit thread on 2026-08-29. The copy describes a playful camp moment and does not present it as competitive basketball.\n\n## Sports Radar Markdown\n\n```md\n**Tatum's China tour gets a child-sized sequel**\n\nA child slipped the ball between Jayson Tatum's legs and gave the China-tour reel another episode.\n\nWhy it works: Yesterday's miss-streak subplot barely had time to breathe before a much smaller defender delivered the callback.\n```\n"
   },
   {
     "id": "alamodome-water-cannon-opener",
@@ -1886,7 +1916,7 @@
     "title": "Betis turns the Champions League draw into reaction memes",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-29",
     "heat": 98,
     "tags": [
@@ -1908,7 +1938,7 @@
         "sourceUrl": "https://www.reddit.com/r/soccer/comments/1w0u53f/official_betis_instagram_account_posted_this/"
       }
     ],
-    "markdown": "---\nid: betis-champions-league-reaction-board\nrank: 2\ntitle: \"Betis turns the Champions League draw into reaction memes\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-29\"\nheat: 98\ntags:\n  - r/soccer\n  - Real Betis\n  - Champions League\n  - official account\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post shared Real Betis' official Instagram reaction to its\nChampions League draw. The club assigned different internet-reaction clips to\nthe opponents instead of publishing a standard fixture graphic.\n\n## Why It Is Funny\n\nAn official club account processed competitive uncertainty like a group chat.\nThe draw became a mood board before it became a schedule.\n\n## Comment Highlights\n\n- Label: Official-account brainrot\n  Summary: The thread praised the club account for using a different reaction for each opponent and debated which references fit best.\n  Why funny: A formal European draw received the emotional vocabulary of a meme folder.\n  Source URL: https://www.reddit.com/r/soccer/comments/1w0u53f/official_betis_instagram_account_posted_this/\n\n## Quote\n\nThe draw arrived with its own reaction folder.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1w0u53f/official_betis_instagram_account_posted_this/\n- Source type: Reddit top-day post sharing a public Real Betis social video\n- Verification notes: Sports Radar reviewed the captured RSS item and public Reddit thread on 2026-08-29. The copy describes the reaction-video format without reproducing the full post or its media.\n\n## Sports Radar Markdown\n\n```md\n**Betis turns the Champions League draw into reaction memes**\n\nReal Betis assigned internet reactions to its Champions League opponents instead of settling for a fixture graphic.\n\nWhy it works: A formal draw becomes a group-chat mood board before anyone reaches kickoff.\n```\n"
+    "markdown": "---\nid: betis-champions-league-reaction-board\nrank: 2\ntitle: \"Betis turns the Champions League draw into reaction memes\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-29\"\nheat: 98\ntags:\n  - r/soccer\n  - Real Betis\n  - Champions League\n  - official account\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post shared Real Betis' official Instagram reaction to its\nChampions League draw. The club assigned different internet-reaction clips to\nthe opponents instead of publishing a standard fixture graphic.\n\n## Why It Is Funny\n\nAn official club account processed competitive uncertainty like a group chat.\nThe draw became a mood board before it became a schedule.\n\n## Comment Highlights\n\n- Label: Official-account brainrot\n  Summary: The thread praised the club account for using a different reaction for each opponent and debated which references fit best.\n  Why funny: A formal European draw received the emotional vocabulary of a meme folder.\n  Source URL: https://www.reddit.com/r/soccer/comments/1w0u53f/official_betis_instagram_account_posted_this/\n\n## Quote\n\nThe draw arrived with its own reaction folder.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1w0u53f/official_betis_instagram_account_posted_this/\n- Source type: Reddit top-day post sharing a public Real Betis social video\n- Verification notes: Sports Radar reviewed the captured RSS item and public Reddit thread on 2026-08-29. The copy describes the reaction-video format without reproducing the full post or its media.\n\n## Sports Radar Markdown\n\n```md\n**Betis turns the Champions League draw into reaction memes**\n\nReal Betis assigned internet reactions to its Champions League opponents instead of settling for a fixture graphic.\n\nWhy it works: A formal draw becomes a group-chat mood board before anyone reaches kickoff.\n```\n"
   },
   {
     "id": "blake-voicemail-psychologist",
@@ -2039,6 +2069,36 @@
       }
     ],
     "markdown": "---\nid: de-la-fuente-best-team-counter\nrank: 2\ntitle: \"De la Fuente compliments France, then raises the bid\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-15\"\nheat: 95\ntags:\n  - r/soccer\n  - Luis de la Fuente\n  - Spain\n  - France\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post quoted Spain coach Luis de la Fuente calling France one of the\nworld's best teams before declaring that France had just faced the best one.\n\n## Why It Is Funny\n\nIt begins as respectful coach-speak and turns into a winner's mic drop. The\ncompliment is really just the setup for a larger compliment to his own team.\n\n## Comment Highlights\n\n- Label: Respectful swagger\n  Summary: Fans liked that the line complimented France before turning the praise back toward Spain.\n  Why funny: The mic drop arrives disguised as good sportsmanship.\n  Source URL: https://www.reddit.com/r/soccer/comments/1uwmgbz/de_la_fuente_tonight_we_faced_one_of_the_best/\n- Label: One-line verdict\n  Summary: The thread treated the two-part comparison like a cold lyric rather than standard coach-speak.\n  Why funny: A long post-match answer gets remembered for the sentence that quietly ends the debate.\n  Source URL: https://www.reddit.com/r/soccer/comments/1uwmgbz/de_la_fuente_tonight_we_faced_one_of_the_best/\n\n## Quote\n\nCompliment the opponent, then raise the bid.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1uwmgbz/de_la_fuente_tonight_we_faced_one_of_the_best/\n- Source type: Reddit / r/soccer top-day quote post\n- Verification notes: the captured RSS title contains the two-part comparison; present it as a post-match swagger line, not broader analysis of either team\n\n## Sports Radar Markdown\n\n```md\n**De la Fuente compliments France, then raises the bid**\n\nSpain's coach used a gracious opponent compliment as the runway for his own team's mic drop.\n\nWhy it works: respectful coach-speak transforms into winner swagger without changing sentences.\n```\n"
+  },
+  {
+    "id": "dj-giddens-team-touchdown-party",
+    "rank": 2,
+    "title": "DJ Giddens scores and the whole team clocks in",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-30",
+    "heat": 98,
+    "tags": [
+      "r/nfl",
+      "DJ Giddens",
+      "Indianapolis Colts",
+      "touchdown celebration"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl clip post showed DJ Giddens scoring his first NFL touchdown after\nentering college football without a recruiting-star rating. His Colts\nteammates emptied the sideline to celebrate with him.",
+    "whyFunny": "One preseason touchdown received the attendance of a championship photo. The\nwhole roster apparently decided the moment needed witnesses.",
+    "quote": "The touchdown came with mandatory attendance.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w1vm46/highlight_dj_giddens_went_from_zerostar_hs/",
+    "commentHighlights": [
+      {
+        "label": "Full-roster attendance",
+        "summary": "The thread was briefly confused by the size of the celebration, then settled on a simple explanation: his teammates clearly wanted the moment for him.",
+        "whyFunny": "A first touchdown turned into an all-hands meeting with much better morale.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w1vm46/highlight_dj_giddens_went_from_zerostar_hs/"
+      }
+    ],
+    "markdown": "---\nid: dj-giddens-team-touchdown-party\nrank: 2\ntitle: \"DJ Giddens scores and the whole team clocks in\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-30\"\nheat: 98\ntags:\n  - r/nfl\n  - DJ Giddens\n  - Indianapolis Colts\n  - touchdown celebration\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl clip post showed DJ Giddens scoring his first NFL touchdown after\nentering college football without a recruiting-star rating. His Colts\nteammates emptied the sideline to celebrate with him.\n\n## Why It Is Funny\n\nOne preseason touchdown received the attendance of a championship photo. The\nwhole roster apparently decided the moment needed witnesses.\n\n## Comment Highlights\n\n- Label: Full-roster attendance\n  Summary: The thread was briefly confused by the size of the celebration, then settled on a simple explanation: his teammates clearly wanted the moment for him.\n  Why funny: A first touchdown turned into an all-hands meeting with much better morale.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w1vm46/highlight_dj_giddens_went_from_zerostar_hs/\n\n## Quote\n\nThe touchdown came with mandatory attendance.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w1vm46/highlight_dj_giddens_went_from_zerostar_hs/\n- Source type: Reddit top-day post sharing a public preseason highlight\n- Verification notes: Sports Radar reviewed the recovered collector output and public Reddit thread on 2026-08-30. The zero-star framing, first-touchdown context, and team celebration are attributed to the source post.\n\n## Sports Radar Markdown\n\n```md\n**DJ Giddens scores and the whole team clocks in**\n\nDJ Giddens scored his first NFL touchdown and the Colts treated the end zone like a team meeting.\n\nWhy it works: A preseason score gets the attendance and morale of a championship photo.\n```\n"
   },
   {
     "id": "durant-accidentally-walks-into-forty",
@@ -4097,6 +4157,36 @@
     "markdown": "---\nid: ja-morant-teammate-ragebait\nrank: 3\ntitle: \"Ja Morant discovers the roster's ragebait department\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-12\"\nheat: 91\ntags:\n  - r/nba\n  - Ja Morant\n  - teammates\n  - ragebait\npublic_ready: true\n---\n\n## Summary\n\nAsked what he had learned about his new teammates, Ja Morant said they use\nragebait to manufacture a competitive edge before they play.\n\n## Why It Is Funny\n\nThe modern scouting report now includes who can annoy the group chat most\nefficiently. Team chemistry sounds like a deliberately hostile comments section.\n\n## Comment Highlights\n\n- Label: Pregame engagement farming\n  Summary: Fans imagined teammates posting irritating takes before games just to sharpen the mood.\n  Why funny: Internet growth tactics become part of athletic preparation.\n  Source URL: https://www.reddit.com/r/nba/comments/1uttj8o/ja_morant_about_what_he_learned_from_his_new/\n- Label: The group-chat scouting report\n  Summary: The thread treated ragebait skill as another roster attribute to evaluate.\n  Why funny: A player's intangible is now the ability to make everyone type faster.\n  Source URL: https://www.reddit.com/r/nba/comments/1uttj8o/ja_morant_about_what_he_learned_from_his_new/\n\n## Quote\n\nThe pregame plan starts in the replies.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uttj8o/ja_morant_about_what_he_learned_from_his_new/\n- Source type: Reddit / r/nba top-day quote thread\n- Verification notes: public page includes Morant's short ragebait description and competitive framing; avoid reproducing the full response\n\n## Sports Radar Markdown\n\n```md\n**Ja Morant discovers the roster's ragebait department**\n\nHis new teammates apparently manufacture competitive edge by annoying one another on purpose.\n\nWhy it works: Team chemistry has become comments-section strategy.\n```\n"
   },
   {
+    "id": "jaguars-five-star-qb-collection",
+    "rank": 3,
+    "title": "Jacksonville starts a five-star quarterback collection",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-30",
+    "heat": 97,
+    "tags": [
+      "r/nfl",
+      "Jacksonville Jaguars",
+      "Trevor Lawrence",
+      "Quinn Ewers"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl post reported Jacksonville trading for Quinn Ewers. The thread then\nnoticed that Ewers and Trevor Lawrence both sit near the top of one published\nall-time high-school quarterback recruiting list.",
+    "whyFunny": "The transaction began as backup-quarterback housekeeping and became roster\narchaeology. Jacksonville is apparently collecting old recruiting screens.",
+    "quote": "The depth chart opened an old recruiting tab.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w1xdst/schultz_the_jaguars_are_trading_for_dolphins_qb/",
+    "commentHighlights": [
+      {
+        "label": "Recruiting mode",
+        "summary": "Fans reframed the quarterback room as two former elite high-school prospects occupying very different points in their NFL careers.",
+        "whyFunny": "A depth-chart move accidentally recreates the top of an old recruiting database.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w1xdst/schultz_the_jaguars_are_trading_for_dolphins_qb/"
+      }
+    ],
+    "markdown": "---\nid: jaguars-five-star-qb-collection\nrank: 3\ntitle: \"Jacksonville starts a five-star quarterback collection\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-30\"\nheat: 97\ntags:\n  - r/nfl\n  - Jacksonville Jaguars\n  - Trevor Lawrence\n  - Quinn Ewers\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl post reported Jacksonville trading for Quinn Ewers. The thread then\nnoticed that Ewers and Trevor Lawrence both sit near the top of one published\nall-time high-school quarterback recruiting list.\n\n## Why It Is Funny\n\nThe transaction began as backup-quarterback housekeeping and became roster\narchaeology. Jacksonville is apparently collecting old recruiting screens.\n\n## Comment Highlights\n\n- Label: Recruiting mode\n  Summary: Fans reframed the quarterback room as two former elite high-school prospects occupying very different points in their NFL careers.\n  Why funny: A depth-chart move accidentally recreates the top of an old recruiting database.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w1xdst/schultz_the_jaguars_are_trading_for_dolphins_qb/\n\n## Quote\n\nThe depth chart opened an old recruiting tab.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w1xdst/schultz_the_jaguars_are_trading_for_dolphins_qb/\n- Source type: Reddit top-day post discussing a publicly reported NFL trade\n- Verification notes: Sports Radar reviewed the recovered collector output and public Reddit thread on 2026-08-30. The recruiting-rank angle is explicitly framed as a thread observation, not independent reporting.\n\n## Sports Radar Markdown\n\n```md\n**Jacksonville starts a five-star quarterback collection**\n\nThe Quinn Ewers trade gave Jacksonville two quarterbacks parked near the top of an old high-school recruiting list.\n\nWhy it works: Backup-quarterback housekeeping somehow turns into roster archaeology.\n```\n"
+  },
+  {
     "id": "jerry-west-shaq-movie-math",
     "rank": 3,
     "title": "Jerry West answers Shaq's contract ask with movie math",
@@ -4427,7 +4517,7 @@
     "title": "Mane reminds Ronaldo to press the celebration button",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-29",
     "heat": 97,
     "tags": [
@@ -4449,7 +4539,7 @@
         "sourceUrl": "https://www.reddit.com/r/soccer/comments/1w155pt/sadio_mane_reminds_ronaldo_to_do_his_celebration/"
       }
     ],
-    "markdown": "---\nid: mane-reminds-ronaldo-celebration\nrank: 3\ntitle: \"Mane reminds Ronaldo to press the celebration button\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-29\"\nheat: 97\ntags:\n  - r/soccer\n  - Sadio Mane\n  - Cristiano Ronaldo\n  - celebration\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer clip post showed Sadio Mane reminding Cristiano Ronaldo to do his\nsignature goal celebration. Ronaldo appeared to remember, ran over, and\ncompleted it.\n\n## Why It Is Funny\n\nThe most recognizable celebration in soccer briefly needed a calendar alert.\nMane supplied the reminder and Ronaldo handled the muscle memory.\n\n## Comment Highlights\n\n- Label: Signature reminder\n  Summary: The thread read the exchange as a wholesome prompt and compared Mane's urgency to reminding someone about a familiar routine.\n  Why funny: A global trademark moment begins with one teammate quietly restoring the checklist.\n  Source URL: https://www.reddit.com/r/soccer/comments/1w155pt/sadio_mane_reminds_ronaldo_to_do_his_celebration/\n\n## Quote\n\nThe celebration needed one reminder.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1w155pt/sadio_mane_reminds_ronaldo_to_do_his_celebration/\n- Source type: Reddit top-day post sharing a public soccer clip\n- Verification notes: Sports Radar reviewed the captured RSS item and public Reddit thread on 2026-08-29. The copy stays within the visible prompt-and-celebration sequence and adds no match claims.\n\n## Sports Radar Markdown\n\n```md\n**Mane reminds Ronaldo to press the celebration button**\n\nSadio Mane prompted Cristiano Ronaldo to do the signature celebration, and muscle memory took it from there.\n\nWhy it works: Soccer's most recognizable routine briefly requires a teammate to restore the checklist.\n```\n"
+    "markdown": "---\nid: mane-reminds-ronaldo-celebration\nrank: 3\ntitle: \"Mane reminds Ronaldo to press the celebration button\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-29\"\nheat: 97\ntags:\n  - r/soccer\n  - Sadio Mane\n  - Cristiano Ronaldo\n  - celebration\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer clip post showed Sadio Mane reminding Cristiano Ronaldo to do his\nsignature goal celebration. Ronaldo appeared to remember, ran over, and\ncompleted it.\n\n## Why It Is Funny\n\nThe most recognizable celebration in soccer briefly needed a calendar alert.\nMane supplied the reminder and Ronaldo handled the muscle memory.\n\n## Comment Highlights\n\n- Label: Signature reminder\n  Summary: The thread read the exchange as a wholesome prompt and compared Mane's urgency to reminding someone about a familiar routine.\n  Why funny: A global trademark moment begins with one teammate quietly restoring the checklist.\n  Source URL: https://www.reddit.com/r/soccer/comments/1w155pt/sadio_mane_reminds_ronaldo_to_do_his_celebration/\n\n## Quote\n\nThe celebration needed one reminder.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1w155pt/sadio_mane_reminds_ronaldo_to_do_his_celebration/\n- Source type: Reddit top-day post sharing a public soccer clip\n- Verification notes: Sports Radar reviewed the captured RSS item and public Reddit thread on 2026-08-29. The copy stays within the visible prompt-and-celebration sequence and adds no match claims.\n\n## Sports Radar Markdown\n\n```md\n**Mane reminds Ronaldo to press the celebration button**\n\nSadio Mane prompted Cristiano Ronaldo to do the signature celebration, and muscle memory took it from there.\n\nWhy it works: Soccer's most recognizable routine briefly requires a teammate to restore the checklist.\n```\n"
   },
   {
     "id": "mourinho-five-second-sprint",
@@ -5594,7 +5684,7 @@
     "title": "KG spends one last season dunking and collecting techs",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-29",
     "heat": 96,
     "tags": [
@@ -5616,7 +5706,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1w108c2/highlight_39yearold_kevin_garnett_with_the/"
       }
     ],
-    "markdown": "---\nid: garnett-dunk-taunt-last-season\nrank: 4\ntitle: \"KG spends one last season dunking and collecting techs\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-29\"\nheat: 96\ntags:\n  - r/nba\n  - Kevin Garnett\n  - Blake Griffin\n  - Timberwolves\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba throwback revisited 39-year-old Kevin Garnett dunking on Blake\nGriffin during his final NBA season. The clip also included a technical foul\nand a young Timberwolves bench celebrating the whole sequence.\n\n## Why It Is Funny\n\nRetirement-tour energy usually asks for reflection. Garnett used the moment to\ndunk, taunt, and leave the officials one last form to complete.\n\n## Comment Highlights\n\n- Label: The forgotten roster\n  Summary: The thread rediscovered the young Minnesota roster around Garnett and debated whether the taunting technical looked severe enough to match the call.\n  Why funny: One old highlight reopened both a roster time capsule and an officiating argument.\n  Source URL: https://www.reddit.com/r/nba/comments/1w108c2/highlight_39yearold_kevin_garnett_with_the/\n\n## Quote\n\nOne last dunk, one last form for the officials.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w108c2/highlight_39yearold_kevin_garnett_with_the/\n- Source type: Reddit top-day throwback post sharing a public NBA highlight\n- Verification notes: Sports Radar reviewed the captured RSS item and public Reddit thread on 2026-08-29. The 2015 date, final-season context, dunk, and technical are attributed to the source post and visible thread context.\n\n## Sports Radar Markdown\n\n```md\n**KG spends one last season dunking and collecting techs**\n\nAt 39, Kevin Garnett dunked on Blake Griffin, drew a technical, and gave a young Wolves bench the full KG experience.\n\nWhy it works: A retirement-season throwback skips reflection and goes straight to one more dunk plus paperwork.\n```\n"
+    "markdown": "---\nid: garnett-dunk-taunt-last-season\nrank: 4\ntitle: \"KG spends one last season dunking and collecting techs\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-29\"\nheat: 96\ntags:\n  - r/nba\n  - Kevin Garnett\n  - Blake Griffin\n  - Timberwolves\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba throwback revisited 39-year-old Kevin Garnett dunking on Blake\nGriffin during his final NBA season. The clip also included a technical foul\nand a young Timberwolves bench celebrating the whole sequence.\n\n## Why It Is Funny\n\nRetirement-tour energy usually asks for reflection. Garnett used the moment to\ndunk, taunt, and leave the officials one last form to complete.\n\n## Comment Highlights\n\n- Label: The forgotten roster\n  Summary: The thread rediscovered the young Minnesota roster around Garnett and debated whether the taunting technical looked severe enough to match the call.\n  Why funny: One old highlight reopened both a roster time capsule and an officiating argument.\n  Source URL: https://www.reddit.com/r/nba/comments/1w108c2/highlight_39yearold_kevin_garnett_with_the/\n\n## Quote\n\nOne last dunk, one last form for the officials.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w108c2/highlight_39yearold_kevin_garnett_with_the/\n- Source type: Reddit top-day throwback post sharing a public NBA highlight\n- Verification notes: Sports Radar reviewed the captured RSS item and public Reddit thread on 2026-08-29. The 2015 date, final-season context, dunk, and technical are attributed to the source post and visible thread context.\n\n## Sports Radar Markdown\n\n```md\n**KG spends one last season dunking and collecting techs**\n\nAt 39, Kevin Garnett dunked on Blake Griffin, drew a technical, and gave a young Wolves bench the full KG experience.\n\nWhy it works: A retirement-season throwback skips reflection and goes straight to one more dunk plus paperwork.\n```\n"
   },
   {
     "id": "klay-full-government-response",
@@ -6049,6 +6139,36 @@
       }
     ],
     "markdown": "---\nid: zeferjahn-gameday-missing-pitch\nrank: 4\ntitle: \"Ryan Zeferjahn throws a pitch off the Gameday map\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-25\"\nheat: 92\ntags:\n  - r/baseball\n  - Ryan Zeferjahn\n  - MLB Gameday\n  - wild pitch\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball clip showed a Ryan Zeferjahn pitch traveling so far outside that\nMLB Gameday did not place it on the pitch chart.\n\n## Why It Is Funny\n\nMost misses still become data. This one appeared to leave the coordinate\nsystem, turning the broadcast graphic into a technical support ticket.\n\n## Comment Highlights\n\n- Label: Challenge request\n  Summary: Fans wanted the catcher to challenge the call solely to force the system to measure the pitch.\n  Why funny: Replay review was repurposed as scientific research into missing coordinates.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v5zvjj/ryan_zeferjahns_pitch_that_did_not_register_on/\n- Label: Scorecard geometry\n  Summary: The thread imagined how far a scorecard would need to stretch to record the miss.\n  Why funny: One pitch required baseball notation to consider a wider canvas.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v5zvjj/ryan_zeferjahns_pitch_that_did_not_register_on/\n\n## Quote\n\nThe pitch chart has declined jurisdiction.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v5zvjj/ryan_zeferjahns_pitch_that_did_not_register_on/\n- Source type: Reddit video post\n- Verification notes: The public Reddit post and discussion were reviewed on 2026-07-25.\n\n## Sports Radar Markdown\n\n```md\n**Ryan Zeferjahn throws a pitch off the Gameday map**\n\nOne miss traveled so far outside that MLB Gameday left it off the pitch chart.\n\nWhy it works: The broadcast graphic became a technical support ticket.\n```\n"
+  },
+  {
+    "id": "mcdonalds-1977-all-americans-photo",
+    "rank": 4,
+    "title": "The 1977 All-Americans become a roster time capsule",
+    "league": "NCAA Basketball",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-30",
+    "heat": 96,
+    "tags": [
+      "r/CollegeBasketball",
+      "McDonald's All-American",
+      "Magic Johnson",
+      "basketball history"
+    ],
+    "public_ready": true,
+    "summary": "An r/CollegeBasketball post shared a faded image and roster from the 1977\nMcDonald's All-American class. The post highlighted names including Magic\nJohnson, Danny Ainge, and Kelly Tripucka.",
+    "whyFunny": "The photo quality asks for detective work while the roster keeps producing\nrecognition. It looks less like a recruiting graphic and more like basketball\nhistory waiting for someone to turn on a lamp.",
+    "quote": "Basketball history, photographed before the flash arrived.",
+    "sourceUrl": "https://www.reddit.com/r/CollegeBasketball/comments/1w26w04/1977_mcdonalds_allamericans/",
+    "commentHighlights": [
+      {
+        "label": "Driveway legends",
+        "summary": "Fans used the roster to remember regional stars, old recruiting paths, and the players they imitated in their own driveways.",
+        "whyFunny": "One dim team photo reopened several decades of extremely specific basketball memory.",
+        "sourceUrl": "https://www.reddit.com/r/CollegeBasketball/comments/1w26w04/1977_mcdonalds_allamericans/"
+      }
+    ],
+    "markdown": "---\nid: mcdonalds-1977-all-americans-photo\nrank: 4\ntitle: \"The 1977 All-Americans become a roster time capsule\"\nleague: \"NCAA Basketball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-30\"\nheat: 96\ntags:\n  - r/CollegeBasketball\n  - McDonald's All-American\n  - Magic Johnson\n  - basketball history\npublic_ready: true\n---\n\n## Summary\n\nAn r/CollegeBasketball post shared a faded image and roster from the 1977\nMcDonald's All-American class. The post highlighted names including Magic\nJohnson, Danny Ainge, and Kelly Tripucka.\n\n## Why It Is Funny\n\nThe photo quality asks for detective work while the roster keeps producing\nrecognition. It looks less like a recruiting graphic and more like basketball\nhistory waiting for someone to turn on a lamp.\n\n## Comment Highlights\n\n- Label: Driveway legends\n  Summary: Fans used the roster to remember regional stars, old recruiting paths, and the players they imitated in their own driveways.\n  Why funny: One dim team photo reopened several decades of extremely specific basketball memory.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1w26w04/1977_mcdonalds_allamericans/\n\n## Quote\n\nBasketball history, photographed before the flash arrived.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1w26w04/1977_mcdonalds_allamericans/\n- Source type: Reddit top-day history post sharing a public archival image\n- Verification notes: Sports Radar reviewed the recovered collector output and public Reddit thread on 2026-08-30. Player names and image-quality framing are attributed to the source post; the image is not republished here.\n\n## Sports Radar Markdown\n\n```md\n**The 1977 All-Americans become a roster time capsule**\n\nA faded 1977 roster photo sent college-basketball fans searching for Magic Johnson, Danny Ainge, and their own driveway legends.\n\nWhy it works: The picture needs a flash, but the names keep turning the lights on.\n```\n"
   },
   {
     "id": "1995-recruiting-time-capsule",
@@ -7115,7 +7235,7 @@
     "title": "Josh Johnson discovers hockey is a soap opera on ice",
     "league": "NHL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-08-29",
     "heat": 95,
     "tags": [
@@ -7137,7 +7257,7 @@
         "sourceUrl": "https://www.reddit.com/r/hockey/comments/1w14t6i/comic_josh_johnson_talking_hockey/"
       }
     ],
-    "markdown": "---\nid: josh-johnson-hockey-soap-opera\nrank: 5\ntitle: \"Josh Johnson discovers hockey is a soap opera on ice\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-29\"\nheat: 95\ntags:\n  - r/hockey\n  - Josh Johnson\n  - hockey lore\n  - comedy\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey post shared comedian Josh Johnson describing the sport's fights,\nclear wall, and recurring backstories. Fans especially recognized his framing\nof hockey as serialized drama.\n\n## Why It Is Funny\n\nThe sport markets speed and toughness. Johnson found the deeper engine: every\nfight comes with previous episodes and the rink is built like a television\nset designed to keep the cast inside.\n\n## Comment Highlights\n\n- Label: Soap-opera recognition\n  Summary: The thread latched onto the idea that hockey fights often carry backstory from earlier games and appreciated that the bit understood the sport.\n  Why funny: Fans heard an outsider explain their favorite lore system with suspicious accuracy.\n  Source URL: https://www.reddit.com/r/hockey/comments/1w14t6i/comic_josh_johnson_talking_hockey/\n\n## Quote\n\nEvery fight has previous episodes.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1w14t6i/comic_josh_johnson_talking_hockey/\n- Source type: Reddit top-day post sharing a public comedy video about hockey\n- Verification notes: Sports Radar reviewed the captured RSS item and public Reddit thread on 2026-08-29. The summary paraphrases the video's themes and the thread's reaction without reproducing the routine.\n\n## Sports Radar Markdown\n\n```md\n**Josh Johnson discovers hockey is a soap opera on ice**\n\nJosh Johnson found the hockey formula: speed, a clear wall, and fights carrying plot from three games ago.\n\nWhy it works: An outsider explains the sport as serialized drama and the fans immediately recognize the lore system.\n```\n"
+    "markdown": "---\nid: josh-johnson-hockey-soap-opera\nrank: 5\ntitle: \"Josh Johnson discovers hockey is a soap opera on ice\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-29\"\nheat: 95\ntags:\n  - r/hockey\n  - Josh Johnson\n  - hockey lore\n  - comedy\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey post shared comedian Josh Johnson describing the sport's fights,\nclear wall, and recurring backstories. Fans especially recognized his framing\nof hockey as serialized drama.\n\n## Why It Is Funny\n\nThe sport markets speed and toughness. Johnson found the deeper engine: every\nfight comes with previous episodes and the rink is built like a television\nset designed to keep the cast inside.\n\n## Comment Highlights\n\n- Label: Soap-opera recognition\n  Summary: The thread latched onto the idea that hockey fights often carry backstory from earlier games and appreciated that the bit understood the sport.\n  Why funny: Fans heard an outsider explain their favorite lore system with suspicious accuracy.\n  Source URL: https://www.reddit.com/r/hockey/comments/1w14t6i/comic_josh_johnson_talking_hockey/\n\n## Quote\n\nEvery fight has previous episodes.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1w14t6i/comic_josh_johnson_talking_hockey/\n- Source type: Reddit top-day post sharing a public comedy video about hockey\n- Verification notes: Sports Radar reviewed the captured RSS item and public Reddit thread on 2026-08-29. The summary paraphrases the video's themes and the thread's reaction without reproducing the routine.\n\n## Sports Radar Markdown\n\n```md\n**Josh Johnson discovers hockey is a soap opera on ice**\n\nJosh Johnson found the hockey formula: speed, a clear wall, and fights carrying plot from three games ago.\n\nWhy it works: An outsider explains the sport as serialized drama and the fans immediately recognize the lore system.\n```\n"
   },
   {
     "id": "kobe-gasol-hit-stick-throwback",
@@ -7541,6 +7661,36 @@
       }
     ],
     "markdown": "---\nid: oregon-fraser-valley-conference-math\nrank: 5\ntitle: \"Oregon's Canadian exhibition breaks the conference forecast\"\nleague: \"College Basketball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-10\"\nheat: 90\ntags:\n  - r/CollegeBasketball\n  - Oregon\n  - Fraser Valley\n  - exhibition\npublic_ready: true\n---\n\n## Summary\n\nAn r/CollegeBasketball post logged Oregon's 121-40 exhibition win over Fraser\nValley in British Columbia.\n\n## Why It Is Funny\n\nAn 81-point margin was too large to leave in August, so fans immediately used\nit to produce deeply unserious Big Ten forecasts. Exhibition math had already\ndeclared a champion.\n\n## Comment Highlights\n\n- Label: August standings model\n  Summary: Fans used separate Canadian exhibition scores to jokingly rank Big Ten teams.\n  Why funny: A summer tune-up became a fully confident conference projection.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vjuabj/oregon_121_fraser_valley_40/\n\n## Quote\n\nThe August standings model has no confidence interval.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vjuabj/oregon_121_fraser_valley_40/\n- Source type: Reddit top-day college-basketball exhibition post\n- Verification notes: Sports Radar reviewed the public r/CollegeBasketball post and discussion on 2026-08-10. The score and location come from the public post; the conference forecast is explicitly presented as fan humor.\n\n## Sports Radar Markdown\n\n```md\n**Oregon's Canadian exhibition breaks the conference forecast**\n\nOregon's 121-40 summer result became instant material for fake Big Ten math.\n\nWhy it works: Exhibition season has already declared a champion.\n```\n"
+  },
+  {
+    "id": "pitino-ncaa-lawyer-bill",
+    "rank": 5,
+    "title": "Pitino checks the NCAA's legal tab",
+    "league": "NCAA Basketball",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-08-30",
+    "heat": 95,
+    "tags": [
+      "r/CollegeBasketball",
+      "Rick Pitino",
+      "NCAA",
+      "eligibility rules"
+    ],
+    "public_ready": true,
+    "summary": "An r/CollegeBasketball post shared Rick Pitino questioning why the NCAA rolled\nout new rules before November. His complaint ended by wondering how much member\nmoney had already gone to lawyers.",
+    "whyFunny": "The coaching critique skipped the rulebook and opened the invoice. College\nbasketball's latest eligibility debate now comes with billable hours.",
+    "quote": "The rule change arrived with billable hours.",
+    "sourceUrl": "https://www.reddit.com/r/CollegeBasketball/comments/1w1xqtc/pitino_im_still_puzzled_as_to_why_the_ncaa_didnt/",
+    "commentHighlights": [
+      {
+        "label": "Calendar defense",
+        "summary": "The thread debated whether waiting would reduce the confusion or merely move the same lawsuits into the season.",
+        "whyFunny": "The proposed fix for legal chaos is rescheduling the chaos.",
+        "sourceUrl": "https://www.reddit.com/r/CollegeBasketball/comments/1w1xqtc/pitino_im_still_puzzled_as_to_why_the_ncaa_didnt/"
+      }
+    ],
+    "markdown": "---\nid: pitino-ncaa-lawyer-bill\nrank: 5\ntitle: \"Pitino checks the NCAA's legal tab\"\nleague: \"NCAA Basketball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-08-30\"\nheat: 95\ntags:\n  - r/CollegeBasketball\n  - Rick Pitino\n  - NCAA\n  - eligibility rules\npublic_ready: true\n---\n\n## Summary\n\nAn r/CollegeBasketball post shared Rick Pitino questioning why the NCAA rolled\nout new rules before November. His complaint ended by wondering how much member\nmoney had already gone to lawyers.\n\n## Why It Is Funny\n\nThe coaching critique skipped the rulebook and opened the invoice. College\nbasketball's latest eligibility debate now comes with billable hours.\n\n## Comment Highlights\n\n- Label: Calendar defense\n  Summary: The thread debated whether waiting would reduce the confusion or merely move the same lawsuits into the season.\n  Why funny: The proposed fix for legal chaos is rescheduling the chaos.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1w1xqtc/pitino_im_still_puzzled_as_to_why_the_ncaa_didnt/\n\n## Quote\n\nThe rule change arrived with billable hours.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1w1xqtc/pitino_im_still_puzzled_as_to_why_the_ncaa_didnt/\n- Source type: Reddit top-day post sharing a public Rick Pitino statement\n- Verification notes: Sports Radar reviewed the recovered collector output and public Reddit thread on 2026-08-30. The summary paraphrases the public statement and avoids reproducing its full wording.\n\n## Sports Radar Markdown\n\n```md\n**Pitino checks the NCAA's legal tab**\n\nRick Pitino looked at the NCAA's new rules and went straight to the lawyer bill.\n\nWhy it works: The eligibility debate becomes a calendar problem with billable hours attached.\n```\n"
   },
   {
     "id": "robert-horry-first-round-streak",
