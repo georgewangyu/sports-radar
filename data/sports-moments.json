@@ -342,7 +342,7 @@
     "title": "Desmond Bane turns an explanation into a second turnover",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-02",
     "heat": 99,
     "tags": [
@@ -364,7 +364,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1w4xxzq/desmond_bane_inexplicably_throws_the_ball_at_og/"
       }
     ],
-    "markdown": "---\nid: desmond-bane-second-turnover\nrank: 1\ntitle: \"Desmond Bane turns an explanation into a second turnover\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-02\"\nheat: 99\ntags:\n  - r/nba\n  - Desmond Bane\n  - OG Anunoby\n  - ball toss\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip showed Desmond Bane throwing the ball at OG Anunoby, followed by\nan explanation that the thread found almost as surprising as the throw.\n\n## Why It Is Funny\n\nThe original play lasted a moment. The improvised defense gave it an entire\nsecond possession.\n\n## Comment Highlights\n\n- Label: Backstory possession\n  Summary: The thread focused on how quickly the explanation expanded after the throw.\n  Why funny: A simple replay review turned into emergency storytelling.\n  Source URL: https://www.reddit.com/r/nba/comments/1w4xxzq/desmond_bane_inexplicably_throws_the_ball_at_og/\n\n## Quote\n\nThe explanation needed its own box score.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w4xxzq/desmond_bane_inexplicably_throws_the_ball_at_og/\n- Source type: Reddit top-day clip and public fan discussion\n- Verification notes: Sports Radar reviewed the current post RSS and visible comment context on 2026-09-02. The explanation and reactions are paraphrased rather than reproduced.\n\n## Sports Radar Markdown\n\n```md\n**Desmond Bane turns an explanation into a second turnover**\n\nDesmond Bane threw the ball at OG Anunoby, then supplied a defense almost as surprising as the play.\n\nWhy it works: One quick replay turned into a full possession of emergency storytelling.\n```\n"
+    "markdown": "---\nid: desmond-bane-second-turnover\nrank: 1\ntitle: \"Desmond Bane turns an explanation into a second turnover\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-02\"\nheat: 99\ntags:\n  - r/nba\n  - Desmond Bane\n  - OG Anunoby\n  - ball toss\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip showed Desmond Bane throwing the ball at OG Anunoby, followed by\nan explanation that the thread found almost as surprising as the throw.\n\n## Why It Is Funny\n\nThe original play lasted a moment. The improvised defense gave it an entire\nsecond possession.\n\n## Comment Highlights\n\n- Label: Backstory possession\n  Summary: The thread focused on how quickly the explanation expanded after the throw.\n  Why funny: A simple replay review turned into emergency storytelling.\n  Source URL: https://www.reddit.com/r/nba/comments/1w4xxzq/desmond_bane_inexplicably_throws_the_ball_at_og/\n\n## Quote\n\nThe explanation needed its own box score.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w4xxzq/desmond_bane_inexplicably_throws_the_ball_at_og/\n- Source type: Reddit top-day clip and public fan discussion\n- Verification notes: Sports Radar reviewed the current post RSS and visible comment context on 2026-09-02. The explanation and reactions are paraphrased rather than reproduced.\n\n## Sports Radar Markdown\n\n```md\n**Desmond Bane turns an explanation into a second turnover**\n\nDesmond Bane threw the ball at OG Anunoby, then supplied a defense almost as surprising as the play.\n\nWhy it works: One quick replay turned into a full possession of emergency storytelling.\n```\n"
   },
   {
     "id": "erik-lamela-monterrey-kitman-loophole",
@@ -784,6 +784,36 @@
       }
     ],
     "markdown": "---\nid: lamine-yamal-woke-up-too\nrank: 1\ntitle: \"Lamine Yamal also woke up this morning\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-11\"\nheat: 95\ntags:\n  - r/soccer\n  - Lamine Yamal\n  - Maxime de Cuyper\n  - dry-humor\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer clip turned routine pre-match hype about facing Lamine Yamal into\na perfectly flat observation: Yamal had also managed to wake up that morning.\n\n## Why It Is Funny\n\nThe studio sets up a grand comparison and gets the smallest technically true\nfact available. The anti-joke works because the delivery refuses to help it.\n\n## Comment Highlights\n\n- Label: Technically correct wins\n  Summary: Fans treated the literal answer as the best possible answer to an overbuilt setup.\n  Why funny: The analysis becomes undeniable by saying almost nothing.\n  Source URL: https://www.reddit.com/r/soccer/comments/1usx1r3/host_maxime_de_cuyper_woke_up_this_morning/\n- Label: Everyone joins the comparison\n  Summary: The thread extended the premise until ordinary viewers also qualified as Yamal comparisons.\n  Why funny: A superstar matchup collapses into a fact shared by most of the audience.\n  Source URL: https://www.reddit.com/r/soccer/comments/1usx1r3/host_maxime_de_cuyper_woke_up_this_morning/\n\n## Quote\n\nThe scouting report confirmed both players were awake.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1usx1r3/host_maxime_de_cuyper_woke_up_this_morning/\n- Source type: Reddit / r/soccer top-day clip thread\n- Verification notes: public Reddit page confirms the studio exchange and dry-humor reaction; paraphrase rather than reproducing the full dialogue\n\n## Sports Radar Markdown\n\n```md\n**Lamine Yamal also woke up this morning**\n\nAn r/soccer clip answered pre-match hype with the driest possible fact.\n\nWhy it works: the scouting report becomes airtight by saying almost nothing.\n```\n"
+  },
+  {
+    "id": "laquon-treadwell-number-thirteen",
+    "rank": 1,
+    "title": "Laquon Treadwell keeps No. 13 with zero targets",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-03",
+    "heat": 99,
+    "tags": [
+      "r/nfl",
+      "Laquon Treadwell",
+      "Keenan Allen",
+      "jersey number"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl thread linked a report that Laquon Treadwell kept No. 13 instead of\ngiving it to Keenan Allen after a family discussion. The report noted that\nTreadwell wore 13 in ten games last season without a catch or target.",
+    "whyFunny": "Jersey-number negotiations usually come with a star resume. This one arrived\nwith solemn deliberation and a perfectly empty receiving line.",
+    "quote": "The number has more targets than the stat line.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w5jzn4/laquon_treadwell_decides_not_to_give_no_13_to/",
+    "commentHighlights": [
+      {
+        "label": "Highlight-reel reflex",
+        "summary": "The thread immediately reached for Treadwell's famously recycled highlight montage.",
+        "whyFunny": "One jersey decision brought an entire piece of NFL internet lore back into rotation.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w5jzn4/laquon_treadwell_decides_not_to_give_no_13_to/"
+      }
+    ],
+    "markdown": "---\nid: laquon-treadwell-number-thirteen\nrank: 1\ntitle: \"Laquon Treadwell keeps No. 13 with zero targets\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-03\"\nheat: 99\ntags:\n  - r/nfl\n  - Laquon Treadwell\n  - Keenan Allen\n  - jersey number\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl thread linked a report that Laquon Treadwell kept No. 13 instead of\ngiving it to Keenan Allen after a family discussion. The report noted that\nTreadwell wore 13 in ten games last season without a catch or target.\n\n## Why It Is Funny\n\nJersey-number negotiations usually come with a star resume. This one arrived\nwith solemn deliberation and a perfectly empty receiving line.\n\n## Comment Highlights\n\n- Label: Highlight-reel reflex\n  Summary: The thread immediately reached for Treadwell's famously recycled highlight montage.\n  Why funny: One jersey decision brought an entire piece of NFL internet lore back into rotation.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w5jzn4/laquon_treadwell_decides_not_to_give_no_13_to/\n\n## Quote\n\nThe number has more targets than the stat line.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w5jzn4/laquon_treadwell_decides_not_to_give_no_13_to/\n- Source type: Reddit top-day discussion linking a public NBC Sports report\n- Verification notes: Sports Radar reviewed the current Reddit page, visible fan context, and linked report on 2026-09-03. The decision and season totals remain attributed to that report.\n\n## Sports Radar Markdown\n\n```md\n**Laquon Treadwell keeps No. 13 with zero targets**\n\nLaquon Treadwell kept No. 13 after a family discussion, despite wearing it for ten games without a catch or target last season.\n\nWhy it works: A solemn jersey-number decision arrived with the cleanest receiving line imaginable.\n```\n"
   },
   {
     "id": "haliburton-lebron-two-emoji-rejection",
@@ -2790,6 +2820,36 @@
     "markdown": "---\nid: murakami-bobblehead-two-homer-day\nrank: 2\ntitle: \"Murakami's bobblehead day becomes a family production\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-27\"\nheat: 96\ntags:\n  - r/baseball\n  - Munetaka Murakami\n  - bobblehead day\n  - family\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball highlight showed Munetaka Murakami hitting two home runs on his\nbobblehead day, with a companion post noting that his parents threw the\nceremonial first pitch.\n\n## Why It Is Funny\n\nThe promotional calendar already had enough plot. Murakami added two home runs\nand turned the whole afternoon into a suspiciously tidy family script.\n\n## Comment Highlights\n\n- Label: Storybook scorecard\n  Summary: Fans stacked the bobblehead giveaway, family first pitch, and two home runs into one increasingly improbable day.\n  Why funny: Every new detail sounded like an editor asking the script to be less believable.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v7fp6d/highlight_munetaka_murakami_has_a_twohomer_game/\n- Label: Both fields covered\n  Summary: The thread noted that the two home runs went to opposite fields.\n  Why funny: Even the direction of the highlights arrived with unnecessary narrative symmetry.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v7fp6d/highlight_munetaka_murakami_has_a_twohomer_game/\n\n## Quote\n\nThe bobblehead promotion came with a full family screenplay.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v7fp6d/highlight_munetaka_murakami_has_a_twohomer_game/\n- Source type: Reddit highlight post from the public MLB account and public discussion\n- Verification notes: The highlight, discussion, and companion first-pitch post were reviewed on 2026-07-27. The summary is limited to the public posts' framing.\n\n## Sports Radar Markdown\n\n```md\n**Murakami's bobblehead day becomes a family production**\n\nHis parents threw the first pitch, then Murakami supplied two home runs for the giveaway-day script.\n\nWhy it works: The promotional calendar accidentally booked a full movie.\n```\n"
   },
   {
+    "id": "orbit-bald-fan-polish",
+    "rank": 2,
+    "title": "Orbit opens a one-fan polish shop",
+    "league": "MLB",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-03",
+    "heat": 98,
+    "tags": [
+      "r/baseball",
+      "Houston Astros",
+      "Orbit",
+      "mascot bit"
+    ],
+    "public_ready": true,
+    "summary": "An r/baseball clip showed Astros mascot Orbit working over a bald fan's head\nwith a prop power tool during a stadium bit.",
+    "whyFunny": "The mascot skipped the usual dance routine and turned one seat into a tiny\nballpark body shop.",
+    "quote": "Ballpark maintenance found a volunteer.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1w5savf/astros_mascot_orbit_sands_down_a_bald_fans_head/",
+    "commentHighlights": [
+      {
+        "label": "Tool classification",
+        "summary": "The thread debated whether Orbit was sanding or polishing before inventing new bald-baseball vocabulary.",
+        "whyFunny": "The mascot bit immediately became a shop-class terminology review.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1w5savf/astros_mascot_orbit_sands_down_a_bald_fans_head/"
+      }
+    ],
+    "markdown": "---\nid: orbit-bald-fan-polish\nrank: 2\ntitle: \"Orbit opens a one-fan polish shop\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-03\"\nheat: 98\ntags:\n  - r/baseball\n  - Houston Astros\n  - Orbit\n  - mascot bit\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball clip showed Astros mascot Orbit working over a bald fan's head\nwith a prop power tool during a stadium bit.\n\n## Why It Is Funny\n\nThe mascot skipped the usual dance routine and turned one seat into a tiny\nballpark body shop.\n\n## Comment Highlights\n\n- Label: Tool classification\n  Summary: The thread debated whether Orbit was sanding or polishing before inventing new bald-baseball vocabulary.\n  Why funny: The mascot bit immediately became a shop-class terminology review.\n  Source URL: https://www.reddit.com/r/baseball/comments/1w5savf/astros_mascot_orbit_sands_down_a_bald_fans_head/\n\n## Quote\n\nBallpark maintenance found a volunteer.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1w5savf/astros_mascot_orbit_sands_down_a_bald_fans_head/\n- Source type: Current Reddit top-day stadium clip and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball top-day page, exact post, and visible fan context on 2026-09-03. The copy describes the public clip without reproducing it or naming the fan.\n\n## Sports Radar Markdown\n\n```md\n**Orbit opens a one-fan polish shop**\n\nAstros mascot Orbit turned a bald fan's seat into a tiny ballpark body shop.\n\nWhy it works: The stadium bit needed one prop tool and one extremely specific volunteer.\n```\n"
+  },
+  {
     "id": "quali-conley-reverse-hurdle",
     "rank": 2,
     "title": "Quali Conley clears the hurdle in reverse",
@@ -3492,7 +3552,7 @@
     "title": "Westbrook and CP3 retire to yachtball",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-02",
     "heat": 98,
     "tags": [
@@ -3507,7 +3567,7 @@
     "quote": "Retirement added a splash zone.",
     "sourceUrl": "https://www.reddit.com/r/nba/comments/1w5acqb/russell_westbrook_and_chris_paul_throwing_lobs_up/",
     "commentHighlights": [],
-    "markdown": "---\nid: westbrook-cp3-yachtball\nrank: 2\ntitle: \"Westbrook and CP3 retire to yachtball\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-02\"\nheat: 98\ntags:\n  - r/nba\n  - Russell Westbrook\n  - Chris Paul\n  - yacht basketball\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip showed Russell Westbrook and Chris Paul tossing alley-oops to\neach other on a yacht after retirement.\n\n## Why It Is Funny\n\nTwo point guards left the league and immediately invented a version of pickup\nbasketball with a marina dress code.\n\n## Comment Highlights\n\n## Quote\n\nRetirement added a splash zone.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w5acqb/russell_westbrook_and_chris_paul_throwing_lobs_up/\n- Source type: Reddit top-day post sharing a public yacht basketball clip\n- Verification notes: Sports Radar reviewed the current top-day RSS entry and exact public permalink on 2026-09-02. The copy describes the clip framing without reproducing raw comments.\n\n## Sports Radar Markdown\n\n```md\n**Westbrook and CP3 retire to yachtball**\n\nRussell Westbrook and Chris Paul spent retirement throwing alley-oops on a yacht.\n\nWhy it works: Pickup basketball finally found a marina dress code.\n```\n"
+    "markdown": "---\nid: westbrook-cp3-yachtball\nrank: 2\ntitle: \"Westbrook and CP3 retire to yachtball\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-02\"\nheat: 98\ntags:\n  - r/nba\n  - Russell Westbrook\n  - Chris Paul\n  - yacht basketball\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip showed Russell Westbrook and Chris Paul tossing alley-oops to\neach other on a yacht after retirement.\n\n## Why It Is Funny\n\nTwo point guards left the league and immediately invented a version of pickup\nbasketball with a marina dress code.\n\n## Comment Highlights\n\n## Quote\n\nRetirement added a splash zone.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w5acqb/russell_westbrook_and_chris_paul_throwing_lobs_up/\n- Source type: Reddit top-day post sharing a public yacht basketball clip\n- Verification notes: Sports Radar reviewed the current top-day RSS entry and exact public permalink on 2026-09-02. The copy describes the clip framing without reproducing raw comments.\n\n## Sports Radar Markdown\n\n```md\n**Westbrook and CP3 retire to yachtball**\n\nRussell Westbrook and Chris Paul spent retirement throwing alley-oops on a yacht.\n\nWhy it works: Pickup basketball finally found a marina dress code.\n```\n"
   },
   {
     "id": "westbrook-spiderman-assist",
@@ -4388,7 +4448,7 @@
     "title": "JJ Redick enters the Gordon Ramsay experience",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-02",
     "heat": 97,
     "tags": [
@@ -4403,7 +4463,7 @@
     "quote": "The kitchen won the shouting matchup.",
     "sourceUrl": "https://www.reddit.com/r/nba/comments/1w5a074/hells_kitchen_jj_redick_watching_in_disbelief_as/",
     "commentHighlights": [],
-    "markdown": "---\nid: jj-redick-gordon-ramsay-experience\nrank: 3\ntitle: \"JJ Redick enters the Gordon Ramsay experience\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-02\"\nheat: 97\ntags:\n  - r/nba\n  - JJ Redick\n  - Gordon Ramsay\n  - Hell's Kitchen\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip showed JJ Redick watching in disbelief as Gordon Ramsay reached\nfull volume during a Hell's Kitchen appearance.\n\n## Why It Is Funny\n\nRedick has spent years around NBA coaches and referees. The kitchen still\nfound a new setting on the sideline-volume dial.\n\n## Comment Highlights\n\n## Quote\n\nThe kitchen won the shouting matchup.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w5a074/hells_kitchen_jj_redick_watching_in_disbelief_as/\n- Source type: Reddit top-day post sharing a public Hell's Kitchen clip\n- Verification notes: Sports Radar reviewed the current top-day RSS entry and exact public permalink on 2026-09-02. The copy stays with the visible reaction framing and does not reproduce the show clip or raw comments.\n\n## Sports Radar Markdown\n\n```md\n**JJ Redick enters the Gordon Ramsay experience**\n\nJJ Redick watched Gordon Ramsay hit full volume during a Hell's Kitchen appearance.\n\nWhy it works: Years around NBA sidelines did not prepare him for the kitchen's shouting matchup.\n```\n"
+    "markdown": "---\nid: jj-redick-gordon-ramsay-experience\nrank: 3\ntitle: \"JJ Redick enters the Gordon Ramsay experience\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-02\"\nheat: 97\ntags:\n  - r/nba\n  - JJ Redick\n  - Gordon Ramsay\n  - Hell's Kitchen\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip showed JJ Redick watching in disbelief as Gordon Ramsay reached\nfull volume during a Hell's Kitchen appearance.\n\n## Why It Is Funny\n\nRedick has spent years around NBA coaches and referees. The kitchen still\nfound a new setting on the sideline-volume dial.\n\n## Comment Highlights\n\n## Quote\n\nThe kitchen won the shouting matchup.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w5a074/hells_kitchen_jj_redick_watching_in_disbelief_as/\n- Source type: Reddit top-day post sharing a public Hell's Kitchen clip\n- Verification notes: Sports Radar reviewed the current top-day RSS entry and exact public permalink on 2026-09-02. The copy stays with the visible reaction framing and does not reproduce the show clip or raw comments.\n\n## Sports Radar Markdown\n\n```md\n**JJ Redick enters the Gordon Ramsay experience**\n\nJJ Redick watched Gordon Ramsay hit full volume during a Hell's Kitchen appearance.\n\nWhy it works: Years around NBA sidelines did not prepare him for the kitchen's shouting matchup.\n```\n"
   },
   {
     "id": "jon-sumrall-sec-complaint-form",
@@ -5111,6 +5171,36 @@
     "sourceUrl": "https://www.reddit.com/r/hockey/comments/1vwmpts/andrei_svechnikov_visits_north_carolina_childrens/",
     "commentHighlights": [],
     "markdown": "---\nid: svechnikov-cup-dumpling-pregame\nrank: 3\ntitle: \"Svechnikov gives Cup night a dumpling pregame\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-24\"\nheat: 97\ntags:\n  - r/hockey\n  - Andrei Svechnikov\n  - Stanley Cup\n  - pelmeni\npublic_ready: true\n---\n\n## Summary\n\nA top-day r/hockey post showed Andrei Svechnikov visiting a North Carolina\nchildren's hospital and making Russian pelmeni before a night out with the Cup.\n\n## Why It Is Funny\n\nThe Stanley Cup itinerary acquired a home-cooked warmup. Before the trophy\ncould go out, somebody had to make sure the dumplings were ready.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nPelmeni before the parade.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vwmpts/andrei_svechnikov_visits_north_carolina_childrens/\n- Source type: Reddit RSS top-day public hockey post\n- Verification notes: Sports Radar reviewed the captured Reddit RSS item and confirmed the source thread returned HTTP 200 on 2026-08-24. The copy stays within the hospital-visit, pelmeni, and Cup-day framing supplied by the source post.\n\n## Sports Radar Markdown\n\n```md\n**Svechnikov gives Cup night a dumpling pregame**\n\nAndrei Svechnikov visited a children's hospital and made pelmeni before taking the Cup out.\n\nWhy it works: The trophy itinerary started with a home-cooked warmup.\n```\n"
+  },
+  {
+    "id": "texas-am-obnoxious-survey",
+    "rank": 3,
+    "title": "Texas A&M wins the obnoxiousness title",
+    "league": "College Football",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-03",
+    "heat": 97,
+    "tags": [
+      "r/CFB",
+      "Texas A&M",
+      "Texas",
+      "fan survey"
+    ],
+    "public_ready": true,
+    "summary": "A survey shared to r/CFB put Texas A&M narrowly ahead of the University of\nTexas for the state's most obnoxious college fanbase.",
+    "whyFunny": "College rivalry produced a trophy that the winner can celebrate only by\nproving the survey right.",
+    "quote": "Hang the banner carefully.",
+    "sourceUrl": "https://www.reddit.com/r/CFB/comments/1w5e72z/texas_am_fans_narrowly_top_ut_austin_fans_as/",
+    "commentHighlights": [
+      {
+        "label": "Third-place investigation",
+        "summary": "Much of the thread ignored the winner and tried to explain how Houston reached third place.",
+        "whyFunny": "Even the obnoxiousness rankings generated their own instant replay review.",
+        "sourceUrl": "https://www.reddit.com/r/CFB/comments/1w5e72z/texas_am_fans_narrowly_top_ut_austin_fans_as/"
+      }
+    ],
+    "markdown": "---\nid: texas-am-obnoxious-survey\nrank: 3\ntitle: \"Texas A&M wins the obnoxiousness title\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-03\"\nheat: 97\ntags:\n  - r/CFB\n  - Texas A&M\n  - Texas\n  - fan survey\npublic_ready: true\n---\n\n## Summary\n\nA survey shared to r/CFB put Texas A&M narrowly ahead of the University of\nTexas for the state's most obnoxious college fanbase.\n\n## Why It Is Funny\n\nCollege rivalry produced a trophy that the winner can celebrate only by\nproving the survey right.\n\n## Comment Highlights\n\n- Label: Third-place investigation\n  Summary: Much of the thread ignored the winner and tried to explain how Houston reached third place.\n  Why funny: Even the obnoxiousness rankings generated their own instant replay review.\n  Source URL: https://www.reddit.com/r/CFB/comments/1w5e72z/texas_am_fans_narrowly_top_ut_austin_fans_as/\n\n## Quote\n\nHang the banner carefully.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1w5e72z/texas_am_fans_narrowly_top_ut_austin_fans_as/\n- Source type: Reddit top-day discussion linking a public local-news survey\n- Verification notes: Sports Radar reviewed the current Reddit page and visible fan context on 2026-09-03. The ranking remains attributed to the survey shared by the source post.\n\n## Sports Radar Markdown\n\n```md\n**Texas A&M wins the obnoxiousness title**\n\nA survey put Texas A&M narrowly ahead of Texas for the state's most obnoxious college fanbase.\n\nWhy it works: The winner can celebrate only by immediately proving the survey right.\n```\n"
   },
   {
     "id": "bills-stadium-broken-table",
@@ -6517,6 +6607,36 @@
     "markdown": "---\nid: browns-two-dvoa-basements\nrank: 4\ntitle: \"The Browns book two seats in the DVOA basement\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-26\"\nheat: 96\ntags:\n  - r/nfl\n  - Cleveland Browns\n  - Deshaun Watson\n  - Shedeur Sanders\n  - DVOA\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl post citing passing DVOA placed Deshaun Watson's 2024 season 11th from\nthe bottom historically, then placed Shedeur Sanders's 2025 season fifth from\nthe bottom.\n\n## Why It Is Funny\n\nCleveland escaped one historic statistical basement and found a lower floor\nthe next season. Continuity arrived in the least useful category.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's review.\n\n## Quote\n\nCleveland discovered sub-basement analytics.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vyfldi/knowles_in_2024_his_last_year_playing_deshaun/\n- Source type: Reddit RSS top-day post relaying public DVOA figures\n- Verification notes: Sports Radar reviewed the captured RSS item and confirmed the public Reddit thread returned HTTP 200 on 2026-08-26. The rankings are presented as figures cited by the source post, not independent Sports Radar reporting.\n\n## Sports Radar Markdown\n\n```md\n**The Browns book two seats in the DVOA basement**\n\nOne source post placed consecutive Cleveland passing seasons among the worst DVOA marks recorded.\n\nWhy it works: The franchise found continuity in the one category nobody orders.\n```\n"
   },
   {
+    "id": "clippers-ten-pick-invoice",
+    "rank": 4,
+    "title": "The Clippers turn one trade into a ten-pick invoice",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-03",
+    "heat": 96,
+    "tags": [
+      "r/nba",
+      "Los Angeles Clippers",
+      "Paul George",
+      "Shai Gilgeous-Alexander"
+    ],
+    "public_ready": true,
+    "summary": "An r/nba thread stacked the original Paul George trade package beside the\nClippers' newly announced penalties and reframed the result as a ten-pick\ninvoice.",
+    "whyFunny": "The transaction stopped looking like a trade and started looking like a bill\nthat kept finding new pages seven years later.",
+    "quote": "The receipt needed a second roster sheet.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1w5mkrt/the_paul_george_for_shai_gilgeousalexander_trade/",
+    "commentHighlights": [
+      {
+        "label": "Hypothetical roster",
+        "summary": "Fans assembled the players and picks connected to the transaction into a team-sized list.",
+        "whyFunny": "The receipt was long enough to require its own depth chart.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1w5mkrt/the_paul_george_for_shai_gilgeousalexander_trade/"
+      }
+    ],
+    "markdown": "---\nid: clippers-ten-pick-invoice\nrank: 4\ntitle: \"The Clippers turn one trade into a ten-pick invoice\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-03\"\nheat: 96\ntags:\n  - r/nba\n  - Los Angeles Clippers\n  - Paul George\n  - Shai Gilgeous-Alexander\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba thread stacked the original Paul George trade package beside the\nClippers' newly announced penalties and reframed the result as a ten-pick\ninvoice.\n\n## Why It Is Funny\n\nThe transaction stopped looking like a trade and started looking like a bill\nthat kept finding new pages seven years later.\n\n## Comment Highlights\n\n- Label: Hypothetical roster\n  Summary: Fans assembled the players and picks connected to the transaction into a team-sized list.\n  Why funny: The receipt was long enough to require its own depth chart.\n  Source URL: https://www.reddit.com/r/nba/comments/1w5mkrt/the_paul_george_for_shai_gilgeousalexander_trade/\n\n## Quote\n\nThe receipt needed a second roster sheet.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w5mkrt/the_paul_george_for_shai_gilgeousalexander_trade/\n- Source type: Reddit top-day fan framing and public discussion\n- Verification notes: Sports Radar reviewed the current post and visible thread context on 2026-09-03. The ten-pick invoice is the thread's framing, not an independent Sports Radar accounting claim.\n\n## Sports Radar Markdown\n\n```md\n**The Clippers turn one trade into a ten-pick invoice**\n\nAn r/nba thread stacked the Paul George package beside the Clippers' new penalties and found a ten-pick receipt.\n\nWhy it works: Seven years later, the trade bill was still finding new pages.\n```\n"
+  },
+  {
     "id": "cowboys-brandon-myers-play-still-live",
     "rank": 4,
     "title": "The Cowboys turn a live play into a watch party",
@@ -6772,7 +6892,7 @@
     "title": "The Pirates build a record one single at a time",
     "league": "MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-02",
     "heat": 96,
     "tags": [
@@ -6787,7 +6907,7 @@
     "quote": "The rally made every local stop.",
     "sourceUrl": "https://www.reddit.com/r/baseball/comments/1w4w1m5/pirates_have_scored_the_most_runs_in_an_inning/",
     "commentHighlights": [],
-    "markdown": "---\nid: pirates-all-singles-record\nrank: 4\ntitle: \"The Pirates build a record one single at a time\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-02\"\nheat: 96\ntags:\n  - r/baseball\n  - Pittsburgh Pirates\n  - scoring record\n  - singles\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post highlighted the Pirates scoring the most runs in an MLB\ninning without an extra-base hit.\n\n## Why It Is Funny\n\nThe offense built a record without using the express lane. Every run arrived\nthrough the local-stops-only version of baseball.\n\n## Comment Highlights\n\n## Quote\n\nThe rally made every local stop.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1w4w1m5/pirates_have_scored_the_most_runs_in_an_inning/\n- Source type: Reddit top-day post about a public MLB game record\n- Verification notes: Sports Radar reviewed the preserved current top-day RSS entry and exact public permalink on 2026-09-02. The record remains attributed to the source post rather than presented as independent reporting.\n\n## Sports Radar Markdown\n\n```md\n**The Pirates build a record one single at a time**\n\nThe Pirates scored the most runs in an MLB inning without an extra-base hit.\n\nWhy it works: A record-setting rally took the local-stops-only route.\n```\n"
+    "markdown": "---\nid: pirates-all-singles-record\nrank: 4\ntitle: \"The Pirates build a record one single at a time\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-02\"\nheat: 96\ntags:\n  - r/baseball\n  - Pittsburgh Pirates\n  - scoring record\n  - singles\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post highlighted the Pirates scoring the most runs in an MLB\ninning without an extra-base hit.\n\n## Why It Is Funny\n\nThe offense built a record without using the express lane. Every run arrived\nthrough the local-stops-only version of baseball.\n\n## Comment Highlights\n\n## Quote\n\nThe rally made every local stop.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1w4w1m5/pirates_have_scored_the_most_runs_in_an_inning/\n- Source type: Reddit top-day post about a public MLB game record\n- Verification notes: Sports Radar reviewed the preserved current top-day RSS entry and exact public permalink on 2026-09-02. The record remains attributed to the source post rather than presented as independent reporting.\n\n## Sports Radar Markdown\n\n```md\n**The Pirates build a record one single at a time**\n\nThe Pirates scored the most runs in an MLB inning without an extra-base hit.\n\nWhy it works: A record-setting rally took the local-stops-only route.\n```\n"
   },
   {
     "id": "stanley-cup-monster-truck-garage",
@@ -7194,6 +7314,36 @@
       }
     ],
     "markdown": "---\nid: cam-ward-dodgeball-restraint\nrank: 5\ntitle: \"Cam Ward discovers dodgeball restraint\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-18\"\nheat: 90\ntags:\n  - r/nfl\n  - Cam Ward\n  - dodgeball\n  - quarterback arm\npublic_ready: true\n---\n\n## Summary\n\nIn an r/nfl clip, Cam Ward admitted that playing dodgeball with elementary\nschoolers required him to resist using the full quarterback arm.\n\n## Why It Is Funny\n\nThe usual job is to fire the ball as hard and accurately as possible. The\nschool-gym assignment is the exact opposite, and Ward had to narrate the restraint.\n\n## Comment Highlights\n\n- Label: Laser-arm deactivation\n  Summary: Fans joked that Ward's professional throwing ability was finally a competitive disadvantage.\n  Why funny: The prized quarterback tool has to be placed in child-safe mode.\n  Source URL: https://www.reddit.com/r/nfl/comments/1uz41wx/highlight_cam_ward_on_playing_dodgeball_with/\n- Label: Intrusive-thought pocket\n  Summary: The thread related to thinking about the chaotic option and then behaving normally.\n  Why funny: Quarterback decision-making becomes a very ordinary self-control test.\n  Source URL: https://www.reddit.com/r/nfl/comments/1uz41wx/highlight_cam_ward_on_playing_dodgeball_with/\n\n## Quote\n\nThe cannon arm entered child-safe mode.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1uz41wx/highlight_cam_ward_on_playing_dodgeball_with/\n- Source type: Reddit / r/nfl top-day interview highlight\n- Verification notes: the public clip and post title capture Ward describing the restraint; the public copy removes profanity and does not suggest any child was harmed\n\n## Sports Radar Markdown\n\n```md\n**Cam Ward discovers dodgeball restraint**\n\nCam Ward said elementary-school dodgeball made him resist using the full quarterback arm.\n\nWhy it works: an NFL throwing tool gets switched into child-safe mode.\n```\n"
+  },
+  {
+    "id": "browns-la-sweater-edge-rushers",
+    "rank": 5,
+    "title": "Cleveland discusses edge rushers in an LA shirt",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-03",
+    "heat": 95,
+    "tags": [
+      "r/nfl",
+      "Cleveland Browns",
+      "Catherine Hickman",
+      "Myles Garrett"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl clip showed Browns assistant general manager Catherine Hickman in a\nLos Angeles joke shirt while discussing Cleveland's edge-rusher rotation. The\nthread read the wardrobe choice as a wink at the Myles Garrett trade.",
+    "whyFunny": "A routine depth-chart answer arrived with its own visual footnote about the\nplayer no longer on the chart.",
+    "quote": "The depth chart had a dress code.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w5mt64/highlight_browns_assistant_gm_catherine_hickman/",
+    "commentHighlights": [
+      {
+        "label": "Wardrobe review",
+        "summary": "The thread first decoded the shirt, then connected the joke to Cleveland's former edge rusher.",
+        "whyFunny": "The front-office answer came with a trade recap hidden in the outfit.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w5mt64/highlight_browns_assistant_gm_catherine_hickman/"
+      }
+    ],
+    "markdown": "---\nid: browns-la-sweater-edge-rushers\nrank: 5\ntitle: \"Cleveland discusses edge rushers in an LA shirt\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-03\"\nheat: 95\ntags:\n  - r/nfl\n  - Cleveland Browns\n  - Catherine Hickman\n  - Myles Garrett\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl clip showed Browns assistant general manager Catherine Hickman in a\nLos Angeles joke shirt while discussing Cleveland's edge-rusher rotation. The\nthread read the wardrobe choice as a wink at the Myles Garrett trade.\n\n## Why It Is Funny\n\nA routine depth-chart answer arrived with its own visual footnote about the\nplayer no longer on the chart.\n\n## Comment Highlights\n\n- Label: Wardrobe review\n  Summary: The thread first decoded the shirt, then connected the joke to Cleveland's former edge rusher.\n  Why funny: The front-office answer came with a trade recap hidden in the outfit.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w5mt64/highlight_browns_assistant_gm_catherine_hickman/\n\n## Quote\n\nThe depth chart had a dress code.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w5mt64/highlight_browns_assistant_gm_catherine_hickman/\n- Source type: Reddit top-day public clip and fan discussion\n- Verification notes: Sports Radar reviewed the current post and visible fan context on 2026-09-03. The Garrett connection remains explicitly framed as the thread's reading of the shirt.\n\n## Sports Radar Markdown\n\n```md\n**Cleveland discusses edge rushers in an LA shirt**\n\nA Browns front-office answer about edge rushers arrived in a Los Angeles joke shirt.\n\nWhy it works: The depth chart came with a trade recap hidden in the outfit.\n```\n"
   },
   {
     "id": "phi-slama-jama-nickname-summit",
@@ -8067,7 +8217,7 @@
     "title": "Pablo Garcia leaves Betis with a lifetime goodbye",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-02",
     "heat": 95,
     "tags": [
@@ -8082,7 +8232,7 @@
     "quote": "One transfer carried a childhood with it.",
     "sourceUrl": "https://www.reddit.com/r/soccer/comments/1w4ud9m/pablo_garcía_and_his_mother_were_seen_crying_as/",
     "commentHighlights": [],
-    "markdown": "---\nid: pablo-garcia-betis-goodbye\nrank: 5\ntitle: \"Pablo Garcia leaves Betis with a lifetime goodbye\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-02\"\nheat: 95\ntags:\n  - r/soccer\n  - Pablo Garcia\n  - Real Betis\n  - Racing Santander\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post showed Pablo Garcia and his mother crying as they left the\nBetis stadium after his move to Racing Santander. The post said Garcia had\nbeen with Betis since age five.\n\n## Why It Is Funny\n\nThis one is not a punchline. It is the kind of football moment that turns a\ntransfer line into an entire family timeline.\n\n## Comment Highlights\n\n## Quote\n\nOne transfer carried a childhood with it.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1w4ud9m/pablo_garcía_and_his_mother_were_seen_crying_as/\n- Source type: Reddit top-day post sharing a public stadium-exit clip\n- Verification notes: Sports Radar reviewed the current top-day RSS entry and exact public permalink on 2026-09-02. The age-five and transfer details remain attributed to the source post.\n\n## Sports Radar Markdown\n\n```md\n**Pablo Garcia leaves Betis with a lifetime goodbye**\n\nPablo Garcia and his mother left the Betis stadium in tears after a move that closed a chapter dating to age five.\n\nWhy it works: One transfer line carried an entire family timeline.\n```\n"
+    "markdown": "---\nid: pablo-garcia-betis-goodbye\nrank: 5\ntitle: \"Pablo Garcia leaves Betis with a lifetime goodbye\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-02\"\nheat: 95\ntags:\n  - r/soccer\n  - Pablo Garcia\n  - Real Betis\n  - Racing Santander\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer post showed Pablo Garcia and his mother crying as they left the\nBetis stadium after his move to Racing Santander. The post said Garcia had\nbeen with Betis since age five.\n\n## Why It Is Funny\n\nThis one is not a punchline. It is the kind of football moment that turns a\ntransfer line into an entire family timeline.\n\n## Comment Highlights\n\n## Quote\n\nOne transfer carried a childhood with it.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1w4ud9m/pablo_garcía_and_his_mother_were_seen_crying_as/\n- Source type: Reddit top-day post sharing a public stadium-exit clip\n- Verification notes: Sports Radar reviewed the current top-day RSS entry and exact public permalink on 2026-09-02. The age-five and transfer details remain attributed to the source post.\n\n## Sports Radar Markdown\n\n```md\n**Pablo Garcia leaves Betis with a lifetime goodbye**\n\nPablo Garcia and his mother left the Betis stadium in tears after a move that closed a chapter dating to age five.\n\nWhy it works: One transfer line carried an entire family timeline.\n```\n"
   },
   {
     "id": "pitino-ncaa-lawyer-bill",
