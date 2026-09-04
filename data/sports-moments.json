@@ -1,5 +1,35 @@
 [
   {
+    "id": "luepke-chicken-equity-jersey",
+    "rank": 1,
+    "title": "A jersey number buys chicken-farm equity",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-04",
+    "heat": 99,
+    "tags": [
+      "r/nfl",
+      "Hunter Luepke",
+      "Von Miller",
+      "jersey number"
+    ],
+    "public_ready": true,
+    "summary": "An r/nfl thread linked a report that Cowboys fullback Hunter Luepke gave No. 40\nto Von Miller in exchange for a small ownership stake in Miller's chicken\nbusiness.",
+    "whyFunny": "Most jersey-number trades end in cash or a watch. This one needed a cap table\nand a poultry division.",
+    "quote": "No. 40 closed in poultry equity.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w6s38d/cowboys_luepke_trades_jersey_number_to_von_miller/",
+    "commentHighlights": [
+      {
+        "label": "Barnyard finance",
+        "summary": "The thread treated the deal like the NFL's first chicken-backed asset class.",
+        "whyFunny": "A normal locker-room negotiation became an agricultural investment seminar.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w6s38d/cowboys_luepke_trades_jersey_number_to_von_miller/"
+      }
+    ],
+    "markdown": "---\nid: luepke-chicken-equity-jersey\nrank: 1\ntitle: \"A jersey number buys chicken-farm equity\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-04\"\nheat: 99\ntags:\n  - r/nfl\n  - Hunter Luepke\n  - Von Miller\n  - jersey number\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl thread linked a report that Cowboys fullback Hunter Luepke gave No. 40\nto Von Miller in exchange for a small ownership stake in Miller's chicken\nbusiness.\n\n## Why It Is Funny\n\nMost jersey-number trades end in cash or a watch. This one needed a cap table\nand a poultry division.\n\n## Comment Highlights\n\n- Label: Barnyard finance\n  Summary: The thread treated the deal like the NFL's first chicken-backed asset class.\n  Why funny: A normal locker-room negotiation became an agricultural investment seminar.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w6s38d/cowboys_luepke_trades_jersey_number_to_von_miller/\n\n## Quote\n\nNo. 40 closed in poultry equity.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w6s38d/cowboys_luepke_trades_jersey_number_to_von_miller/\n- Source type: Current Reddit top-day discussion linking a public ESPN report\n- Verification notes: Sports Radar reviewed the live r/nfl top-day page, exact post, linked-report preview, and visible fan context on 2026-09-04. The ownership-stake detail remains attributed to that report.\n\n## Sports Radar Markdown\n\n```md\n**A jersey number buys chicken-farm equity**\n\nHunter Luepke gave Von Miller No. 40 in exchange for a small stake in Miller's chicken business.\n\nWhy it works: A locker-room number swap somehow needed a cap table and a poultry division.\n```\n"
+  },
+  {
     "id": "st-louis-one-dollar-var-bid",
     "rank": 1,
     "title": "A one-dollar VAR bid enters review",
@@ -791,7 +821,7 @@
     "title": "Laquon Treadwell keeps No. 13 with zero targets",
     "league": "NFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-03",
     "heat": 99,
     "tags": [
@@ -813,7 +843,7 @@
         "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w5jzn4/laquon_treadwell_decides_not_to_give_no_13_to/"
       }
     ],
-    "markdown": "---\nid: laquon-treadwell-number-thirteen\nrank: 1\ntitle: \"Laquon Treadwell keeps No. 13 with zero targets\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-03\"\nheat: 99\ntags:\n  - r/nfl\n  - Laquon Treadwell\n  - Keenan Allen\n  - jersey number\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl thread linked a report that Laquon Treadwell kept No. 13 instead of\ngiving it to Keenan Allen after a family discussion. The report noted that\nTreadwell wore 13 in ten games last season without a catch or target.\n\n## Why It Is Funny\n\nJersey-number negotiations usually come with a star resume. This one arrived\nwith solemn deliberation and a perfectly empty receiving line.\n\n## Comment Highlights\n\n- Label: Highlight-reel reflex\n  Summary: The thread immediately reached for Treadwell's famously recycled highlight montage.\n  Why funny: One jersey decision brought an entire piece of NFL internet lore back into rotation.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w5jzn4/laquon_treadwell_decides_not_to_give_no_13_to/\n\n## Quote\n\nThe number has more targets than the stat line.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w5jzn4/laquon_treadwell_decides_not_to_give_no_13_to/\n- Source type: Reddit top-day discussion linking a public NBC Sports report\n- Verification notes: Sports Radar reviewed the current Reddit page, visible fan context, and linked report on 2026-09-03. The decision and season totals remain attributed to that report.\n\n## Sports Radar Markdown\n\n```md\n**Laquon Treadwell keeps No. 13 with zero targets**\n\nLaquon Treadwell kept No. 13 after a family discussion, despite wearing it for ten games without a catch or target last season.\n\nWhy it works: A solemn jersey-number decision arrived with the cleanest receiving line imaginable.\n```\n"
+    "markdown": "---\nid: laquon-treadwell-number-thirteen\nrank: 1\ntitle: \"Laquon Treadwell keeps No. 13 with zero targets\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-03\"\nheat: 99\ntags:\n  - r/nfl\n  - Laquon Treadwell\n  - Keenan Allen\n  - jersey number\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl thread linked a report that Laquon Treadwell kept No. 13 instead of\ngiving it to Keenan Allen after a family discussion. The report noted that\nTreadwell wore 13 in ten games last season without a catch or target.\n\n## Why It Is Funny\n\nJersey-number negotiations usually come with a star resume. This one arrived\nwith solemn deliberation and a perfectly empty receiving line.\n\n## Comment Highlights\n\n- Label: Highlight-reel reflex\n  Summary: The thread immediately reached for Treadwell's famously recycled highlight montage.\n  Why funny: One jersey decision brought an entire piece of NFL internet lore back into rotation.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w5jzn4/laquon_treadwell_decides_not_to_give_no_13_to/\n\n## Quote\n\nThe number has more targets than the stat line.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w5jzn4/laquon_treadwell_decides_not_to_give_no_13_to/\n- Source type: Reddit top-day discussion linking a public NBC Sports report\n- Verification notes: Sports Radar reviewed the current Reddit page, visible fan context, and linked report on 2026-09-03. The decision and season totals remain attributed to that report.\n\n## Sports Radar Markdown\n\n```md\n**Laquon Treadwell keeps No. 13 with zero targets**\n\nLaquon Treadwell kept No. 13 after a family discussion, despite wearing it for ten games without a catch or target last season.\n\nWhy it works: A solemn jersey-number decision arrived with the cleanest receiving line imaginable.\n```\n"
   },
   {
     "id": "haliburton-lebron-two-emoji-rejection",
@@ -2825,7 +2855,7 @@
     "title": "Orbit opens a one-fan polish shop",
     "league": "MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-03",
     "heat": 98,
     "tags": [
@@ -2847,7 +2877,7 @@
         "sourceUrl": "https://www.reddit.com/r/baseball/comments/1w5savf/astros_mascot_orbit_sands_down_a_bald_fans_head/"
       }
     ],
-    "markdown": "---\nid: orbit-bald-fan-polish\nrank: 2\ntitle: \"Orbit opens a one-fan polish shop\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-03\"\nheat: 98\ntags:\n  - r/baseball\n  - Houston Astros\n  - Orbit\n  - mascot bit\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball clip showed Astros mascot Orbit working over a bald fan's head\nwith a prop power tool during a stadium bit.\n\n## Why It Is Funny\n\nThe mascot skipped the usual dance routine and turned one seat into a tiny\nballpark body shop.\n\n## Comment Highlights\n\n- Label: Tool classification\n  Summary: The thread debated whether Orbit was sanding or polishing before inventing new bald-baseball vocabulary.\n  Why funny: The mascot bit immediately became a shop-class terminology review.\n  Source URL: https://www.reddit.com/r/baseball/comments/1w5savf/astros_mascot_orbit_sands_down_a_bald_fans_head/\n\n## Quote\n\nBallpark maintenance found a volunteer.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1w5savf/astros_mascot_orbit_sands_down_a_bald_fans_head/\n- Source type: Current Reddit top-day stadium clip and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball top-day page, exact post, and visible fan context on 2026-09-03. The copy describes the public clip without reproducing it or naming the fan.\n\n## Sports Radar Markdown\n\n```md\n**Orbit opens a one-fan polish shop**\n\nAstros mascot Orbit turned a bald fan's seat into a tiny ballpark body shop.\n\nWhy it works: The stadium bit needed one prop tool and one extremely specific volunteer.\n```\n"
+    "markdown": "---\nid: orbit-bald-fan-polish\nrank: 2\ntitle: \"Orbit opens a one-fan polish shop\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-03\"\nheat: 98\ntags:\n  - r/baseball\n  - Houston Astros\n  - Orbit\n  - mascot bit\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball clip showed Astros mascot Orbit working over a bald fan's head\nwith a prop power tool during a stadium bit.\n\n## Why It Is Funny\n\nThe mascot skipped the usual dance routine and turned one seat into a tiny\nballpark body shop.\n\n## Comment Highlights\n\n- Label: Tool classification\n  Summary: The thread debated whether Orbit was sanding or polishing before inventing new bald-baseball vocabulary.\n  Why funny: The mascot bit immediately became a shop-class terminology review.\n  Source URL: https://www.reddit.com/r/baseball/comments/1w5savf/astros_mascot_orbit_sands_down_a_bald_fans_head/\n\n## Quote\n\nBallpark maintenance found a volunteer.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1w5savf/astros_mascot_orbit_sands_down_a_bald_fans_head/\n- Source type: Current Reddit top-day stadium clip and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball top-day page, exact post, and visible fan context on 2026-09-03. The copy describes the public clip without reproducing it or naming the fan.\n\n## Sports Radar Markdown\n\n```md\n**Orbit opens a one-fan polish shop**\n\nAstros mascot Orbit turned a bald fan's seat into a tiny ballpark body shop.\n\nWhy it works: The stadium bit needed one prop tool and one extremely specific volunteer.\n```\n"
   },
   {
     "id": "quali-conley-reverse-hurdle",
@@ -2956,6 +2986,36 @@
       }
     ],
     "markdown": "---\nid: rodman-no-modern-scouting-report\nrank: 2\ntitle: \"Rodman's scouting report is no scouting\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-18\"\nheat: 96\ntags:\n  - r/nba\n  - Dennis Rodman\n  - Josh Hart\n  - player comparisons\npublic_ready: true\n---\n\n## Summary\n\nA fan asked Dennis Rodman which current player resembles him and suggested\nJosh Hart. Rodman said he could not answer because he does not watch basketball.\n\n## Why It Is Funny\n\nThe perfect retired-player comparison question reaches a man who has opted out\nof the entire comparison database. The scouting session ends before it starts.\n\n## Comment Highlights\n\n- Label: No modern comp\n  Summary: Fans argued that Rodman's rebounding peak makes every present-day comparison feel undersized.\n  Why funny: The thread keeps scouting after the person being scouted has clocked out.\n  Source URL: https://www.reddit.com/r/nba/comments/1uzg5uy/fan_is_josh_hart_the_version_of_you_hes_small_he/\n- Label: Rebound calculator\n  Summary: The discussion quickly moved from Hart's strong rebounding to Rodman's absurd peak numbers.\n  Why funny: A blunt non-answer triggers a full statistical defense anyway.\n  Source URL: https://www.reddit.com/r/nba/comments/1uzg5uy/fan_is_josh_hart_the_version_of_you_hes_small_he/\n\n## Quote\n\nThe comp question met an out-of-office reply.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uzg5uy/fan_is_josh_hart_the_version_of_you_hes_small_he/\n- Source type: Reddit / r/nba top-day public-interaction discussion\n- Verification notes: the public post preserves the short fan question and Rodman's response; the public copy paraphrases the exchange and keeps the fan reaction separate\n\n## Sports Radar Markdown\n\n```md\n**Rodman's scouting report is no scouting**\n\nAsked which current player resembles him, Dennis Rodman said he could not tell because he does not watch basketball.\n\nWhy it works: the perfect legend-comparison prompt finds a legend who deleted the whole database.\n```\n"
+  },
+  {
+    "id": "rutgers-loss-fireworks",
+    "rank": 2,
+    "title": "Rutgers launches fireworks for the other team",
+    "league": "College Football",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-04",
+    "heat": 98,
+    "tags": [
+      "r/CFB",
+      "Rutgers",
+      "UMass",
+      "postgame fireworks"
+    ],
+    "public_ready": true,
+    "summary": "An r/CFB thread linked a report that Rutgers still launched its planned\npostgame fireworks after losing its home opener to UMass.",
+    "whyFunny": "The celebration budget was apparently nonrefundable, so the visiting team's\nupset win received the full victory package.",
+    "quote": "Rutgers remembered to celebrate. Just not itself.",
+    "sourceUrl": "https://www.reddit.com/r/CFB/comments/1w6vdfx/rutgers_celebrates_devastating_loss_to_umass_with/",
+    "commentHighlights": [
+      {
+        "label": "Visiting-team hospitality",
+        "summary": "Fans reframed the show as Rutgers graciously celebrating UMass instead.",
+        "whyFunny": "The most awkward possible fireworks display became impeccable sportsmanship.",
+        "sourceUrl": "https://www.reddit.com/r/CFB/comments/1w6vdfx/rutgers_celebrates_devastating_loss_to_umass_with/"
+      }
+    ],
+    "markdown": "---\nid: rutgers-loss-fireworks\nrank: 2\ntitle: \"Rutgers launches fireworks for the other team\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-04\"\nheat: 98\ntags:\n  - r/CFB\n  - Rutgers\n  - UMass\n  - postgame fireworks\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB thread linked a report that Rutgers still launched its planned\npostgame fireworks after losing its home opener to UMass.\n\n## Why It Is Funny\n\nThe celebration budget was apparently nonrefundable, so the visiting team's\nupset win received the full victory package.\n\n## Comment Highlights\n\n- Label: Visiting-team hospitality\n  Summary: Fans reframed the show as Rutgers graciously celebrating UMass instead.\n  Why funny: The most awkward possible fireworks display became impeccable sportsmanship.\n  Source URL: https://www.reddit.com/r/CFB/comments/1w6vdfx/rutgers_celebrates_devastating_loss_to_umass_with/\n\n## Quote\n\nRutgers remembered to celebrate. Just not itself.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1w6vdfx/rutgers_celebrates_devastating_loss_to_umass_with/\n- Source type: Current Reddit top-day discussion linking a public USA Today report\n- Verification notes: Sports Radar reviewed the live r/CFB top-day page, exact post, linked-report preview, and visible fan context on 2026-09-04. The copy describes only the postgame fireworks after the reported loss.\n\n## Sports Radar Markdown\n\n```md\n**Rutgers launches fireworks for the other team**\n\nRutgers still fired its planned postgame fireworks after losing its home opener to UMass.\n\nWhy it works: The celebration budget was nonrefundable, so the upset winner got the full package.\n```\n"
   },
   {
     "id": "sam-cosmi-diggs-sister-veto",
@@ -4016,6 +4076,36 @@
       }
     ],
     "markdown": "---\nid: cam-skattebo-backflip-injury-logic\nrank: 3\ntitle: \"Cam Skattebo answers injury concern with a backflip\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-11\"\nheat: 94\ntags:\n  - r/nfl\n  - Cam Skattebo\n  - touchdown celebration\n  - backflip\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl clip post featured Cam Skattebo saying his first touchdown celebration\nwould be a backflip, while acknowledging that last year's injury makes people\nnervous.\n\n## Why It Is Funny\n\nThe risk-management presentation ended with planned aerobatics. It is the rare\nreassurance strategy that makes the safety department open another tab.\n\n## Comment Highlights\n\n- Label: Reassurance, but airborne\n  Summary: The post paired concern about a previous injury with a planned backflip.\n  Why funny: The proposed answer to nervousness is the exact visual that creates more of it.\n  Source URL: https://www.reddit.com/r/nfl/comments/1vl1di3/highlight_cam_skattebo_says_his_first_td/\n\n## Quote\n\nThe injury update now has choreography.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vl1di3/highlight_cam_skattebo_says_his_first_td/\n- Source type: Reddit top-day NFL clip post\n- Verification notes: Sports Radar reviewed the public RSS title and link on 2026-08-11. The public copy attributes the plan to the posted clip and does not predict that the celebration will happen.\n\n## Sports Radar Markdown\n\n```md\n**Cam Skattebo answers injury concern with a backflip**\n\nAn r/nfl clip paired last year's injury nerves with a planned touchdown backflip.\n\nWhy it works: The reassurance strategy immediately creates more nervousness.\n```\n"
+  },
+  {
+    "id": "carney-leafs-rail-calendar",
+    "rank": 3,
+    "title": "Canada dates rail cars by Leafs Cups",
+    "league": "NHL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-04",
+    "heat": 97,
+    "tags": [
+      "r/hockey",
+      "Toronto Maple Leafs",
+      "Mark Carney",
+      "Canadian hockey lore"
+    ],
+    "public_ready": true,
+    "summary": "Canadian prime minister Mark Carney described 70-year-old rail cars by noting\nthey came from the six-team NHL era, when goalies went maskless and the Maple\nLeafs won the Cup.",
+    "whyFunny": "A public-infrastructure announcement turned into a national history lesson\nmeasured in hockey eras and Toronto pain.",
+    "quote": "Canadian infrastructure has entered Leafs chronology.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1w6f1id/robertson_canadian_pm_mark_carney_our_rail_cars/",
+    "commentHighlights": [
+      {
+        "label": "Canadian calendar",
+        "summary": "The thread extended the bit by measuring history in NHL expansions and old playoff runs.",
+        "whyFunny": "Ordinary dates became optional once hockey lore could do the job.",
+        "sourceUrl": "https://www.reddit.com/r/hockey/comments/1w6f1id/robertson_canadian_pm_mark_carney_our_rail_cars/"
+      }
+    ],
+    "markdown": "---\nid: carney-leafs-rail-calendar\nrank: 3\ntitle: \"Canada dates rail cars by Leafs Cups\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-04\"\nheat: 97\ntags:\n  - r/hockey\n  - Toronto Maple Leafs\n  - Mark Carney\n  - Canadian hockey lore\npublic_ready: true\n---\n\n## Summary\n\nCanadian prime minister Mark Carney described 70-year-old rail cars by noting\nthey came from the six-team NHL era, when goalies went maskless and the Maple\nLeafs won the Cup.\n\n## Why It Is Funny\n\nA public-infrastructure announcement turned into a national history lesson\nmeasured in hockey eras and Toronto pain.\n\n## Comment Highlights\n\n- Label: Canadian calendar\n  Summary: The thread extended the bit by measuring history in NHL expansions and old playoff runs.\n  Why funny: Ordinary dates became optional once hockey lore could do the job.\n  Source URL: https://www.reddit.com/r/hockey/comments/1w6f1id/robertson_canadian_pm_mark_carney_our_rail_cars/\n\n## Quote\n\nCanadian infrastructure has entered Leafs chronology.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1w6f1id/robertson_canadian_pm_mark_carney_our_rail_cars/\n- Source type: Current Reddit top-day image-news post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/hockey post and visible fan context on 2026-09-04. The historical comparison is attributed to Carney's public remarks as presented by the source post.\n\n## Sports Radar Markdown\n\n```md\n**Canada dates rail cars by Leafs Cups**\n\nMark Carney dated 70-year-old rail cars to the six-team NHL, maskless goalies, and Leafs championships.\n\nWhy it works: A transit announcement became a hockey calendar with Toronto pain built in.\n```\n"
   },
   {
     "id": "cfb-theoretical-longest-drive",
@@ -5178,7 +5268,7 @@
     "title": "Texas A&M wins the obnoxiousness title",
     "league": "College Football",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-03",
     "heat": 97,
     "tags": [
@@ -5200,7 +5290,7 @@
         "sourceUrl": "https://www.reddit.com/r/CFB/comments/1w5e72z/texas_am_fans_narrowly_top_ut_austin_fans_as/"
       }
     ],
-    "markdown": "---\nid: texas-am-obnoxious-survey\nrank: 3\ntitle: \"Texas A&M wins the obnoxiousness title\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-03\"\nheat: 97\ntags:\n  - r/CFB\n  - Texas A&M\n  - Texas\n  - fan survey\npublic_ready: true\n---\n\n## Summary\n\nA survey shared to r/CFB put Texas A&M narrowly ahead of the University of\nTexas for the state's most obnoxious college fanbase.\n\n## Why It Is Funny\n\nCollege rivalry produced a trophy that the winner can celebrate only by\nproving the survey right.\n\n## Comment Highlights\n\n- Label: Third-place investigation\n  Summary: Much of the thread ignored the winner and tried to explain how Houston reached third place.\n  Why funny: Even the obnoxiousness rankings generated their own instant replay review.\n  Source URL: https://www.reddit.com/r/CFB/comments/1w5e72z/texas_am_fans_narrowly_top_ut_austin_fans_as/\n\n## Quote\n\nHang the banner carefully.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1w5e72z/texas_am_fans_narrowly_top_ut_austin_fans_as/\n- Source type: Reddit top-day discussion linking a public local-news survey\n- Verification notes: Sports Radar reviewed the current Reddit page and visible fan context on 2026-09-03. The ranking remains attributed to the survey shared by the source post.\n\n## Sports Radar Markdown\n\n```md\n**Texas A&M wins the obnoxiousness title**\n\nA survey put Texas A&M narrowly ahead of Texas for the state's most obnoxious college fanbase.\n\nWhy it works: The winner can celebrate only by immediately proving the survey right.\n```\n"
+    "markdown": "---\nid: texas-am-obnoxious-survey\nrank: 3\ntitle: \"Texas A&M wins the obnoxiousness title\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-03\"\nheat: 97\ntags:\n  - r/CFB\n  - Texas A&M\n  - Texas\n  - fan survey\npublic_ready: true\n---\n\n## Summary\n\nA survey shared to r/CFB put Texas A&M narrowly ahead of the University of\nTexas for the state's most obnoxious college fanbase.\n\n## Why It Is Funny\n\nCollege rivalry produced a trophy that the winner can celebrate only by\nproving the survey right.\n\n## Comment Highlights\n\n- Label: Third-place investigation\n  Summary: Much of the thread ignored the winner and tried to explain how Houston reached third place.\n  Why funny: Even the obnoxiousness rankings generated their own instant replay review.\n  Source URL: https://www.reddit.com/r/CFB/comments/1w5e72z/texas_am_fans_narrowly_top_ut_austin_fans_as/\n\n## Quote\n\nHang the banner carefully.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1w5e72z/texas_am_fans_narrowly_top_ut_austin_fans_as/\n- Source type: Reddit top-day discussion linking a public local-news survey\n- Verification notes: Sports Radar reviewed the current Reddit page and visible fan context on 2026-09-03. The ranking remains attributed to the survey shared by the source post.\n\n## Sports Radar Markdown\n\n```md\n**Texas A&M wins the obnoxiousness title**\n\nA survey put Texas A&M narrowly ahead of Texas for the state's most obnoxious college fanbase.\n\nWhy it works: The winner can celebrate only by immediately proving the survey right.\n```\n"
   },
   {
     "id": "bills-stadium-broken-table",
@@ -6055,6 +6145,36 @@
     "markdown": "---\nid: garnett-dunk-taunt-last-season\nrank: 4\ntitle: \"KG spends one last season dunking and collecting techs\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-29\"\nheat: 96\ntags:\n  - r/nba\n  - Kevin Garnett\n  - Blake Griffin\n  - Timberwolves\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba throwback revisited 39-year-old Kevin Garnett dunking on Blake\nGriffin during his final NBA season. The clip also included a technical foul\nand a young Timberwolves bench celebrating the whole sequence.\n\n## Why It Is Funny\n\nRetirement-tour energy usually asks for reflection. Garnett used the moment to\ndunk, taunt, and leave the officials one last form to complete.\n\n## Comment Highlights\n\n- Label: The forgotten roster\n  Summary: The thread rediscovered the young Minnesota roster around Garnett and debated whether the taunting technical looked severe enough to match the call.\n  Why funny: One old highlight reopened both a roster time capsule and an officiating argument.\n  Source URL: https://www.reddit.com/r/nba/comments/1w108c2/highlight_39yearold_kevin_garnett_with_the/\n\n## Quote\n\nOne last dunk, one last form for the officials.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w108c2/highlight_39yearold_kevin_garnett_with_the/\n- Source type: Reddit top-day throwback post sharing a public NBA highlight\n- Verification notes: Sports Radar reviewed the captured RSS item and public Reddit thread on 2026-08-29. The 2015 date, final-season context, dunk, and technical are attributed to the source post and visible thread context.\n\n## Sports Radar Markdown\n\n```md\n**KG spends one last season dunking and collecting techs**\n\nAt 39, Kevin Garnett dunked on Blake Griffin, drew a technical, and gave a young Wolves bench the full KG experience.\n\nWhy it works: A retirement-season throwback skips reflection and goes straight to one more dunk plus paperwork.\n```\n"
   },
   {
+    "id": "kieran-dyer-michael-jackson-presser",
+    "rank": 4,
+    "title": "Kieran Dyer hides six songs in one presser",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-04",
+    "heat": 96,
+    "tags": [
+      "r/soccer",
+      "Kieran Dyer",
+      "Southend United",
+      "press conference"
+    ],
+    "public_ready": true,
+    "summary": "Southend United coach Kieran Dyer accepted a player challenge to work six\nMichael Jackson song titles into a media session. The clip says nobody in the\nroom noticed, and the challenge raised money for charity.",
+    "whyFunny": "He slipped from standard football answers into Billie Jean without setting off\na single press-room alarm.",
+    "quote": "Six song titles, zero press-room alarms.",
+    "sourceUrl": "https://www.reddit.com/r/soccer/comments/1w74glo/southend_united_head_coach_kieran_dyer_was/",
+    "commentHighlights": [
+      {
+        "label": "Postgame track list",
+        "summary": "Fans reconstructed six titles from the clip after the reporters missed the whole set.",
+        "whyFunny": "The press conference needed a replay review before anyone found the playlist.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1w74glo/southend_united_head_coach_kieran_dyer_was/"
+      }
+    ],
+    "markdown": "---\nid: kieran-dyer-michael-jackson-presser\nrank: 4\ntitle: \"Kieran Dyer hides six songs in one presser\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-04\"\nheat: 96\ntags:\n  - r/soccer\n  - Kieran Dyer\n  - Southend United\n  - press conference\npublic_ready: true\n---\n\n## Summary\n\nSouthend United coach Kieran Dyer accepted a player challenge to work six\nMichael Jackson song titles into a media session. The clip says nobody in the\nroom noticed, and the challenge raised money for charity.\n\n## Why It Is Funny\n\nHe slipped from standard football answers into Billie Jean without setting off\na single press-room alarm.\n\n## Comment Highlights\n\n- Label: Postgame track list\n  Summary: Fans reconstructed six titles from the clip after the reporters missed the whole set.\n  Why funny: The press conference needed a replay review before anyone found the playlist.\n  Source URL: https://www.reddit.com/r/soccer/comments/1w74glo/southend_united_head_coach_kieran_dyer_was/\n\n## Quote\n\nSix song titles, zero press-room alarms.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1w74glo/southend_united_head_coach_kieran_dyer_was/\n- Source type: Current Reddit top-day public media clip and fan discussion\n- Verification notes: Sports Radar reviewed the live r/soccer top-day page, exact post, visible clip description, and fan reconstruction on 2026-09-04. The charity detail remains attributed to the source post.\n\n## Sports Radar Markdown\n\n```md\n**Kieran Dyer hides six songs in one presser**\n\nKieran Dyer slipped six Michael Jackson song titles into a media session without anyone noticing.\n\nWhy it works: The press conference needed replay review before anyone found the playlist.\n```\n"
+  },
+  {
     "id": "klay-full-government-response",
     "rank": 4,
     "title": "Klay checks why KD used his full government name",
@@ -6612,7 +6732,7 @@
     "title": "The Clippers turn one trade into a ten-pick invoice",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-03",
     "heat": 96,
     "tags": [
@@ -6634,7 +6754,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1w5mkrt/the_paul_george_for_shai_gilgeousalexander_trade/"
       }
     ],
-    "markdown": "---\nid: clippers-ten-pick-invoice\nrank: 4\ntitle: \"The Clippers turn one trade into a ten-pick invoice\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-03\"\nheat: 96\ntags:\n  - r/nba\n  - Los Angeles Clippers\n  - Paul George\n  - Shai Gilgeous-Alexander\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba thread stacked the original Paul George trade package beside the\nClippers' newly announced penalties and reframed the result as a ten-pick\ninvoice.\n\n## Why It Is Funny\n\nThe transaction stopped looking like a trade and started looking like a bill\nthat kept finding new pages seven years later.\n\n## Comment Highlights\n\n- Label: Hypothetical roster\n  Summary: Fans assembled the players and picks connected to the transaction into a team-sized list.\n  Why funny: The receipt was long enough to require its own depth chart.\n  Source URL: https://www.reddit.com/r/nba/comments/1w5mkrt/the_paul_george_for_shai_gilgeousalexander_trade/\n\n## Quote\n\nThe receipt needed a second roster sheet.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w5mkrt/the_paul_george_for_shai_gilgeousalexander_trade/\n- Source type: Reddit top-day fan framing and public discussion\n- Verification notes: Sports Radar reviewed the current post and visible thread context on 2026-09-03. The ten-pick invoice is the thread's framing, not an independent Sports Radar accounting claim.\n\n## Sports Radar Markdown\n\n```md\n**The Clippers turn one trade into a ten-pick invoice**\n\nAn r/nba thread stacked the Paul George package beside the Clippers' new penalties and found a ten-pick receipt.\n\nWhy it works: Seven years later, the trade bill was still finding new pages.\n```\n"
+    "markdown": "---\nid: clippers-ten-pick-invoice\nrank: 4\ntitle: \"The Clippers turn one trade into a ten-pick invoice\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-03\"\nheat: 96\ntags:\n  - r/nba\n  - Los Angeles Clippers\n  - Paul George\n  - Shai Gilgeous-Alexander\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba thread stacked the original Paul George trade package beside the\nClippers' newly announced penalties and reframed the result as a ten-pick\ninvoice.\n\n## Why It Is Funny\n\nThe transaction stopped looking like a trade and started looking like a bill\nthat kept finding new pages seven years later.\n\n## Comment Highlights\n\n- Label: Hypothetical roster\n  Summary: Fans assembled the players and picks connected to the transaction into a team-sized list.\n  Why funny: The receipt was long enough to require its own depth chart.\n  Source URL: https://www.reddit.com/r/nba/comments/1w5mkrt/the_paul_george_for_shai_gilgeousalexander_trade/\n\n## Quote\n\nThe receipt needed a second roster sheet.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w5mkrt/the_paul_george_for_shai_gilgeousalexander_trade/\n- Source type: Reddit top-day fan framing and public discussion\n- Verification notes: Sports Radar reviewed the current post and visible thread context on 2026-09-03. The ten-pick invoice is the thread's framing, not an independent Sports Radar accounting claim.\n\n## Sports Radar Markdown\n\n```md\n**The Clippers turn one trade into a ten-pick invoice**\n\nAn r/nba thread stacked the Paul George package beside the Clippers' new penalties and found a ten-pick receipt.\n\nWhy it works: Seven years later, the trade bill was still finding new pages.\n```\n"
   },
   {
     "id": "cowboys-brandon-myers-play-still-live",
@@ -7321,7 +7441,7 @@
     "title": "Cleveland discusses edge rushers in an LA shirt",
     "league": "NFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-03",
     "heat": 95,
     "tags": [
@@ -7343,7 +7463,7 @@
         "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w5mt64/highlight_browns_assistant_gm_catherine_hickman/"
       }
     ],
-    "markdown": "---\nid: browns-la-sweater-edge-rushers\nrank: 5\ntitle: \"Cleveland discusses edge rushers in an LA shirt\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-03\"\nheat: 95\ntags:\n  - r/nfl\n  - Cleveland Browns\n  - Catherine Hickman\n  - Myles Garrett\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl clip showed Browns assistant general manager Catherine Hickman in a\nLos Angeles joke shirt while discussing Cleveland's edge-rusher rotation. The\nthread read the wardrobe choice as a wink at the Myles Garrett trade.\n\n## Why It Is Funny\n\nA routine depth-chart answer arrived with its own visual footnote about the\nplayer no longer on the chart.\n\n## Comment Highlights\n\n- Label: Wardrobe review\n  Summary: The thread first decoded the shirt, then connected the joke to Cleveland's former edge rusher.\n  Why funny: The front-office answer came with a trade recap hidden in the outfit.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w5mt64/highlight_browns_assistant_gm_catherine_hickman/\n\n## Quote\n\nThe depth chart had a dress code.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w5mt64/highlight_browns_assistant_gm_catherine_hickman/\n- Source type: Reddit top-day public clip and fan discussion\n- Verification notes: Sports Radar reviewed the current post and visible fan context on 2026-09-03. The Garrett connection remains explicitly framed as the thread's reading of the shirt.\n\n## Sports Radar Markdown\n\n```md\n**Cleveland discusses edge rushers in an LA shirt**\n\nA Browns front-office answer about edge rushers arrived in a Los Angeles joke shirt.\n\nWhy it works: The depth chart came with a trade recap hidden in the outfit.\n```\n"
+    "markdown": "---\nid: browns-la-sweater-edge-rushers\nrank: 5\ntitle: \"Cleveland discusses edge rushers in an LA shirt\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-03\"\nheat: 95\ntags:\n  - r/nfl\n  - Cleveland Browns\n  - Catherine Hickman\n  - Myles Garrett\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl clip showed Browns assistant general manager Catherine Hickman in a\nLos Angeles joke shirt while discussing Cleveland's edge-rusher rotation. The\nthread read the wardrobe choice as a wink at the Myles Garrett trade.\n\n## Why It Is Funny\n\nA routine depth-chart answer arrived with its own visual footnote about the\nplayer no longer on the chart.\n\n## Comment Highlights\n\n- Label: Wardrobe review\n  Summary: The thread first decoded the shirt, then connected the joke to Cleveland's former edge rusher.\n  Why funny: The front-office answer came with a trade recap hidden in the outfit.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w5mt64/highlight_browns_assistant_gm_catherine_hickman/\n\n## Quote\n\nThe depth chart had a dress code.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w5mt64/highlight_browns_assistant_gm_catherine_hickman/\n- Source type: Reddit top-day public clip and fan discussion\n- Verification notes: Sports Radar reviewed the current post and visible fan context on 2026-09-03. The Garrett connection remains explicitly framed as the thread's reading of the shirt.\n\n## Sports Radar Markdown\n\n```md\n**Cleveland discusses edge rushers in an LA shirt**\n\nA Browns front-office answer about edge rushers arrived in a Los Angeles joke shirt.\n\nWhy it works: The depth chart came with a trade recap hidden in the outfit.\n```\n"
   },
   {
     "id": "phi-slama-jama-nickname-summit",
@@ -8210,6 +8330,36 @@
       }
     ],
     "markdown": "---\nid: oregon-fraser-valley-conference-math\nrank: 5\ntitle: \"Oregon's Canadian exhibition breaks the conference forecast\"\nleague: \"College Basketball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-10\"\nheat: 90\ntags:\n  - r/CollegeBasketball\n  - Oregon\n  - Fraser Valley\n  - exhibition\npublic_ready: true\n---\n\n## Summary\n\nAn r/CollegeBasketball post logged Oregon's 121-40 exhibition win over Fraser\nValley in British Columbia.\n\n## Why It Is Funny\n\nAn 81-point margin was too large to leave in August, so fans immediately used\nit to produce deeply unserious Big Ten forecasts. Exhibition math had already\ndeclared a champion.\n\n## Comment Highlights\n\n- Label: August standings model\n  Summary: Fans used separate Canadian exhibition scores to jokingly rank Big Ten teams.\n  Why funny: A summer tune-up became a fully confident conference projection.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vjuabj/oregon_121_fraser_valley_40/\n\n## Quote\n\nThe August standings model has no confidence interval.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vjuabj/oregon_121_fraser_valley_40/\n- Source type: Reddit top-day college-basketball exhibition post\n- Verification notes: Sports Radar reviewed the public r/CollegeBasketball post and discussion on 2026-08-10. The score and location come from the public post; the conference forecast is explicitly presented as fan humor.\n\n## Sports Radar Markdown\n\n```md\n**Oregon's Canadian exhibition breaks the conference forecast**\n\nOregon's 121-40 summer result became instant material for fake Big Ten math.\n\nWhy it works: Exhibition season has already declared a champion.\n```\n"
+  },
+  {
+    "id": "senators-hill-white-flag",
+    "rank": 5,
+    "title": "Ottawa chooses a hill and packs a white flag",
+    "league": "NHL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-04",
+    "heat": 95,
+    "tags": [
+      "r/hockey",
+      "Ottawa Senators",
+      "The Hill We Choose",
+      "team slogan"
+    ],
+    "public_ready": true,
+    "summary": "The Senators unveiled \"The Hill We Choose\" as their season slogan with a\nflag-on-a-hill graphic. An r/hockey thread immediately saw a hill to die on and\na flag that looked ready to surrender.",
+    "whyFunny": "The campaign tried to project commitment and accidentally gave fans two\nopposite metaphors to work with before opening night.",
+    "quote": "Pick a hill. Accidentally pack surrender.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1w6fdd7/the_senators_slogan_this_season/",
+    "commentHighlights": [
+      {
+        "label": "Slogan explainer",
+        "summary": "Fans needed a Parliament Hill explanation, then kept returning to the surrender-flag reading.",
+        "whyFunny": "A confidence slogan arrived with its own instant semantic review.",
+        "sourceUrl": "https://www.reddit.com/r/hockey/comments/1w6fdd7/the_senators_slogan_this_season/"
+      }
+    ],
+    "markdown": "---\nid: senators-hill-white-flag\nrank: 5\ntitle: \"Ottawa chooses a hill and packs a white flag\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-04\"\nheat: 95\ntags:\n  - r/hockey\n  - Ottawa Senators\n  - The Hill We Choose\n  - team slogan\npublic_ready: true\n---\n\n## Summary\n\nThe Senators unveiled \"The Hill We Choose\" as their season slogan with a\nflag-on-a-hill graphic. An r/hockey thread immediately saw a hill to die on and\na flag that looked ready to surrender.\n\n## Why It Is Funny\n\nThe campaign tried to project commitment and accidentally gave fans two\nopposite metaphors to work with before opening night.\n\n## Comment Highlights\n\n- Label: Slogan explainer\n  Summary: Fans needed a Parliament Hill explanation, then kept returning to the surrender-flag reading.\n  Why funny: A confidence slogan arrived with its own instant semantic review.\n  Source URL: https://www.reddit.com/r/hockey/comments/1w6fdd7/the_senators_slogan_this_season/\n\n## Quote\n\nPick a hill. Accidentally pack surrender.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1w6fdd7/the_senators_slogan_this_season/\n- Source type: Current Reddit top-day image post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/hockey post, visible fan context, and the Senators' public slogan announcement on 2026-09-04. The surrender-flag reading is explicitly framed as the thread's reaction to the graphic.\n\n## Sports Radar Markdown\n\n```md\n**Ottawa chooses a hill and packs a white flag**\n\nThe Senators launched \"The Hill We Choose\" with a graphic fans immediately read as a hill to die on and a surrender flag.\n\nWhy it works: One confidence campaign supplied two opposite metaphors before opening night.\n```\n"
   },
   {
     "id": "pablo-garcia-betis-goodbye",
