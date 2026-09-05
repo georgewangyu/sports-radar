@@ -5,7 +5,7 @@
     "title": "A jersey number buys chicken-farm equity",
     "league": "NFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-04",
     "heat": 99,
     "tags": [
@@ -27,7 +27,7 @@
         "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w6s38d/cowboys_luepke_trades_jersey_number_to_von_miller/"
       }
     ],
-    "markdown": "---\nid: luepke-chicken-equity-jersey\nrank: 1\ntitle: \"A jersey number buys chicken-farm equity\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-04\"\nheat: 99\ntags:\n  - r/nfl\n  - Hunter Luepke\n  - Von Miller\n  - jersey number\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl thread linked a report that Cowboys fullback Hunter Luepke gave No. 40\nto Von Miller in exchange for a small ownership stake in Miller's chicken\nbusiness.\n\n## Why It Is Funny\n\nMost jersey-number trades end in cash or a watch. This one needed a cap table\nand a poultry division.\n\n## Comment Highlights\n\n- Label: Barnyard finance\n  Summary: The thread treated the deal like the NFL's first chicken-backed asset class.\n  Why funny: A normal locker-room negotiation became an agricultural investment seminar.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w6s38d/cowboys_luepke_trades_jersey_number_to_von_miller/\n\n## Quote\n\nNo. 40 closed in poultry equity.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w6s38d/cowboys_luepke_trades_jersey_number_to_von_miller/\n- Source type: Current Reddit top-day discussion linking a public ESPN report\n- Verification notes: Sports Radar reviewed the live r/nfl top-day page, exact post, linked-report preview, and visible fan context on 2026-09-04. The ownership-stake detail remains attributed to that report.\n\n## Sports Radar Markdown\n\n```md\n**A jersey number buys chicken-farm equity**\n\nHunter Luepke gave Von Miller No. 40 in exchange for a small stake in Miller's chicken business.\n\nWhy it works: A locker-room number swap somehow needed a cap table and a poultry division.\n```\n"
+    "markdown": "---\nid: luepke-chicken-equity-jersey\nrank: 1\ntitle: \"A jersey number buys chicken-farm equity\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-04\"\nheat: 99\ntags:\n  - r/nfl\n  - Hunter Luepke\n  - Von Miller\n  - jersey number\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl thread linked a report that Cowboys fullback Hunter Luepke gave No. 40\nto Von Miller in exchange for a small ownership stake in Miller's chicken\nbusiness.\n\n## Why It Is Funny\n\nMost jersey-number trades end in cash or a watch. This one needed a cap table\nand a poultry division.\n\n## Comment Highlights\n\n- Label: Barnyard finance\n  Summary: The thread treated the deal like the NFL's first chicken-backed asset class.\n  Why funny: A normal locker-room negotiation became an agricultural investment seminar.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w6s38d/cowboys_luepke_trades_jersey_number_to_von_miller/\n\n## Quote\n\nNo. 40 closed in poultry equity.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w6s38d/cowboys_luepke_trades_jersey_number_to_von_miller/\n- Source type: Current Reddit top-day discussion linking a public ESPN report\n- Verification notes: Sports Radar reviewed the live r/nfl top-day page, exact post, linked-report preview, and visible fan context on 2026-09-04. The ownership-stake detail remains attributed to that report.\n\n## Sports Radar Markdown\n\n```md\n**A jersey number buys chicken-farm equity**\n\nHunter Luepke gave Von Miller No. 40 in exchange for a small stake in Miller's chicken business.\n\nWhy it works: A locker-room number swap somehow needed a cap table and a poultry division.\n```\n"
   },
   {
     "id": "st-louis-one-dollar-var-bid",
@@ -1655,6 +1655,36 @@
     "markdown": "---\nid: heat-vacation-schedule-send\nrank: 1\ntitle: \"The Heat's vacation prep accidentally joins free agency\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-27\"\nheat: 98\ntags:\n  - r/nba\n  - Miami Heat\n  - LeBron James\n  - schedule send\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post relayed ESPN's account that a Heat employee preparing for\nvacation scheduled a contingency LeBron James introduction stream, which\nsurfaced before James chose Philadelphia.\n\n## Why It Is Funny\n\nThe NBA internet built a free-agency conspiracy board. The explanation was an\nemployee trying to clear the work queue before PTO.\n\n## Comment Highlights\n\n- Label: Schedule-send anxiety\n  Summary: Fans turned the mishap into a support group for anyone who has triple-checked a scheduled email.\n  Why funny: A familiar office worry briefly became a league-wide transaction signal.\n  Source URL: https://www.reddit.com/r/nba/comments/1v7z5bp/shelburne_the_heat_employee_who_accidentally/\n- Label: Vacation defense\n  Summary: Other fans defended the instinct to prepare every possible asset before leaving town.\n  Why funny: The thread treated NBA free agency like one more project that had to be covered before PTO.\n  Source URL: https://www.reddit.com/r/nba/comments/1v7z5bp/shelburne_the_heat_employee_who_accidentally/\n\n## Quote\n\nThe biggest false alarm of free agency came from calendar hygiene.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v7z5bp/shelburne_the_heat_employee_who_accidentally/\n- Source type: Reddit post quoting and linking a public ESPN report\n- Verification notes: The public Reddit post, linked report framing, and discussion were reviewed on 2026-07-27. The summary attributes the account instead of presenting the employee's motive as independently verified.\n\n## Sports Radar Markdown\n\n```md\n**The Heat's vacation prep accidentally joins free agency**\n\nA contingency LeBron stream surfaced early because someone was reportedly trying to clear work before PTO.\n\nWhy it works: The free-agency conspiracy board lost to schedule send.\n```\n"
   },
   {
+    "id": "leafs-shopping-cart-training",
+    "rank": 1,
+    "title": "The Leafs turn practice into Supermarket Sweep",
+    "league": "NHL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-05",
+    "heat": 99,
+    "tags": [
+      "r/hockey",
+      "Toronto Maple Leafs",
+      "shopping carts",
+      "offseason training"
+    ],
+    "public_ready": true,
+    "summary": "A Toronto Maple Leafs video showed players sliding shopping carts across the\nice toward a target as an offseason challenge.",
+    "whyFunny": "The hockey drill looked like Supermarket Sweep had added skates, while Leafs\nlore made every missed cart an instant playoff metaphor.",
+    "quote": "The offseason program now has a cart corral.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1w7morz/the_leafs_reveal_their_stateoftheart_offseason/",
+    "commentHighlights": [
+      {
+        "label": "Grocery-store combine",
+        "summary": "The thread recast the drill as supermarket training, curling, and preparation for the golf course.",
+        "whyFunny": "One shopping cart gave rival fans three full sports to work with.",
+        "sourceUrl": "https://www.reddit.com/r/hockey/comments/1w7morz/the_leafs_reveal_their_stateoftheart_offseason/"
+      }
+    ],
+    "markdown": "---\nid: leafs-shopping-cart-training\nrank: 1\ntitle: \"The Leafs turn practice into Supermarket Sweep\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-05\"\nheat: 99\ntags:\n  - r/hockey\n  - Toronto Maple Leafs\n  - shopping carts\n  - offseason training\npublic_ready: true\n---\n\n## Summary\n\nA Toronto Maple Leafs video showed players sliding shopping carts across the\nice toward a target as an offseason challenge.\n\n## Why It Is Funny\n\nThe hockey drill looked like Supermarket Sweep had added skates, while Leafs\nlore made every missed cart an instant playoff metaphor.\n\n## Comment Highlights\n\n- Label: Grocery-store combine\n  Summary: The thread recast the drill as supermarket training, curling, and preparation for the golf course.\n  Why funny: One shopping cart gave rival fans three full sports to work with.\n  Source URL: https://www.reddit.com/r/hockey/comments/1w7morz/the_leafs_reveal_their_stateoftheart_offseason/\n\n## Quote\n\nThe offseason program now has a cart corral.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1w7morz/the_leafs_reveal_their_stateoftheart_offseason/\n- Source type: Current Reddit top-day video post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/hockey post, 1:45 video listing, and visible fan context on 2026-09-05. The copy describes only the shopping-cart challenge visible and discussed on the source page.\n\n## Sports Radar Markdown\n\n```md\n**The Leafs turn practice into Supermarket Sweep**\n\nToronto players slid shopping carts across the ice toward a target in an offseason challenge.\n\nWhy it works: The drill looked like Supermarket Sweep on skates, and every miss arrived preloaded with Leafs lore.\n```\n"
+  },
+  {
     "id": "mariners-jimothy-batting-practice",
     "rank": 1,
     "title": "The Mariners hand batting practice to Jimothy",
@@ -2993,7 +3023,7 @@
     "title": "Rutgers launches fireworks for the other team",
     "league": "College Football",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-04",
     "heat": 98,
     "tags": [
@@ -3015,7 +3045,37 @@
         "sourceUrl": "https://www.reddit.com/r/CFB/comments/1w6vdfx/rutgers_celebrates_devastating_loss_to_umass_with/"
       }
     ],
-    "markdown": "---\nid: rutgers-loss-fireworks\nrank: 2\ntitle: \"Rutgers launches fireworks for the other team\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-04\"\nheat: 98\ntags:\n  - r/CFB\n  - Rutgers\n  - UMass\n  - postgame fireworks\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB thread linked a report that Rutgers still launched its planned\npostgame fireworks after losing its home opener to UMass.\n\n## Why It Is Funny\n\nThe celebration budget was apparently nonrefundable, so the visiting team's\nupset win received the full victory package.\n\n## Comment Highlights\n\n- Label: Visiting-team hospitality\n  Summary: Fans reframed the show as Rutgers graciously celebrating UMass instead.\n  Why funny: The most awkward possible fireworks display became impeccable sportsmanship.\n  Source URL: https://www.reddit.com/r/CFB/comments/1w6vdfx/rutgers_celebrates_devastating_loss_to_umass_with/\n\n## Quote\n\nRutgers remembered to celebrate. Just not itself.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1w6vdfx/rutgers_celebrates_devastating_loss_to_umass_with/\n- Source type: Current Reddit top-day discussion linking a public USA Today report\n- Verification notes: Sports Radar reviewed the live r/CFB top-day page, exact post, linked-report preview, and visible fan context on 2026-09-04. The copy describes only the postgame fireworks after the reported loss.\n\n## Sports Radar Markdown\n\n```md\n**Rutgers launches fireworks for the other team**\n\nRutgers still fired its planned postgame fireworks after losing its home opener to UMass.\n\nWhy it works: The celebration budget was nonrefundable, so the upset winner got the full package.\n```\n"
+    "markdown": "---\nid: rutgers-loss-fireworks\nrank: 2\ntitle: \"Rutgers launches fireworks for the other team\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-04\"\nheat: 98\ntags:\n  - r/CFB\n  - Rutgers\n  - UMass\n  - postgame fireworks\npublic_ready: true\n---\n\n## Summary\n\nAn r/CFB thread linked a report that Rutgers still launched its planned\npostgame fireworks after losing its home opener to UMass.\n\n## Why It Is Funny\n\nThe celebration budget was apparently nonrefundable, so the visiting team's\nupset win received the full victory package.\n\n## Comment Highlights\n\n- Label: Visiting-team hospitality\n  Summary: Fans reframed the show as Rutgers graciously celebrating UMass instead.\n  Why funny: The most awkward possible fireworks display became impeccable sportsmanship.\n  Source URL: https://www.reddit.com/r/CFB/comments/1w6vdfx/rutgers_celebrates_devastating_loss_to_umass_with/\n\n## Quote\n\nRutgers remembered to celebrate. Just not itself.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1w6vdfx/rutgers_celebrates_devastating_loss_to_umass_with/\n- Source type: Current Reddit top-day discussion linking a public USA Today report\n- Verification notes: Sports Radar reviewed the live r/CFB top-day page, exact post, linked-report preview, and visible fan context on 2026-09-04. The copy describes only the postgame fireworks after the reported loss.\n\n## Sports Radar Markdown\n\n```md\n**Rutgers launches fireworks for the other team**\n\nRutgers still fired its planned postgame fireworks after losing its home opener to UMass.\n\nWhy it works: The celebration budget was nonrefundable, so the upset winner got the full package.\n```\n"
+  },
+  {
+    "id": "sabalenka-weed-smoke-timeout",
+    "rank": 2,
+    "title": "Sabalenka calls a timeout on courtside weed",
+    "league": "Tennis",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-05",
+    "heat": 98,
+    "tags": [
+      "r/sports",
+      "Aryna Sabalenka",
+      "US Open",
+      "crowd moment"
+    ],
+    "public_ready": true,
+    "summary": "Aryna Sabalenka paused a U.S. Open match because the smell of weed from the\ncrowd had become too strong to ignore.",
+    "whyFunny": "The match briefly acquired a new official: whoever had to enforce an invisible\nsmoke boundary from the stands.",
+    "quote": "Please turn the weed down.",
+    "sourceUrl": "https://www.reddit.com/r/sports/comments/1w7c07k/aryna_sabalenka_had_to_pause_her_match_at_the_us/",
+    "commentHighlights": [
+      {
+        "label": "Loud from the cheap seats",
+        "summary": "The thread treated the complaint like a sound check for a smell everyone could apparently detect.",
+        "whyFunny": "Tennis silence somehow failed to contain the loudest thing in the stadium.",
+        "sourceUrl": "https://www.reddit.com/r/sports/comments/1w7c07k/aryna_sabalenka_had_to_pause_her_match_at_the_us/"
+      }
+    ],
+    "markdown": "---\nid: sabalenka-weed-smoke-timeout\nrank: 2\ntitle: \"Sabalenka calls a timeout on courtside weed\"\nleague: \"Tennis\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-05\"\nheat: 98\ntags:\n  - r/sports\n  - Aryna Sabalenka\n  - US Open\n  - crowd moment\npublic_ready: true\n---\n\n## Summary\n\nAryna Sabalenka paused a U.S. Open match because the smell of weed from the\ncrowd had become too strong to ignore.\n\n## Why It Is Funny\n\nThe match briefly acquired a new official: whoever had to enforce an invisible\nsmoke boundary from the stands.\n\n## Comment Highlights\n\n- Label: Loud from the cheap seats\n  Summary: The thread treated the complaint like a sound check for a smell everyone could apparently detect.\n  Why funny: Tennis silence somehow failed to contain the loudest thing in the stadium.\n  Source URL: https://www.reddit.com/r/sports/comments/1w7c07k/aryna_sabalenka_had_to_pause_her_match_at_the_us/\n\n## Quote\n\nPlease turn the weed down.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1w7c07k/aryna_sabalenka_had_to_pause_her_match_at_the_us/\n- Source type: Current Reddit top-day video post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/sports post, 31-second video listing, and visible fan context on 2026-09-05. The interruption is described as presented by the public source post.\n\n## Sports Radar Markdown\n\n```md\n**Sabalenka calls a timeout on courtside weed**\n\nAryna Sabalenka paused a U.S. Open match when weed smoke from the crowd became impossible to ignore.\n\nWhy it works: Tennis silence somehow failed to contain the loudest smell in the stadium.\n```\n"
   },
   {
     "id": "sam-cosmi-diggs-sister-veto",
@@ -4083,7 +4143,7 @@
     "title": "Canada dates rail cars by Leafs Cups",
     "league": "NHL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-04",
     "heat": 97,
     "tags": [
@@ -4105,7 +4165,7 @@
         "sourceUrl": "https://www.reddit.com/r/hockey/comments/1w6f1id/robertson_canadian_pm_mark_carney_our_rail_cars/"
       }
     ],
-    "markdown": "---\nid: carney-leafs-rail-calendar\nrank: 3\ntitle: \"Canada dates rail cars by Leafs Cups\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-04\"\nheat: 97\ntags:\n  - r/hockey\n  - Toronto Maple Leafs\n  - Mark Carney\n  - Canadian hockey lore\npublic_ready: true\n---\n\n## Summary\n\nCanadian prime minister Mark Carney described 70-year-old rail cars by noting\nthey came from the six-team NHL era, when goalies went maskless and the Maple\nLeafs won the Cup.\n\n## Why It Is Funny\n\nA public-infrastructure announcement turned into a national history lesson\nmeasured in hockey eras and Toronto pain.\n\n## Comment Highlights\n\n- Label: Canadian calendar\n  Summary: The thread extended the bit by measuring history in NHL expansions and old playoff runs.\n  Why funny: Ordinary dates became optional once hockey lore could do the job.\n  Source URL: https://www.reddit.com/r/hockey/comments/1w6f1id/robertson_canadian_pm_mark_carney_our_rail_cars/\n\n## Quote\n\nCanadian infrastructure has entered Leafs chronology.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1w6f1id/robertson_canadian_pm_mark_carney_our_rail_cars/\n- Source type: Current Reddit top-day image-news post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/hockey post and visible fan context on 2026-09-04. The historical comparison is attributed to Carney's public remarks as presented by the source post.\n\n## Sports Radar Markdown\n\n```md\n**Canada dates rail cars by Leafs Cups**\n\nMark Carney dated 70-year-old rail cars to the six-team NHL, maskless goalies, and Leafs championships.\n\nWhy it works: A transit announcement became a hockey calendar with Toronto pain built in.\n```\n"
+    "markdown": "---\nid: carney-leafs-rail-calendar\nrank: 3\ntitle: \"Canada dates rail cars by Leafs Cups\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-04\"\nheat: 97\ntags:\n  - r/hockey\n  - Toronto Maple Leafs\n  - Mark Carney\n  - Canadian hockey lore\npublic_ready: true\n---\n\n## Summary\n\nCanadian prime minister Mark Carney described 70-year-old rail cars by noting\nthey came from the six-team NHL era, when goalies went maskless and the Maple\nLeafs won the Cup.\n\n## Why It Is Funny\n\nA public-infrastructure announcement turned into a national history lesson\nmeasured in hockey eras and Toronto pain.\n\n## Comment Highlights\n\n- Label: Canadian calendar\n  Summary: The thread extended the bit by measuring history in NHL expansions and old playoff runs.\n  Why funny: Ordinary dates became optional once hockey lore could do the job.\n  Source URL: https://www.reddit.com/r/hockey/comments/1w6f1id/robertson_canadian_pm_mark_carney_our_rail_cars/\n\n## Quote\n\nCanadian infrastructure has entered Leafs chronology.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1w6f1id/robertson_canadian_pm_mark_carney_our_rail_cars/\n- Source type: Current Reddit top-day image-news post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/hockey post and visible fan context on 2026-09-04. The historical comparison is attributed to Carney's public remarks as presented by the source post.\n\n## Sports Radar Markdown\n\n```md\n**Canada dates rail cars by Leafs Cups**\n\nMark Carney dated 70-year-old rail cars to the six-team NHL, maskless goalies, and Leafs championships.\n\nWhy it works: A transit announcement became a hockey calendar with Toronto pain built in.\n```\n"
   },
   {
     "id": "cfb-theoretical-longest-drive",
@@ -5419,6 +5479,36 @@
     "markdown": "---\nid: shaq-rim-rejection\nrank: 3\ntitle: \"The rim gets one stop on Shaq\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-05\"\nheat: 94\ntags:\n  - r/nba\n  - Shaquille O'Neal\n  - dunk\n  - basketball lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip post showed Shaquille O'Neal trying to dunk again and getting\nturned away by the rim.\n\n## Why It Is Funny\n\nOne of basketball's most famous rim destroyers returned for a rematch and the\nhardware finally registered a defensive stop.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's top-day review.\n\n## Quote\n\nThe rim waited decades for this stop.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vfxby6/shaq_getting_stuffed_by_the_rim_after_attempting/\n- Source type: Reddit top-day clip post\n- Verification notes: Sports Radar reviewed the public r/nba top-day page and post title on 2026-08-05. The item describes only the visible attempt and makes no health claim.\n\n## Sports Radar Markdown\n\n```md\n**The rim gets one stop on Shaq**\n\nAn r/nba clip post showed Shaq returning for a dunk attempt and getting rejected by the rim.\n\nWhy it works: The rim waited decades for this stop.\n```\n"
   },
   {
+    "id": "tocchet-fifth-reminder-apology",
+    "rank": 3,
+    "title": "Tocchet decides the fifth reminder was excessive",
+    "league": "NHL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-05",
+    "heat": 97,
+    "tags": [
+      "r/hockey",
+      "Rick Tocchet",
+      "Matvei Michkov",
+      "coaching comments"
+    ],
+    "public_ready": true,
+    "summary": "Rick Tocchet said he should not have repeated his public criticism of Matvei\nMichkov's conditioning for a fifth time after already making the point four\ntimes.",
+    "whyFunny": "The apology did not reject the message. It simply discovered a quality-control\nlimit somewhere between repetitions four and five.",
+    "quote": "Four reminders cleared review. Five triggered the apology.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1w7apzv/tocchet_on_michkov_comments_i_should_have/",
+    "commentHighlights": [
+      {
+        "label": "Repetition review",
+        "summary": "Fans wondered why the acceptable-count discussion had started anywhere above one.",
+        "whyFunny": "The walk-back audited the fifth delivery while leaving the first four on the books.",
+        "sourceUrl": "https://www.reddit.com/r/hockey/comments/1w7apzv/tocchet_on_michkov_comments_i_should_have/"
+      }
+    ],
+    "markdown": "---\nid: tocchet-fifth-reminder-apology\nrank: 3\ntitle: \"Tocchet decides the fifth reminder was excessive\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-05\"\nheat: 97\ntags:\n  - r/hockey\n  - Rick Tocchet\n  - Matvei Michkov\n  - coaching comments\npublic_ready: true\n---\n\n## Summary\n\nRick Tocchet said he should not have repeated his public criticism of Matvei\nMichkov's conditioning for a fifth time after already making the point four\ntimes.\n\n## Why It Is Funny\n\nThe apology did not reject the message. It simply discovered a quality-control\nlimit somewhere between repetitions four and five.\n\n## Comment Highlights\n\n- Label: Repetition review\n  Summary: Fans wondered why the acceptable-count discussion had started anywhere above one.\n  Why funny: The walk-back audited the fifth delivery while leaving the first four on the books.\n  Source URL: https://www.reddit.com/r/hockey/comments/1w7apzv/tocchet_on_michkov_comments_i_should_have/\n\n## Quote\n\nFour reminders cleared review. Five triggered the apology.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1w7apzv/tocchet_on_michkov_comments_i_should_have/\n- Source type: Current Reddit top-day discussion linking a paywalled public report\n- Verification notes: Sports Radar reviewed the live r/hockey post and visible fan context on 2026-09-05. The coaching remarks remain attributed to the source post; no paywalled text was copied.\n\n## Sports Radar Markdown\n\n```md\n**Tocchet decides the fifth reminder was excessive**\n\nRick Tocchet said the fifth public reminder about Matvei Michkov's conditioning was one repetition too many.\n\nWhy it works: The apology audited repetition five while leaving repetitions one through four on the books.\n```\n"
+  },
+  {
     "id": "will-stein-kentucky-winning-plan",
     "rank": 3,
     "title": "Will Stein nominates himself as Kentucky's winning plan",
@@ -6150,7 +6240,7 @@
     "title": "Kieran Dyer hides six songs in one presser",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-04",
     "heat": 96,
     "tags": [
@@ -6172,7 +6262,7 @@
         "sourceUrl": "https://www.reddit.com/r/soccer/comments/1w74glo/southend_united_head_coach_kieran_dyer_was/"
       }
     ],
-    "markdown": "---\nid: kieran-dyer-michael-jackson-presser\nrank: 4\ntitle: \"Kieran Dyer hides six songs in one presser\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-04\"\nheat: 96\ntags:\n  - r/soccer\n  - Kieran Dyer\n  - Southend United\n  - press conference\npublic_ready: true\n---\n\n## Summary\n\nSouthend United coach Kieran Dyer accepted a player challenge to work six\nMichael Jackson song titles into a media session. The clip says nobody in the\nroom noticed, and the challenge raised money for charity.\n\n## Why It Is Funny\n\nHe slipped from standard football answers into Billie Jean without setting off\na single press-room alarm.\n\n## Comment Highlights\n\n- Label: Postgame track list\n  Summary: Fans reconstructed six titles from the clip after the reporters missed the whole set.\n  Why funny: The press conference needed a replay review before anyone found the playlist.\n  Source URL: https://www.reddit.com/r/soccer/comments/1w74glo/southend_united_head_coach_kieran_dyer_was/\n\n## Quote\n\nSix song titles, zero press-room alarms.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1w74glo/southend_united_head_coach_kieran_dyer_was/\n- Source type: Current Reddit top-day public media clip and fan discussion\n- Verification notes: Sports Radar reviewed the live r/soccer top-day page, exact post, visible clip description, and fan reconstruction on 2026-09-04. The charity detail remains attributed to the source post.\n\n## Sports Radar Markdown\n\n```md\n**Kieran Dyer hides six songs in one presser**\n\nKieran Dyer slipped six Michael Jackson song titles into a media session without anyone noticing.\n\nWhy it works: The press conference needed replay review before anyone found the playlist.\n```\n"
+    "markdown": "---\nid: kieran-dyer-michael-jackson-presser\nrank: 4\ntitle: \"Kieran Dyer hides six songs in one presser\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-04\"\nheat: 96\ntags:\n  - r/soccer\n  - Kieran Dyer\n  - Southend United\n  - press conference\npublic_ready: true\n---\n\n## Summary\n\nSouthend United coach Kieran Dyer accepted a player challenge to work six\nMichael Jackson song titles into a media session. The clip says nobody in the\nroom noticed, and the challenge raised money for charity.\n\n## Why It Is Funny\n\nHe slipped from standard football answers into Billie Jean without setting off\na single press-room alarm.\n\n## Comment Highlights\n\n- Label: Postgame track list\n  Summary: Fans reconstructed six titles from the clip after the reporters missed the whole set.\n  Why funny: The press conference needed a replay review before anyone found the playlist.\n  Source URL: https://www.reddit.com/r/soccer/comments/1w74glo/southend_united_head_coach_kieran_dyer_was/\n\n## Quote\n\nSix song titles, zero press-room alarms.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1w74glo/southend_united_head_coach_kieran_dyer_was/\n- Source type: Current Reddit top-day public media clip and fan discussion\n- Verification notes: Sports Radar reviewed the live r/soccer top-day page, exact post, visible clip description, and fan reconstruction on 2026-09-04. The charity detail remains attributed to the source post.\n\n## Sports Radar Markdown\n\n```md\n**Kieran Dyer hides six songs in one presser**\n\nKieran Dyer slipped six Michael Jackson song titles into a media session without anyone noticing.\n\nWhy it works: The press conference needed replay review before anyone found the playlist.\n```\n"
   },
   {
     "id": "klay-full-government-response",
@@ -6209,6 +6299,36 @@
       }
     ],
     "markdown": "---\nid: klay-full-government-response\nrank: 4\ntitle: \"Klay checks why KD used his full government name\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-04\"\nheat: 92\ntags:\n  - r/nba\n  - Klay Thompson\n  - Kevin Durant\n  - teammate lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post highlighted Klay Thompson reacting after Kevin Durant used his\nfull name while comparing the 2017 Warriors with the current 76ers.\n\n## Why It Is Funny\n\nKlay ignored the roster debate and focused on the social emergency: an old\nteammate had switched from nickname mode to full-government-name mode.\n\n## Comment Highlights\n\n- Label: Platform migration\n  Summary: Fans joked that leaving one social platform had merely moved Durant's debates somewhere else.\n  Why funny: The posting habit changed venues without changing genres.\n  Source URL: https://www.reddit.com/r/nba/comments/1vf74mb/basketnews_klay_thompson_responded_to_kevin/p1muw1k/\n- Label: Teammate notification\n  Summary: One reaction treated Klay's reply as proof that the old group chat had noticed the debate.\n  Why funny: A roster comparison suddenly felt like an active teammate intervention.\n  Source URL: https://www.reddit.com/r/nba/comments/1vf74mb/basketnews_klay_thompson_responded_to_kevin/p1n1p8v/\n\n## Quote\n\nThe comparison became a full-name intervention.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vf74mb/basketnews_klay_thompson_responded_to_kevin/\n- Source type: Reddit RSS top-day social-reaction post\n- Verification notes: Sports Radar reviewed the RSS title, source URL, and short feed preview on 2026-08-04. The response is treated as teammate banter, not evidence about the teams being compared.\n\n## Sports Radar Markdown\n\n```md\n**Klay checks why KD used his full government name**\n\nAn r/nba post highlighted Klay reacting after KD used his full name in a Warriors-versus-76ers comparison.\n\nWhy it works: The comparison became a full-name intervention.\n```\n"
+  },
+  {
+    "id": "logan-thompson-mars-attacks-mask",
+    "rank": 4,
+    "title": "Logan Thompson puts Mars Attacks in net",
+    "league": "NHL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-05",
+    "heat": 96,
+    "tags": [
+      "r/hockey",
+      "Logan Thompson",
+      "Mars Attacks",
+      "goalie masks"
+    ],
+    "public_ready": true,
+    "summary": "Logan Thompson's new mask uses a Mars Attacks theme, continuing his run of\ngoalie masks inspired by movies set in Washington, D.C.",
+    "whyFunny": "The Capitals crease now has a local-film requirement broad enough to include\nalien invasion, which is excellent goalie-mask bureaucracy.",
+    "quote": "Washington's newest defender arrives from Mars.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1w7r2xn/logan_thompsons_mars_attacks_themed_mask_for_the/",
+    "commentHighlights": [
+      {
+        "label": "Ack-ack crease",
+        "summary": "The thread immediately translated the mask into the movie's alien vocabulary.",
+        "whyFunny": "A goalie reveal became a one-syllable fan convention.",
+        "sourceUrl": "https://www.reddit.com/r/hockey/comments/1w7r2xn/logan_thompsons_mars_attacks_themed_mask_for_the/"
+      }
+    ],
+    "markdown": "---\nid: logan-thompson-mars-attacks-mask\nrank: 4\ntitle: \"Logan Thompson puts Mars Attacks in net\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-05\"\nheat: 96\ntags:\n  - r/hockey\n  - Logan Thompson\n  - Mars Attacks\n  - goalie masks\npublic_ready: true\n---\n\n## Summary\n\nLogan Thompson's new mask uses a Mars Attacks theme, continuing his run of\ngoalie masks inspired by movies set in Washington, D.C.\n\n## Why It Is Funny\n\nThe Capitals crease now has a local-film requirement broad enough to include\nalien invasion, which is excellent goalie-mask bureaucracy.\n\n## Comment Highlights\n\n- Label: Ack-ack crease\n  Summary: The thread immediately translated the mask into the movie's alien vocabulary.\n  Why funny: A goalie reveal became a one-syllable fan convention.\n  Source URL: https://www.reddit.com/r/hockey/comments/1w7r2xn/logan_thompsons_mars_attacks_themed_mask_for_the/\n\n## Quote\n\nWashington's newest defender arrives from Mars.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1w7r2xn/logan_thompsons_mars_attacks_themed_mask_for_the/\n- Source type: Current Reddit top-day image post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/hockey post, visible image listing, source description, and fan context on 2026-09-05. The D.C.-movie pattern is attributed to the source description.\n\n## Sports Radar Markdown\n\n```md\n**Logan Thompson puts Mars Attacks in net**\n\nLogan Thompson continued his D.C.-movie goalie-mask series with a Mars Attacks design.\n\nWhy it works: The Capitals crease now has a local-film rule broad enough to include alien invasion.\n```\n"
   },
   {
     "id": "matheus-cunha-repair-shop-ad",
@@ -7400,6 +7520,36 @@
     "markdown": "---\nid: alpharetta-mall-hockey-arena\nrank: 5\ntitle: \"Atlanta's hockey comeback starts at the mall\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-15\"\nheat: 94\ntags:\n  - r/hockey\n  - Atlanta\n  - Alpharetta\n  - arena proposal\n  - expansion lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey post linked a report about an approved Alpharetta mall\nredevelopment plan that includes a proposed 20,000-seat hockey arena.\n\n## Why It Is Funny\n\nAtlanta's latest hockey-return chapter begins with suburban mall geography.\nThe expansion dream has not arrived, but it already has a food-court origin\nstory.\n\n## Comment Highlights\n\n- Label: Arena map committee\n  Summary: The thread immediately debated the suburban location, traffic, transit, and whether another Atlanta hockey chapter could work there.\n  Why funny: A mall plan became a full civic hearing on the future of hockey in Georgia.\n  Source URL: https://www.reddit.com/r/hockey/comments/1vohsoo/alpharetta_approves_plan_for_north_point_mall/\n\n## Quote\n\nThe comeback has a food-court origin story.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vohsoo/alpharetta_approves_plan_for_north_point_mall/\n- Source type: Reddit discussion linking local reporting about a redevelopment proposal\n- Verification notes: Sports Radar reviewed the public post, linked-source description, and discussion on 2026-08-15. The public copy describes the arena as part of a proposal and does not claim that an NHL franchise has been awarded.\n\n## Sports Radar Markdown\n\n```md\n**Atlanta's hockey comeback starts at the mall**\n\nAn Alpharetta redevelopment plan put a 20,000-seat arena beside Atlanta's latest hockey dream.\n\nWhy it works: Expansion lore found the most suburban possible opening scene.\n```\n"
   },
   {
+    "id": "dusty-nickel-flames-ebug",
+    "rank": 5,
+    "title": "Calgary finds an emergency goalie named Dusty Nickel",
+    "league": "NHL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-05",
+    "heat": 95,
+    "tags": [
+      "r/hockey",
+      "Calgary Flames",
+      "Dusty Nickel",
+      "emergency backup goalie"
+    ],
+    "public_ready": true,
+    "summary": "Calgary's emergency backup goalie is named Dusty Nickel, a name the r/hockey\nthread immediately judged to be elite hockey casting.",
+    "whyFunny": "Emergency goalies already feel like characters waiting behind the glass. This\none arrived with the name of a minor-league legend before playing a minute.",
+    "quote": "The emergency goalie name generator hit the jackpot.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1w7bl8x/calgary_flames_ebug_will_be_dusty_nickel/",
+    "commentHighlights": [
+      {
+        "label": "Nameplate mandatory",
+        "summary": "Fans proposed that every emergency goalie should be required to wear a full first-and-last-name sweater.",
+        "whyFunny": "The position's best competitive advantage became fitting the entire name on the jersey.",
+        "sourceUrl": "https://www.reddit.com/r/hockey/comments/1w7bl8x/calgary_flames_ebug_will_be_dusty_nickel/"
+      }
+    ],
+    "markdown": "---\nid: dusty-nickel-flames-ebug\nrank: 5\ntitle: \"Calgary finds an emergency goalie named Dusty Nickel\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-05\"\nheat: 95\ntags:\n  - r/hockey\n  - Calgary Flames\n  - Dusty Nickel\n  - emergency backup goalie\npublic_ready: true\n---\n\n## Summary\n\nCalgary's emergency backup goalie is named Dusty Nickel, a name the r/hockey\nthread immediately judged to be elite hockey casting.\n\n## Why It Is Funny\n\nEmergency goalies already feel like characters waiting behind the glass. This\none arrived with the name of a minor-league legend before playing a minute.\n\n## Comment Highlights\n\n- Label: Nameplate mandatory\n  Summary: Fans proposed that every emergency goalie should be required to wear a full first-and-last-name sweater.\n  Why funny: The position's best competitive advantage became fitting the entire name on the jersey.\n  Source URL: https://www.reddit.com/r/hockey/comments/1w7bl8x/calgary_flames_ebug_will_be_dusty_nickel/\n\n## Quote\n\nThe emergency goalie name generator hit the jackpot.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1w7bl8x/calgary_flames_ebug_will_be_dusty_nickel/\n- Source type: Current Reddit top-day image post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/hockey post, visible image listing, and fan context on 2026-09-05. The role and name are stated by the public source post.\n\n## Sports Radar Markdown\n\n```md\n**Calgary finds an emergency goalie named Dusty Nickel**\n\nThe Flames' emergency backup goalie arrived with a name built for hockey lore.\n\nWhy it works: Dusty Nickel sounds like the emergency goalie fans already believed must exist somewhere.\n```\n"
+  },
+  {
     "id": "cam-ward-dodgeball-restraint",
     "rank": 5,
     "title": "Cam Ward discovers dodgeball restraint",
@@ -8337,7 +8487,7 @@
     "title": "Ottawa chooses a hill and packs a white flag",
     "league": "NHL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-04",
     "heat": 95,
     "tags": [
@@ -8359,7 +8509,7 @@
         "sourceUrl": "https://www.reddit.com/r/hockey/comments/1w6fdd7/the_senators_slogan_this_season/"
       }
     ],
-    "markdown": "---\nid: senators-hill-white-flag\nrank: 5\ntitle: \"Ottawa chooses a hill and packs a white flag\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-04\"\nheat: 95\ntags:\n  - r/hockey\n  - Ottawa Senators\n  - The Hill We Choose\n  - team slogan\npublic_ready: true\n---\n\n## Summary\n\nThe Senators unveiled \"The Hill We Choose\" as their season slogan with a\nflag-on-a-hill graphic. An r/hockey thread immediately saw a hill to die on and\na flag that looked ready to surrender.\n\n## Why It Is Funny\n\nThe campaign tried to project commitment and accidentally gave fans two\nopposite metaphors to work with before opening night.\n\n## Comment Highlights\n\n- Label: Slogan explainer\n  Summary: Fans needed a Parliament Hill explanation, then kept returning to the surrender-flag reading.\n  Why funny: A confidence slogan arrived with its own instant semantic review.\n  Source URL: https://www.reddit.com/r/hockey/comments/1w6fdd7/the_senators_slogan_this_season/\n\n## Quote\n\nPick a hill. Accidentally pack surrender.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1w6fdd7/the_senators_slogan_this_season/\n- Source type: Current Reddit top-day image post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/hockey post, visible fan context, and the Senators' public slogan announcement on 2026-09-04. The surrender-flag reading is explicitly framed as the thread's reaction to the graphic.\n\n## Sports Radar Markdown\n\n```md\n**Ottawa chooses a hill and packs a white flag**\n\nThe Senators launched \"The Hill We Choose\" with a graphic fans immediately read as a hill to die on and a surrender flag.\n\nWhy it works: One confidence campaign supplied two opposite metaphors before opening night.\n```\n"
+    "markdown": "---\nid: senators-hill-white-flag\nrank: 5\ntitle: \"Ottawa chooses a hill and packs a white flag\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-04\"\nheat: 95\ntags:\n  - r/hockey\n  - Ottawa Senators\n  - The Hill We Choose\n  - team slogan\npublic_ready: true\n---\n\n## Summary\n\nThe Senators unveiled \"The Hill We Choose\" as their season slogan with a\nflag-on-a-hill graphic. An r/hockey thread immediately saw a hill to die on and\na flag that looked ready to surrender.\n\n## Why It Is Funny\n\nThe campaign tried to project commitment and accidentally gave fans two\nopposite metaphors to work with before opening night.\n\n## Comment Highlights\n\n- Label: Slogan explainer\n  Summary: Fans needed a Parliament Hill explanation, then kept returning to the surrender-flag reading.\n  Why funny: A confidence slogan arrived with its own instant semantic review.\n  Source URL: https://www.reddit.com/r/hockey/comments/1w6fdd7/the_senators_slogan_this_season/\n\n## Quote\n\nPick a hill. Accidentally pack surrender.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1w6fdd7/the_senators_slogan_this_season/\n- Source type: Current Reddit top-day image post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/hockey post, visible fan context, and the Senators' public slogan announcement on 2026-09-04. The surrender-flag reading is explicitly framed as the thread's reaction to the graphic.\n\n## Sports Radar Markdown\n\n```md\n**Ottawa chooses a hill and packs a white flag**\n\nThe Senators launched \"The Hill We Choose\" with a graphic fans immediately read as a hill to die on and a surrender flag.\n\nWhy it works: One confidence campaign supplied two opposite metaphors before opening night.\n```\n"
   },
   {
     "id": "pablo-garcia-betis-goodbye",
