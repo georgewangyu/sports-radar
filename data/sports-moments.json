@@ -719,7 +719,7 @@
     "title": "Kansas City completes the inflatable hot dog",
     "league": "MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-06",
     "heat": 99,
     "tags": [
@@ -741,7 +741,7 @@
         "sourceUrl": "https://www.reddit.com/r/baseball/comments/1w8hxcm/kansas_city_crowd_celebrates_when_they_get_the/"
       }
     ],
-    "markdown": "---\nid: kansas-city-inflatable-hot-dog-bun\nrank: 1\ntitle: \"Kansas City completes the inflatable hot dog\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-06\"\nheat: 99\ntags:\n  - r/baseball\n  - Kansas City Royals\n  - stadium games\n  - inflatable hot dog\npublic_ready: true\n---\n\n## Summary\n\nA Kansas City crowd passed a giant inflatable hot dog and bun from opposite\nsides of the ballpark until they met above the seats.\n\n## Why It Is Funny\n\nThe stadium turned assembling lunch into a live-action DVD logo moment, with\nan entire crowd assigned to land the corner.\n\n## Comment Highlights\n\n- Label: Ballpark engineering\n  Summary: Fans compared the final connection to a DVD logo landing perfectly in the corner.\n  Why funny: Thousands of people briefly became one very committed screensaver.\n  Source URL: https://www.reddit.com/r/baseball/comments/1w8hxcm/kansas_city_crowd_celebrates_when_they_get_the/\n\n## Quote\n\nThe whole ballpark completed one hot dog.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1w8hxcm/kansas_city_crowd_celebrates_when_they_get_the/\n- Source type: Current Reddit top-day video post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post, visible video listing, and fan context on 2026-09-06. The rewrite describes only the crowd game shown and discussed on the source page.\n\n## Sports Radar Markdown\n\n```md\n**Kansas City completes the inflatable hot dog**\n\nA giant hot dog and bun traveled from opposite sides of the ballpark until the crowd connected them above the seats.\n\nWhy it works: The stadium built a live-action DVD logo moment and gave thousands of fans one extremely important lunch assignment.\n```\n"
+    "markdown": "---\nid: kansas-city-inflatable-hot-dog-bun\nrank: 1\ntitle: \"Kansas City completes the inflatable hot dog\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-06\"\nheat: 99\ntags:\n  - r/baseball\n  - Kansas City Royals\n  - stadium games\n  - inflatable hot dog\npublic_ready: true\n---\n\n## Summary\n\nA Kansas City crowd passed a giant inflatable hot dog and bun from opposite\nsides of the ballpark until they met above the seats.\n\n## Why It Is Funny\n\nThe stadium turned assembling lunch into a live-action DVD logo moment, with\nan entire crowd assigned to land the corner.\n\n## Comment Highlights\n\n- Label: Ballpark engineering\n  Summary: Fans compared the final connection to a DVD logo landing perfectly in the corner.\n  Why funny: Thousands of people briefly became one very committed screensaver.\n  Source URL: https://www.reddit.com/r/baseball/comments/1w8hxcm/kansas_city_crowd_celebrates_when_they_get_the/\n\n## Quote\n\nThe whole ballpark completed one hot dog.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1w8hxcm/kansas_city_crowd_celebrates_when_they_get_the/\n- Source type: Current Reddit top-day video post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post, visible video listing, and fan context on 2026-09-06. The rewrite describes only the crowd game shown and discussed on the source page.\n\n## Sports Radar Markdown\n\n```md\n**Kansas City completes the inflatable hot dog**\n\nA giant hot dog and bun traveled from opposite sides of the ballpark until the crowd connected them above the seats.\n\nWhy it works: The stadium built a live-action DVD logo moment and gave thousands of fans one extremely important lunch assignment.\n```\n"
   },
   {
     "id": "kareem-benson-rookie-test",
@@ -808,6 +808,36 @@
       }
     ],
     "markdown": "---\nid: kat-msg-chokeslam-crossover\nrank: 1\ntitle: \"KAT turns Madison Square Garden into a crossover episode\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-19\"\nheat: 98\ntags:\n  - r/nba\n  - Karl-Anthony Towns\n  - WWE\n  - Madison Square Garden\npublic_ready: true\n---\n\n## Summary\n\nKarl-Anthony Towns appeared at WWE's Saturday Night's Main Event in Madison\nSquare Garden and delivered two chokeslams during the show.\n\n## Why It Is Funny\n\nAn NBA star walked into his home arena and found a completely different\nplaybook waiting for him. The basketball-wrestling crossover became official\nthe moment KAT started lifting opponents instead of jump shots.\n\n## Comment Highlights\n\n- Label: Alternate MSG rotation\n  Summary: Fans treated Towns' wrestling appearance like an unexpected second job inside his usual arena.\n  Why funny: The building stays the same while every rule and matchup changes.\n  Source URL: https://www.reddit.com/r/nba/comments/1v0cca2/karlanthony_towns_arrives_at_saturday_nights_main/\n- Label: Storyline scouting\n  Summary: The thread compared WWE's spectacle with the NBA's usual drama and imagined more basketball cameos.\n  Why funny: Two sports with endless storylines briefly share one writers' room.\n  Source URL: https://www.reddit.com/r/nba/comments/1v0cca2/karlanthony_towns_arrives_at_saturday_nights_main/\n\n## Quote\n\nSame Garden, entirely different playbook.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v0cca2/karlanthony_towns_arrives_at_saturday_nights_main/\n- Source type: Reddit / r/nba top-day wrestling crossover clip\n- Verification notes: the public post and thread describe Towns delivering two chokeslams during the MSG event; the copy treats the appearance as entertainment and adds no claims about an unscripted confrontation\n\n## Sports Radar Markdown\n\n```md\n**KAT turns Madison Square Garden into a crossover episode**\n\nKarl-Anthony Towns returned to MSG with a wrestling playbook and delivered two chokeslams.\n\nWhy it works: an NBA home arena becomes the set for its strangest alternate rotation.\n```\n"
+  },
+  {
+    "id": "kyle-shanahan-tomorrow-injury-report",
+    "rank": 1,
+    "title": "Kyle Shanahan moves injury reports into tomorrow",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-07",
+    "heat": 99,
+    "tags": [
+      "r/nfl",
+      "Kyle Shanahan",
+      "Australia",
+      "time zones"
+    ],
+    "public_ready": true,
+    "summary": "Speaking from Australia, Kyle Shanahan said the 49ers were technically in the\nfuture, so he did not owe reporters an injury update until tomorrow.",
+    "whyFunny": "Jet lag became a temporary collective-bargaining loophole, with the entire\npress conference trapped on the wrong side of the date line.",
+    "quote": "The injury report lives in tomorrow.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w9enwv/highlight_49ers_hc_kyle_shanahan_speaking_from/",
+    "commentHighlights": [
+      {
+        "label": "Future scheduling",
+        "summary": "Fans extended the time-zone logic into jokes about laughing tomorrow and receiving news from the future.",
+        "whyFunny": "One dry answer turned the international opener into a minor time-travel problem.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w9enwv/highlight_49ers_hc_kyle_shanahan_speaking_from/"
+      }
+    ],
+    "markdown": "---\nid: kyle-shanahan-tomorrow-injury-report\nrank: 1\ntitle: \"Kyle Shanahan moves injury reports into tomorrow\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-07\"\nheat: 99\ntags:\n  - r/nfl\n  - Kyle Shanahan\n  - Australia\n  - time zones\npublic_ready: true\n---\n\n## Summary\n\nSpeaking from Australia, Kyle Shanahan said the 49ers were technically in the\nfuture, so he did not owe reporters an injury update until tomorrow.\n\n## Why It Is Funny\n\nJet lag became a temporary collective-bargaining loophole, with the entire\npress conference trapped on the wrong side of the date line.\n\n## Comment Highlights\n\n- Label: Future scheduling\n  Summary: Fans extended the time-zone logic into jokes about laughing tomorrow and receiving news from the future.\n  Why funny: One dry answer turned the international opener into a minor time-travel problem.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w9enwv/highlight_49ers_hc_kyle_shanahan_speaking_from/\n\n## Quote\n\nThe injury report lives in tomorrow.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w9enwv/highlight_49ers_hc_kyle_shanahan_speaking_from/\n- Source type: Current Reddit top-day press-conference clip and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nfl post, visible media listing, and public fan context on 2026-09-07. The rewrite stays within the time-zone joke described on the source page.\n\n## Sports Radar Markdown\n\n```md\n**Kyle Shanahan moves injury reports into tomorrow**\n\nSpeaking from Australia, Kyle Shanahan said the 49ers were technically in the future, so reporters could wait until tomorrow for injury news.\n\nWhy it works: Jet lag briefly became a scheduling loophole and turned the press conference into a time-travel problem.\n```\n"
   },
   {
     "id": "lamine-yamal-woke-up-too",
@@ -2518,6 +2548,36 @@
     "markdown": "---\nid: joe-flacco-visor-roast\nrank: 2\ntitle: \"Joe Flacco turns a quarterback visor into a roast target\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-14\"\nheat: 95\ntags:\n  - r/nfl\n  - Joe Flacco\n  - Shedeur Sanders\n  - visor\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl clip showed Joe Flacco delivering his blunt opinion about quarterbacks\nin visors while Shedeur Sanders stood beside him wearing one.\n\n## Why It Is Funny\n\nThe equipment critique has a visible target and no escape route. It is veteran\nlocker-room timing reduced to one accessory and one extremely present teammate.\n\n## Comment Highlights\n\n- Label: The mirrored defense\n  Summary: Fans invented increasingly technical reasons the visor might still be helping its wearer.\n  Why funny: A fashion roast gets answered like a serious piece of quarterback analysis.\n  Source URL: https://www.reddit.com/r/nfl/comments/1uw3a1t/highlight_joe_flacco_makes_fun_of_shedeur_sanders/\n- Label: Subtlety was inactive\n  Summary: The thread kept returning to how directly the opinion landed with Sanders standing right there.\n  Why funny: The target did not need to wonder whether the comment was about him.\n  Source URL: https://www.reddit.com/r/nfl/comments/1uw3a1t/highlight_joe_flacco_makes_fun_of_shedeur_sanders/\n\n## Quote\n\nThe equipment review became a live performance review.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1uw3a1t/highlight_joe_flacco_makes_fun_of_shedeur_sanders/\n- Source type: Reddit / r/nfl top-day series clip\n- Verification notes: the public post and replies confirm the visor roast and Sanders's presence; omit the raw profanity and keep the framing to the visible locker-room exchange\n\n## Sports Radar Markdown\n\n```md\n**Joe Flacco turns a quarterback visor into a roast target**\n\nThe veteran delivered an equipment opinion beside the teammate wearing the equipment.\n\nWhy it works: the accessory critique came with a visible target and no ambiguity.\n```\n"
   },
   {
+    "id": "michael-jordan-bad-back-45",
+    "rank": 2,
+    "title": "Jordan hears bad back and schedules 45",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-07",
+    "heat": 98,
+    "tags": [
+      "r/nba",
+      "Michael Jordan",
+      "Kenyon Martin",
+      "Wizards lore"
+    ],
+    "public_ready": true,
+    "summary": "A 2001 highlight resurfaced with the story that Kenyon Martin mentioned his\nbad back to Michael Jordan, who then attacked the matchup on his way to 45.",
+    "whyFunny": "Martin offered a medical update and Jordan treated it like the most useful\nline in a scouting report.",
+    "quote": "The medical update became the scouting report.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1w9kz0n/highlights_michael_jordan_drops_45_on_the_nets/",
+    "commentHighlights": [
+      {
+        "label": "Context makes it worse",
+        "summary": "Fans noted that Jordan had scored 51 in the previous game, so the warning arrived after the heater had already started.",
+        "whyFunny": "The bad-back detail did not create the danger. It simply handed the danger a target.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1w9kz0n/highlights_michael_jordan_drops_45_on_the_nets/"
+      }
+    ],
+    "markdown": "---\nid: michael-jordan-bad-back-45\nrank: 2\ntitle: \"Jordan hears bad back and schedules 45\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-07\"\nheat: 98\ntags:\n  - r/nba\n  - Michael Jordan\n  - Kenyon Martin\n  - Wizards lore\npublic_ready: true\n---\n\n## Summary\n\nA 2001 highlight resurfaced with the story that Kenyon Martin mentioned his\nbad back to Michael Jordan, who then attacked the matchup on his way to 45.\n\n## Why It Is Funny\n\nMartin offered a medical update and Jordan treated it like the most useful\nline in a scouting report.\n\n## Comment Highlights\n\n- Label: Context makes it worse\n  Summary: Fans noted that Jordan had scored 51 in the previous game, so the warning arrived after the heater had already started.\n  Why funny: The bad-back detail did not create the danger. It simply handed the danger a target.\n  Source URL: https://www.reddit.com/r/nba/comments/1w9kz0n/highlights_michael_jordan_drops_45_on_the_nets/\n\n## Quote\n\nThe medical update became the scouting report.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w9kz0n/highlights_michael_jordan_drops_45_on_the_nets/\n- Source type: Current Reddit top-day archive highlight and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post, visible highlight listing, and quoted game context on 2026-09-07. The rewrite avoids adding claims beyond the public source page.\n\n## Sports Radar Markdown\n\n```md\n**Jordan hears bad back and schedules 45**\n\nA 2001 highlight resurfaced with Kenyon Martin mentioning his bad back before Michael Jordan finished with 45.\n\nWhy it works: Martin offered a medical update and Jordan treated it like the most useful line in a scouting report.\n```\n"
+  },
+  {
     "id": "bill-self-kansas-tournament-simulator",
     "rank": 2,
     "title": "Kansas turns Bill Self lore into a tournament simulator",
@@ -3416,7 +3476,7 @@
     "title": "The Cardinals turn one crooked cap into uniform policy",
     "league": "MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-06",
     "heat": 98,
     "tags": [
@@ -3438,7 +3498,7 @@
         "sourceUrl": "https://www.reddit.com/r/baseball/comments/1w8i1gk/highlight_the_entire_cardinals_dugout_wear_their/"
       }
     ],
-    "markdown": "---\nid: cardinals-crooked-hat-solidarity\nrank: 2\ntitle: \"The Cardinals turn one crooked cap into uniform policy\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-06\"\nheat: 98\ntags:\n  - r/baseball\n  - St. Louis Cardinals\n  - tilted hats\n  - dugout solidarity\npublic_ready: true\n---\n\n## Summary\n\nA Cardinals dugout highlight showed every player wearing a tilted cap after\nthe previous night's argument over a rookie pitcher's crooked hat.\n\n## Why It Is Funny\n\nOne unwritten uniform complaint became a coordinated team dress code by the\nnext game.\n\n## Comment Highlights\n\n- Label: Full-roster grievance\n  Summary: The thread watched a one-player cap dispute recruit both dugouts into the joke.\n  Why funny: The complaint gained participants faster than it gained an actual rule.\n  Source URL: https://www.reddit.com/r/baseball/comments/1w8i1gk/highlight_the_entire_cardinals_dugout_wear_their/\n\n## Quote\n\nThe cap memo received unanimous adoption.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1w8i1gk/highlight_the_entire_cardinals_dugout_wear_their/\n- Source type: Current Reddit top-day video highlight and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball highlight and same-day fan context on 2026-09-06. The background remains framed as the public thread's account of the prior cap dispute.\n\n## Sports Radar Markdown\n\n```md\n**The Cardinals turn one crooked cap into uniform policy**\n\nThe entire Cardinals dugout wore tilted hats after the previous night's argument over one rookie pitcher's crooked cap.\n\nWhy it works: An unwritten complaint became a coordinated dress code before it became an actual rule.\n```\n"
+    "markdown": "---\nid: cardinals-crooked-hat-solidarity\nrank: 2\ntitle: \"The Cardinals turn one crooked cap into uniform policy\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-06\"\nheat: 98\ntags:\n  - r/baseball\n  - St. Louis Cardinals\n  - tilted hats\n  - dugout solidarity\npublic_ready: true\n---\n\n## Summary\n\nA Cardinals dugout highlight showed every player wearing a tilted cap after\nthe previous night's argument over a rookie pitcher's crooked hat.\n\n## Why It Is Funny\n\nOne unwritten uniform complaint became a coordinated team dress code by the\nnext game.\n\n## Comment Highlights\n\n- Label: Full-roster grievance\n  Summary: The thread watched a one-player cap dispute recruit both dugouts into the joke.\n  Why funny: The complaint gained participants faster than it gained an actual rule.\n  Source URL: https://www.reddit.com/r/baseball/comments/1w8i1gk/highlight_the_entire_cardinals_dugout_wear_their/\n\n## Quote\n\nThe cap memo received unanimous adoption.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1w8i1gk/highlight_the_entire_cardinals_dugout_wear_their/\n- Source type: Current Reddit top-day video highlight and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball highlight and same-day fan context on 2026-09-06. The background remains framed as the public thread's account of the prior cap dispute.\n\n## Sports Radar Markdown\n\n```md\n**The Cardinals turn one crooked cap into uniform policy**\n\nThe entire Cardinals dugout wore tilted hats after the previous night's argument over one rookie pitcher's crooked cap.\n\nWhy it works: An unwritten complaint became a coordinated dress code before it became an actual rule.\n```\n"
   },
   {
     "id": "mariners-baseball-jumpscare",
@@ -5270,7 +5330,7 @@
     "title": "Ronaldo reads the other coach's homework",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-06",
     "heat": 97,
     "tags": [
@@ -5292,7 +5352,7 @@
         "sourceUrl": "https://www.reddit.com/r/soccer/comments/1w8pbmg/cristiano_ronaldo_reading_instructions_from_a/"
       }
     ],
-    "markdown": "---\nid: ronaldo-opponent-note-reading\nrank: 3\ntitle: \"Ronaldo reads the other coach's homework\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-06\"\nheat: 97\ntags:\n  - r/soccer\n  - Cristiano Ronaldo\n  - Al-Ittihad\n  - touchline instructions\npublic_ready: true\n---\n\n## Summary\n\nA match clip showed Cristiano Ronaldo reading instructions that the\nAl-Ittihad coach had handed to Danilo.\n\n## Why It Is Funny\n\nMid-match scouting briefly looked like copying from the neighboring desk\nbefore the teacher came back.\n\n## Comment Highlights\n\n- Label: Two reviews at once\n  Summary: The thread split its attention between the intercepted note and Ronaldo's haircut.\n  Why funny: The tactical leak still had to compete with a surprise grooming audit.\n  Source URL: https://www.reddit.com/r/soccer/comments/1w8pbmg/cristiano_ronaldo_reading_instructions_from_a/\n\n## Quote\n\nThe scouting report arrived by hand.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1w8pbmg/cristiano_ronaldo_reading_instructions_from_a/\n- Source type: Current Reddit top-day match clip and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/soccer post, visible media listing, and fan context on 2026-09-06. The copy stays within what the public source title and clip discussion describe.\n\n## Sports Radar Markdown\n\n```md\n**Ronaldo reads the other coach's homework**\n\nCristiano Ronaldo read the instructions an Al-Ittihad coach had just handed to Danilo.\n\nWhy it works: Mid-match scouting suddenly looked like copying from the neighboring desk.\n```\n"
+    "markdown": "---\nid: ronaldo-opponent-note-reading\nrank: 3\ntitle: \"Ronaldo reads the other coach's homework\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-06\"\nheat: 97\ntags:\n  - r/soccer\n  - Cristiano Ronaldo\n  - Al-Ittihad\n  - touchline instructions\npublic_ready: true\n---\n\n## Summary\n\nA match clip showed Cristiano Ronaldo reading instructions that the\nAl-Ittihad coach had handed to Danilo.\n\n## Why It Is Funny\n\nMid-match scouting briefly looked like copying from the neighboring desk\nbefore the teacher came back.\n\n## Comment Highlights\n\n- Label: Two reviews at once\n  Summary: The thread split its attention between the intercepted note and Ronaldo's haircut.\n  Why funny: The tactical leak still had to compete with a surprise grooming audit.\n  Source URL: https://www.reddit.com/r/soccer/comments/1w8pbmg/cristiano_ronaldo_reading_instructions_from_a/\n\n## Quote\n\nThe scouting report arrived by hand.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1w8pbmg/cristiano_ronaldo_reading_instructions_from_a/\n- Source type: Current Reddit top-day match clip and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/soccer post, visible media listing, and fan context on 2026-09-06. The copy stays within what the public source title and clip discussion describe.\n\n## Sports Radar Markdown\n\n```md\n**Ronaldo reads the other coach's homework**\n\nCristiano Ronaldo read the instructions an Al-Ittihad coach had just handed to Danilo.\n\nWhy it works: Mid-match scouting suddenly looked like copying from the neighboring desk.\n```\n"
   },
   {
     "id": "seth-jarvis-goalie-audition",
@@ -5352,6 +5412,36 @@
       }
     ],
     "markdown": "---\nid: spain-unbeaten-result-wall\nrank: 3\ntitle: \"Spain's unbeaten run becomes a wall of letters\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-15\"\nheat: 93\ntags:\n  - r/soccer\n  - Spain\n  - unbeaten run\n  - stat graphics\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer stat post marked Spain equaling a 37-match men's international\nunbeaten record by printing the entire run as one long chain of wins and draws.\n\n## Why It Is Funny\n\nThe statistic stops looking like a statistic and starts looking like someone\nheld down two keys for an entire tournament cycle. The visual clutter is the proof.\n\n## Comment Highlights\n\n- Label: The Scotland footnote\n  Summary: Fans immediately identified Scotland as the last competitive opponent to beat Spain.\n  Why funny: A record-setting run still comes with one nation cheerfully preserving the receipt.\n  Source URL: https://www.reddit.com/r/soccer/comments/1uwlgey/squawka_spain_have_equalled_italys_record_for_the/\n- Label: Penalty fine print\n  Summary: Other replies debated whether shootout losses should fit inside an unbeaten streak at all.\n  Why funny: The giant wall of results still needs a small-print argument underneath it.\n  Source URL: https://www.reddit.com/r/soccer/comments/1uwlgey/squawka_spain_have_equalled_italys_record_for_the/\n\n## Quote\n\nThe stat line became its own victory parade.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1uwlgey/squawka_spain_have_equalled_italys_record_for_the/\n- Source type: Reddit / r/soccer top-day stat post\n- Verification notes: the captured RSS title states a 37-game unbeaten run tied the listed record and includes the result sequence; do not reproduce the full sequence in public copy\n\n## Sports Radar Markdown\n\n```md\n**Spain's unbeaten run becomes a wall of letters**\n\nA 37-match streak was rendered as enough wins and draws to turn the stat line into visual comedy.\n\nWhy it works: the result sequence looks less like data and more like a keyboard endurance test.\n```\n"
+  },
+  {
+    "id": "latrell-sprewell-seated-shot",
+    "rank": 3,
+    "title": "Sprewell turns a jumper into a sitter",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-07",
+    "heat": 97,
+    "tags": [
+      "r/nba",
+      "Latrell Sprewell",
+      "seated shot",
+      "basketball vocabulary"
+    ],
+    "public_ready": true,
+    "summary": "An archive clip showed Latrell Sprewell making a shot while seated on the\ncourt, then the thread immediately put the word jumper on trial.",
+    "whyFunny": "The basket was impressive, but the crowd spent its energy inventing the\nofficial opposite of a jump shot.",
+    "quote": "The jumper never left the floor.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1w92w03/highlight_latrell_sprewell_makes_a_jumper_while/",
+    "commentHighlights": [
+      {
+        "label": "Vocabulary review",
+        "summary": "Fans kept proposing names for a made shot that begins and ends from the floor.",
+        "whyFunny": "The replay became a rules committee for a move nobody expected to classify.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1w92w03/highlight_latrell_sprewell_makes_a_jumper_while/"
+      }
+    ],
+    "markdown": "---\nid: latrell-sprewell-seated-shot\nrank: 3\ntitle: \"Sprewell turns a jumper into a sitter\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-07\"\nheat: 97\ntags:\n  - r/nba\n  - Latrell Sprewell\n  - seated shot\n  - basketball vocabulary\npublic_ready: true\n---\n\n## Summary\n\nAn archive clip showed Latrell Sprewell making a shot while seated on the\ncourt, then the thread immediately put the word jumper on trial.\n\n## Why It Is Funny\n\nThe basket was impressive, but the crowd spent its energy inventing the\nofficial opposite of a jump shot.\n\n## Comment Highlights\n\n- Label: Vocabulary review\n  Summary: Fans kept proposing names for a made shot that begins and ends from the floor.\n  Why funny: The replay became a rules committee for a move nobody expected to classify.\n  Source URL: https://www.reddit.com/r/nba/comments/1w92w03/highlight_latrell_sprewell_makes_a_jumper_while/\n\n## Quote\n\nThe jumper never left the floor.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w92w03/highlight_latrell_sprewell_makes_a_jumper_while/\n- Source type: Current Reddit top-day archive highlight and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post, visible highlight listing, and public discussion on 2026-09-07. The comment summary is transformed and does not reproduce usernames or raw thread text.\n\n## Sports Radar Markdown\n\n```md\n**Sprewell turns a jumper into a sitter**\n\nAn archive clip showed Latrell Sprewell making a shot while seated on the court.\n\nWhy it works: The basket landed, then the thread convened an emergency rules committee to rename the jump shot.\n```\n"
   },
   {
     "id": "curry-lebron-golf-first",
@@ -7393,7 +7483,7 @@
     "title": "Wemby's UFC seat comes with a spare Wemby",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-06",
     "heat": 96,
     "tags": [
@@ -7415,7 +7505,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1w8fgwx/wemby_at_the_ufc_fight/"
       }
     ],
-    "markdown": "---\nid: wemby-ufc-brother-clone\nrank: 4\ntitle: \"Wemby's UFC seat comes with a spare Wemby\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-06\"\nheat: 96\ntags:\n  - r/nba\n  - Victor Wembanyama\n  - UFC\n  - brothers\npublic_ready: true\n---\n\n## Summary\n\nVictor Wembanyama attended a UFC event beside his brother, creating the rare\nphoto where the person next to Wemby looked only slightly shorter.\n\n## Why It Is Funny\n\nThe thread skipped ordinary family resemblance and went straight to a Spurs\ncloning program.\n\n## Comment Highlights\n\n- Label: Backup giant\n  Summary: Fans treated the matching height and haircut as evidence that San Antonio had ordered a second Wemby.\n  Why funny: A family photo became accidental roster-depth news.\n  Source URL: https://www.reddit.com/r/nba/comments/1w8fgwx/wemby_at_the_ufc_fight/\n\n## Quote\n\nThe Spurs found a spare in the family plan.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w8fgwx/wemby_at_the_ufc_fight/\n- Source type: Current Reddit top-day image post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post and visible fan context on 2026-09-06. The relationship is confirmed in the public thread; the cloning line is clearly fan-lore framing.\n\n## Sports Radar Markdown\n\n```md\n**Wemby's UFC seat comes with a spare Wemby**\n\nVictor Wembanyama sat beside his brother at UFC, creating a rare photo where his neighbor looked only slightly shorter.\n\nWhy it works: The thread skipped family resemblance and went directly to a Spurs cloning program.\n```\n"
+    "markdown": "---\nid: wemby-ufc-brother-clone\nrank: 4\ntitle: \"Wemby's UFC seat comes with a spare Wemby\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-06\"\nheat: 96\ntags:\n  - r/nba\n  - Victor Wembanyama\n  - UFC\n  - brothers\npublic_ready: true\n---\n\n## Summary\n\nVictor Wembanyama attended a UFC event beside his brother, creating the rare\nphoto where the person next to Wemby looked only slightly shorter.\n\n## Why It Is Funny\n\nThe thread skipped ordinary family resemblance and went straight to a Spurs\ncloning program.\n\n## Comment Highlights\n\n- Label: Backup giant\n  Summary: Fans treated the matching height and haircut as evidence that San Antonio had ordered a second Wemby.\n  Why funny: A family photo became accidental roster-depth news.\n  Source URL: https://www.reddit.com/r/nba/comments/1w8fgwx/wemby_at_the_ufc_fight/\n\n## Quote\n\nThe Spurs found a spare in the family plan.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w8fgwx/wemby_at_the_ufc_fight/\n- Source type: Current Reddit top-day image post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post and visible fan context on 2026-09-06. The relationship is confirmed in the public thread; the cloning line is clearly fan-lore framing.\n\n## Sports Radar Markdown\n\n```md\n**Wemby's UFC seat comes with a spare Wemby**\n\nVictor Wembanyama sat beside his brother at UFC, creating a rare photo where his neighbor looked only slightly shorter.\n\nWhy it works: The thread skipped family resemblance and went directly to a Spurs cloning program.\n```\n"
   },
   {
     "id": "westbrook-jokic-61-point-collapse",
@@ -7482,6 +7572,36 @@
       }
     ],
     "markdown": "---\nid: westbrook-superfan-account-retirement\nrank: 4\ntitle: \"Westbrook's retirement claims a fan account too\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-13\"\nheat: 94\ntags:\n  - r/nba\n  - Russell Westbrook\n  - fan lore\n  - retirement\npublic_ready: true\n---\n\n## Summary\n\nAfter Russell Westbrook announced his retirement, one of r/nba's most\nrecognizable Westbrook-devoted accounts posted a final tribute and said the\naccount was retiring too.\n\n## Why It Is Funny\n\nThe player retirement immediately created a second retirement ceremony. The\nthread treated years of relentless fan posting like a career worthy of its own\nbanner, statue, and place in the rafters.\n\n## Comment Highlights\n\n- Label: Retire the username\n  Summary: The thread proposed hanging the account in the rafters and inducted its long-running bit into subreddit history.\n  Why funny: NBA legacy discourse expanded to include a fan account's posting career.\n  Source URL: https://www.reddit.com/r/nba/comments/1vmomh3/tim_duncan_dirk_nowitzki_and_kobe_bryant_kawhi/\n\n## Quote\n\nHang the account in the rafters.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vmomh3/tim_duncan_dirk_nowitzki_and_kobe_bryant_kawhi/\n- Source type: Reddit fan tribute and discussion\n- Verification notes: Sports Radar reviewed the public post and discussion on 2026-08-13. The public copy promotes only the account-retirement joke and omits disputed or incorrect historical claims from the post title.\n\n## Sports Radar Markdown\n\n```md\n**Westbrook's retirement claims a fan account too**\n\nA devoted r/nba account ended its posting career alongside Russell Westbrook's playing career.\n\nWhy it works: One retirement announcement somehow required two ceremonies and another banner.\n```\n"
+  },
+  {
+    "id": "wisconsin-notre-dame-coffin-corner-punt",
+    "rank": 4,
+    "title": "Wisconsin lands the coffin-corner masterpiece",
+    "league": "CFB",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-07",
+    "heat": 96,
+    "tags": [
+      "r/CFB",
+      "Wisconsin",
+      "Notre Dame",
+      "coffin-corner punt"
+    ],
+    "public_ready": true,
+    "summary": "A Wisconsin punt against Notre Dame traveled 69 yards, rolled untouched, and\nescaped out of bounds at the one-yard line.",
+    "whyFunny": "A play designed to surrender the ball received a standing ovation for parking\nit in the least convenient spot available.",
+    "quote": "The ball found the worst possible parking spot.",
+    "sourceUrl": "https://www.reddit.com/r/CFB/comments/1w9ddmx/highlight_wisconsin_vs_notre_dame_early_candidate/",
+    "commentHighlights": [
+      {
+        "label": "Punt appreciation society",
+        "summary": "Fans promoted the kick from play of the weekend to an all-time special-teams artifact.",
+        "whyFunny": "The thread sounded like an art opening for a ball slowly rolling out of bounds.",
+        "sourceUrl": "https://www.reddit.com/r/CFB/comments/1w9ddmx/highlight_wisconsin_vs_notre_dame_early_candidate/"
+      }
+    ],
+    "markdown": "---\nid: wisconsin-notre-dame-coffin-corner-punt\nrank: 4\ntitle: \"Wisconsin lands the coffin-corner masterpiece\"\nleague: \"CFB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-07\"\nheat: 96\ntags:\n  - r/CFB\n  - Wisconsin\n  - Notre Dame\n  - coffin-corner punt\npublic_ready: true\n---\n\n## Summary\n\nA Wisconsin punt against Notre Dame traveled 69 yards, rolled untouched, and\nescaped out of bounds at the one-yard line.\n\n## Why It Is Funny\n\nA play designed to surrender the ball received a standing ovation for parking\nit in the least convenient spot available.\n\n## Comment Highlights\n\n- Label: Punt appreciation society\n  Summary: Fans promoted the kick from play of the weekend to an all-time special-teams artifact.\n  Why funny: The thread sounded like an art opening for a ball slowly rolling out of bounds.\n  Source URL: https://www.reddit.com/r/CFB/comments/1w9ddmx/highlight_wisconsin_vs_notre_dame_early_candidate/\n\n## Quote\n\nThe ball found the worst possible parking spot.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1w9ddmx/highlight_wisconsin_vs_notre_dame_early_candidate/\n- Source type: Current Reddit top-day game clip and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/CFB post, visible video listing, and public fan context on 2026-09-07. The distance and field position come from the source title.\n\n## Sports Radar Markdown\n\n```md\n**Wisconsin lands the coffin-corner masterpiece**\n\nA 69-yard punt rolled untouched and escaped out of bounds at the Notre Dame one-yard line.\n\nWhy it works: A play designed to surrender the ball earned art-opening energy for finding the least convenient parking spot on the field.\n```\n"
   },
   {
     "id": "zac-thornton-removes-the-h",
@@ -7607,6 +7727,36 @@
       }
     ],
     "markdown": "---\nid: aaron-donald-two-line-comeback\nrank: 5\ntitle: \"Aaron Donald files the shortest comeback letter\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-31\"\nheat: 95\ntags:\n  - r/nfl\n  - Aaron Donald\n  - Los Angeles Rams\n  - comeback\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl post shared Aaron Donald's letter announcing his return to Roger\nGoodell. The note used a greeting, a two-word update, and a sign-off.\n\n## Why It Is Funny\n\nA career comeback normally arrives with reflection, gratitude, and several\nparagraphs. Donald submitted the administrative minimum and went back to work.\n\n## Comment Highlights\n\n- Label: Minimal correspondence\n  Summary: The thread treated the note as both official paperwork and an instant comeback meme.\n  Why funny: One of football's loudest roster changes arrives with the word count of a refrigerator note.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w2u9c5/aaron_donalds_letter_to_roger_goodell_announcing/\n\n## Quote\n\nThe comeback cleared the paperwork in one sentence.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w2u9c5/aaron_donalds_letter_to_roger_goodell_announcing/\n- Source type: Reddit top-day post linking a public comeback announcement\n- Verification notes: Sports Radar reviewed the collector output and public Reddit thread on 2026-08-31. The letter is paraphrased rather than reproduced, and the return is attributed to the source post.\n\n## Sports Radar Markdown\n\n```md\n**Aaron Donald files the shortest comeback letter**\n\nAaron Donald announced his return to the commissioner with a greeting, a two-word update, and a sign-off.\n\nWhy it works: A massive roster change arrives with the word count of a refrigerator note.\n```\n"
+  },
+  {
+    "id": "aaron-donald-49ers-retirement-reversal",
+    "rank": 5,
+    "title": "Aaron Donald reverses the 49ers' retirement party",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-07",
+    "heat": 95,
+    "tags": [
+      "r/nfl",
+      "Aaron Donald",
+      "Kyle Shanahan",
+      "retirement reversal"
+    ],
+    "public_ready": true,
+    "summary": "Kyle Shanahan recalled the 49ers facility celebrating Aaron Donald's\nretirement, then going completely the other direction when he returned.",
+    "whyFunny": "The happiest offseason announcement in the building came with a full refund\nand the original problem back on the schedule.",
+    "quote": "The retirement party got recalled.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w9ilzz/barshop_after_aaron_donald_retired_kyle_shanahan/",
+    "commentHighlights": [
+      {
+        "label": "Celebration recalled",
+        "summary": "Fans treated Donald's return as one more item arriving in an already crowded 49ers offseason.",
+        "whyFunny": "The retirement party aged into evidence of premature confidence.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w9ilzz/barshop_after_aaron_donald_retired_kyle_shanahan/"
+      }
+    ],
+    "markdown": "---\nid: aaron-donald-49ers-retirement-reversal\nrank: 5\ntitle: \"Aaron Donald reverses the 49ers' retirement party\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-07\"\nheat: 95\ntags:\n  - r/nfl\n  - Aaron Donald\n  - Kyle Shanahan\n  - retirement reversal\npublic_ready: true\n---\n\n## Summary\n\nKyle Shanahan recalled the 49ers facility celebrating Aaron Donald's\nretirement, then going completely the other direction when he returned.\n\n## Why It Is Funny\n\nThe happiest offseason announcement in the building came with a full refund\nand the original problem back on the schedule.\n\n## Comment Highlights\n\n- Label: Celebration recalled\n  Summary: Fans treated Donald's return as one more item arriving in an already crowded 49ers offseason.\n  Why funny: The retirement party aged into evidence of premature confidence.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w9ilzz/barshop_after_aaron_donald_retired_kyle_shanahan/\n\n## Quote\n\nThe retirement party got recalled.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w9ilzz/barshop_after_aaron_donald_retired_kyle_shanahan/\n- Source type: Current Reddit top-day ESPN link post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nfl post, visible ESPN source summary, and public fan context on 2026-09-07. The rewrite attributes the recollection to Shanahan and avoids unrelated claims from the thread.\n\n## Sports Radar Markdown\n\n```md\n**Aaron Donald reverses the 49ers' retirement party**\n\nKyle Shanahan recalled the 49ers facility celebrating Aaron Donald's retirement before his return flipped the mood.\n\nWhy it works: The happiest offseason announcement in the building came with a full refund and the original problem back on the schedule.\n```\n"
   },
   {
     "id": "alpharetta-mall-hockey-arena",
@@ -8032,7 +8182,7 @@
     "title": "Jacob Murphy files the rare justified dive",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-06",
     "heat": 95,
     "tags": [
@@ -8054,7 +8204,7 @@
         "sourceUrl": "https://www.reddit.com/r/soccer/comments/1w88s9l/newcastle_bournemouth_jacob_murphy_87_great_dive/"
       }
     ],
-    "markdown": "---\nid: jacob-murphy-justified-dive\nrank: 5\ntitle: \"Jacob Murphy files the rare justified dive\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-06\"\nheat: 95\ntags:\n  - r/soccer\n  - Jacob Murphy\n  - Newcastle United\n  - theatrical dive\npublic_ready: true\n---\n\n## Summary\n\nA Newcastle clip showed Jacob Murphy answering an obvious hold with an\nexaggerated late fall in the 87th minute.\n\n## Why It Is Funny\n\nWhen the foul did not get enough attention, Murphy submitted the visual aid in\nfull theater mode.\n\n## Comment Highlights\n\n- Label: Fallon D'Floor appeal\n  Summary: Fans called it the rare justified dive because the theatrical fall followed a clear hold.\n  Why funny: The embellishment worked like a sarcastic replay delivered by the player himself.\n  Source URL: https://www.reddit.com/r/soccer/comments/1w88s9l/newcastle_bournemouth_jacob_murphy_87_great_dive/\n\n## Quote\n\nThe foul came with its own reenactment.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1w88s9l/newcastle_bournemouth_jacob_murphy_87_great_dive/\n- Source type: Current Reddit top-day match clip and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/soccer post, visible media listing, flair, and fan context on 2026-09-06. The rewrite describes only the hold and theatrical response presented by the public thread.\n\n## Sports Radar Markdown\n\n```md\n**Jacob Murphy files the rare justified dive**\n\nJacob Murphy answered an obvious hold with an exaggerated late fall in the 87th minute.\n\nWhy it works: The foul did not get enough attention, so Murphy supplied the replay himself.\n```\n"
+    "markdown": "---\nid: jacob-murphy-justified-dive\nrank: 5\ntitle: \"Jacob Murphy files the rare justified dive\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-06\"\nheat: 95\ntags:\n  - r/soccer\n  - Jacob Murphy\n  - Newcastle United\n  - theatrical dive\npublic_ready: true\n---\n\n## Summary\n\nA Newcastle clip showed Jacob Murphy answering an obvious hold with an\nexaggerated late fall in the 87th minute.\n\n## Why It Is Funny\n\nWhen the foul did not get enough attention, Murphy submitted the visual aid in\nfull theater mode.\n\n## Comment Highlights\n\n- Label: Fallon D'Floor appeal\n  Summary: Fans called it the rare justified dive because the theatrical fall followed a clear hold.\n  Why funny: The embellishment worked like a sarcastic replay delivered by the player himself.\n  Source URL: https://www.reddit.com/r/soccer/comments/1w88s9l/newcastle_bournemouth_jacob_murphy_87_great_dive/\n\n## Quote\n\nThe foul came with its own reenactment.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1w88s9l/newcastle_bournemouth_jacob_murphy_87_great_dive/\n- Source type: Current Reddit top-day match clip and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/soccer post, visible media listing, flair, and fan context on 2026-09-06. The rewrite describes only the hold and theatrical response presented by the public thread.\n\n## Sports Radar Markdown\n\n```md\n**Jacob Murphy files the rare justified dive**\n\nJacob Murphy answered an obvious hold with an exaggerated late fall in the 87th minute.\n\nWhy it works: The foul did not get enough attention, so Murphy supplied the replay himself.\n```\n"
   },
   {
     "id": "jaire-alexander-two-tackle-play",
