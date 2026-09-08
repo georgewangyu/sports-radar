@@ -815,7 +815,7 @@
     "title": "Kyle Shanahan moves injury reports into tomorrow",
     "league": "NFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-07",
     "heat": 99,
     "tags": [
@@ -837,7 +837,7 @@
         "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w9enwv/highlight_49ers_hc_kyle_shanahan_speaking_from/"
       }
     ],
-    "markdown": "---\nid: kyle-shanahan-tomorrow-injury-report\nrank: 1\ntitle: \"Kyle Shanahan moves injury reports into tomorrow\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-07\"\nheat: 99\ntags:\n  - r/nfl\n  - Kyle Shanahan\n  - Australia\n  - time zones\npublic_ready: true\n---\n\n## Summary\n\nSpeaking from Australia, Kyle Shanahan said the 49ers were technically in the\nfuture, so he did not owe reporters an injury update until tomorrow.\n\n## Why It Is Funny\n\nJet lag became a temporary collective-bargaining loophole, with the entire\npress conference trapped on the wrong side of the date line.\n\n## Comment Highlights\n\n- Label: Future scheduling\n  Summary: Fans extended the time-zone logic into jokes about laughing tomorrow and receiving news from the future.\n  Why funny: One dry answer turned the international opener into a minor time-travel problem.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w9enwv/highlight_49ers_hc_kyle_shanahan_speaking_from/\n\n## Quote\n\nThe injury report lives in tomorrow.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w9enwv/highlight_49ers_hc_kyle_shanahan_speaking_from/\n- Source type: Current Reddit top-day press-conference clip and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nfl post, visible media listing, and public fan context on 2026-09-07. The rewrite stays within the time-zone joke described on the source page.\n\n## Sports Radar Markdown\n\n```md\n**Kyle Shanahan moves injury reports into tomorrow**\n\nSpeaking from Australia, Kyle Shanahan said the 49ers were technically in the future, so reporters could wait until tomorrow for injury news.\n\nWhy it works: Jet lag briefly became a scheduling loophole and turned the press conference into a time-travel problem.\n```\n"
+    "markdown": "---\nid: kyle-shanahan-tomorrow-injury-report\nrank: 1\ntitle: \"Kyle Shanahan moves injury reports into tomorrow\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-07\"\nheat: 99\ntags:\n  - r/nfl\n  - Kyle Shanahan\n  - Australia\n  - time zones\npublic_ready: true\n---\n\n## Summary\n\nSpeaking from Australia, Kyle Shanahan said the 49ers were technically in the\nfuture, so he did not owe reporters an injury update until tomorrow.\n\n## Why It Is Funny\n\nJet lag became a temporary collective-bargaining loophole, with the entire\npress conference trapped on the wrong side of the date line.\n\n## Comment Highlights\n\n- Label: Future scheduling\n  Summary: Fans extended the time-zone logic into jokes about laughing tomorrow and receiving news from the future.\n  Why funny: One dry answer turned the international opener into a minor time-travel problem.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w9enwv/highlight_49ers_hc_kyle_shanahan_speaking_from/\n\n## Quote\n\nThe injury report lives in tomorrow.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w9enwv/highlight_49ers_hc_kyle_shanahan_speaking_from/\n- Source type: Current Reddit top-day press-conference clip and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nfl post, visible media listing, and public fan context on 2026-09-07. The rewrite stays within the time-zone joke described on the source page.\n\n## Sports Radar Markdown\n\n```md\n**Kyle Shanahan moves injury reports into tomorrow**\n\nSpeaking from Australia, Kyle Shanahan said the 49ers were technically in the future, so reporters could wait until tomorrow for injury news.\n\nWhy it works: Jet lag briefly became a scheduling loophole and turned the press conference into a time-travel problem.\n```\n"
   },
   {
     "id": "lamine-yamal-woke-up-too",
@@ -1605,6 +1605,36 @@
       }
     ],
     "markdown": "---\nid: alamodome-water-cannon-opener\nrank: 1\ntitle: \"The Alamodome opener triggers the wrong special effect\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-04\"\nheat: 94\ntags:\n  - r/nba\n  - Alamodome\n  - San Antonio Spurs\n  - sports history\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba history post revisited the 1994 Spurs-Warriors season opener, when\npyrotechnics reportedly triggered a water cannon and delayed the game for\nnearly an hour.\n\n## Why It Is Funny\n\nThe arena tried to begin the season with extra spectacle and accidentally\nactivated the building's most committed defender. Opening-night production\nbecame an opening-night timeout.\n\n## Comment Highlights\n\n- Label: Fast cleanup\n  Summary: One fan noted that the court was cleared and play resumed after a 51-minute delay.\n  Why funny: An arena-scale accident somehow stayed within the length of one very long timeout.\n  Source URL: https://www.reddit.com/r/nba/comments/1vf7mcx/a_water_cannon_in_the_alamodome_triggered_by/p1moza8/\n- Label: Premium splash zone\n  Summary: Another fan imagined the surprise upgrade for spectators seated behind the cannon.\n  Why funny: The least desirable angle in the building briefly came with the most memorable show.\n  Source URL: https://www.reddit.com/r/nba/comments/1vf7mcx/a_water_cannon_in_the_alamodome_triggered_by/p1n3ltf/\n\n## Quote\n\nThe pregame show called its own timeout.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vf7mcx/a_water_cannon_in_the_alamodome_triggered_by/\n- Source type: Reddit RSS top-day history post\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-04. The date, teams, trigger, and approximate delay are attributed to the post title.\n\n## Sports Radar Markdown\n\n```md\n**The Alamodome opener triggers the wrong special effect**\n\nAn r/nba history post revisited pyrotechnics reportedly triggering a water cannon before a 1994 Spurs-Warriors opener.\n\nWhy it works: The pregame show called its own timeout.\n```\n"
+  },
+  {
+    "id": "angels-elimination-proof",
+    "rank": 1,
+    "title": "The Angels need a proof before elimination",
+    "league": "MLB",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-08",
+    "heat": 99,
+    "tags": [
+      "r/baseball",
+      "Los Angeles Angels",
+      "postseason elimination",
+      "baseball math"
+    ],
+    "public_ready": true,
+    "summary": "An r/baseball fan posted the full chain of standings contingencies explaining\nwhy the Angels' latest loss finally ended their postseason path.",
+    "whyFunny": "The elimination announcement arrived with the supporting proof of a theorem.\nBaseball found one last way to make a doomed season technically interesting.",
+    "quote": "The standings required a proof before they allowed the announcement.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1wa3caf/the_angels_are_eliminated_from_postseason/",
+    "commentHighlights": [
+      {
+        "label": "Elimination hobby",
+        "summary": "The thread discovered that the author follows elimination scenarios closely enough to catch the exact moment each one closes.",
+        "whyFunny": "One team's bad news became somebody else's favorite branch of applied mathematics.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1wa3caf/the_angels_are_eliminated_from_postseason/"
+      }
+    ],
+    "markdown": "---\nid: angels-elimination-proof\nrank: 1\ntitle: \"The Angels need a proof before elimination\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-08\"\nheat: 99\ntags:\n  - r/baseball\n  - Los Angeles Angels\n  - postseason elimination\n  - baseball math\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball fan posted the full chain of standings contingencies explaining\nwhy the Angels' latest loss finally ended their postseason path.\n\n## Why It Is Funny\n\nThe elimination announcement arrived with the supporting proof of a theorem.\nBaseball found one last way to make a doomed season technically interesting.\n\n## Comment Highlights\n\n- Label: Elimination hobby\n  Summary: The thread discovered that the author follows elimination scenarios closely enough to catch the exact moment each one closes.\n  Why funny: One team's bad news became somebody else's favorite branch of applied mathematics.\n  Source URL: https://www.reddit.com/r/baseball/comments/1wa3caf/the_angels_are_eliminated_from_postseason/\n\n## Quote\n\nThe standings required a proof before they allowed the announcement.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1wa3caf/the_angels_are_eliminated_from_postseason/\n- Source type: Current Reddit top-day standings post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post and visible public context on 2026-09-08. The rewrite summarizes the contingency-chain framing without reproducing the long original calculation.\n\n## Sports Radar Markdown\n\n```md\n**The Angels need a proof before elimination**\n\nAn r/baseball fan posted the full standings proof for the exact moment the Angels' postseason path closed.\n\nWhy it works: The elimination announcement arrived with the supporting proof of a theorem.\n```\n"
   },
   {
     "id": "derby-child-split-shirt",
@@ -2553,7 +2583,7 @@
     "title": "Jordan hears bad back and schedules 45",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-07",
     "heat": 98,
     "tags": [
@@ -2575,7 +2605,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1w9kz0n/highlights_michael_jordan_drops_45_on_the_nets/"
       }
     ],
-    "markdown": "---\nid: michael-jordan-bad-back-45\nrank: 2\ntitle: \"Jordan hears bad back and schedules 45\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-07\"\nheat: 98\ntags:\n  - r/nba\n  - Michael Jordan\n  - Kenyon Martin\n  - Wizards lore\npublic_ready: true\n---\n\n## Summary\n\nA 2001 highlight resurfaced with the story that Kenyon Martin mentioned his\nbad back to Michael Jordan, who then attacked the matchup on his way to 45.\n\n## Why It Is Funny\n\nMartin offered a medical update and Jordan treated it like the most useful\nline in a scouting report.\n\n## Comment Highlights\n\n- Label: Context makes it worse\n  Summary: Fans noted that Jordan had scored 51 in the previous game, so the warning arrived after the heater had already started.\n  Why funny: The bad-back detail did not create the danger. It simply handed the danger a target.\n  Source URL: https://www.reddit.com/r/nba/comments/1w9kz0n/highlights_michael_jordan_drops_45_on_the_nets/\n\n## Quote\n\nThe medical update became the scouting report.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w9kz0n/highlights_michael_jordan_drops_45_on_the_nets/\n- Source type: Current Reddit top-day archive highlight and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post, visible highlight listing, and quoted game context on 2026-09-07. The rewrite avoids adding claims beyond the public source page.\n\n## Sports Radar Markdown\n\n```md\n**Jordan hears bad back and schedules 45**\n\nA 2001 highlight resurfaced with Kenyon Martin mentioning his bad back before Michael Jordan finished with 45.\n\nWhy it works: Martin offered a medical update and Jordan treated it like the most useful line in a scouting report.\n```\n"
+    "markdown": "---\nid: michael-jordan-bad-back-45\nrank: 2\ntitle: \"Jordan hears bad back and schedules 45\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-07\"\nheat: 98\ntags:\n  - r/nba\n  - Michael Jordan\n  - Kenyon Martin\n  - Wizards lore\npublic_ready: true\n---\n\n## Summary\n\nA 2001 highlight resurfaced with the story that Kenyon Martin mentioned his\nbad back to Michael Jordan, who then attacked the matchup on his way to 45.\n\n## Why It Is Funny\n\nMartin offered a medical update and Jordan treated it like the most useful\nline in a scouting report.\n\n## Comment Highlights\n\n- Label: Context makes it worse\n  Summary: Fans noted that Jordan had scored 51 in the previous game, so the warning arrived after the heater had already started.\n  Why funny: The bad-back detail did not create the danger. It simply handed the danger a target.\n  Source URL: https://www.reddit.com/r/nba/comments/1w9kz0n/highlights_michael_jordan_drops_45_on_the_nets/\n\n## Quote\n\nThe medical update became the scouting report.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w9kz0n/highlights_michael_jordan_drops_45_on_the_nets/\n- Source type: Current Reddit top-day archive highlight and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post, visible highlight listing, and quoted game context on 2026-09-07. The rewrite avoids adding claims beyond the public source page.\n\n## Sports Radar Markdown\n\n```md\n**Jordan hears bad back and schedules 45**\n\nA 2001 highlight resurfaced with Kenyon Martin mentioning his bad back before Michael Jordan finished with 45.\n\nWhy it works: Martin offered a medical update and Jordan treated it like the most useful line in a scouting report.\n```\n"
   },
   {
     "id": "bill-self-kansas-tournament-simulator",
@@ -3749,6 +3779,36 @@
       }
     ],
     "markdown": "---\nid: tyler-herro-trade-reaction\nrank: 2\ntitle: \"Tyler Herro hears the Giannis trade and rejects the premise\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-22\"\nheat: 96\ntags:\n  - r/nba\n  - Tyler Herro\n  - Giannis Antetokounmpo\n  - trade reaction\npublic_ready: true\n---\n\n## Summary\n\nA public clip shared on r/nba caught Tyler Herro responding to his move from\nMiami to Milwaukee in the Giannis trade with immediate disbelief.\n\n## Why It Is Funny\n\nThe transaction had already happened, but Herro delivered his reaction like he\ncould still reject the trade from a customer-service counter.\n\n## Comment Highlights\n\n- Label: Permanent trade machine\n  Summary: Fans noted that Herro had spent years appearing in hypothetical trades before finally landing in a real one.\n  Why funny: The league's longest-running rumor tab finally changed from draft to sent.\n  Source URL: https://www.reddit.com/r/nba/comments/1v2w0x6/tyler_herros_reaction_to_being_traded_to_the/\n- Label: Star comparison\n  Summary: The thread reduced the emotional dispute to one blunt question about which player Miami chose.\n  Why funny: A complicated blockbuster becomes the shortest performance review imaginable.\n  Source URL: https://www.reddit.com/r/nba/comments/1v2w0x6/tyler_herros_reaction_to_being_traded_to_the/\n\n## Quote\n\nThe trade machine finally pressed send.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v2w0x6/tyler_herros_reaction_to_being_traded_to_the/\n- Source type: Reddit / r/nba top-day player-reaction clip\n- Verification notes: the public post presents Herro's immediate reaction to the completed trade; the copy paraphrases the clip and avoids repeating its profanity\n\n## Sports Radar Markdown\n\n```md\n**Tyler Herro hears the Giannis trade and rejects the premise**\n\nHerro reacted to the completed deal like the trade machine still had a cancel button.\n\nWhy it works: years of hypothetical trades ended with one very real notification.\n```\n"
+  },
+  {
+    "id": "unc-2005-championship-can-hunt",
+    "rank": 2,
+    "title": "UNC's 2005 title becomes a can hunt",
+    "league": "College Basketball",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-08",
+    "heat": 98,
+    "tags": [
+      "r/CollegeBasketball",
+      "UNC",
+      "2005 championship",
+      "memorabilia"
+    ],
+    "public_ready": true,
+    "summary": "A UNC student searched for the missing 2005 championship Coke can in a family\ncollection that already covered four other title years.",
+    "whyFunny": "One piece of sports history survived as a soda container, then turned the\nthread into a support group for people realizing that 2005 now looks old.",
+    "quote": "The missing championship lives in the recycling aisle.",
+    "sourceUrl": "https://www.reddit.com/r/CollegeBasketball/comments/1wa4wmr/unc_2005_national_champions_coke_can/",
+    "commentHighlights": [
+      {
+        "label": "Time capsule located",
+        "summary": "The thread compared the can's dated design with older championship memorabilia, then produced an offer for the missing piece.",
+        "whyFunny": "A collector request became an age crisis and a successful internet scavenger hunt at the same time.",
+        "sourceUrl": "https://www.reddit.com/r/CollegeBasketball/comments/1wa4wmr/unc_2005_national_champions_coke_can/"
+      }
+    ],
+    "markdown": "---\nid: unc-2005-championship-can-hunt\nrank: 2\ntitle: \"UNC's 2005 title becomes a can hunt\"\nleague: \"College Basketball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-08\"\nheat: 98\ntags:\n  - r/CollegeBasketball\n  - UNC\n  - 2005 championship\n  - memorabilia\npublic_ready: true\n---\n\n## Summary\n\nA UNC student searched for the missing 2005 championship Coke can in a family\ncollection that already covered four other title years.\n\n## Why It Is Funny\n\nOne piece of sports history survived as a soda container, then turned the\nthread into a support group for people realizing that 2005 now looks old.\n\n## Comment Highlights\n\n- Label: Time capsule located\n  Summary: The thread compared the can's dated design with older championship memorabilia, then produced an offer for the missing piece.\n  Why funny: A collector request became an age crisis and a successful internet scavenger hunt at the same time.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1wa4wmr/unc_2005_national_champions_coke_can/\n\n## Quote\n\nThe missing championship lives in the recycling aisle.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1wa4wmr/unc_2005_national_champions_coke_can/\n- Source type: Current Reddit top-day memorabilia request and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/CollegeBasketball post, visible can image, request context, and public replies on 2026-09-08. The rewrite omits the poster's identity and payment details.\n\n## Sports Radar Markdown\n\n```md\n**UNC's 2005 title becomes a can hunt**\n\nA UNC student searched for the missing 2005 championship Coke can in a family collection covering four other title years.\n\nWhy it works: Sports history became a soda-container scavenger hunt and an accidental reminder that 2005 now looks old.\n```\n"
   },
   {
     "id": "vj-edgecombe-lebron-meme-recreation",
@@ -5200,6 +5260,36 @@
     "markdown": "---\nid: nhl-press-box-snack-rankings\nrank: 3\ntitle: \"NHL press boxes finally get snack power rankings\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-31\"\nheat: 97\ntags:\n  - r/hockey\n  - press box\n  - arena food\n  - offseason\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey post shared a ranking of all 32 NHL press boxes by their snack\nspreads. The thread immediately began auditing candy bias, hot-food scarcity,\nand which teams had somehow made hospitality another standings problem.\n\n## Why It Is Funny\n\nThe offseason finally found a league table where popcorn depth matters. Every\nfan can now be disappointed in ownership through an entirely new department.\n\n## Comment Highlights\n\n- Label: Candy analytics\n  Summary: Fans debated whether candy had been weighted too heavily against wings, sandwiches, and actual meals.\n  Why funny: Hockey discourse discovered a new advanced metric and immediately challenged the model.\n  Source URL: https://www.reddit.com/r/hockey/comments/1w2ms7w/ranking_all_32_nhl_teams_press_box_snacks/\n\n## Quote\n\nThe standings now include snack depth.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1w2ms7w/ranking_all_32_nhl_teams_press_box_snacks/\n- Source type: Reddit top-day post linking a public press-box snack ranking\n- Verification notes: Sports Radar reviewed the collector output and public Reddit thread on 2026-08-31. The ranking details remain attributed to the linked post, and no paywalled article text is reproduced.\n\n## Sports Radar Markdown\n\n```md\n**NHL press boxes finally get snack power rankings**\n\nAll 32 NHL press boxes were ranked by snacks, giving hockey fans a fresh way to question team management.\n\nWhy it works: Offseason standings now measure candy bias, hot-food depth, and ownership hospitality.\n```\n"
   },
   {
+    "id": "pca-dimaggio-baseball-world-size",
+    "rank": 3,
+    "title": "One season gives PCA DiMaggio's whole travel map",
+    "league": "MLB",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-08",
+    "heat": 97,
+    "tags": [
+      "r/baseball",
+      "Pete Crow-Armstrong",
+      "Joe DiMaggio",
+      "schedule history"
+    ],
+    "public_ready": true,
+    "summary": "A comparison put Pete Crow-Armstrong at 28 opponents, 286 pitchers, and 22\nstadiums this season. Joe DiMaggio faced seven teams and 321 pitchers across\nhis entire regular-season career.",
+    "whyFunny": "One modern season nearly matched a Hall of Famer's career contact list, then\nthe thread promoted air travel into baseball's competitive advantage.",
+    "quote": "One season needed almost the whole historical contact list.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1w9yi55/petriello_pete_crowarmstrong_has_faced_28_teams/",
+    "commentHighlights": [
+      {
+        "label": "Invention rankings",
+        "summary": "Fans moved from schedule history into a debate over whether airplanes, air conditioning, plumbing, or the elastic waistband changed life most.",
+        "whyFunny": "A baseball comparison became an emergency ballot for civilization's best invention.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1w9yi55/petriello_pete_crowarmstrong_has_faced_28_teams/"
+      }
+    ],
+    "markdown": "---\nid: pca-dimaggio-baseball-world-size\nrank: 3\ntitle: \"One season gives PCA DiMaggio's whole travel map\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-08\"\nheat: 97\ntags:\n  - r/baseball\n  - Pete Crow-Armstrong\n  - Joe DiMaggio\n  - schedule history\npublic_ready: true\n---\n\n## Summary\n\nA comparison put Pete Crow-Armstrong at 28 opponents, 286 pitchers, and 22\nstadiums this season. Joe DiMaggio faced seven teams and 321 pitchers across\nhis entire regular-season career.\n\n## Why It Is Funny\n\nOne modern season nearly matched a Hall of Famer's career contact list, then\nthe thread promoted air travel into baseball's competitive advantage.\n\n## Comment Highlights\n\n- Label: Invention rankings\n  Summary: Fans moved from schedule history into a debate over whether airplanes, air conditioning, plumbing, or the elastic waistband changed life most.\n  Why funny: A baseball comparison became an emergency ballot for civilization's best invention.\n  Source URL: https://www.reddit.com/r/baseball/comments/1w9yi55/petriello_pete_crowarmstrong_has_faced_28_teams/\n\n## Quote\n\nOne season needed almost the whole historical contact list.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1w9yi55/petriello_pete_crowarmstrong_has_faced_28_teams/\n- Source type: Current Reddit top-day schedule comparison and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post, its linked comparison, and visible public context on 2026-09-08. The numerical comparison is limited to the figures displayed on the source page.\n\n## Sports Radar Markdown\n\n```md\n**One season gives PCA DiMaggio's whole travel map**\n\nPete Crow-Armstrong has faced 28 teams and 286 pitchers this season; Joe DiMaggio faced seven teams and 321 pitchers across his regular-season career.\n\nWhy it works: The comparison made air travel look like baseball's most productive roster addition.\n```\n"
+  },
+  {
     "id": "one-off-nfl-uniform-museum",
     "rank": 3,
     "title": "One-off NFL uniforms become a museum of abandoned ideas",
@@ -5419,7 +5509,7 @@
     "title": "Sprewell turns a jumper into a sitter",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-07",
     "heat": 97,
     "tags": [
@@ -5441,7 +5531,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1w92w03/highlight_latrell_sprewell_makes_a_jumper_while/"
       }
     ],
-    "markdown": "---\nid: latrell-sprewell-seated-shot\nrank: 3\ntitle: \"Sprewell turns a jumper into a sitter\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-07\"\nheat: 97\ntags:\n  - r/nba\n  - Latrell Sprewell\n  - seated shot\n  - basketball vocabulary\npublic_ready: true\n---\n\n## Summary\n\nAn archive clip showed Latrell Sprewell making a shot while seated on the\ncourt, then the thread immediately put the word jumper on trial.\n\n## Why It Is Funny\n\nThe basket was impressive, but the crowd spent its energy inventing the\nofficial opposite of a jump shot.\n\n## Comment Highlights\n\n- Label: Vocabulary review\n  Summary: Fans kept proposing names for a made shot that begins and ends from the floor.\n  Why funny: The replay became a rules committee for a move nobody expected to classify.\n  Source URL: https://www.reddit.com/r/nba/comments/1w92w03/highlight_latrell_sprewell_makes_a_jumper_while/\n\n## Quote\n\nThe jumper never left the floor.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w92w03/highlight_latrell_sprewell_makes_a_jumper_while/\n- Source type: Current Reddit top-day archive highlight and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post, visible highlight listing, and public discussion on 2026-09-07. The comment summary is transformed and does not reproduce usernames or raw thread text.\n\n## Sports Radar Markdown\n\n```md\n**Sprewell turns a jumper into a sitter**\n\nAn archive clip showed Latrell Sprewell making a shot while seated on the court.\n\nWhy it works: The basket landed, then the thread convened an emergency rules committee to rename the jump shot.\n```\n"
+    "markdown": "---\nid: latrell-sprewell-seated-shot\nrank: 3\ntitle: \"Sprewell turns a jumper into a sitter\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-07\"\nheat: 97\ntags:\n  - r/nba\n  - Latrell Sprewell\n  - seated shot\n  - basketball vocabulary\npublic_ready: true\n---\n\n## Summary\n\nAn archive clip showed Latrell Sprewell making a shot while seated on the\ncourt, then the thread immediately put the word jumper on trial.\n\n## Why It Is Funny\n\nThe basket was impressive, but the crowd spent its energy inventing the\nofficial opposite of a jump shot.\n\n## Comment Highlights\n\n- Label: Vocabulary review\n  Summary: Fans kept proposing names for a made shot that begins and ends from the floor.\n  Why funny: The replay became a rules committee for a move nobody expected to classify.\n  Source URL: https://www.reddit.com/r/nba/comments/1w92w03/highlight_latrell_sprewell_makes_a_jumper_while/\n\n## Quote\n\nThe jumper never left the floor.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w92w03/highlight_latrell_sprewell_makes_a_jumper_while/\n- Source type: Current Reddit top-day archive highlight and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post, visible highlight listing, and public discussion on 2026-09-07. The comment summary is transformed and does not reproduce usernames or raw thread text.\n\n## Sports Radar Markdown\n\n```md\n**Sprewell turns a jumper into a sitter**\n\nAn archive clip showed Latrell Sprewell making a shot while seated on the court.\n\nWhy it works: The basket landed, then the thread convened an emergency rules committee to rename the jump shot.\n```\n"
   },
   {
     "id": "curry-lebron-golf-first",
@@ -6760,6 +6850,36 @@
     "markdown": "---\nid: embolo-nba-flopping-crossover\nrank: 4\ntitle: \"One soccer dive sends r/nba to the rulebook\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-12\"\nheat: 88\ntags:\n  - r/nba\n  - Breel Embolo\n  - flopping\n  - rules\npublic_ready: true\n---\n\n## Summary\n\nAfter Breel Embolo received a second yellow card for simulation, an r/nba\nthread immediately asked whether basketball should punish obvious flops just as harshly.\n\n## Why It Is Funny\n\nOne sport produced a disciplinary moment and another sport's fans instantly\ntreated it like a free trial of a rule they have argued about for years.\n\n## Comment Highlights\n\n- Label: Import the red card\n  Summary: Fans imagined technicals, ejections, and escalating penalties for repeat flops.\n  Why funny: A soccer card became an unsolicited NBA product demo.\n  Source URL: https://www.reddit.com/r/nba/comments/1uu3dv6/after_embolos_red_card_vs_argentina_should_the/\n- Label: Contact makes it complicated\n  Summary: Other replies pointed out that basketball's constant contact would turn every harsh call into a new argument.\n  Why funny: The proposed cure arrives with its own full season of controversy.\n  Source URL: https://www.reddit.com/r/nba/comments/1uu3dv6/after_embolos_red_card_vs_argentina_should_the/\n\n## Quote\n\nThe crossover episode was officiated by VAR.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uu3dv6/after_embolos_red_card_vs_argentina_should_the/\n- Source type: Reddit / r/nba top-day rules discussion\n- Verification notes: public thread frames the incident as a prompt for NBA flopping penalties; summarize the debate rather than prescribing a rules change\n\n## Sports Radar Markdown\n\n```md\n**One soccer dive sends r/nba to the rulebook**\n\nBreel Embolo's second yellow became an instant test case for basketball's flopping debate.\n\nWhy it works: NBA fans saw another sport's punishment and opened the suggestion box.\n```\n"
   },
   {
+    "id": "pannone-perfect-game-camera",
+    "rank": 4,
+    "title": "Pannone throws perfection past the camera",
+    "league": "Baseball",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-08",
+    "heat": 96,
+    "tags": [
+      "r/baseball",
+      "Thomas Pannone",
+      "perfect game",
+      "Nashville Sounds"
+    ],
+    "public_ready": true,
+    "summary": "Thomas Pannone threw the first nine-inning, one-pitcher perfect game in the\nminor leagues since 2017 for Triple-A Nashville.",
+    "whyFunny": "The pitcher retired everyone. The replay still gave the thread enough reason\nto send the camera operator down a level.",
+    "quote": "Perfect game, imperfect camera assignment.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1wa7zo0/thomas_pannone_has_thrown_a_perfect_game_for_the/",
+    "commentHighlights": [
+      {
+        "label": "Camera demotion",
+        "summary": "Fans celebrated the rarity, then noticed that the closing replay barely stayed with the pitcher who completed it.",
+        "whyFunny": "The only person who missed the moment was apparently filming it.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1wa7zo0/thomas_pannone_has_thrown_a_perfect_game_for_the/"
+      }
+    ],
+    "markdown": "---\nid: pannone-perfect-game-camera\nrank: 4\ntitle: \"Pannone throws perfection past the camera\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-08\"\nheat: 96\ntags:\n  - r/baseball\n  - Thomas Pannone\n  - perfect game\n  - Nashville Sounds\npublic_ready: true\n---\n\n## Summary\n\nThomas Pannone threw the first nine-inning, one-pitcher perfect game in the\nminor leagues since 2017 for Triple-A Nashville.\n\n## Why It Is Funny\n\nThe pitcher retired everyone. The replay still gave the thread enough reason\nto send the camera operator down a level.\n\n## Comment Highlights\n\n- Label: Camera demotion\n  Summary: Fans celebrated the rarity, then noticed that the closing replay barely stayed with the pitcher who completed it.\n  Why funny: The only person who missed the moment was apparently filming it.\n  Source URL: https://www.reddit.com/r/baseball/comments/1wa7zo0/thomas_pannone_has_thrown_a_perfect_game_for_the/\n\n## Quote\n\nPerfect game, imperfect camera assignment.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1wa7zo0/thomas_pannone_has_thrown_a_perfect_game_for_the/\n- Source type: Current Reddit top-day game highlight and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post, visible video listing, and public fan context on 2026-09-08. The achievement wording matches the source title; the camera line summarizes the visible thread reaction.\n\n## Sports Radar Markdown\n\n```md\n**Pannone throws perfection past the camera**\n\nThomas Pannone threw the first nine-inning, one-pitcher perfect game in the minors since 2017 for Triple-A Nashville.\n\nWhy it works: The pitcher retired everyone, while the replay gave the thread a reason to demote the camera operator.\n```\n"
+  },
+  {
     "id": "paraguay-national-holiday",
     "rank": 4,
     "title": "Paraguay allegedly celebrates an upset like a calendar event",
@@ -7579,7 +7699,7 @@
     "title": "Wisconsin lands the coffin-corner masterpiece",
     "league": "CFB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-07",
     "heat": 96,
     "tags": [
@@ -7601,7 +7721,7 @@
         "sourceUrl": "https://www.reddit.com/r/CFB/comments/1w9ddmx/highlight_wisconsin_vs_notre_dame_early_candidate/"
       }
     ],
-    "markdown": "---\nid: wisconsin-notre-dame-coffin-corner-punt\nrank: 4\ntitle: \"Wisconsin lands the coffin-corner masterpiece\"\nleague: \"CFB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-07\"\nheat: 96\ntags:\n  - r/CFB\n  - Wisconsin\n  - Notre Dame\n  - coffin-corner punt\npublic_ready: true\n---\n\n## Summary\n\nA Wisconsin punt against Notre Dame traveled 69 yards, rolled untouched, and\nescaped out of bounds at the one-yard line.\n\n## Why It Is Funny\n\nA play designed to surrender the ball received a standing ovation for parking\nit in the least convenient spot available.\n\n## Comment Highlights\n\n- Label: Punt appreciation society\n  Summary: Fans promoted the kick from play of the weekend to an all-time special-teams artifact.\n  Why funny: The thread sounded like an art opening for a ball slowly rolling out of bounds.\n  Source URL: https://www.reddit.com/r/CFB/comments/1w9ddmx/highlight_wisconsin_vs_notre_dame_early_candidate/\n\n## Quote\n\nThe ball found the worst possible parking spot.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1w9ddmx/highlight_wisconsin_vs_notre_dame_early_candidate/\n- Source type: Current Reddit top-day game clip and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/CFB post, visible video listing, and public fan context on 2026-09-07. The distance and field position come from the source title.\n\n## Sports Radar Markdown\n\n```md\n**Wisconsin lands the coffin-corner masterpiece**\n\nA 69-yard punt rolled untouched and escaped out of bounds at the Notre Dame one-yard line.\n\nWhy it works: A play designed to surrender the ball earned art-opening energy for finding the least convenient parking spot on the field.\n```\n"
+    "markdown": "---\nid: wisconsin-notre-dame-coffin-corner-punt\nrank: 4\ntitle: \"Wisconsin lands the coffin-corner masterpiece\"\nleague: \"CFB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-07\"\nheat: 96\ntags:\n  - r/CFB\n  - Wisconsin\n  - Notre Dame\n  - coffin-corner punt\npublic_ready: true\n---\n\n## Summary\n\nA Wisconsin punt against Notre Dame traveled 69 yards, rolled untouched, and\nescaped out of bounds at the one-yard line.\n\n## Why It Is Funny\n\nA play designed to surrender the ball received a standing ovation for parking\nit in the least convenient spot available.\n\n## Comment Highlights\n\n- Label: Punt appreciation society\n  Summary: Fans promoted the kick from play of the weekend to an all-time special-teams artifact.\n  Why funny: The thread sounded like an art opening for a ball slowly rolling out of bounds.\n  Source URL: https://www.reddit.com/r/CFB/comments/1w9ddmx/highlight_wisconsin_vs_notre_dame_early_candidate/\n\n## Quote\n\nThe ball found the worst possible parking spot.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1w9ddmx/highlight_wisconsin_vs_notre_dame_early_candidate/\n- Source type: Current Reddit top-day game clip and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/CFB post, visible video listing, and public fan context on 2026-09-07. The distance and field position come from the source title.\n\n## Sports Radar Markdown\n\n```md\n**Wisconsin lands the coffin-corner masterpiece**\n\nA 69-yard punt rolled untouched and escaped out of bounds at the Notre Dame one-yard line.\n\nWhy it works: A play designed to surrender the ball earned art-opening energy for finding the least convenient parking spot on the field.\n```\n"
   },
   {
     "id": "zac-thornton-removes-the-h",
@@ -7638,6 +7758,36 @@
       }
     ],
     "markdown": "---\nid: zac-thornton-removes-the-h\nrank: 4\ntitle: \"Zac Thornton releases the H from active duty\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-23\"\nheat: 92\ntags:\n  - r/baseball\n  - Zac Thornton\n  - New York Mets\n  - names\npublic_ready: true\n---\n\n## Summary\n\nMets rookie Zac Thornton explained that he dropped the H from Zach because he\nnever understood what the letter was doing there.\n\n## Why It Is Funny\n\nThe name change was presented like a roster cut for a letter with no visible\nproduction. The thread responded by placing every silent letter in the language\non notice.\n\n## Comment Highlights\n\n- Label: Silent-letter warning\n  Summary: Fans treated the removed H as the beginning of a wider campaign against letters that do not make enough noise.\n  Why funny: One spelling preference became a performance review for the alphabet.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v3k3hf/mets_rookie_pitcher_zac_formerly_zach_thornton_on/\n- Label: Pitcher spelling upgrade\n  Summary: The thread proposed swapping the removed H for a K because pitchers should record strikeouts.\n  Why funny: Even a first name was dragged into baseball's stat logic.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v3k3hf/mets_rookie_pitcher_zac_formerly_zach_thornton_on/\n\n## Quote\n\nThe H was designated for assignment.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v3k3hf/mets_rookie_pitcher_zac_formerly_zach_thornton_on/\n- Source type: Reddit / r/baseball top-day player-name story and reaction thread\n- Verification notes: the public post attributes the spelling explanation to Thornton and links the underlying Newsday item; the copy treats the choice as light name lore and avoids the thread's personal attacks\n\n## Sports Radar Markdown\n\n```md\n**Zac Thornton releases the H from active duty**\n\nThe Mets rookie dropped one letter because he could not identify its contribution.\n\nWhy it works: a spelling preference became an alphabet performance review.\n```\n"
+  },
+  {
+    "id": "cardinals-fan-ball-green-lights",
+    "rank": 5,
+    "title": "A foul ball earns lifetime green lights",
+    "league": "MLB",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-08",
+    "heat": 95,
+    "tags": [
+      "r/baseball",
+      "Cardinals fan",
+      "foul ball",
+      "fan kindness"
+    ],
+    "public_ready": true,
+    "summary": "A Cardinals fan handed a ball to a young fan, whose reaction turned a small\nstadium gesture into the day's most reliable mood repair.",
+    "whyFunny": "The thread responded by inventing an entire rewards program for good people,\nfrom permanently cool pillows to a lifetime of green traffic lights.",
+    "quote": "The reward package includes every green light forever.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1wa9svs/a_young_fan_is_ecstatic_after_receiving_a/",
+    "commentHighlights": [
+      {
+        "label": "Good-person benefits",
+        "summary": "Fans kept adding tiny lifelong conveniences they wished upon the person who gave the ball away.",
+        "whyFunny": "One gift activated a crowd-sourced loyalty program with impossible benefits.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1wa9svs/a_young_fan_is_ecstatic_after_receiving_a/"
+      }
+    ],
+    "markdown": "---\nid: cardinals-fan-ball-green-lights\nrank: 5\ntitle: \"A foul ball earns lifetime green lights\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-08\"\nheat: 95\ntags:\n  - r/baseball\n  - Cardinals fan\n  - foul ball\n  - fan kindness\npublic_ready: true\n---\n\n## Summary\n\nA Cardinals fan handed a ball to a young fan, whose reaction turned a small\nstadium gesture into the day's most reliable mood repair.\n\n## Why It Is Funny\n\nThe thread responded by inventing an entire rewards program for good people,\nfrom permanently cool pillows to a lifetime of green traffic lights.\n\n## Comment Highlights\n\n- Label: Good-person benefits\n  Summary: Fans kept adding tiny lifelong conveniences they wished upon the person who gave the ball away.\n  Why funny: One gift activated a crowd-sourced loyalty program with impossible benefits.\n  Source URL: https://www.reddit.com/r/baseball/comments/1wa9svs/a_young_fan_is_ecstatic_after_receiving_a/\n\n## Quote\n\nThe reward package includes every green light forever.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1wa9svs/a_young_fan_is_ecstatic_after_receiving_a/\n- Source type: Current Reddit top-day fan video and public discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post, visible video listing, and public fan context on 2026-09-08. The rewrite avoids identities and paraphrases the thread's good-will wishes.\n\n## Sports Radar Markdown\n\n```md\n**A foul ball earns lifetime green lights**\n\nA Cardinals fan handed a ball to a young fan and the reaction became the day's most reliable mood repair.\n\nWhy it works: The thread answered by building a rewards program for good people, complete with cool pillows and permanent green lights.\n```\n"
   },
   {
     "id": "laz-diaz-plate-mic-aside",
@@ -7734,7 +7884,7 @@
     "title": "Aaron Donald reverses the 49ers' retirement party",
     "league": "NFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-07",
     "heat": 95,
     "tags": [
@@ -7756,7 +7906,7 @@
         "sourceUrl": "https://www.reddit.com/r/nfl/comments/1w9ilzz/barshop_after_aaron_donald_retired_kyle_shanahan/"
       }
     ],
-    "markdown": "---\nid: aaron-donald-49ers-retirement-reversal\nrank: 5\ntitle: \"Aaron Donald reverses the 49ers' retirement party\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-07\"\nheat: 95\ntags:\n  - r/nfl\n  - Aaron Donald\n  - Kyle Shanahan\n  - retirement reversal\npublic_ready: true\n---\n\n## Summary\n\nKyle Shanahan recalled the 49ers facility celebrating Aaron Donald's\nretirement, then going completely the other direction when he returned.\n\n## Why It Is Funny\n\nThe happiest offseason announcement in the building came with a full refund\nand the original problem back on the schedule.\n\n## Comment Highlights\n\n- Label: Celebration recalled\n  Summary: Fans treated Donald's return as one more item arriving in an already crowded 49ers offseason.\n  Why funny: The retirement party aged into evidence of premature confidence.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w9ilzz/barshop_after_aaron_donald_retired_kyle_shanahan/\n\n## Quote\n\nThe retirement party got recalled.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w9ilzz/barshop_after_aaron_donald_retired_kyle_shanahan/\n- Source type: Current Reddit top-day ESPN link post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nfl post, visible ESPN source summary, and public fan context on 2026-09-07. The rewrite attributes the recollection to Shanahan and avoids unrelated claims from the thread.\n\n## Sports Radar Markdown\n\n```md\n**Aaron Donald reverses the 49ers' retirement party**\n\nKyle Shanahan recalled the 49ers facility celebrating Aaron Donald's retirement before his return flipped the mood.\n\nWhy it works: The happiest offseason announcement in the building came with a full refund and the original problem back on the schedule.\n```\n"
+    "markdown": "---\nid: aaron-donald-49ers-retirement-reversal\nrank: 5\ntitle: \"Aaron Donald reverses the 49ers' retirement party\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-07\"\nheat: 95\ntags:\n  - r/nfl\n  - Aaron Donald\n  - Kyle Shanahan\n  - retirement reversal\npublic_ready: true\n---\n\n## Summary\n\nKyle Shanahan recalled the 49ers facility celebrating Aaron Donald's\nretirement, then going completely the other direction when he returned.\n\n## Why It Is Funny\n\nThe happiest offseason announcement in the building came with a full refund\nand the original problem back on the schedule.\n\n## Comment Highlights\n\n- Label: Celebration recalled\n  Summary: Fans treated Donald's return as one more item arriving in an already crowded 49ers offseason.\n  Why funny: The retirement party aged into evidence of premature confidence.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w9ilzz/barshop_after_aaron_donald_retired_kyle_shanahan/\n\n## Quote\n\nThe retirement party got recalled.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w9ilzz/barshop_after_aaron_donald_retired_kyle_shanahan/\n- Source type: Current Reddit top-day ESPN link post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nfl post, visible ESPN source summary, and public fan context on 2026-09-07. The rewrite attributes the recollection to Shanahan and avoids unrelated claims from the thread.\n\n## Sports Radar Markdown\n\n```md\n**Aaron Donald reverses the 49ers' retirement party**\n\nKyle Shanahan recalled the 49ers facility celebrating Aaron Donald's retirement before his return flipped the mood.\n\nWhy it works: The happiest offseason announcement in the building came with a full refund and the original problem back on the schedule.\n```\n"
   },
   {
     "id": "alpharetta-mall-hockey-arena",
