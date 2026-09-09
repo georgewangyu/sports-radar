@@ -331,6 +331,36 @@
     "markdown": "---\nid: bill-simmons-bronny-defensive-assignment\nrank: 1\ntitle: \"Bill Simmons invents the Bronny defensive assignment\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-25\"\nheat: 99\ntags:\n  - r/nba\n  - Bill Simmons\n  - Bronny James\n  - LeBron James\n  - mailbag theory\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba post shared Bill Simmons reading a mailbag joke about an Eastern\ncontender acquiring Bronny James solely to guard LeBron in a playoff series.\n\n## Why It Is Funny\n\nThe hypothetical turns a family relationship into a one-line roster loophole.\nInstead of solving LeBron with scheme or size, the front office simply drafts\nthe awkwardness.\n\n## Comment Highlights\n\n- Label: Family scouting report\n  Summary: The thread split between fans treating paternal restraint as a real matchup edge and fans expecting LeBron to compete even harder.\n  Why funny: The joke produced a complete playoff debate around one impossible-to-model variable.\n  Source URL: https://www.reddit.com/r/nba/comments/1vxjwyt/bill_simmons_reading_mailbag_question_why_couldnt/\n\n## Quote\n\nThe defensive scheme is family dinner.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vxjwyt/bill_simmons_reading_mailbag_question_why_couldnt/\n- Source type: Reddit RSS top-day post sharing a public sports-mailbag clip\n- Verification notes: Sports Radar reviewed the captured RSS item and live Reddit thread on 2026-08-25. The source and thread frame the premise as a joke, not an actual roster proposal.\n\n## Sports Radar Markdown\n\n```md\n**Bill Simmons invents the Bronny defensive assignment**\n\nA mailbag joke proposed acquiring Bronny James solely to guard LeBron in a playoff series.\n\nWhy it works: The roster solution is not scheme or size; it is family awkwardness.\n```\n"
   },
   {
+    "id": "chris-bosh-eagleton-high-school-ringer",
+    "rank": 1,
+    "title": "Chris Bosh returns as Eagleton's high-school ringer",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-09",
+    "heat": 99,
+    "tags": [
+      "r/nba",
+      "Chris Bosh",
+      "Parks and Recreation",
+      "sports cameos"
+    ],
+    "public_ready": true,
+    "summary": "An old Parks and Recreation clip resurfaced with Chris Bosh playing Eagleton's\nwildly overqualified high-school basketball star.",
+    "whyFunny": "The joke asks everyone to accept that a seven-foot NBA champion is a teenager,\nthen lets him dunk through the other school and brag about the French horn.",
+    "quote": "Eagleton found a high-school prospect with two NBA rings.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1wb57lf/former_nba_star_chris_bosh_posterizes_helpless/",
+    "commentHighlights": [
+      {
+        "label": "Roster compliance",
+        "summary": "The thread treated Eagleton's suspiciously adult center as the natural result of a town rich enough to recruit an NBA player.",
+        "whyFunny": "The cameo works because the casting violation is the entire scouting report.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1wb57lf/former_nba_star_chris_bosh_posterizes_helpless/"
+      }
+    ],
+    "markdown": "---\nid: chris-bosh-eagleton-high-school-ringer\nrank: 1\ntitle: \"Chris Bosh returns as Eagleton's high-school ringer\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-09\"\nheat: 99\ntags:\n  - r/nba\n  - Chris Bosh\n  - Parks and Recreation\n  - sports cameos\npublic_ready: true\n---\n\n## Summary\n\nAn old Parks and Recreation clip resurfaced with Chris Bosh playing Eagleton's\nwildly overqualified high-school basketball star.\n\n## Why It Is Funny\n\nThe joke asks everyone to accept that a seven-foot NBA champion is a teenager,\nthen lets him dunk through the other school and brag about the French horn.\n\n## Comment Highlights\n\n- Label: Roster compliance\n  Summary: The thread treated Eagleton's suspiciously adult center as the natural result of a town rich enough to recruit an NBA player.\n  Why funny: The cameo works because the casting violation is the entire scouting report.\n  Source URL: https://www.reddit.com/r/nba/comments/1wb57lf/former_nba_star_chris_bosh_posterizes_helpless/\n\n## Quote\n\nEagleton found a high-school prospect with two NBA rings.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1wb57lf/former_nba_star_chris_bosh_posterizes_helpless/\n- Source type: Current Reddit top-day repost of a scripted television cameo and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post, visible clip context, and public replies on 2026-09-09. The rewrite identifies the scene as fiction and does not present the cameo as a real high-school game.\n\n## Sports Radar Markdown\n\n```md\n**Chris Bosh returns as Eagleton's high-school ringer**\n\nAn old Parks and Recreation clip resurfaced with Chris Bosh playing Eagleton's wildly overqualified high-school basketball star.\n\nWhy it works: The casting violation is the entire scouting report.\n```\n"
+  },
+  {
     "id": "cookie-monster-skubal-split",
     "rank": 1,
     "title": "Cookie Monster creates a new Tarik Skubal split",
@@ -1612,7 +1642,7 @@
     "title": "The Angels need a proof before elimination",
     "league": "MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-08",
     "heat": 99,
     "tags": [
@@ -1634,7 +1664,7 @@
         "sourceUrl": "https://www.reddit.com/r/baseball/comments/1wa3caf/the_angels_are_eliminated_from_postseason/"
       }
     ],
-    "markdown": "---\nid: angels-elimination-proof\nrank: 1\ntitle: \"The Angels need a proof before elimination\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-08\"\nheat: 99\ntags:\n  - r/baseball\n  - Los Angeles Angels\n  - postseason elimination\n  - baseball math\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball fan posted the full chain of standings contingencies explaining\nwhy the Angels' latest loss finally ended their postseason path.\n\n## Why It Is Funny\n\nThe elimination announcement arrived with the supporting proof of a theorem.\nBaseball found one last way to make a doomed season technically interesting.\n\n## Comment Highlights\n\n- Label: Elimination hobby\n  Summary: The thread discovered that the author follows elimination scenarios closely enough to catch the exact moment each one closes.\n  Why funny: One team's bad news became somebody else's favorite branch of applied mathematics.\n  Source URL: https://www.reddit.com/r/baseball/comments/1wa3caf/the_angels_are_eliminated_from_postseason/\n\n## Quote\n\nThe standings required a proof before they allowed the announcement.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1wa3caf/the_angels_are_eliminated_from_postseason/\n- Source type: Current Reddit top-day standings post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post and visible public context on 2026-09-08. The rewrite summarizes the contingency-chain framing without reproducing the long original calculation.\n\n## Sports Radar Markdown\n\n```md\n**The Angels need a proof before elimination**\n\nAn r/baseball fan posted the full standings proof for the exact moment the Angels' postseason path closed.\n\nWhy it works: The elimination announcement arrived with the supporting proof of a theorem.\n```\n"
+    "markdown": "---\nid: angels-elimination-proof\nrank: 1\ntitle: \"The Angels need a proof before elimination\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-08\"\nheat: 99\ntags:\n  - r/baseball\n  - Los Angeles Angels\n  - postseason elimination\n  - baseball math\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball fan posted the full chain of standings contingencies explaining\nwhy the Angels' latest loss finally ended their postseason path.\n\n## Why It Is Funny\n\nThe elimination announcement arrived with the supporting proof of a theorem.\nBaseball found one last way to make a doomed season technically interesting.\n\n## Comment Highlights\n\n- Label: Elimination hobby\n  Summary: The thread discovered that the author follows elimination scenarios closely enough to catch the exact moment each one closes.\n  Why funny: One team's bad news became somebody else's favorite branch of applied mathematics.\n  Source URL: https://www.reddit.com/r/baseball/comments/1wa3caf/the_angels_are_eliminated_from_postseason/\n\n## Quote\n\nThe standings required a proof before they allowed the announcement.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1wa3caf/the_angels_are_eliminated_from_postseason/\n- Source type: Current Reddit top-day standings post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post and visible public context on 2026-09-08. The rewrite summarizes the contingency-chain framing without reproducing the long original calculation.\n\n## Sports Radar Markdown\n\n```md\n**The Angels need a proof before elimination**\n\nAn r/baseball fan posted the full standings proof for the exact moment the Angels' postseason path closed.\n\nWhy it works: The elimination announcement arrived with the supporting proof of a theorem.\n```\n"
   },
   {
     "id": "derby-child-split-shirt",
@@ -3442,6 +3472,36 @@
     "markdown": "---\nid: steven-kwan-one-pitch-rebuttal\nrank: 2\ntitle: \"Steven Kwan answers the scouting note on cue\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-09\"\nheat: 97\ntags:\n  - r/baseball\n  - Steven Kwan\n  - White Sox broadcast\n  - announcer jinx\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball clip post showed the White Sox broadcast saying Steven Kwan\nneeded to stop acting like a power hitter moments before he homered.\n\n## Why It Is Funny\n\nThe critique ended and the ball left almost on cue. Baseball gave the scouting\nreport exactly one pitch of shelf life.\n\n## Comment Highlights\n\n- Label: Broadcast silence\n  Summary: The thread immediately noticed the quiet beat after the home run.\n  Why funny: The replay did not need a rebuttal because the pause supplied one.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vj1gz7/comment/p2hs1aw/\n\n## Quote\n\nThe scouting report survived roughly one pitch.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vj1gz7/steven_kwan_immediately_homers_after_the_white/\n- Source type: Reddit top-day baseball broadcast clip\n- Verification notes: Sports Radar reviewed the live public r/baseball post and comment thread on 2026-08-09. The summary describes the sequence shown in the posted clip without extending it into a claim about the announcer's broader analysis.\n\n## Sports Radar Markdown\n\n```md\n**Steven Kwan answers the scouting note on cue**\n\nAn r/baseball clip showed Kwan homer moments after the broadcast questioned his power approach.\n\nWhy it works: The scouting report survived roughly one pitch.\n```\n"
   },
   {
+    "id": "taj-gibson-retirement-call-waiting",
+    "rank": 2,
+    "title": "Taj Gibson keeps retirement on call waiting",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-09",
+    "heat": 98,
+    "tags": [
+      "r/nba",
+      "Taj Gibson",
+      "10-day contract",
+      "NBA veterans"
+    ],
+    "public_ready": true,
+    "summary": "At 41, Taj Gibson explained that every attempt to bow out gets interrupted by\nanother phone call asking whether he has time for a 10-day contract.",
+    "whyFunny": "Retirement keeps reaching voicemail because the league still has Taj saved\nunder emergency big man.",
+    "quote": "Retirement can wait. The phone is ringing again.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1wb7jq1/taj_gibson_41_if_its_time_to_bow_out_iii_bow_out/",
+    "commentHighlights": [
+      {
+        "label": "Calendar conflict",
+        "summary": "Fans pictured Gibson relaxing at home until the next roster needs a veteran and his phone lights up again.",
+        "whyFunny": "A 17-season career now runs like a recurring on-call shift.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1wb7jq1/taj_gibson_41_if_its_time_to_bow_out_iii_bow_out/"
+      }
+    ],
+    "markdown": "---\nid: taj-gibson-retirement-call-waiting\nrank: 2\ntitle: \"Taj Gibson keeps retirement on call waiting\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-09\"\nheat: 98\ntags:\n  - r/nba\n  - Taj Gibson\n  - 10-day contract\n  - NBA veterans\npublic_ready: true\n---\n\n## Summary\n\nAt 41, Taj Gibson explained that every attempt to bow out gets interrupted by\nanother phone call asking whether he has time for a 10-day contract.\n\n## Why It Is Funny\n\nRetirement keeps reaching voicemail because the league still has Taj saved\nunder emergency big man.\n\n## Comment Highlights\n\n- Label: Calendar conflict\n  Summary: Fans pictured Gibson relaxing at home until the next roster needs a veteran and his phone lights up again.\n  Why funny: A 17-season career now runs like a recurring on-call shift.\n  Source URL: https://www.reddit.com/r/nba/comments/1wb7jq1/taj_gibson_41_if_its_time_to_bow_out_iii_bow_out/\n\n## Quote\n\nRetirement can wait. The phone is ringing again.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1wb7jq1/taj_gibson_41_if_its_time_to_bow_out_iii_bow_out/\n- Source type: Current Reddit top-day interview clip and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post, linked interview context, and visible public replies on 2026-09-09. The summary paraphrases Gibson's answer instead of reproducing the long transcript excerpt.\n\n## Sports Radar Markdown\n\n```md\n**Taj Gibson keeps retirement on call waiting**\n\nAt 41, Taj Gibson says every attempt to bow out gets interrupted by another call about a 10-day contract.\n\nWhy it works: Retirement keeps reaching voicemail because the league still has Taj saved under emergency big man.\n```\n"
+  },
+  {
     "id": "lebron-high-school-hall-of-fame-bar",
     "rank": 2,
     "title": "Teenage LeBron gets a first-ballot-or-bust assignment",
@@ -3786,7 +3846,7 @@
     "title": "UNC's 2005 title becomes a can hunt",
     "league": "College Basketball",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-08",
     "heat": 98,
     "tags": [
@@ -3808,7 +3868,7 @@
         "sourceUrl": "https://www.reddit.com/r/CollegeBasketball/comments/1wa4wmr/unc_2005_national_champions_coke_can/"
       }
     ],
-    "markdown": "---\nid: unc-2005-championship-can-hunt\nrank: 2\ntitle: \"UNC's 2005 title becomes a can hunt\"\nleague: \"College Basketball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-08\"\nheat: 98\ntags:\n  - r/CollegeBasketball\n  - UNC\n  - 2005 championship\n  - memorabilia\npublic_ready: true\n---\n\n## Summary\n\nA UNC student searched for the missing 2005 championship Coke can in a family\ncollection that already covered four other title years.\n\n## Why It Is Funny\n\nOne piece of sports history survived as a soda container, then turned the\nthread into a support group for people realizing that 2005 now looks old.\n\n## Comment Highlights\n\n- Label: Time capsule located\n  Summary: The thread compared the can's dated design with older championship memorabilia, then produced an offer for the missing piece.\n  Why funny: A collector request became an age crisis and a successful internet scavenger hunt at the same time.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1wa4wmr/unc_2005_national_champions_coke_can/\n\n## Quote\n\nThe missing championship lives in the recycling aisle.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1wa4wmr/unc_2005_national_champions_coke_can/\n- Source type: Current Reddit top-day memorabilia request and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/CollegeBasketball post, visible can image, request context, and public replies on 2026-09-08. The rewrite omits the poster's identity and payment details.\n\n## Sports Radar Markdown\n\n```md\n**UNC's 2005 title becomes a can hunt**\n\nA UNC student searched for the missing 2005 championship Coke can in a family collection covering four other title years.\n\nWhy it works: Sports history became a soda-container scavenger hunt and an accidental reminder that 2005 now looks old.\n```\n"
+    "markdown": "---\nid: unc-2005-championship-can-hunt\nrank: 2\ntitle: \"UNC's 2005 title becomes a can hunt\"\nleague: \"College Basketball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-08\"\nheat: 98\ntags:\n  - r/CollegeBasketball\n  - UNC\n  - 2005 championship\n  - memorabilia\npublic_ready: true\n---\n\n## Summary\n\nA UNC student searched for the missing 2005 championship Coke can in a family\ncollection that already covered four other title years.\n\n## Why It Is Funny\n\nOne piece of sports history survived as a soda container, then turned the\nthread into a support group for people realizing that 2005 now looks old.\n\n## Comment Highlights\n\n- Label: Time capsule located\n  Summary: The thread compared the can's dated design with older championship memorabilia, then produced an offer for the missing piece.\n  Why funny: A collector request became an age crisis and a successful internet scavenger hunt at the same time.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1wa4wmr/unc_2005_national_champions_coke_can/\n\n## Quote\n\nThe missing championship lives in the recycling aisle.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1wa4wmr/unc_2005_national_champions_coke_can/\n- Source type: Current Reddit top-day memorabilia request and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/CollegeBasketball post, visible can image, request context, and public replies on 2026-09-08. The rewrite omits the poster's identity and payment details.\n\n## Sports Radar Markdown\n\n```md\n**UNC's 2005 title becomes a can hunt**\n\nA UNC student searched for the missing 2005 championship Coke can in a family collection covering four other title years.\n\nWhy it works: Sports history became a soda-container scavenger hunt and an accidental reminder that 2005 now looks old.\n```\n"
   },
   {
     "id": "vj-edgecombe-lebron-meme-recreation",
@@ -5128,6 +5188,36 @@
     "markdown": "---\nid: mane-reminds-ronaldo-celebration\nrank: 3\ntitle: \"Mane reminds Ronaldo to press the celebration button\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-29\"\nheat: 97\ntags:\n  - r/soccer\n  - Sadio Mane\n  - Cristiano Ronaldo\n  - celebration\npublic_ready: true\n---\n\n## Summary\n\nAn r/soccer clip post showed Sadio Mane reminding Cristiano Ronaldo to do his\nsignature goal celebration. Ronaldo appeared to remember, ran over, and\ncompleted it.\n\n## Why It Is Funny\n\nThe most recognizable celebration in soccer briefly needed a calendar alert.\nMane supplied the reminder and Ronaldo handled the muscle memory.\n\n## Comment Highlights\n\n- Label: Signature reminder\n  Summary: The thread read the exchange as a wholesome prompt and compared Mane's urgency to reminding someone about a familiar routine.\n  Why funny: A global trademark moment begins with one teammate quietly restoring the checklist.\n  Source URL: https://www.reddit.com/r/soccer/comments/1w155pt/sadio_mane_reminds_ronaldo_to_do_his_celebration/\n\n## Quote\n\nThe celebration needed one reminder.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1w155pt/sadio_mane_reminds_ronaldo_to_do_his_celebration/\n- Source type: Reddit top-day post sharing a public soccer clip\n- Verification notes: Sports Radar reviewed the captured RSS item and public Reddit thread on 2026-08-29. The copy stays within the visible prompt-and-celebration sequence and adds no match claims.\n\n## Sports Radar Markdown\n\n```md\n**Mane reminds Ronaldo to press the celebration button**\n\nSadio Mane prompted Cristiano Ronaldo to do the signature celebration, and muscle memory took it from there.\n\nWhy it works: Soccer's most recognizable routine briefly requires a teammate to restore the checklist.\n```\n"
   },
   {
+    "id": "michigan-win-ranked-like-loss",
+    "rank": 3,
+    "title": "Michigan's win gets ranked like a loss",
+    "league": "College Football",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-09",
+    "heat": 97,
+    "tags": [
+      "r/CFB",
+      "Michigan",
+      "AP Poll",
+      "college football rankings"
+    ],
+    "public_ready": true,
+    "summary": "Michigan moved from No. 16 to outside the AP Top 25 after a controversial win,\ntying the largest poll drop after a victory.",
+    "whyFunny": "The official result said win. The voters apparently graded the film.",
+    "quote": "The record book says win. The poll says please explain.",
+    "sourceUrl": "https://www.reddit.com/r/CFB/comments/1wax91h/michigan_falling_from_ap_number_16_to_unranked/",
+    "commentHighlights": [
+      {
+        "label": "Poll review",
+        "summary": "The thread spent more time putting quotation marks around the win than debating the exact ranking.",
+        "whyFunny": "College football invented a result that counts in the standings and still gets loss treatment everywhere else.",
+        "sourceUrl": "https://www.reddit.com/r/CFB/comments/1wax91h/michigan_falling_from_ap_number_16_to_unranked/"
+      }
+    ],
+    "markdown": "---\nid: michigan-win-ranked-like-loss\nrank: 3\ntitle: \"Michigan's win gets ranked like a loss\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-09\"\nheat: 97\ntags:\n  - r/CFB\n  - Michigan\n  - AP Poll\n  - college football rankings\npublic_ready: true\n---\n\n## Summary\n\nMichigan moved from No. 16 to outside the AP Top 25 after a controversial win,\ntying the largest poll drop after a victory.\n\n## Why It Is Funny\n\nThe official result said win. The voters apparently graded the film.\n\n## Comment Highlights\n\n- Label: Poll review\n  Summary: The thread spent more time putting quotation marks around the win than debating the exact ranking.\n  Why funny: College football invented a result that counts in the standings and still gets loss treatment everywhere else.\n  Source URL: https://www.reddit.com/r/CFB/comments/1wax91h/michigan_falling_from_ap_number_16_to_unranked/\n\n## Quote\n\nThe record book says win. The poll says please explain.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1wax91h/michigan_falling_from_ap_number_16_to_unranked/\n- Source type: Current Reddit top-day poll discussion and public fan reaction\n- Verification notes: Sports Radar reviewed the live r/CFB post and visible public discussion on 2026-09-09. The rewrite attributes the ranking claim to the post and avoids deciding the underlying clock dispute.\n\n## Sports Radar Markdown\n\n```md\n**Michigan's win gets ranked like a loss**\n\nMichigan moved from No. 16 to outside the AP Top 25 after a controversial win, tying the largest poll drop after a victory.\n\nWhy it works: The official result said win. The voters apparently graded the film.\n```\n"
+  },
+  {
     "id": "mourinho-five-second-sprint",
     "rank": 3,
     "title": "Mourinho personally enforces five seconds",
@@ -5265,7 +5355,7 @@
     "title": "One season gives PCA DiMaggio's whole travel map",
     "league": "MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-08",
     "heat": 97,
     "tags": [
@@ -5287,7 +5377,7 @@
         "sourceUrl": "https://www.reddit.com/r/baseball/comments/1w9yi55/petriello_pete_crowarmstrong_has_faced_28_teams/"
       }
     ],
-    "markdown": "---\nid: pca-dimaggio-baseball-world-size\nrank: 3\ntitle: \"One season gives PCA DiMaggio's whole travel map\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-08\"\nheat: 97\ntags:\n  - r/baseball\n  - Pete Crow-Armstrong\n  - Joe DiMaggio\n  - schedule history\npublic_ready: true\n---\n\n## Summary\n\nA comparison put Pete Crow-Armstrong at 28 opponents, 286 pitchers, and 22\nstadiums this season. Joe DiMaggio faced seven teams and 321 pitchers across\nhis entire regular-season career.\n\n## Why It Is Funny\n\nOne modern season nearly matched a Hall of Famer's career contact list, then\nthe thread promoted air travel into baseball's competitive advantage.\n\n## Comment Highlights\n\n- Label: Invention rankings\n  Summary: Fans moved from schedule history into a debate over whether airplanes, air conditioning, plumbing, or the elastic waistband changed life most.\n  Why funny: A baseball comparison became an emergency ballot for civilization's best invention.\n  Source URL: https://www.reddit.com/r/baseball/comments/1w9yi55/petriello_pete_crowarmstrong_has_faced_28_teams/\n\n## Quote\n\nOne season needed almost the whole historical contact list.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1w9yi55/petriello_pete_crowarmstrong_has_faced_28_teams/\n- Source type: Current Reddit top-day schedule comparison and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post, its linked comparison, and visible public context on 2026-09-08. The numerical comparison is limited to the figures displayed on the source page.\n\n## Sports Radar Markdown\n\n```md\n**One season gives PCA DiMaggio's whole travel map**\n\nPete Crow-Armstrong has faced 28 teams and 286 pitchers this season; Joe DiMaggio faced seven teams and 321 pitchers across his regular-season career.\n\nWhy it works: The comparison made air travel look like baseball's most productive roster addition.\n```\n"
+    "markdown": "---\nid: pca-dimaggio-baseball-world-size\nrank: 3\ntitle: \"One season gives PCA DiMaggio's whole travel map\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-08\"\nheat: 97\ntags:\n  - r/baseball\n  - Pete Crow-Armstrong\n  - Joe DiMaggio\n  - schedule history\npublic_ready: true\n---\n\n## Summary\n\nA comparison put Pete Crow-Armstrong at 28 opponents, 286 pitchers, and 22\nstadiums this season. Joe DiMaggio faced seven teams and 321 pitchers across\nhis entire regular-season career.\n\n## Why It Is Funny\n\nOne modern season nearly matched a Hall of Famer's career contact list, then\nthe thread promoted air travel into baseball's competitive advantage.\n\n## Comment Highlights\n\n- Label: Invention rankings\n  Summary: Fans moved from schedule history into a debate over whether airplanes, air conditioning, plumbing, or the elastic waistband changed life most.\n  Why funny: A baseball comparison became an emergency ballot for civilization's best invention.\n  Source URL: https://www.reddit.com/r/baseball/comments/1w9yi55/petriello_pete_crowarmstrong_has_faced_28_teams/\n\n## Quote\n\nOne season needed almost the whole historical contact list.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1w9yi55/petriello_pete_crowarmstrong_has_faced_28_teams/\n- Source type: Current Reddit top-day schedule comparison and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post, its linked comparison, and visible public context on 2026-09-08. The numerical comparison is limited to the figures displayed on the source page.\n\n## Sports Radar Markdown\n\n```md\n**One season gives PCA DiMaggio's whole travel map**\n\nPete Crow-Armstrong has faced 28 teams and 286 pitchers this season; Joe DiMaggio faced seven teams and 321 pitchers across his regular-season career.\n\nWhy it works: The comparison made air travel look like baseball's most productive roster addition.\n```\n"
   },
   {
     "id": "one-off-nfl-uniform-museum",
@@ -6850,12 +6940,42 @@
     "markdown": "---\nid: embolo-nba-flopping-crossover\nrank: 4\ntitle: \"One soccer dive sends r/nba to the rulebook\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-12\"\nheat: 88\ntags:\n  - r/nba\n  - Breel Embolo\n  - flopping\n  - rules\npublic_ready: true\n---\n\n## Summary\n\nAfter Breel Embolo received a second yellow card for simulation, an r/nba\nthread immediately asked whether basketball should punish obvious flops just as harshly.\n\n## Why It Is Funny\n\nOne sport produced a disciplinary moment and another sport's fans instantly\ntreated it like a free trial of a rule they have argued about for years.\n\n## Comment Highlights\n\n- Label: Import the red card\n  Summary: Fans imagined technicals, ejections, and escalating penalties for repeat flops.\n  Why funny: A soccer card became an unsolicited NBA product demo.\n  Source URL: https://www.reddit.com/r/nba/comments/1uu3dv6/after_embolos_red_card_vs_argentina_should_the/\n- Label: Contact makes it complicated\n  Summary: Other replies pointed out that basketball's constant contact would turn every harsh call into a new argument.\n  Why funny: The proposed cure arrives with its own full season of controversy.\n  Source URL: https://www.reddit.com/r/nba/comments/1uu3dv6/after_embolos_red_card_vs_argentina_should_the/\n\n## Quote\n\nThe crossover episode was officiated by VAR.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1uu3dv6/after_embolos_red_card_vs_argentina_should_the/\n- Source type: Reddit / r/nba top-day rules discussion\n- Verification notes: public thread frames the incident as a prompt for NBA flopping penalties; summarize the debate rather than prescribing a rules change\n\n## Sports Radar Markdown\n\n```md\n**One soccer dive sends r/nba to the rulebook**\n\nBreel Embolo's second yellow became an instant test case for basketball's flopping debate.\n\nWhy it works: NBA fans saw another sport's punishment and opened the suggestion box.\n```\n"
   },
   {
+    "id": "ovie-ejaria-linkedin-transfer-window",
+    "rank": 4,
+    "title": "Ovie Ejaria opens the LinkedIn transfer window",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-09",
+    "heat": 96,
+    "tags": [
+      "r/soccer",
+      "Ovie Ejaria",
+      "LinkedIn",
+      "free agents"
+    ],
+    "public_ready": true,
+    "summary": "After playing for Real Oviedo last season, free-agent midfielder Ovie Ejaria\nused LinkedIn to tell clubs that he is available.",
+    "whyFunny": "The transfer window has finally acquired the green Open to Work ring.",
+    "quote": "The transfer window now accepts connection requests.",
+    "sourceUrl": "https://www.reddit.com/r/soccer/comments/1wb2wz4/ovie_ejaria_a_midfielder_who_played_in_the_laliga/",
+    "commentHighlights": [
+      {
+        "label": "Professional networking",
+        "summary": "The thread rewrote familiar LinkedIn career-post formulas for an unemployed midfielder looking for his next club.",
+        "whyFunny": "Football recruitment briefly became the same job-search feed everyone else is trying to escape.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1wb2wz4/ovie_ejaria_a_midfielder_who_played_in_the_laliga/"
+      }
+    ],
+    "markdown": "---\nid: ovie-ejaria-linkedin-transfer-window\nrank: 4\ntitle: \"Ovie Ejaria opens the LinkedIn transfer window\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-09\"\nheat: 96\ntags:\n  - r/soccer\n  - Ovie Ejaria\n  - LinkedIn\n  - free agents\npublic_ready: true\n---\n\n## Summary\n\nAfter playing for Real Oviedo last season, free-agent midfielder Ovie Ejaria\nused LinkedIn to tell clubs that he is available.\n\n## Why It Is Funny\n\nThe transfer window has finally acquired the green Open to Work ring.\n\n## Comment Highlights\n\n- Label: Professional networking\n  Summary: The thread rewrote familiar LinkedIn career-post formulas for an unemployed midfielder looking for his next club.\n  Why funny: Football recruitment briefly became the same job-search feed everyone else is trying to escape.\n  Source URL: https://www.reddit.com/r/soccer/comments/1wb2wz4/ovie_ejaria_a_midfielder_who_played_in_the_laliga/\n\n## Quote\n\nThe transfer window now accepts connection requests.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1wb2wz4/ovie_ejaria_a_midfielder_who_played_in_the_laliga/\n- Source type: Current Reddit top-day post showing a public professional-network update and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/soccer post, visible LinkedIn image context, and public replies on 2026-09-09. The rewrite avoids speculation about Ejaria's injuries, representation, or contract demands.\n\n## Sports Radar Markdown\n\n```md\n**Ovie Ejaria opens the LinkedIn transfer window**\n\nAfter playing for Real Oviedo last season, free-agent midfielder Ovie Ejaria used LinkedIn to tell clubs that he is available.\n\nWhy it works: The transfer window has finally acquired the green Open to Work ring.\n```\n"
+  },
+  {
     "id": "pannone-perfect-game-camera",
     "rank": 4,
     "title": "Pannone throws perfection past the camera",
     "league": "Baseball",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-08",
     "heat": 96,
     "tags": [
@@ -6877,7 +6997,7 @@
         "sourceUrl": "https://www.reddit.com/r/baseball/comments/1wa7zo0/thomas_pannone_has_thrown_a_perfect_game_for_the/"
       }
     ],
-    "markdown": "---\nid: pannone-perfect-game-camera\nrank: 4\ntitle: \"Pannone throws perfection past the camera\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-08\"\nheat: 96\ntags:\n  - r/baseball\n  - Thomas Pannone\n  - perfect game\n  - Nashville Sounds\npublic_ready: true\n---\n\n## Summary\n\nThomas Pannone threw the first nine-inning, one-pitcher perfect game in the\nminor leagues since 2017 for Triple-A Nashville.\n\n## Why It Is Funny\n\nThe pitcher retired everyone. The replay still gave the thread enough reason\nto send the camera operator down a level.\n\n## Comment Highlights\n\n- Label: Camera demotion\n  Summary: Fans celebrated the rarity, then noticed that the closing replay barely stayed with the pitcher who completed it.\n  Why funny: The only person who missed the moment was apparently filming it.\n  Source URL: https://www.reddit.com/r/baseball/comments/1wa7zo0/thomas_pannone_has_thrown_a_perfect_game_for_the/\n\n## Quote\n\nPerfect game, imperfect camera assignment.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1wa7zo0/thomas_pannone_has_thrown_a_perfect_game_for_the/\n- Source type: Current Reddit top-day game highlight and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post, visible video listing, and public fan context on 2026-09-08. The achievement wording matches the source title; the camera line summarizes the visible thread reaction.\n\n## Sports Radar Markdown\n\n```md\n**Pannone throws perfection past the camera**\n\nThomas Pannone threw the first nine-inning, one-pitcher perfect game in the minors since 2017 for Triple-A Nashville.\n\nWhy it works: The pitcher retired everyone, while the replay gave the thread a reason to demote the camera operator.\n```\n"
+    "markdown": "---\nid: pannone-perfect-game-camera\nrank: 4\ntitle: \"Pannone throws perfection past the camera\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-08\"\nheat: 96\ntags:\n  - r/baseball\n  - Thomas Pannone\n  - perfect game\n  - Nashville Sounds\npublic_ready: true\n---\n\n## Summary\n\nThomas Pannone threw the first nine-inning, one-pitcher perfect game in the\nminor leagues since 2017 for Triple-A Nashville.\n\n## Why It Is Funny\n\nThe pitcher retired everyone. The replay still gave the thread enough reason\nto send the camera operator down a level.\n\n## Comment Highlights\n\n- Label: Camera demotion\n  Summary: Fans celebrated the rarity, then noticed that the closing replay barely stayed with the pitcher who completed it.\n  Why funny: The only person who missed the moment was apparently filming it.\n  Source URL: https://www.reddit.com/r/baseball/comments/1wa7zo0/thomas_pannone_has_thrown_a_perfect_game_for_the/\n\n## Quote\n\nPerfect game, imperfect camera assignment.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1wa7zo0/thomas_pannone_has_thrown_a_perfect_game_for_the/\n- Source type: Current Reddit top-day game highlight and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post, visible video listing, and public fan context on 2026-09-08. The achievement wording matches the source title; the camera line summarizes the visible thread reaction.\n\n## Sports Radar Markdown\n\n```md\n**Pannone throws perfection past the camera**\n\nThomas Pannone threw the first nine-inning, one-pitcher perfect game in the minors since 2017 for Triple-A Nashville.\n\nWhy it works: The pitcher retired everyone, while the replay gave the thread a reason to demote the camera operator.\n```\n"
   },
   {
     "id": "paraguay-national-holiday",
@@ -7765,7 +7885,7 @@
     "title": "A foul ball earns lifetime green lights",
     "league": "MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-08",
     "heat": 95,
     "tags": [
@@ -7787,7 +7907,7 @@
         "sourceUrl": "https://www.reddit.com/r/baseball/comments/1wa9svs/a_young_fan_is_ecstatic_after_receiving_a/"
       }
     ],
-    "markdown": "---\nid: cardinals-fan-ball-green-lights\nrank: 5\ntitle: \"A foul ball earns lifetime green lights\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-08\"\nheat: 95\ntags:\n  - r/baseball\n  - Cardinals fan\n  - foul ball\n  - fan kindness\npublic_ready: true\n---\n\n## Summary\n\nA Cardinals fan handed a ball to a young fan, whose reaction turned a small\nstadium gesture into the day's most reliable mood repair.\n\n## Why It Is Funny\n\nThe thread responded by inventing an entire rewards program for good people,\nfrom permanently cool pillows to a lifetime of green traffic lights.\n\n## Comment Highlights\n\n- Label: Good-person benefits\n  Summary: Fans kept adding tiny lifelong conveniences they wished upon the person who gave the ball away.\n  Why funny: One gift activated a crowd-sourced loyalty program with impossible benefits.\n  Source URL: https://www.reddit.com/r/baseball/comments/1wa9svs/a_young_fan_is_ecstatic_after_receiving_a/\n\n## Quote\n\nThe reward package includes every green light forever.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1wa9svs/a_young_fan_is_ecstatic_after_receiving_a/\n- Source type: Current Reddit top-day fan video and public discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post, visible video listing, and public fan context on 2026-09-08. The rewrite avoids identities and paraphrases the thread's good-will wishes.\n\n## Sports Radar Markdown\n\n```md\n**A foul ball earns lifetime green lights**\n\nA Cardinals fan handed a ball to a young fan and the reaction became the day's most reliable mood repair.\n\nWhy it works: The thread answered by building a rewards program for good people, complete with cool pillows and permanent green lights.\n```\n"
+    "markdown": "---\nid: cardinals-fan-ball-green-lights\nrank: 5\ntitle: \"A foul ball earns lifetime green lights\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-08\"\nheat: 95\ntags:\n  - r/baseball\n  - Cardinals fan\n  - foul ball\n  - fan kindness\npublic_ready: true\n---\n\n## Summary\n\nA Cardinals fan handed a ball to a young fan, whose reaction turned a small\nstadium gesture into the day's most reliable mood repair.\n\n## Why It Is Funny\n\nThe thread responded by inventing an entire rewards program for good people,\nfrom permanently cool pillows to a lifetime of green traffic lights.\n\n## Comment Highlights\n\n- Label: Good-person benefits\n  Summary: Fans kept adding tiny lifelong conveniences they wished upon the person who gave the ball away.\n  Why funny: One gift activated a crowd-sourced loyalty program with impossible benefits.\n  Source URL: https://www.reddit.com/r/baseball/comments/1wa9svs/a_young_fan_is_ecstatic_after_receiving_a/\n\n## Quote\n\nThe reward package includes every green light forever.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1wa9svs/a_young_fan_is_ecstatic_after_receiving_a/\n- Source type: Current Reddit top-day fan video and public discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post, visible video listing, and public fan context on 2026-09-08. The rewrite avoids identities and paraphrases the thread's good-will wishes.\n\n## Sports Radar Markdown\n\n```md\n**A foul ball earns lifetime green lights**\n\nA Cardinals fan handed a ball to a young fan and the reaction became the day's most reliable mood repair.\n\nWhy it works: The thread answered by building a rewards program for good people, complete with cool pillows and permanent green lights.\n```\n"
   },
   {
     "id": "laz-diaz-plate-mic-aside",
@@ -9570,6 +9690,36 @@
       }
     ],
     "markdown": "---\nid: trae-young-god-height-nerf\nrank: 5\ntitle: \"Trae Young says God nerfed him to 6'2\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-21\"\nheat: 90\ntags:\n  - r/nba\n  - Trae Young\n  - height\n  - confidence\npublic_ready: true\n---\n\n## Summary\n\nTrae Young said he understands scoring angles better than most of the league,\nthen described being 6'2\" as God's way of keeping the challenge fair.\n\n## Why It Is Funny\n\nThe humility arrives inside one of the least humble scouting reports possible.\nYoung frames his height as the balancing patch required before tip-off.\n\n## Comment Highlights\n\n- Label: Personal nerfs\n  Summary: Fans applied the same logic to their own heights and invented increasingly powerful alternate versions of themselves.\n  Why funny: Every missing inch becomes evidence that the universe feared the full build.\n  Source URL: https://www.reddit.com/r/nba/comments/1v1s619/trae_young_i_know_angles_i_know_how_to_score_from/\n- Label: Historical scouting\n  Summary: One branch turned Napoleon into a basketball prospect whose competition needed an era adjustment.\n  Why funny: A modern height hypothetical becomes an all-time-great debate about nineteenth-century roster strength.\n  Source URL: https://www.reddit.com/r/nba/comments/1v1s619/trae_young_i_know_angles_i_know_how_to_score_from/\n\n## Quote\n\nThe league got the balanced build.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v1s619/trae_young_i_know_angles_i_know_how_to_score_from/\n- Source type: Reddit / r/nba top-day player quote and reaction thread\n- Verification notes: the public post includes Young's height-and-humility framing; the copy describes his own statement and does not adopt disputed height measurements as independent fact\n\n## Sports Radar Markdown\n\n```md\n**Trae Young says God nerfed him to 6'2\"**\n\nTrae describes his height as the balancing patch required before tip-off.\n\nWhy it works: the humility arrives inside the least humble scouting report imaginable.\n```\n"
+  },
+  {
+    "id": "vini-bisseck-rainbow-brick-wall",
+    "rank": 5,
+    "title": "Vini's rainbow flick meets a brick wall",
+    "league": "Soccer",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-09",
+    "heat": 95,
+    "tags": [
+      "r/soccer",
+      "Vinicius Junior",
+      "Yann Bisseck",
+      "rainbow flick"
+    ],
+    "public_ready": true,
+    "summary": "Vinicius Junior tried a rainbow flick against Inter, and Yann Bisseck ended the\nmove by standing exactly where a six-foot-five defender would stand.",
+    "whyFunny": "The skill move had lift, ambition, and an immediate appointment with a wall.",
+    "quote": "Rainbow flick, meet load-bearing defender.",
+    "sourceUrl": "https://www.reddit.com/r/soccer/comments/1wb02pt/vini_rainbow_flick_attempt_bisseck_tackle/",
+    "commentHighlights": [
+      {
+        "label": "Loop material",
+        "summary": "Fans immediately treated the failed flick and collision as a clip designed to replay forever.",
+        "whyFunny": "The setup promises flair; the ending supplies basic physics.",
+        "sourceUrl": "https://www.reddit.com/r/soccer/comments/1wb02pt/vini_rainbow_flick_attempt_bisseck_tackle/"
+      }
+    ],
+    "markdown": "---\nid: vini-bisseck-rainbow-brick-wall\nrank: 5\ntitle: \"Vini's rainbow flick meets a brick wall\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-09\"\nheat: 95\ntags:\n  - r/soccer\n  - Vinicius Junior\n  - Yann Bisseck\n  - rainbow flick\npublic_ready: true\n---\n\n## Summary\n\nVinicius Junior tried a rainbow flick against Inter, and Yann Bisseck ended the\nmove by standing exactly where a six-foot-five defender would stand.\n\n## Why It Is Funny\n\nThe skill move had lift, ambition, and an immediate appointment with a wall.\n\n## Comment Highlights\n\n- Label: Loop material\n  Summary: Fans immediately treated the failed flick and collision as a clip designed to replay forever.\n  Why funny: The setup promises flair; the ending supplies basic physics.\n  Source URL: https://www.reddit.com/r/soccer/comments/1wb02pt/vini_rainbow_flick_attempt_bisseck_tackle/\n\n## Quote\n\nRainbow flick, meet load-bearing defender.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1wb02pt/vini_rainbow_flick_attempt_bisseck_tackle/\n- Source type: Current Reddit top-day match clip and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/soccer post, visible clip context, and public replies on 2026-09-09. The rewrite describes the comic sequence without making a refereeing claim.\n\n## Sports Radar Markdown\n\n```md\n**Vini's rainbow flick meets a brick wall**\n\nVinicius Junior tried a rainbow flick against Inter, and Yann Bisseck ended the move by standing exactly where a six-foot-five defender would stand.\n\nWhy it works: The setup promises flair; the ending supplies basic physics.\n```\n"
   },
   {
     "id": "wemby-world-cup-crowd-search",
