@@ -336,7 +336,7 @@
     "title": "Chris Bosh returns as Eagleton's high-school ringer",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-09",
     "heat": 99,
     "tags": [
@@ -358,7 +358,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1wb57lf/former_nba_star_chris_bosh_posterizes_helpless/"
       }
     ],
-    "markdown": "---\nid: chris-bosh-eagleton-high-school-ringer\nrank: 1\ntitle: \"Chris Bosh returns as Eagleton's high-school ringer\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-09\"\nheat: 99\ntags:\n  - r/nba\n  - Chris Bosh\n  - Parks and Recreation\n  - sports cameos\npublic_ready: true\n---\n\n## Summary\n\nAn old Parks and Recreation clip resurfaced with Chris Bosh playing Eagleton's\nwildly overqualified high-school basketball star.\n\n## Why It Is Funny\n\nThe joke asks everyone to accept that a seven-foot NBA champion is a teenager,\nthen lets him dunk through the other school and brag about the French horn.\n\n## Comment Highlights\n\n- Label: Roster compliance\n  Summary: The thread treated Eagleton's suspiciously adult center as the natural result of a town rich enough to recruit an NBA player.\n  Why funny: The cameo works because the casting violation is the entire scouting report.\n  Source URL: https://www.reddit.com/r/nba/comments/1wb57lf/former_nba_star_chris_bosh_posterizes_helpless/\n\n## Quote\n\nEagleton found a high-school prospect with two NBA rings.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1wb57lf/former_nba_star_chris_bosh_posterizes_helpless/\n- Source type: Current Reddit top-day repost of a scripted television cameo and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post, visible clip context, and public replies on 2026-09-09. The rewrite identifies the scene as fiction and does not present the cameo as a real high-school game.\n\n## Sports Radar Markdown\n\n```md\n**Chris Bosh returns as Eagleton's high-school ringer**\n\nAn old Parks and Recreation clip resurfaced with Chris Bosh playing Eagleton's wildly overqualified high-school basketball star.\n\nWhy it works: The casting violation is the entire scouting report.\n```\n"
+    "markdown": "---\nid: chris-bosh-eagleton-high-school-ringer\nrank: 1\ntitle: \"Chris Bosh returns as Eagleton's high-school ringer\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-09\"\nheat: 99\ntags:\n  - r/nba\n  - Chris Bosh\n  - Parks and Recreation\n  - sports cameos\npublic_ready: true\n---\n\n## Summary\n\nAn old Parks and Recreation clip resurfaced with Chris Bosh playing Eagleton's\nwildly overqualified high-school basketball star.\n\n## Why It Is Funny\n\nThe joke asks everyone to accept that a seven-foot NBA champion is a teenager,\nthen lets him dunk through the other school and brag about the French horn.\n\n## Comment Highlights\n\n- Label: Roster compliance\n  Summary: The thread treated Eagleton's suspiciously adult center as the natural result of a town rich enough to recruit an NBA player.\n  Why funny: The cameo works because the casting violation is the entire scouting report.\n  Source URL: https://www.reddit.com/r/nba/comments/1wb57lf/former_nba_star_chris_bosh_posterizes_helpless/\n\n## Quote\n\nEagleton found a high-school prospect with two NBA rings.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1wb57lf/former_nba_star_chris_bosh_posterizes_helpless/\n- Source type: Current Reddit top-day repost of a scripted television cameo and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post, visible clip context, and public replies on 2026-09-09. The rewrite identifies the scene as fiction and does not present the cameo as a real high-school game.\n\n## Sports Radar Markdown\n\n```md\n**Chris Bosh returns as Eagleton's high-school ringer**\n\nAn old Parks and Recreation clip resurfaced with Chris Bosh playing Eagleton's wildly overqualified high-school basketball star.\n\nWhy it works: The casting violation is the entire scouting report.\n```\n"
   },
   {
     "id": "cookie-monster-skubal-split",
@@ -425,6 +425,36 @@
       }
     ],
     "markdown": "---\nid: desmond-bane-second-turnover\nrank: 1\ntitle: \"Desmond Bane turns an explanation into a second turnover\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-02\"\nheat: 99\ntags:\n  - r/nba\n  - Desmond Bane\n  - OG Anunoby\n  - ball toss\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba clip showed Desmond Bane throwing the ball at OG Anunoby, followed by\nan explanation that the thread found almost as surprising as the throw.\n\n## Why It Is Funny\n\nThe original play lasted a moment. The improvised defense gave it an entire\nsecond possession.\n\n## Comment Highlights\n\n- Label: Backstory possession\n  Summary: The thread focused on how quickly the explanation expanded after the throw.\n  Why funny: A simple replay review turned into emergency storytelling.\n  Source URL: https://www.reddit.com/r/nba/comments/1w4xxzq/desmond_bane_inexplicably_throws_the_ball_at_og/\n\n## Quote\n\nThe explanation needed its own box score.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1w4xxzq/desmond_bane_inexplicably_throws_the_ball_at_og/\n- Source type: Reddit top-day clip and public fan discussion\n- Verification notes: Sports Radar reviewed the current post RSS and visible comment context on 2026-09-02. The explanation and reactions are paraphrased rather than reproduced.\n\n## Sports Radar Markdown\n\n```md\n**Desmond Bane turns an explanation into a second turnover**\n\nDesmond Bane threw the ball at OG Anunoby, then supplied a defense almost as surprising as the play.\n\nWhy it works: One quick replay turned into a full possession of emergency storytelling.\n```\n"
+  },
+  {
+    "id": "devin-cooley-linear-algebra-hobby",
+    "rank": 1,
+    "title": "Devin Cooley studies the angles after work",
+    "league": "NHL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-10",
+    "heat": 99,
+    "tags": [
+      "r/hockey",
+      "Devin Cooley",
+      "Calgary Flames",
+      "linear algebra"
+    ],
+    "public_ready": true,
+    "summary": "Flames goalie Devin Cooley revealed that his new off-ice hobby is linear\nalgebra.",
+    "whyFunny": "A position already built around angles and trajectories has finally assigned\nitself homework.",
+    "quote": "The crease now comes with eigenvalues.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1wbyo57/flames_goalie_devin_cooley_on_his_new_hobby/",
+    "commentHighlights": [
+      {
+        "label": "Puck vectors",
+        "summary": "The thread immediately translated goaltending into a problem about turning puck vectors into zeroes.",
+        "whyFunny": "The math joke doubles as a surprisingly accurate job description.",
+        "sourceUrl": "https://www.reddit.com/r/hockey/comments/1wbyo57/flames_goalie_devin_cooley_on_his_new_hobby/"
+      }
+    ],
+    "markdown": "---\nid: devin-cooley-linear-algebra-hobby\nrank: 1\ntitle: \"Devin Cooley studies the angles after work\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-10\"\nheat: 99\ntags:\n  - r/hockey\n  - Devin Cooley\n  - Calgary Flames\n  - linear algebra\npublic_ready: true\n---\n\n## Summary\n\nFlames goalie Devin Cooley revealed that his new off-ice hobby is linear\nalgebra.\n\n## Why It Is Funny\n\nA position already built around angles and trajectories has finally assigned\nitself homework.\n\n## Comment Highlights\n\n- Label: Puck vectors\n  Summary: The thread immediately translated goaltending into a problem about turning puck vectors into zeroes.\n  Why funny: The math joke doubles as a surprisingly accurate job description.\n  Source URL: https://www.reddit.com/r/hockey/comments/1wbyo57/flames_goalie_devin_cooley_on_his_new_hobby/\n\n## Quote\n\nThe crease now comes with eigenvalues.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1wbyo57/flames_goalie_devin_cooley_on_his_new_hobby/\n- Source type: Current Reddit top-day image post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/hockey post and visible public discussion on 2026-09-10. The rewrite uses only the public hobby detail and paraphrases the thread's math jokes.\n\n## Sports Radar Markdown\n\n```md\n**Devin Cooley studies the angles after work**\n\nFlames goalie Devin Cooley revealed that his new off-ice hobby is linear algebra.\n\nWhy it works: A position already built around angles and trajectories has finally assigned itself homework.\n```\n"
   },
   {
     "id": "erik-lamela-monterrey-kitman-loophole",
@@ -2549,6 +2579,36 @@
     "markdown": "---\nid: jermaine-oneal-stops-at-55\nrank: 2\ntitle: \"Jermaine O'Neal stops at 55 for Reggie\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-21\"\nheat: 98\ntags:\n  - r/nba\n  - Jermaine O'Neal\n  - Reggie Miller\n  - teammate lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nba throwback post framed Jermaine O'Neal as checking himself out after\n55 points so Reggie Miller could keep the Pacers' single-game scoring record.\n\n## Why It Is Funny\n\nMost record chases end with everyone feeding the hot hand. This one apparently\nended with O'Neal protecting a teammate's number like it was part of the team\nequipment.\n\n## Comment Highlights\n\nNo comment highlights were promoted from today's RSS-only review.\n\n## Quote\n\nFifty-five was enough. Reggie's 57 stayed on the wall.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1vtnsbp/highlights_jermaine_oneal_scores_55_points_in_36/\n- Source type: Reddit RSS top-day NBA throwback\n- Verification notes: Sports Radar reviewed the RSS title and source URL on 2026-08-21. The scoring and substitution details remain attributed to the source post rather than presented as independent historical reporting.\n\n## Sports Radar Markdown\n\n```md\n**Jermaine O'Neal stops at 55 for Reggie**\n\nAn NBA throwback says O'Neal checked himself out two points short of Reggie Miller's Pacers record.\n\nWhy it works: The franchise record was treated like a teammate's reserved parking spot.\n```\n"
   },
   {
+    "id": "jim-harbaugh-chargers-only-cause",
+    "rank": 2,
+    "title": "Jim Harbaugh declares one acceptable cause",
+    "league": "NFL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-10",
+    "heat": 98,
+    "tags": [
+      "r/nfl",
+      "Jim Harbaugh",
+      "Los Angeles Chargers",
+      "coach quotes"
+    ],
+    "public_ready": true,
+    "summary": "Jim Harbaugh said September leaves room for one cause only: the greatness of\nthe Los Angeles Chargers.",
+    "whyFunny": "A football press conference briefly borrowed the language of foreign policy,\nthen redirected the entire doctrine toward Week 1.",
+    "quote": "One cause: Chargers greatness.",
+    "sourceUrl": "https://www.reddit.com/r/nfl/comments/1wbwg2e/kris_rhim_jim_harbaugh_its_september_its_time_to/",
+    "commentHighlights": [
+      {
+        "label": "Quote season",
+        "summary": "Fans treated the declaration as an immediate contender for the year's most Harbaugh sentence.",
+        "whyFunny": "It sounds both wildly oversized and completely natural coming from him.",
+        "sourceUrl": "https://www.reddit.com/r/nfl/comments/1wbwg2e/kris_rhim_jim_harbaugh_its_september_its_time_to/"
+      }
+    ],
+    "markdown": "---\nid: jim-harbaugh-chargers-only-cause\nrank: 2\ntitle: \"Jim Harbaugh declares one acceptable cause\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-10\"\nheat: 98\ntags:\n  - r/nfl\n  - Jim Harbaugh\n  - Los Angeles Chargers\n  - coach quotes\npublic_ready: true\n---\n\n## Summary\n\nJim Harbaugh said September leaves room for one cause only: the greatness of\nthe Los Angeles Chargers.\n\n## Why It Is Funny\n\nA football press conference briefly borrowed the language of foreign policy,\nthen redirected the entire doctrine toward Week 1.\n\n## Comment Highlights\n\n- Label: Quote season\n  Summary: Fans treated the declaration as an immediate contender for the year's most Harbaugh sentence.\n  Why funny: It sounds both wildly oversized and completely natural coming from him.\n  Source URL: https://www.reddit.com/r/nfl/comments/1wbwg2e/kris_rhim_jim_harbaugh_its_september_its_time_to/\n\n## Quote\n\nOne cause: Chargers greatness.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1wbwg2e/kris_rhim_jim_harbaugh_its_september_its_time_to/\n- Source type: Current Reddit top-day quote post linking a public reporter post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nfl post, its linked attribution, and visible public replies on 2026-09-10. The summary compresses the quote rather than reproducing it in full.\n\n## Sports Radar Markdown\n\n```md\n**Jim Harbaugh declares one acceptable cause**\n\nJim Harbaugh said September leaves room for one cause only: the greatness of the Los Angeles Chargers.\n\nWhy it works: A football press conference borrowed the language of foreign policy, then redirected the doctrine toward Week 1.\n```\n"
+  },
+  {
     "id": "butler-friendship-reset",
     "rank": 2,
     "title": "Jimmy Butler friendship resets every morning",
@@ -3477,7 +3537,7 @@
     "title": "Taj Gibson keeps retirement on call waiting",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-09",
     "heat": 98,
     "tags": [
@@ -3499,7 +3559,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1wb7jq1/taj_gibson_41_if_its_time_to_bow_out_iii_bow_out/"
       }
     ],
-    "markdown": "---\nid: taj-gibson-retirement-call-waiting\nrank: 2\ntitle: \"Taj Gibson keeps retirement on call waiting\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-09\"\nheat: 98\ntags:\n  - r/nba\n  - Taj Gibson\n  - 10-day contract\n  - NBA veterans\npublic_ready: true\n---\n\n## Summary\n\nAt 41, Taj Gibson explained that every attempt to bow out gets interrupted by\nanother phone call asking whether he has time for a 10-day contract.\n\n## Why It Is Funny\n\nRetirement keeps reaching voicemail because the league still has Taj saved\nunder emergency big man.\n\n## Comment Highlights\n\n- Label: Calendar conflict\n  Summary: Fans pictured Gibson relaxing at home until the next roster needs a veteran and his phone lights up again.\n  Why funny: A 17-season career now runs like a recurring on-call shift.\n  Source URL: https://www.reddit.com/r/nba/comments/1wb7jq1/taj_gibson_41_if_its_time_to_bow_out_iii_bow_out/\n\n## Quote\n\nRetirement can wait. The phone is ringing again.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1wb7jq1/taj_gibson_41_if_its_time_to_bow_out_iii_bow_out/\n- Source type: Current Reddit top-day interview clip and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post, linked interview context, and visible public replies on 2026-09-09. The summary paraphrases Gibson's answer instead of reproducing the long transcript excerpt.\n\n## Sports Radar Markdown\n\n```md\n**Taj Gibson keeps retirement on call waiting**\n\nAt 41, Taj Gibson says every attempt to bow out gets interrupted by another call about a 10-day contract.\n\nWhy it works: Retirement keeps reaching voicemail because the league still has Taj saved under emergency big man.\n```\n"
+    "markdown": "---\nid: taj-gibson-retirement-call-waiting\nrank: 2\ntitle: \"Taj Gibson keeps retirement on call waiting\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-09\"\nheat: 98\ntags:\n  - r/nba\n  - Taj Gibson\n  - 10-day contract\n  - NBA veterans\npublic_ready: true\n---\n\n## Summary\n\nAt 41, Taj Gibson explained that every attempt to bow out gets interrupted by\nanother phone call asking whether he has time for a 10-day contract.\n\n## Why It Is Funny\n\nRetirement keeps reaching voicemail because the league still has Taj saved\nunder emergency big man.\n\n## Comment Highlights\n\n- Label: Calendar conflict\n  Summary: Fans pictured Gibson relaxing at home until the next roster needs a veteran and his phone lights up again.\n  Why funny: A 17-season career now runs like a recurring on-call shift.\n  Source URL: https://www.reddit.com/r/nba/comments/1wb7jq1/taj_gibson_41_if_its_time_to_bow_out_iii_bow_out/\n\n## Quote\n\nRetirement can wait. The phone is ringing again.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1wb7jq1/taj_gibson_41_if_its_time_to_bow_out_iii_bow_out/\n- Source type: Current Reddit top-day interview clip and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post, linked interview context, and visible public replies on 2026-09-09. The summary paraphrases Gibson's answer instead of reproducing the long transcript excerpt.\n\n## Sports Radar Markdown\n\n```md\n**Taj Gibson keeps retirement on call waiting**\n\nAt 41, Taj Gibson says every attempt to bow out gets interrupted by another call about a 10-day contract.\n\nWhy it works: Retirement keeps reaching voicemail because the league still has Taj saved under emergency big man.\n```\n"
   },
   {
     "id": "lebron-high-school-hall-of-fame-bar",
@@ -5193,7 +5253,7 @@
     "title": "Michigan's win gets ranked like a loss",
     "league": "College Football",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-09",
     "heat": 97,
     "tags": [
@@ -5215,7 +5275,7 @@
         "sourceUrl": "https://www.reddit.com/r/CFB/comments/1wax91h/michigan_falling_from_ap_number_16_to_unranked/"
       }
     ],
-    "markdown": "---\nid: michigan-win-ranked-like-loss\nrank: 3\ntitle: \"Michigan's win gets ranked like a loss\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-09\"\nheat: 97\ntags:\n  - r/CFB\n  - Michigan\n  - AP Poll\n  - college football rankings\npublic_ready: true\n---\n\n## Summary\n\nMichigan moved from No. 16 to outside the AP Top 25 after a controversial win,\ntying the largest poll drop after a victory.\n\n## Why It Is Funny\n\nThe official result said win. The voters apparently graded the film.\n\n## Comment Highlights\n\n- Label: Poll review\n  Summary: The thread spent more time putting quotation marks around the win than debating the exact ranking.\n  Why funny: College football invented a result that counts in the standings and still gets loss treatment everywhere else.\n  Source URL: https://www.reddit.com/r/CFB/comments/1wax91h/michigan_falling_from_ap_number_16_to_unranked/\n\n## Quote\n\nThe record book says win. The poll says please explain.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1wax91h/michigan_falling_from_ap_number_16_to_unranked/\n- Source type: Current Reddit top-day poll discussion and public fan reaction\n- Verification notes: Sports Radar reviewed the live r/CFB post and visible public discussion on 2026-09-09. The rewrite attributes the ranking claim to the post and avoids deciding the underlying clock dispute.\n\n## Sports Radar Markdown\n\n```md\n**Michigan's win gets ranked like a loss**\n\nMichigan moved from No. 16 to outside the AP Top 25 after a controversial win, tying the largest poll drop after a victory.\n\nWhy it works: The official result said win. The voters apparently graded the film.\n```\n"
+    "markdown": "---\nid: michigan-win-ranked-like-loss\nrank: 3\ntitle: \"Michigan's win gets ranked like a loss\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-09\"\nheat: 97\ntags:\n  - r/CFB\n  - Michigan\n  - AP Poll\n  - college football rankings\npublic_ready: true\n---\n\n## Summary\n\nMichigan moved from No. 16 to outside the AP Top 25 after a controversial win,\ntying the largest poll drop after a victory.\n\n## Why It Is Funny\n\nThe official result said win. The voters apparently graded the film.\n\n## Comment Highlights\n\n- Label: Poll review\n  Summary: The thread spent more time putting quotation marks around the win than debating the exact ranking.\n  Why funny: College football invented a result that counts in the standings and still gets loss treatment everywhere else.\n  Source URL: https://www.reddit.com/r/CFB/comments/1wax91h/michigan_falling_from_ap_number_16_to_unranked/\n\n## Quote\n\nThe record book says win. The poll says please explain.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1wax91h/michigan_falling_from_ap_number_16_to_unranked/\n- Source type: Current Reddit top-day poll discussion and public fan reaction\n- Verification notes: Sports Radar reviewed the live r/CFB post and visible public discussion on 2026-09-09. The rewrite attributes the ranking claim to the post and avoids deciding the underlying clock dispute.\n\n## Sports Radar Markdown\n\n```md\n**Michigan's win gets ranked like a loss**\n\nMichigan moved from No. 16 to outside the AP Top 25 after a controversial win, tying the largest poll drop after a victory.\n\nWhy it works: The official result said win. The voters apparently graded the film.\n```\n"
   },
   {
     "id": "mourinho-five-second-sprint",
@@ -5747,6 +5807,36 @@
       }
     ],
     "markdown": "---\nid: bills-stadium-broken-table\nrank: 3\ntitle: \"The Bills put a broken table in the stadium\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-24\"\nheat: 94\ntags:\n  - r/nfl\n  - Buffalo Bills\n  - Highmark Stadium\n  - Bills Mafia\npublic_ready: true\n---\n\n## Summary\n\nA clip from the new Highmark Stadium showed a giant broken folding table built\ninto the venue as a tribute to Bills fan culture.\n\n## Why It Is Funny\n\nMost stadium art tries to look timeless. Buffalo made one of its most chaotic\ntailgate rituals architectural and handed the joke a permanent address.\n\n## Comment Highlights\n\n- Label: Fanbase-specific design\n  Summary: Fans liked that the stadium included an object immediately recognizable as Buffalo culture.\n  Why funny: The building's signature detail looks like the aftermath of its own parking lot.\n  Source URL: https://www.reddit.com/r/nfl/comments/1v4xs07/highlight_the_bills_new_highmark_stadium_features/\n- Label: Rival-stadium audit\n  Summary: The thread quickly compared Buffalo's custom feature with what rival stadiums might display.\n  Why funny: One broken table opened an architectural review conducted entirely through team slander.\n  Source URL: https://www.reddit.com/r/nfl/comments/1v4xs07/highlight_the_bills_new_highmark_stadium_features/\n\n## Quote\n\nThe tailgate has entered the permanent collection.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1v4xs07/highlight_the_bills_new_highmark_stadium_features/\n- Source type: Reddit video post\n- Verification notes: The public Reddit post and discussion were reviewed on 2026-07-24.\n\n## Sports Radar Markdown\n\n```md\n**The Bills put a broken table in the stadium**\n\nNew Highmark Stadium turned a Bills Mafia tailgate symbol into permanent decor.\n\nWhy it works: Buffalo gave the parking-lot aftermath its own architectural monument.\n```\n"
+  },
+  {
+    "id": "kings-off-center-referee-crease",
+    "rank": 3,
+    "title": "The Kings bring back the crooked referee crease",
+    "league": "NHL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-10",
+    "heat": 97,
+    "tags": [
+      "r/hockey",
+      "Los Angeles Kings",
+      "rink design",
+      "referee crease"
+    ],
+    "public_ready": true,
+    "summary": "For the second straight year, the referee crease on the Kings' home ice sits\nvisibly off center.",
+    "whyFunny": "An otherwise orderly NHL rink now contains one tiny alignment error that fans\ncannot unsee.",
+    "quote": "Center ice, except for the part that is not.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1wbyya3/for_the_2nd_year_in_a_row_the_kings_home_ice_will/",
+    "commentHighlights": [
+      {
+        "label": "Permanent visual itch",
+        "summary": "The thread reacted less like hockey analysts and more like people discovering a crooked picture frame.",
+        "whyFunny": "The flaw changes nothing about the game and everything about looking at the rink.",
+        "sourceUrl": "https://www.reddit.com/r/hockey/comments/1wbyya3/for_the_2nd_year_in_a_row_the_kings_home_ice_will/"
+      }
+    ],
+    "markdown": "---\nid: kings-off-center-referee-crease\nrank: 3\ntitle: \"The Kings bring back the crooked referee crease\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-10\"\nheat: 97\ntags:\n  - r/hockey\n  - Los Angeles Kings\n  - rink design\n  - referee crease\npublic_ready: true\n---\n\n## Summary\n\nFor the second straight year, the referee crease on the Kings' home ice sits\nvisibly off center.\n\n## Why It Is Funny\n\nAn otherwise orderly NHL rink now contains one tiny alignment error that fans\ncannot unsee.\n\n## Comment Highlights\n\n- Label: Permanent visual itch\n  Summary: The thread reacted less like hockey analysts and more like people discovering a crooked picture frame.\n  Why funny: The flaw changes nothing about the game and everything about looking at the rink.\n  Source URL: https://www.reddit.com/r/hockey/comments/1wbyya3/for_the_2nd_year_in_a_row_the_kings_home_ice_will/\n\n## Quote\n\nCenter ice, except for the part that is not.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1wbyya3/for_the_2nd_year_in_a_row_the_kings_home_ice_will/\n- Source type: Current Reddit top-day image post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/hockey post, the visible rink image context, and public replies on 2026-09-10. The rewrite describes the alignment oddity without speculating about responsibility.\n\n## Sports Radar Markdown\n\n```md\n**The Kings bring back the crooked referee crease**\n\nFor the second straight year, the referee crease on the Kings' home ice sits visibly off center.\n\nWhy it works: One tiny alignment error now owns every look at the rink.\n```\n"
   },
   {
     "id": "ncaa-lawyers-google-after-ruling",
@@ -6945,7 +7035,7 @@
     "title": "Ovie Ejaria opens the LinkedIn transfer window",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-09",
     "heat": 96,
     "tags": [
@@ -6967,7 +7057,7 @@
         "sourceUrl": "https://www.reddit.com/r/soccer/comments/1wb2wz4/ovie_ejaria_a_midfielder_who_played_in_the_laliga/"
       }
     ],
-    "markdown": "---\nid: ovie-ejaria-linkedin-transfer-window\nrank: 4\ntitle: \"Ovie Ejaria opens the LinkedIn transfer window\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-09\"\nheat: 96\ntags:\n  - r/soccer\n  - Ovie Ejaria\n  - LinkedIn\n  - free agents\npublic_ready: true\n---\n\n## Summary\n\nAfter playing for Real Oviedo last season, free-agent midfielder Ovie Ejaria\nused LinkedIn to tell clubs that he is available.\n\n## Why It Is Funny\n\nThe transfer window has finally acquired the green Open to Work ring.\n\n## Comment Highlights\n\n- Label: Professional networking\n  Summary: The thread rewrote familiar LinkedIn career-post formulas for an unemployed midfielder looking for his next club.\n  Why funny: Football recruitment briefly became the same job-search feed everyone else is trying to escape.\n  Source URL: https://www.reddit.com/r/soccer/comments/1wb2wz4/ovie_ejaria_a_midfielder_who_played_in_the_laliga/\n\n## Quote\n\nThe transfer window now accepts connection requests.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1wb2wz4/ovie_ejaria_a_midfielder_who_played_in_the_laliga/\n- Source type: Current Reddit top-day post showing a public professional-network update and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/soccer post, visible LinkedIn image context, and public replies on 2026-09-09. The rewrite avoids speculation about Ejaria's injuries, representation, or contract demands.\n\n## Sports Radar Markdown\n\n```md\n**Ovie Ejaria opens the LinkedIn transfer window**\n\nAfter playing for Real Oviedo last season, free-agent midfielder Ovie Ejaria used LinkedIn to tell clubs that he is available.\n\nWhy it works: The transfer window has finally acquired the green Open to Work ring.\n```\n"
+    "markdown": "---\nid: ovie-ejaria-linkedin-transfer-window\nrank: 4\ntitle: \"Ovie Ejaria opens the LinkedIn transfer window\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-09\"\nheat: 96\ntags:\n  - r/soccer\n  - Ovie Ejaria\n  - LinkedIn\n  - free agents\npublic_ready: true\n---\n\n## Summary\n\nAfter playing for Real Oviedo last season, free-agent midfielder Ovie Ejaria\nused LinkedIn to tell clubs that he is available.\n\n## Why It Is Funny\n\nThe transfer window has finally acquired the green Open to Work ring.\n\n## Comment Highlights\n\n- Label: Professional networking\n  Summary: The thread rewrote familiar LinkedIn career-post formulas for an unemployed midfielder looking for his next club.\n  Why funny: Football recruitment briefly became the same job-search feed everyone else is trying to escape.\n  Source URL: https://www.reddit.com/r/soccer/comments/1wb2wz4/ovie_ejaria_a_midfielder_who_played_in_the_laliga/\n\n## Quote\n\nThe transfer window now accepts connection requests.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1wb2wz4/ovie_ejaria_a_midfielder_who_played_in_the_laliga/\n- Source type: Current Reddit top-day post showing a public professional-network update and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/soccer post, visible LinkedIn image context, and public replies on 2026-09-09. The rewrite avoids speculation about Ejaria's injuries, representation, or contract demands.\n\n## Sports Radar Markdown\n\n```md\n**Ovie Ejaria opens the LinkedIn transfer window**\n\nAfter playing for Real Oviedo last season, free-agent midfielder Ovie Ejaria used LinkedIn to tell clubs that he is available.\n\nWhy it works: The transfer window has finally acquired the green Open to Work ring.\n```\n"
   },
   {
     "id": "pannone-perfect-game-camera",
@@ -7033,6 +7123,36 @@
       }
     ],
     "markdown": "---\nid: paraguay-national-holiday\nrank: 4\ntitle: \"Paraguay allegedly celebrates an upset like a calendar event\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-06-30\"\nheat: 84\ntags:\n  - r/sports\n  - World Cup\n  - national holiday\npublic_ready: true\n---\n\n## Summary\n\nAn r/sports post claimed Paraguay declared a national holiday after beating\nGermany, turning a match result into civic scheduling.\n\n## Why It Is Funny\n\nMost fanbases say a win changed their lives. This one gets framed as if the\ngovernment updated everyone's calendar invite.\n\n## Comment Highlights\n\n- Label: Celebration becomes policy\n  Summary: The thread's central delight is scale: fans do not just celebrate; the country allegedly moves the work calendar around the result.\n  Why funny: It upgrades sports joy from yelling in the street to civic administration.\n  Source URL: https://www.reddit.com/r/sports/comments/1ujnnli/paraguay_declares_national_holiday_after_beating/\n- Label: Upset math\n  Summary: Reactions frame the Germany result as the kind of upset that makes normal Monday logic stop applying.\n  Why funny: It treats a bracket surprise like an emergency broadcast for national vibes.\n  Source URL: https://www.reddit.com/r/sports/comments/1ujnnli/paraguay_declares_national_holiday_after_beating/\n\n## Quote\n\nThe final whistle became an out-of-office reply.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1ujnnli/paraguay_declares_national_holiday_after_beating/\n- Source type: Reddit / r/sports top-day thread\n- Verification notes: verify before treating as factual news; safe here as Reddit sports-culture framing\n\n## Sports Radar Markdown\n\n```md\n**Paraguay allegedly celebrates an upset like a calendar event**\n\nAn r/sports post framed a huge win as civic scheduling.\n\nWhy it works: the celebration escalates from fan joy to national calendar management.\n```\n"
+  },
+  {
+    "id": "pat-bev-europe-structure-test",
+    "rank": 4,
+    "title": "Pat Bev puts NBA stars through the Europe test",
+    "league": "Basketball",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-10",
+    "heat": 96,
+    "tags": [
+      "r/nba",
+      "Patrick Beverley",
+      "EuroLeague",
+      "basketball culture"
+    ],
+    "public_ready": true,
+    "summary": "Patrick Beverley argued that some NBA superstars would struggle to adapt to\nEuropean basketball's coach-first, team-first structure.",
+    "whyFunny": "The thread immediately became a debate over whether the problem would be\nbasketball talent or surrendering superstar freedom.",
+    "quote": "The talent travels. The hierarchy might not.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1wc7csr/pat_bev_says_there_are_nba_superstars_who_couldnt/",
+    "commentHighlights": [
+      {
+        "label": "Two different tests",
+        "summary": "Fans split between reading the claim as a talent comparison and reading it as a warning about culture and control.",
+        "whyFunny": "Everyone argued over the answer before agreeing on which exam the stars were taking.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1wc7csr/pat_bev_says_there_are_nba_superstars_who_couldnt/"
+      }
+    ],
+    "markdown": "---\nid: pat-bev-europe-structure-test\nrank: 4\ntitle: \"Pat Bev puts NBA stars through the Europe test\"\nleague: \"Basketball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-10\"\nheat: 96\ntags:\n  - r/nba\n  - Patrick Beverley\n  - EuroLeague\n  - basketball culture\npublic_ready: true\n---\n\n## Summary\n\nPatrick Beverley argued that some NBA superstars would struggle to adapt to\nEuropean basketball's coach-first, team-first structure.\n\n## Why It Is Funny\n\nThe thread immediately became a debate over whether the problem would be\nbasketball talent or surrendering superstar freedom.\n\n## Comment Highlights\n\n- Label: Two different tests\n  Summary: Fans split between reading the claim as a talent comparison and reading it as a warning about culture and control.\n  Why funny: Everyone argued over the answer before agreeing on which exam the stars were taking.\n  Source URL: https://www.reddit.com/r/nba/comments/1wc7csr/pat_bev_says_there_are_nba_superstars_who_couldnt/\n\n## Quote\n\nThe talent travels. The hierarchy might not.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1wc7csr/pat_bev_says_there_are_nba_superstars_who_couldnt/\n- Source type: Current Reddit top-day interview post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post and visible public discussion on 2026-09-10. The rewrite attributes the claim to Beverley and preserves the distinction between ability and adaptation.\n\n## Sports Radar Markdown\n\n```md\n**Pat Bev puts NBA stars through the Europe test**\n\nPatrick Beverley argued that some NBA superstars would struggle to adapt to European basketball's coach-first, team-first structure.\n\nWhy it works: The thread had to decide whether the test was talent or surrendering superstar freedom.\n```\n"
   },
   {
     "id": "patrick-beverley-playin-replay",
@@ -8058,6 +8178,36 @@
       }
     ],
     "markdown": "---\nid: alpharetta-mall-hockey-arena\nrank: 5\ntitle: \"Atlanta's hockey comeback starts at the mall\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-15\"\nheat: 94\ntags:\n  - r/hockey\n  - Atlanta\n  - Alpharetta\n  - arena proposal\n  - expansion lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/hockey post linked a report about an approved Alpharetta mall\nredevelopment plan that includes a proposed 20,000-seat hockey arena.\n\n## Why It Is Funny\n\nAtlanta's latest hockey-return chapter begins with suburban mall geography.\nThe expansion dream has not arrived, but it already has a food-court origin\nstory.\n\n## Comment Highlights\n\n- Label: Arena map committee\n  Summary: The thread immediately debated the suburban location, traffic, transit, and whether another Atlanta hockey chapter could work there.\n  Why funny: A mall plan became a full civic hearing on the future of hockey in Georgia.\n  Source URL: https://www.reddit.com/r/hockey/comments/1vohsoo/alpharetta_approves_plan_for_north_point_mall/\n\n## Quote\n\nThe comeback has a food-court origin story.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1vohsoo/alpharetta_approves_plan_for_north_point_mall/\n- Source type: Reddit discussion linking local reporting about a redevelopment proposal\n- Verification notes: Sports Radar reviewed the public post, linked-source description, and discussion on 2026-08-15. The public copy describes the arena as part of a proposal and does not claim that an NHL franchise has been awarded.\n\n## Sports Radar Markdown\n\n```md\n**Atlanta's hockey comeback starts at the mall**\n\nAn Alpharetta redevelopment plan put a 20,000-seat arena beside Atlanta's latest hockey dream.\n\nWhy it works: Expansion lore found the most suburban possible opening scene.\n```\n"
+  },
+  {
+    "id": "bradley-beal-chris-paul-number-three",
+    "rank": 5,
+    "title": "Bradley Beal puts Chris Paul's No. 3 back to work",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-10",
+    "heat": 95,
+    "tags": [
+      "r/nba",
+      "Bradley Beal",
+      "Chris Paul",
+      "Los Angeles Clippers"
+    ],
+    "public_ready": true,
+    "summary": "Bradley Beal is switching from No. 0 to No. 3 for the Clippers, the number\nChris Paul last wore for the team in 2025.",
+    "whyFunny": "One routine jersey update arrived carrying an entire franchise-history debate\nin its equipment bag.",
+    "quote": "The number change came with a full grievance file.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1wcifu5/catalan_bradley_beal_realdealbeal23_is_switching/",
+    "commentHighlights": [
+      {
+        "label": "Number grievance",
+        "summary": "Fans treated the handoff as another argument about how the Clippers remember the Chris Paul era.",
+        "whyFunny": "The transaction is only a digit, but the thread supplied years of emotional paperwork.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1wcifu5/catalan_bradley_beal_realdealbeal23_is_switching/"
+      }
+    ],
+    "markdown": "---\nid: bradley-beal-chris-paul-number-three\nrank: 5\ntitle: \"Bradley Beal puts Chris Paul's No. 3 back to work\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-10\"\nheat: 95\ntags:\n  - r/nba\n  - Bradley Beal\n  - Chris Paul\n  - Los Angeles Clippers\npublic_ready: true\n---\n\n## Summary\n\nBradley Beal is switching from No. 0 to No. 3 for the Clippers, the number\nChris Paul last wore for the team in 2025.\n\n## Why It Is Funny\n\nOne routine jersey update arrived carrying an entire franchise-history debate\nin its equipment bag.\n\n## Comment Highlights\n\n- Label: Number grievance\n  Summary: Fans treated the handoff as another argument about how the Clippers remember the Chris Paul era.\n  Why funny: The transaction is only a digit, but the thread supplied years of emotional paperwork.\n  Source URL: https://www.reddit.com/r/nba/comments/1wcifu5/catalan_bradley_beal_realdealbeal23_is_switching/\n\n## Quote\n\nThe number change came with a full grievance file.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1wcifu5/catalan_bradley_beal_realdealbeal23_is_switching/\n- Source type: Current Reddit top-day jersey-number post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post and visible public replies on 2026-09-10. The rewrite reports the posted number change and frames the fan reaction as discussion, not team policy.\n\n## Sports Radar Markdown\n\n```md\n**Bradley Beal puts Chris Paul's No. 3 back to work**\n\nBradley Beal is switching from No. 0 to No. 3 for the Clippers, the number Chris Paul last wore for the team in 2025.\n\nWhy it works: A routine jersey update arrived carrying an entire franchise-history debate.\n```\n"
   },
   {
     "id": "dusty-nickel-flames-ebug",
@@ -9697,7 +9847,7 @@
     "title": "Vini's rainbow flick meets a brick wall",
     "league": "Soccer",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-09",
     "heat": 95,
     "tags": [
@@ -9719,7 +9869,7 @@
         "sourceUrl": "https://www.reddit.com/r/soccer/comments/1wb02pt/vini_rainbow_flick_attempt_bisseck_tackle/"
       }
     ],
-    "markdown": "---\nid: vini-bisseck-rainbow-brick-wall\nrank: 5\ntitle: \"Vini's rainbow flick meets a brick wall\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-09\"\nheat: 95\ntags:\n  - r/soccer\n  - Vinicius Junior\n  - Yann Bisseck\n  - rainbow flick\npublic_ready: true\n---\n\n## Summary\n\nVinicius Junior tried a rainbow flick against Inter, and Yann Bisseck ended the\nmove by standing exactly where a six-foot-five defender would stand.\n\n## Why It Is Funny\n\nThe skill move had lift, ambition, and an immediate appointment with a wall.\n\n## Comment Highlights\n\n- Label: Loop material\n  Summary: Fans immediately treated the failed flick and collision as a clip designed to replay forever.\n  Why funny: The setup promises flair; the ending supplies basic physics.\n  Source URL: https://www.reddit.com/r/soccer/comments/1wb02pt/vini_rainbow_flick_attempt_bisseck_tackle/\n\n## Quote\n\nRainbow flick, meet load-bearing defender.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1wb02pt/vini_rainbow_flick_attempt_bisseck_tackle/\n- Source type: Current Reddit top-day match clip and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/soccer post, visible clip context, and public replies on 2026-09-09. The rewrite describes the comic sequence without making a refereeing claim.\n\n## Sports Radar Markdown\n\n```md\n**Vini's rainbow flick meets a brick wall**\n\nVinicius Junior tried a rainbow flick against Inter, and Yann Bisseck ended the move by standing exactly where a six-foot-five defender would stand.\n\nWhy it works: The setup promises flair; the ending supplies basic physics.\n```\n"
+    "markdown": "---\nid: vini-bisseck-rainbow-brick-wall\nrank: 5\ntitle: \"Vini's rainbow flick meets a brick wall\"\nleague: \"Soccer\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-09\"\nheat: 95\ntags:\n  - r/soccer\n  - Vinicius Junior\n  - Yann Bisseck\n  - rainbow flick\npublic_ready: true\n---\n\n## Summary\n\nVinicius Junior tried a rainbow flick against Inter, and Yann Bisseck ended the\nmove by standing exactly where a six-foot-five defender would stand.\n\n## Why It Is Funny\n\nThe skill move had lift, ambition, and an immediate appointment with a wall.\n\n## Comment Highlights\n\n- Label: Loop material\n  Summary: Fans immediately treated the failed flick and collision as a clip designed to replay forever.\n  Why funny: The setup promises flair; the ending supplies basic physics.\n  Source URL: https://www.reddit.com/r/soccer/comments/1wb02pt/vini_rainbow_flick_attempt_bisseck_tackle/\n\n## Quote\n\nRainbow flick, meet load-bearing defender.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/soccer/comments/1wb02pt/vini_rainbow_flick_attempt_bisseck_tackle/\n- Source type: Current Reddit top-day match clip and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/soccer post, visible clip context, and public replies on 2026-09-09. The rewrite describes the comic sequence without making a refereeing claim.\n\n## Sports Radar Markdown\n\n```md\n**Vini's rainbow flick meets a brick wall**\n\nVinicius Junior tried a rainbow flick against Inter, and Yann Bisseck ended the move by standing exactly where a six-foot-five defender would stand.\n\nWhy it works: The setup promises flair; the ending supplies basic physics.\n```\n"
   },
   {
     "id": "wemby-world-cup-crowd-search",
