@@ -432,7 +432,7 @@
     "title": "Devin Cooley studies the angles after work",
     "league": "NHL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-10",
     "heat": 99,
     "tags": [
@@ -454,7 +454,7 @@
         "sourceUrl": "https://www.reddit.com/r/hockey/comments/1wbyo57/flames_goalie_devin_cooley_on_his_new_hobby/"
       }
     ],
-    "markdown": "---\nid: devin-cooley-linear-algebra-hobby\nrank: 1\ntitle: \"Devin Cooley studies the angles after work\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-10\"\nheat: 99\ntags:\n  - r/hockey\n  - Devin Cooley\n  - Calgary Flames\n  - linear algebra\npublic_ready: true\n---\n\n## Summary\n\nFlames goalie Devin Cooley revealed that his new off-ice hobby is linear\nalgebra.\n\n## Why It Is Funny\n\nA position already built around angles and trajectories has finally assigned\nitself homework.\n\n## Comment Highlights\n\n- Label: Puck vectors\n  Summary: The thread immediately translated goaltending into a problem about turning puck vectors into zeroes.\n  Why funny: The math joke doubles as a surprisingly accurate job description.\n  Source URL: https://www.reddit.com/r/hockey/comments/1wbyo57/flames_goalie_devin_cooley_on_his_new_hobby/\n\n## Quote\n\nThe crease now comes with eigenvalues.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1wbyo57/flames_goalie_devin_cooley_on_his_new_hobby/\n- Source type: Current Reddit top-day image post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/hockey post and visible public discussion on 2026-09-10. The rewrite uses only the public hobby detail and paraphrases the thread's math jokes.\n\n## Sports Radar Markdown\n\n```md\n**Devin Cooley studies the angles after work**\n\nFlames goalie Devin Cooley revealed that his new off-ice hobby is linear algebra.\n\nWhy it works: A position already built around angles and trajectories has finally assigned itself homework.\n```\n"
+    "markdown": "---\nid: devin-cooley-linear-algebra-hobby\nrank: 1\ntitle: \"Devin Cooley studies the angles after work\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-10\"\nheat: 99\ntags:\n  - r/hockey\n  - Devin Cooley\n  - Calgary Flames\n  - linear algebra\npublic_ready: true\n---\n\n## Summary\n\nFlames goalie Devin Cooley revealed that his new off-ice hobby is linear\nalgebra.\n\n## Why It Is Funny\n\nA position already built around angles and trajectories has finally assigned\nitself homework.\n\n## Comment Highlights\n\n- Label: Puck vectors\n  Summary: The thread immediately translated goaltending into a problem about turning puck vectors into zeroes.\n  Why funny: The math joke doubles as a surprisingly accurate job description.\n  Source URL: https://www.reddit.com/r/hockey/comments/1wbyo57/flames_goalie_devin_cooley_on_his_new_hobby/\n\n## Quote\n\nThe crease now comes with eigenvalues.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1wbyo57/flames_goalie_devin_cooley_on_his_new_hobby/\n- Source type: Current Reddit top-day image post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/hockey post and visible public discussion on 2026-09-10. The rewrite uses only the public hobby detail and paraphrases the thread's math jokes.\n\n## Sports Radar Markdown\n\n```md\n**Devin Cooley studies the angles after work**\n\nFlames goalie Devin Cooley revealed that his new off-ice hobby is linear algebra.\n\nWhy it works: A position already built around angles and trajectories has finally assigned itself homework.\n```\n"
   },
   {
     "id": "erik-lamela-monterrey-kitman-loophole",
@@ -1871,6 +1871,36 @@
     "markdown": "---\nid: mariners-jimothy-batting-practice\nrank: 1\ntitle: \"The Mariners hand batting practice to Jimothy\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-25\"\nheat: 98\ntags:\n  - r/baseball\n  - Seattle Mariners\n  - Jimothy\n  - raccoon\npublic_ready: true\n---\n\n## Summary\n\nMariners players wore batting-practice shirts featuring Jimothy, a Seattle-area\nraccoon whose unusual gait made him a local internet favorite.\n\n## Why It Is Funny\n\nSeattle did not merely adopt a raccoon. It put him on clubhouse apparel and\nopened a serious roster discussion about his strike zone, position, and\nmanagerial upside.\n\n## Comment Highlights\n\n- Label: Raccoon roster meeting\n  Summary: Fans debated whether Jimothy should hit, manage, or become baseball's newest two-way player.\n  Why funny: A local wildlife sighting received a complete player-development plan.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v5vni9/the_mariners_are_wearing_batting_practice_shirts/\n- Label: Tight-zone scouting\n  Summary: The thread decided Jimothy's compact frame could turn him into an elite walk machine.\n  Why funny: Baseball analytics found a way to evaluate a raccoon within minutes.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v5vni9/the_mariners_are_wearing_batting_practice_shirts/\n\n## Quote\n\nThe newest clubhouse leader has a very small strike zone.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v5vni9/the_mariners_are_wearing_batting_practice_shirts/\n- Source type: Reddit image post\n- Verification notes: The public Reddit post, image, and discussion were reviewed on 2026-07-25.\n\n## Sports Radar Markdown\n\n```md\n**The Mariners hand batting practice to Jimothy**\n\nSeattle put its favorite neighborhood raccoon on the team's batting-practice shirts.\n\nWhy it works: One piece of clubhouse apparel launched a complete raccoon scouting report.\n```\n"
   },
   {
+    "id": "nfl-afl-referee-signal-swap",
+    "rank": 1,
+    "title": "The NFL and AFL trade scoring signals",
+    "league": "Football",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-11",
+    "heat": 99,
+    "tags": [
+      "r/sports",
+      "NFL",
+      "AFL",
+      "referee signals"
+    ],
+    "public_ready": true,
+    "summary": "After NFL officials used an Australian football scoring signal in Melbourne,\nan AFL umpire returned the gesture with the NFL version later that day.",
+    "whyFunny": "Two football codes completed an international handshake using only the hand\nsignals that confuse everyone watching the other sport.",
+    "quote": "The officials exchanged rulebook dialects.",
+    "sourceUrl": "https://www.reddit.com/r/sports/comments/1wdcvkd/after_the_nfl_referee_used_the_australian_rules/",
+    "commentHighlights": [
+      {
+        "label": "Cross-code translation",
+        "summary": "The thread became a friendly explainer for fans learning why the two gestures mattered.",
+        "whyFunny": "The salute worked immediately for the people who knew both rulebooks and needed subtitles for everyone else.",
+        "sourceUrl": "https://www.reddit.com/r/sports/comments/1wdcvkd/after_the_nfl_referee_used_the_australian_rules/"
+      }
+    ],
+    "markdown": "---\nid: nfl-afl-referee-signal-swap\nrank: 1\ntitle: \"The NFL and AFL trade scoring signals\"\nleague: \"Football\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-11\"\nheat: 99\ntags:\n  - r/sports\n  - NFL\n  - AFL\n  - referee signals\npublic_ready: true\n---\n\n## Summary\n\nAfter NFL officials used an Australian football scoring signal in Melbourne,\nan AFL umpire returned the gesture with the NFL version later that day.\n\n## Why It Is Funny\n\nTwo football codes completed an international handshake using only the hand\nsignals that confuse everyone watching the other sport.\n\n## Comment Highlights\n\n- Label: Cross-code translation\n  Summary: The thread became a friendly explainer for fans learning why the two gestures mattered.\n  Why funny: The salute worked immediately for the people who knew both rulebooks and needed subtitles for everyone else.\n  Source URL: https://www.reddit.com/r/sports/comments/1wdcvkd/after_the_nfl_referee_used_the_australian_rules/\n\n## Quote\n\nThe officials exchanged rulebook dialects.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1wdcvkd/after_the_nfl_referee_used_the_australian_rules/\n- Source type: Current Reddit top-day video post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/sports post and visible public explanations on 2026-09-11. The rewrite describes the reciprocal gestures without adding game claims beyond the source context.\n\n## Sports Radar Markdown\n\n```md\n**The NFL and AFL trade scoring signals**\n\nNFL officials borrowed an Australian football signal in Melbourne, and an AFL umpire returned the gesture later that day.\n\nWhy it works: Two football codes completed an international handshake using the signals that confuse everyone watching the other sport.\n```\n"
+  },
+  {
     "id": "white-sox-sign-of-peace",
     "rank": 1,
     "title": "The White Sox turn the fifth inning into Mass",
@@ -2365,6 +2395,36 @@
     "markdown": "---\nid: chris-paul-tgi-fridays-one-check\nrank: 2\ntitle: \"Chris Paul turns one TGI Fridays check into the milestone\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-21\"\nheat: 96\ntags:\n  - r/nba\n  - Chris Paul\n  - TGI Fridays\n  - first NBA money\npublic_ready: true\n---\n\n## Summary\n\nChris Paul remembered celebrating his first NBA money with a mall trip and a\nTGI Fridays meal where his group finally put everything on one check.\n\n## Why It Is Funny\n\nThe story includes a luxury car, but the detail everyone can feel is retiring\nthe separate-check negotiation. Financial freedom arrived with loaded potato\nskins and one receipt.\n\n## Comment Highlights\n\n- Label: Relatable upgrade\n  Summary: Fans liked that the memorable flex was paying for dinner without turning the table into an accounting exercise.\n  Why funny: A future Hall of Famer marks the life change with the most ordinary restaurant ritual imaginable.\n  Source URL: https://www.reddit.com/r/nba/comments/1v263yu/chris_paul_reveals_how_he_spent_his_first_nba/\n- Label: Fridays prestige\n  Summary: The thread treated choosing TGI Fridays for the celebration as proof the story came from a very specific era.\n  Why funny: The restaurant becomes both the luxury venue and the timestamp.\n  Source URL: https://www.reddit.com/r/nba/comments/1v263yu/chris_paul_reveals_how_he_spent_his_first_nba/\n\n## Quote\n\nThe separate checks era was over.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1v263yu/chris_paul_reveals_how_he_spent_his_first_nba/\n- Source type: Reddit / r/nba top-day player story\n- Verification notes: the public post includes Paul's first-money story and the one-check TGI Fridays detail; the copy compresses it without repeating the long quoted account\n\n## Sports Radar Markdown\n\n```md\n**Chris Paul turns one TGI Fridays check into the milestone**\n\nChris Paul's first-NBA-money story peaks when his group finally stops splitting the restaurant bill.\n\nWhy it works: financial freedom arrives with one receipt and loaded potato skins.\n```\n"
   },
   {
+    "id": "craig-stammen-accidental-mound-visit",
+    "rank": 2,
+    "title": "Craig Stammen changes pitchers by accident",
+    "league": "MLB",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-11",
+    "heat": 98,
+    "tags": [
+      "r/baseball",
+      "Craig Stammen",
+      "Walker Buehler",
+      "mound visits"
+    ],
+    "public_ready": true,
+    "summary": "Padres manager Craig Stammen walked to the mound without realizing an earlier\nvisit meant Walker Buehler now had to leave the game.",
+    "whyFunny": "One supportive stroll became a pitching change because the rulebook had\nalready started counting.",
+    "quote": "The bullpen move arrived one mound visit early.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1wcpmgk/highlight_padres_manager_craig_stammen/",
+    "commentHighlights": [
+      {
+        "label": "Accidental strategy",
+        "summary": "Fans jokingly recast the mistake as an elaborate way to support the pitcher while still making a change.",
+        "whyFunny": "The result looked clever only after everyone agreed not to inspect the plan.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1wcpmgk/highlight_padres_manager_craig_stammen/"
+      }
+    ],
+    "markdown": "---\nid: craig-stammen-accidental-mound-visit\nrank: 2\ntitle: \"Craig Stammen changes pitchers by accident\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-11\"\nheat: 98\ntags:\n  - r/baseball\n  - Craig Stammen\n  - Walker Buehler\n  - mound visits\npublic_ready: true\n---\n\n## Summary\n\nPadres manager Craig Stammen walked to the mound without realizing an earlier\nvisit meant Walker Buehler now had to leave the game.\n\n## Why It Is Funny\n\nOne supportive stroll became a pitching change because the rulebook had\nalready started counting.\n\n## Comment Highlights\n\n- Label: Accidental strategy\n  Summary: Fans jokingly recast the mistake as an elaborate way to support the pitcher while still making a change.\n  Why funny: The result looked clever only after everyone agreed not to inspect the plan.\n  Source URL: https://www.reddit.com/r/baseball/comments/1wcpmgk/highlight_padres_manager_craig_stammen/\n\n## Quote\n\nThe bullpen move arrived one mound visit early.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1wcpmgk/highlight_padres_manager_craig_stammen/\n- Source type: Current Reddit top-day highlight post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post and visible public replies on 2026-09-11. The rewrite sticks to the posted mound-visit sequence and treats the strategy angle as fan humor.\n\n## Sports Radar Markdown\n\n```md\n**Craig Stammen changes pitchers by accident**\n\nPadres manager Craig Stammen walked to the mound without realizing an earlier visit meant Walker Buehler now had to leave.\n\nWhy it works: One supportive stroll became a pitching change because the rulebook had already started counting.\n```\n"
+  },
+  {
     "id": "de-la-fuente-best-team-counter",
     "rank": 2,
     "title": "De la Fuente compliments France, then raises the bid",
@@ -2584,7 +2644,7 @@
     "title": "Jim Harbaugh declares one acceptable cause",
     "league": "NFL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-10",
     "heat": 98,
     "tags": [
@@ -2606,7 +2666,7 @@
         "sourceUrl": "https://www.reddit.com/r/nfl/comments/1wbwg2e/kris_rhim_jim_harbaugh_its_september_its_time_to/"
       }
     ],
-    "markdown": "---\nid: jim-harbaugh-chargers-only-cause\nrank: 2\ntitle: \"Jim Harbaugh declares one acceptable cause\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-10\"\nheat: 98\ntags:\n  - r/nfl\n  - Jim Harbaugh\n  - Los Angeles Chargers\n  - coach quotes\npublic_ready: true\n---\n\n## Summary\n\nJim Harbaugh said September leaves room for one cause only: the greatness of\nthe Los Angeles Chargers.\n\n## Why It Is Funny\n\nA football press conference briefly borrowed the language of foreign policy,\nthen redirected the entire doctrine toward Week 1.\n\n## Comment Highlights\n\n- Label: Quote season\n  Summary: Fans treated the declaration as an immediate contender for the year's most Harbaugh sentence.\n  Why funny: It sounds both wildly oversized and completely natural coming from him.\n  Source URL: https://www.reddit.com/r/nfl/comments/1wbwg2e/kris_rhim_jim_harbaugh_its_september_its_time_to/\n\n## Quote\n\nOne cause: Chargers greatness.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1wbwg2e/kris_rhim_jim_harbaugh_its_september_its_time_to/\n- Source type: Current Reddit top-day quote post linking a public reporter post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nfl post, its linked attribution, and visible public replies on 2026-09-10. The summary compresses the quote rather than reproducing it in full.\n\n## Sports Radar Markdown\n\n```md\n**Jim Harbaugh declares one acceptable cause**\n\nJim Harbaugh said September leaves room for one cause only: the greatness of the Los Angeles Chargers.\n\nWhy it works: A football press conference borrowed the language of foreign policy, then redirected the doctrine toward Week 1.\n```\n"
+    "markdown": "---\nid: jim-harbaugh-chargers-only-cause\nrank: 2\ntitle: \"Jim Harbaugh declares one acceptable cause\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-10\"\nheat: 98\ntags:\n  - r/nfl\n  - Jim Harbaugh\n  - Los Angeles Chargers\n  - coach quotes\npublic_ready: true\n---\n\n## Summary\n\nJim Harbaugh said September leaves room for one cause only: the greatness of\nthe Los Angeles Chargers.\n\n## Why It Is Funny\n\nA football press conference briefly borrowed the language of foreign policy,\nthen redirected the entire doctrine toward Week 1.\n\n## Comment Highlights\n\n- Label: Quote season\n  Summary: Fans treated the declaration as an immediate contender for the year's most Harbaugh sentence.\n  Why funny: It sounds both wildly oversized and completely natural coming from him.\n  Source URL: https://www.reddit.com/r/nfl/comments/1wbwg2e/kris_rhim_jim_harbaugh_its_september_its_time_to/\n\n## Quote\n\nOne cause: Chargers greatness.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1wbwg2e/kris_rhim_jim_harbaugh_its_september_its_time_to/\n- Source type: Current Reddit top-day quote post linking a public reporter post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nfl post, its linked attribution, and visible public replies on 2026-09-10. The summary compresses the quote rather than reproducing it in full.\n\n## Sports Radar Markdown\n\n```md\n**Jim Harbaugh declares one acceptable cause**\n\nJim Harbaugh said September leaves room for one cause only: the greatness of the Los Angeles Chargers.\n\nWhy it works: A football press conference borrowed the language of foreign policy, then redirected the doctrine toward Week 1.\n```\n"
   },
   {
     "id": "butler-friendship-reset",
@@ -5773,6 +5833,36 @@
     "markdown": "---\nid: texas-am-obnoxious-survey\nrank: 3\ntitle: \"Texas A&M wins the obnoxiousness title\"\nleague: \"College Football\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-03\"\nheat: 97\ntags:\n  - r/CFB\n  - Texas A&M\n  - Texas\n  - fan survey\npublic_ready: true\n---\n\n## Summary\n\nA survey shared to r/CFB put Texas A&M narrowly ahead of the University of\nTexas for the state's most obnoxious college fanbase.\n\n## Why It Is Funny\n\nCollege rivalry produced a trophy that the winner can celebrate only by\nproving the survey right.\n\n## Comment Highlights\n\n- Label: Third-place investigation\n  Summary: Much of the thread ignored the winner and tried to explain how Houston reached third place.\n  Why funny: Even the obnoxiousness rankings generated their own instant replay review.\n  Source URL: https://www.reddit.com/r/CFB/comments/1w5e72z/texas_am_fans_narrowly_top_ut_austin_fans_as/\n\n## Quote\n\nHang the banner carefully.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CFB/comments/1w5e72z/texas_am_fans_narrowly_top_ut_austin_fans_as/\n- Source type: Reddit top-day discussion linking a public local-news survey\n- Verification notes: Sports Radar reviewed the current Reddit page and visible fan context on 2026-09-03. The ranking remains attributed to the survey shared by the source post.\n\n## Sports Radar Markdown\n\n```md\n**Texas A&M wins the obnoxiousness title**\n\nA survey put Texas A&M narrowly ahead of Texas for the state's most obnoxious college fanbase.\n\nWhy it works: The winner can celebrate only by immediately proving the survey right.\n```\n"
   },
   {
+    "id": "logan-gilbert-backstop-assist",
+    "rank": 3,
+    "title": "The backstop turns a wild pitch into an assist",
+    "league": "MLB",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-11",
+    "heat": 97,
+    "tags": [
+      "r/baseball",
+      "Logan Gilbert",
+      "Cal Raleigh",
+      "wild pitch"
+    ],
+    "public_ready": true,
+    "summary": "Logan Gilbert's wild pitch bounced straight back to catcher Cal Raleigh, who\ntagged the runner at home to end the inning.",
+    "whyFunny": "The mistake took one perfect rebound and returned as defense before anyone\ncould finish reacting to the mistake.",
+    "quote": "The backstop earned the assist.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1wcws3t/lucklight_logan_gilberts_wild_pitch_bounces_off/",
+    "commentHighlights": [
+      {
+        "label": "New trick play",
+        "summary": "The thread treated the impossible rebound like a designed pitcher-catcher play.",
+        "whyFunny": "Baseball briefly rewarded the wild pitch for excellent geometry.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1wcws3t/lucklight_logan_gilberts_wild_pitch_bounces_off/"
+      }
+    ],
+    "markdown": "---\nid: logan-gilbert-backstop-assist\nrank: 3\ntitle: \"The backstop turns a wild pitch into an assist\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-11\"\nheat: 97\ntags:\n  - r/baseball\n  - Logan Gilbert\n  - Cal Raleigh\n  - wild pitch\npublic_ready: true\n---\n\n## Summary\n\nLogan Gilbert's wild pitch bounced straight back to catcher Cal Raleigh, who\ntagged the runner at home to end the inning.\n\n## Why It Is Funny\n\nThe mistake took one perfect rebound and returned as defense before anyone\ncould finish reacting to the mistake.\n\n## Comment Highlights\n\n- Label: New trick play\n  Summary: The thread treated the impossible rebound like a designed pitcher-catcher play.\n  Why funny: Baseball briefly rewarded the wild pitch for excellent geometry.\n  Source URL: https://www.reddit.com/r/baseball/comments/1wcws3t/lucklight_logan_gilberts_wild_pitch_bounces_off/\n\n## Quote\n\nThe backstop earned the assist.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1wcws3t/lucklight_logan_gilberts_wild_pitch_bounces_off/\n- Source type: Current Reddit top-day highlight post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post and visible public replies on 2026-09-11. The rewrite describes the posted play and paraphrases the trick-play framing.\n\n## Sports Radar Markdown\n\n```md\n**The backstop turns a wild pitch into an assist**\n\nLogan Gilbert's wild pitch bounced straight back to Cal Raleigh, who tagged the runner at home to end the inning.\n\nWhy it works: The mistake took one perfect rebound and returned as defense before anyone could finish reacting.\n```\n"
+  },
+  {
     "id": "bills-stadium-broken-table",
     "rank": 3,
     "title": "The Bills put a broken table in the stadium",
@@ -5814,7 +5904,7 @@
     "title": "The Kings bring back the crooked referee crease",
     "league": "NHL",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-10",
     "heat": 97,
     "tags": [
@@ -5836,7 +5926,7 @@
         "sourceUrl": "https://www.reddit.com/r/hockey/comments/1wbyya3/for_the_2nd_year_in_a_row_the_kings_home_ice_will/"
       }
     ],
-    "markdown": "---\nid: kings-off-center-referee-crease\nrank: 3\ntitle: \"The Kings bring back the crooked referee crease\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-10\"\nheat: 97\ntags:\n  - r/hockey\n  - Los Angeles Kings\n  - rink design\n  - referee crease\npublic_ready: true\n---\n\n## Summary\n\nFor the second straight year, the referee crease on the Kings' home ice sits\nvisibly off center.\n\n## Why It Is Funny\n\nAn otherwise orderly NHL rink now contains one tiny alignment error that fans\ncannot unsee.\n\n## Comment Highlights\n\n- Label: Permanent visual itch\n  Summary: The thread reacted less like hockey analysts and more like people discovering a crooked picture frame.\n  Why funny: The flaw changes nothing about the game and everything about looking at the rink.\n  Source URL: https://www.reddit.com/r/hockey/comments/1wbyya3/for_the_2nd_year_in_a_row_the_kings_home_ice_will/\n\n## Quote\n\nCenter ice, except for the part that is not.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1wbyya3/for_the_2nd_year_in_a_row_the_kings_home_ice_will/\n- Source type: Current Reddit top-day image post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/hockey post, the visible rink image context, and public replies on 2026-09-10. The rewrite describes the alignment oddity without speculating about responsibility.\n\n## Sports Radar Markdown\n\n```md\n**The Kings bring back the crooked referee crease**\n\nFor the second straight year, the referee crease on the Kings' home ice sits visibly off center.\n\nWhy it works: One tiny alignment error now owns every look at the rink.\n```\n"
+    "markdown": "---\nid: kings-off-center-referee-crease\nrank: 3\ntitle: \"The Kings bring back the crooked referee crease\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-10\"\nheat: 97\ntags:\n  - r/hockey\n  - Los Angeles Kings\n  - rink design\n  - referee crease\npublic_ready: true\n---\n\n## Summary\n\nFor the second straight year, the referee crease on the Kings' home ice sits\nvisibly off center.\n\n## Why It Is Funny\n\nAn otherwise orderly NHL rink now contains one tiny alignment error that fans\ncannot unsee.\n\n## Comment Highlights\n\n- Label: Permanent visual itch\n  Summary: The thread reacted less like hockey analysts and more like people discovering a crooked picture frame.\n  Why funny: The flaw changes nothing about the game and everything about looking at the rink.\n  Source URL: https://www.reddit.com/r/hockey/comments/1wbyya3/for_the_2nd_year_in_a_row_the_kings_home_ice_will/\n\n## Quote\n\nCenter ice, except for the part that is not.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1wbyya3/for_the_2nd_year_in_a_row_the_kings_home_ice_will/\n- Source type: Current Reddit top-day image post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/hockey post, the visible rink image context, and public replies on 2026-09-10. The rewrite describes the alignment oddity without speculating about responsibility.\n\n## Sports Radar Markdown\n\n```md\n**The Kings bring back the crooked referee crease**\n\nFor the second straight year, the referee crease on the Kings' home ice sits visibly off center.\n\nWhy it works: One tiny alignment error now owns every look at the rink.\n```\n"
   },
   {
     "id": "ncaa-lawyers-google-after-ruling",
@@ -7130,7 +7220,7 @@
     "title": "Pat Bev puts NBA stars through the Europe test",
     "league": "Basketball",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-10",
     "heat": 96,
     "tags": [
@@ -7152,7 +7242,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1wc7csr/pat_bev_says_there_are_nba_superstars_who_couldnt/"
       }
     ],
-    "markdown": "---\nid: pat-bev-europe-structure-test\nrank: 4\ntitle: \"Pat Bev puts NBA stars through the Europe test\"\nleague: \"Basketball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-10\"\nheat: 96\ntags:\n  - r/nba\n  - Patrick Beverley\n  - EuroLeague\n  - basketball culture\npublic_ready: true\n---\n\n## Summary\n\nPatrick Beverley argued that some NBA superstars would struggle to adapt to\nEuropean basketball's coach-first, team-first structure.\n\n## Why It Is Funny\n\nThe thread immediately became a debate over whether the problem would be\nbasketball talent or surrendering superstar freedom.\n\n## Comment Highlights\n\n- Label: Two different tests\n  Summary: Fans split between reading the claim as a talent comparison and reading it as a warning about culture and control.\n  Why funny: Everyone argued over the answer before agreeing on which exam the stars were taking.\n  Source URL: https://www.reddit.com/r/nba/comments/1wc7csr/pat_bev_says_there_are_nba_superstars_who_couldnt/\n\n## Quote\n\nThe talent travels. The hierarchy might not.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1wc7csr/pat_bev_says_there_are_nba_superstars_who_couldnt/\n- Source type: Current Reddit top-day interview post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post and visible public discussion on 2026-09-10. The rewrite attributes the claim to Beverley and preserves the distinction between ability and adaptation.\n\n## Sports Radar Markdown\n\n```md\n**Pat Bev puts NBA stars through the Europe test**\n\nPatrick Beverley argued that some NBA superstars would struggle to adapt to European basketball's coach-first, team-first structure.\n\nWhy it works: The thread had to decide whether the test was talent or surrendering superstar freedom.\n```\n"
+    "markdown": "---\nid: pat-bev-europe-structure-test\nrank: 4\ntitle: \"Pat Bev puts NBA stars through the Europe test\"\nleague: \"Basketball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-10\"\nheat: 96\ntags:\n  - r/nba\n  - Patrick Beverley\n  - EuroLeague\n  - basketball culture\npublic_ready: true\n---\n\n## Summary\n\nPatrick Beverley argued that some NBA superstars would struggle to adapt to\nEuropean basketball's coach-first, team-first structure.\n\n## Why It Is Funny\n\nThe thread immediately became a debate over whether the problem would be\nbasketball talent or surrendering superstar freedom.\n\n## Comment Highlights\n\n- Label: Two different tests\n  Summary: Fans split between reading the claim as a talent comparison and reading it as a warning about culture and control.\n  Why funny: Everyone argued over the answer before agreeing on which exam the stars were taking.\n  Source URL: https://www.reddit.com/r/nba/comments/1wc7csr/pat_bev_says_there_are_nba_superstars_who_couldnt/\n\n## Quote\n\nThe talent travels. The hierarchy might not.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1wc7csr/pat_bev_says_there_are_nba_superstars_who_couldnt/\n- Source type: Current Reddit top-day interview post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post and visible public discussion on 2026-09-10. The rewrite attributes the claim to Beverley and preserves the distinction between ability and adaptation.\n\n## Sports Radar Markdown\n\n```md\n**Pat Bev puts NBA stars through the Europe test**\n\nPatrick Beverley argued that some NBA superstars would struggle to adapt to European basketball's coach-first, team-first structure.\n\nWhy it works: The thread had to decide whether the test was talent or surrendering superstar freedom.\n```\n"
   },
   {
     "id": "patrick-beverley-playin-replay",
@@ -7295,6 +7385,36 @@
       }
     ],
     "markdown": "---\nid: zeferjahn-gameday-missing-pitch\nrank: 4\ntitle: \"Ryan Zeferjahn throws a pitch off the Gameday map\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-25\"\nheat: 92\ntags:\n  - r/baseball\n  - Ryan Zeferjahn\n  - MLB Gameday\n  - wild pitch\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball clip showed a Ryan Zeferjahn pitch traveling so far outside that\nMLB Gameday did not place it on the pitch chart.\n\n## Why It Is Funny\n\nMost misses still become data. This one appeared to leave the coordinate\nsystem, turning the broadcast graphic into a technical support ticket.\n\n## Comment Highlights\n\n- Label: Challenge request\n  Summary: Fans wanted the catcher to challenge the call solely to force the system to measure the pitch.\n  Why funny: Replay review was repurposed as scientific research into missing coordinates.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v5zvjj/ryan_zeferjahns_pitch_that_did_not_register_on/\n- Label: Scorecard geometry\n  Summary: The thread imagined how far a scorecard would need to stretch to record the miss.\n  Why funny: One pitch required baseball notation to consider a wider canvas.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v5zvjj/ryan_zeferjahns_pitch_that_did_not_register_on/\n\n## Quote\n\nThe pitch chart has declined jurisdiction.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v5zvjj/ryan_zeferjahns_pitch_that_did_not_register_on/\n- Source type: Reddit video post\n- Verification notes: The public Reddit post and discussion were reviewed on 2026-07-25.\n\n## Sports Radar Markdown\n\n```md\n**Ryan Zeferjahn throws a pitch off the Gameday map**\n\nOne miss traveled so far outside that MLB Gameday left it off the pitch chart.\n\nWhy it works: The broadcast graphic became a technical support ticket.\n```\n"
+  },
+  {
+    "id": "teo-davidov-two-forehands",
+    "rank": 4,
+    "title": "Teo Davidov deletes the backhand",
+    "league": "Tennis",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-11",
+    "heat": 96,
+    "tags": [
+      "r/sports",
+      "Teo Davidov",
+      "US Open",
+      "ambidextrous tennis"
+    ],
+    "public_ready": true,
+    "summary": "Junior player Teo Davidov switches hands during rallies so he can hit a\nforehand from either side and serve with either arm.",
+    "whyFunny": "Instead of improving his weaker wing, he appears to have removed the entire\nconcept from the controls menu.",
+    "quote": "The backhand has left the control scheme.",
+    "sourceUrl": "https://www.reddit.com/r/sports/comments/1wcq7vs/two_forehands_no_backhands_meet_the_us_opens/",
+    "commentHighlights": [
+      {
+        "label": "Dual-wield request",
+        "summary": "Fans quickly decided the only remaining upgrade was permission to use two rackets.",
+        "whyFunny": "A real tactical experiment immediately received video-game equipment logic.",
+        "sourceUrl": "https://www.reddit.com/r/sports/comments/1wcq7vs/two_forehands_no_backhands_meet_the_us_opens/"
+      }
+    ],
+    "markdown": "---\nid: teo-davidov-two-forehands\nrank: 4\ntitle: \"Teo Davidov deletes the backhand\"\nleague: \"Tennis\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-11\"\nheat: 96\ntags:\n  - r/sports\n  - Teo Davidov\n  - US Open\n  - ambidextrous tennis\npublic_ready: true\n---\n\n## Summary\n\nJunior player Teo Davidov switches hands during rallies so he can hit a\nforehand from either side and serve with either arm.\n\n## Why It Is Funny\n\nInstead of improving his weaker wing, he appears to have removed the entire\nconcept from the controls menu.\n\n## Comment Highlights\n\n- Label: Dual-wield request\n  Summary: Fans quickly decided the only remaining upgrade was permission to use two rackets.\n  Why funny: A real tactical experiment immediately received video-game equipment logic.\n  Source URL: https://www.reddit.com/r/sports/comments/1wcq7vs/two_forehands_no_backhands_meet_the_us_opens/\n\n## Quote\n\nThe backhand has left the control scheme.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1wcq7vs/two_forehands_no_backhands_meet_the_us_opens/\n- Source type: Current Reddit top-day article post, linked public reporting, and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/sports post, its linked Guardian article, and visible public replies on 2026-09-11. The rewrite uses only the documented two-forehand and two-sided serving details.\n\n## Sports Radar Markdown\n\n```md\n**Teo Davidov deletes the backhand**\n\nJunior player Teo Davidov switches hands during rallies so he can hit a forehand from either side and serve with either arm.\n\nWhy it works: Instead of improving his weaker wing, he removed the entire concept from the controls menu.\n```\n"
   },
   {
     "id": "mcdonalds-1977-all-americans-photo",
@@ -8185,7 +8305,7 @@
     "title": "Bradley Beal puts Chris Paul's No. 3 back to work",
     "league": "NBA",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-10",
     "heat": 95,
     "tags": [
@@ -8207,7 +8327,7 @@
         "sourceUrl": "https://www.reddit.com/r/nba/comments/1wcifu5/catalan_bradley_beal_realdealbeal23_is_switching/"
       }
     ],
-    "markdown": "---\nid: bradley-beal-chris-paul-number-three\nrank: 5\ntitle: \"Bradley Beal puts Chris Paul's No. 3 back to work\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-10\"\nheat: 95\ntags:\n  - r/nba\n  - Bradley Beal\n  - Chris Paul\n  - Los Angeles Clippers\npublic_ready: true\n---\n\n## Summary\n\nBradley Beal is switching from No. 0 to No. 3 for the Clippers, the number\nChris Paul last wore for the team in 2025.\n\n## Why It Is Funny\n\nOne routine jersey update arrived carrying an entire franchise-history debate\nin its equipment bag.\n\n## Comment Highlights\n\n- Label: Number grievance\n  Summary: Fans treated the handoff as another argument about how the Clippers remember the Chris Paul era.\n  Why funny: The transaction is only a digit, but the thread supplied years of emotional paperwork.\n  Source URL: https://www.reddit.com/r/nba/comments/1wcifu5/catalan_bradley_beal_realdealbeal23_is_switching/\n\n## Quote\n\nThe number change came with a full grievance file.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1wcifu5/catalan_bradley_beal_realdealbeal23_is_switching/\n- Source type: Current Reddit top-day jersey-number post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post and visible public replies on 2026-09-10. The rewrite reports the posted number change and frames the fan reaction as discussion, not team policy.\n\n## Sports Radar Markdown\n\n```md\n**Bradley Beal puts Chris Paul's No. 3 back to work**\n\nBradley Beal is switching from No. 0 to No. 3 for the Clippers, the number Chris Paul last wore for the team in 2025.\n\nWhy it works: A routine jersey update arrived carrying an entire franchise-history debate.\n```\n"
+    "markdown": "---\nid: bradley-beal-chris-paul-number-three\nrank: 5\ntitle: \"Bradley Beal puts Chris Paul's No. 3 back to work\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-10\"\nheat: 95\ntags:\n  - r/nba\n  - Bradley Beal\n  - Chris Paul\n  - Los Angeles Clippers\npublic_ready: true\n---\n\n## Summary\n\nBradley Beal is switching from No. 0 to No. 3 for the Clippers, the number\nChris Paul last wore for the team in 2025.\n\n## Why It Is Funny\n\nOne routine jersey update arrived carrying an entire franchise-history debate\nin its equipment bag.\n\n## Comment Highlights\n\n- Label: Number grievance\n  Summary: Fans treated the handoff as another argument about how the Clippers remember the Chris Paul era.\n  Why funny: The transaction is only a digit, but the thread supplied years of emotional paperwork.\n  Source URL: https://www.reddit.com/r/nba/comments/1wcifu5/catalan_bradley_beal_realdealbeal23_is_switching/\n\n## Quote\n\nThe number change came with a full grievance file.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1wcifu5/catalan_bradley_beal_realdealbeal23_is_switching/\n- Source type: Current Reddit top-day jersey-number post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post and visible public replies on 2026-09-10. The rewrite reports the posted number change and frames the fan reaction as discussion, not team policy.\n\n## Sports Radar Markdown\n\n```md\n**Bradley Beal puts Chris Paul's No. 3 back to work**\n\nBradley Beal is switching from No. 0 to No. 3 for the Clippers, the number Chris Paul last wore for the team in 2025.\n\nWhy it works: A routine jersey update arrived carrying an entire franchise-history debate.\n```\n"
   },
   {
     "id": "dusty-nickel-flames-ebug",
@@ -9567,6 +9687,36 @@
       }
     ],
     "markdown": "---\nid: skylar-wicks-five-school-map\nrank: 5\ntitle: \"The eligibility map needs five schools and six seasons\"\nleague: \"College Basketball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-11\"\nheat: 90\ntags:\n  - r/CollegeBasketball\n  - Skylar Wicks\n  - eligibility\n  - roster lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/CollegeBasketball post reported that Skylar Wicks's waiver had been\napproved, then laid out a five-school path across six seasons beginning in\n2020-21.\n\n## Why It Is Funny\n\nThe roster bio reads like conference realignment compressed into one player.\nExplaining the eligibility requires both a timeline and a campus map.\n\n## Comment Highlights\n\n- Label: Roster archaeology\n  Summary: The post paired the reported waiver with a season-by-season list of five schools.\n  Why funny: A single roster update arrives with the structure of a documentary series.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vl6kf3/skylar_wicks_waiver_has_reportedly_been_approved/\n\n## Quote\n\nThe eligibility explainer needs a map legend.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vl6kf3/skylar_wicks_waiver_has_reportedly_been_approved/\n- Source type: Reddit top-day college-basketball roster post\n- Verification notes: Sports Radar reviewed the public RSS title, link, and short preview on 2026-08-11. The waiver approval remains attributed to the Reddit post, and the school/season count is derived from its listed timeline.\n\n## Sports Radar Markdown\n\n```md\n**The eligibility map needs five schools and six seasons**\n\nAn r/CollegeBasketball post paired a reported waiver approval with a five-school timeline.\n\nWhy it works: One roster update has the structure of a documentary series.\n```\n"
+  },
+  {
+    "id": "kiss-cam-completionist",
+    "rank": 5,
+    "title": "The kiss cam refuses to clock out",
+    "league": "Baseball",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-11",
+    "heat": 95,
+    "tags": [
+      "r/baseball",
+      "The Onion",
+      "kiss cam",
+      "sports satire"
+    ],
+    "public_ready": true,
+    "summary": "The Onion imagined a kiss-cam operator refusing to stop until all 32,000 fans\nhad participated.",
+    "whyFunny": "A ten-second stadium diversion becomes a completionist challenge with no exit\ncondition and a rapidly expanding line.",
+    "quote": "The segment ends when the spreadsheet says so.",
+    "sourceUrl": "https://www.reddit.com/r/baseball/comments/1wcza0i/kiss_cam_operator_not_going_to_stop_until_all/",
+    "commentHighlights": [
+      {
+        "label": "Stadium math",
+        "summary": "The thread immediately started calculating whether every fan needed one kiss or every possible pairing needed its turn.",
+        "whyFunny": "The satire acquired a combinatorics department before the operator could clock out.",
+        "sourceUrl": "https://www.reddit.com/r/baseball/comments/1wcza0i/kiss_cam_operator_not_going_to_stop_until_all/"
+      }
+    ],
+    "markdown": "---\nid: kiss-cam-completionist\nrank: 5\ntitle: \"The kiss cam refuses to clock out\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-11\"\nheat: 95\ntags:\n  - r/baseball\n  - The Onion\n  - kiss cam\n  - sports satire\npublic_ready: true\n---\n\n## Summary\n\nThe Onion imagined a kiss-cam operator refusing to stop until all 32,000 fans\nhad participated.\n\n## Why It Is Funny\n\nA ten-second stadium diversion becomes a completionist challenge with no exit\ncondition and a rapidly expanding line.\n\n## Comment Highlights\n\n- Label: Stadium math\n  Summary: The thread immediately started calculating whether every fan needed one kiss or every possible pairing needed its turn.\n  Why funny: The satire acquired a combinatorics department before the operator could clock out.\n  Source URL: https://www.reddit.com/r/baseball/comments/1wcza0i/kiss_cam_operator_not_going_to_stop_until_all/\n\n## Quote\n\nThe segment ends when the spreadsheet says so.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1wcza0i/kiss_cam_operator_not_going_to_stop_until_all/\n- Source type: Current Reddit top-day link to The Onion satire and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post and visible public discussion on 2026-09-11. The summary explicitly labels the premise as satire and paraphrases the thread's public math jokes.\n\n## Sports Radar Markdown\n\n```md\n**The kiss cam refuses to clock out**\n\nThe Onion imagined a kiss-cam operator refusing to stop until all 32,000 fans had participated.\n\nWhy it works: A ten-second stadium diversion becomes a completionist challenge with no exit condition.\n```\n"
   },
   {
     "id": "nhl-98-intro-memory",
