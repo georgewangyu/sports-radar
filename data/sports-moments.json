@@ -397,6 +397,36 @@
     "markdown": "---\nid: cookie-monster-skubal-split\nrank: 1\ntitle: \"Cookie Monster creates a new Tarik Skubal split\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-05\"\nheat: 98\ntags:\n  - r/baseball\n  - Chicago Cubs\n  - Tarik Skubal\n  - Cookie Monster\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball post introduced a very specific record: Tarik Skubal was 0-1\nwhen Cookie Monster sang the seventh-inning stretch at Wrigley Field.\n\n## Why It Is Funny\n\nBaseball already tracks everything, so the only logical next step was a\nCookie-Monster-adjusted pitching split. One appearance was enough to establish\nthe entire stat.\n\n## Comment Highlights\n\n- Label: Documentary treatment\n  Summary: One fan imagined the Cookie Monster moment narrated like a serious baseball documentary.\n  Why funny: A one-game mascot split received the tone of historic baseball evidence.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vfutw8/comment/p1s1tyl/\n- Label: Cookie road trip\n  Summary: Another fan proposed sending Cookie Monster to every future Skubal start.\n  Why funny: The smallest possible sample became a full opponent scouting strategy.\n  Source URL: https://www.reddit.com/r/baseball/comments/1vfutw8/comment/p1s1qkz/\n\n## Quote\n\nThe scouting report forgot to account for cookies.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1vfutw8/tarik_skubal_is_01_when_cookie_monster_sings_the/\n- Source type: Reddit top-day fan-framing post\n- Verification notes: Sports Radar reviewed the public r/baseball top-day page and post title on 2026-08-05. The 0-1 framing is presented as a one-game fan statistic, not a predictive claim.\n\n## Sports Radar Markdown\n\n```md\n**Cookie Monster creates a new Tarik Skubal split**\n\nAn r/baseball post gave Skubal a brand-new record: 0-1 when Cookie Monster sings at Wrigley.\n\nWhy it works: The scouting report forgot to account for cookies.\n```\n"
   },
   {
+    "id": "derik-queen-self-scout",
+    "rank": 1,
+    "title": "Derik Queen writes his own scouting report",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-12",
+    "heat": 99,
+    "tags": [
+      "r/nba",
+      "Derik Queen",
+      "player replies",
+      "self-aware trash talk"
+    ],
+    "public_ready": true,
+    "summary": "A vague social-media concern about Derik Queen drew a direct reply from Queen,\nwho supplied the obvious criticism himself and kept answering with self-aware\ntrash talk.",
+    "whyFunny": "The scouting report arrived from the player before the critic could finish\npretending the concern was mysterious.",
+    "quote": "Does it have to do with me being fat and slow?",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1we0rt7/social_media_user_writes_the_player_im_most/",
+    "commentHighlights": [
+      {
+        "label": "Player detected",
+        "summary": "The thread immediately acted as if every suspiciously relatable reply might also be Queen checking his mentions.",
+        "whyFunny": "One direct response turned an ordinary discussion into a room full of fake burner-account alarms.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1we0rt7/social_media_user_writes_the_player_im_most/"
+      }
+    ],
+    "markdown": "---\nid: derik-queen-self-scout\nrank: 1\ntitle: \"Derik Queen writes his own scouting report\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-12\"\nheat: 99\ntags:\n  - r/nba\n  - Derik Queen\n  - player replies\n  - self-aware trash talk\npublic_ready: true\n---\n\n## Summary\n\nA vague social-media concern about Derik Queen drew a direct reply from Queen,\nwho supplied the obvious criticism himself and kept answering with self-aware\ntrash talk.\n\n## Why It Is Funny\n\nThe scouting report arrived from the player before the critic could finish\npretending the concern was mysterious.\n\n## Comment Highlights\n\n- Label: Player detected\n  Summary: The thread immediately acted as if every suspiciously relatable reply might also be Queen checking his mentions.\n  Why funny: One direct response turned an ordinary discussion into a room full of fake burner-account alarms.\n  Source URL: https://www.reddit.com/r/nba/comments/1we0rt7/social_media_user_writes_the_player_im_most/\n\n## Quote\n\nDoes it have to do with me being fat and slow?\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1we0rt7/social_media_user_writes_the_player_im_most/\n- Source type: Current Reddit top-day post with a linked public social screenshot and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post and visible public discussion on 2026-09-12. The rewrite uses Queen's short self-description from the posted reply and paraphrases the thread's burner-account jokes.\n\n## Sports Radar Markdown\n\n```md\n**Derik Queen writes his own scouting report**\n\nA vague concern about Derik Queen drew a direct reply from Queen, who supplied the obvious criticism himself.\n\nWhy it works: The scouting report arrived from the player before the critic could finish pretending the concern was mysterious.\n```\n"
+  },
+  {
     "id": "desmond-bane-second-turnover",
     "rank": 1,
     "title": "Desmond Bane turns an explanation into a second turnover",
@@ -1876,7 +1906,7 @@
     "title": "The NFL and AFL trade scoring signals",
     "league": "Football",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-11",
     "heat": 99,
     "tags": [
@@ -1898,7 +1928,7 @@
         "sourceUrl": "https://www.reddit.com/r/sports/comments/1wdcvkd/after_the_nfl_referee_used_the_australian_rules/"
       }
     ],
-    "markdown": "---\nid: nfl-afl-referee-signal-swap\nrank: 1\ntitle: \"The NFL and AFL trade scoring signals\"\nleague: \"Football\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-11\"\nheat: 99\ntags:\n  - r/sports\n  - NFL\n  - AFL\n  - referee signals\npublic_ready: true\n---\n\n## Summary\n\nAfter NFL officials used an Australian football scoring signal in Melbourne,\nan AFL umpire returned the gesture with the NFL version later that day.\n\n## Why It Is Funny\n\nTwo football codes completed an international handshake using only the hand\nsignals that confuse everyone watching the other sport.\n\n## Comment Highlights\n\n- Label: Cross-code translation\n  Summary: The thread became a friendly explainer for fans learning why the two gestures mattered.\n  Why funny: The salute worked immediately for the people who knew both rulebooks and needed subtitles for everyone else.\n  Source URL: https://www.reddit.com/r/sports/comments/1wdcvkd/after_the_nfl_referee_used_the_australian_rules/\n\n## Quote\n\nThe officials exchanged rulebook dialects.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1wdcvkd/after_the_nfl_referee_used_the_australian_rules/\n- Source type: Current Reddit top-day video post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/sports post and visible public explanations on 2026-09-11. The rewrite describes the reciprocal gestures without adding game claims beyond the source context.\n\n## Sports Radar Markdown\n\n```md\n**The NFL and AFL trade scoring signals**\n\nNFL officials borrowed an Australian football signal in Melbourne, and an AFL umpire returned the gesture later that day.\n\nWhy it works: Two football codes completed an international handshake using the signals that confuse everyone watching the other sport.\n```\n"
+    "markdown": "---\nid: nfl-afl-referee-signal-swap\nrank: 1\ntitle: \"The NFL and AFL trade scoring signals\"\nleague: \"Football\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-11\"\nheat: 99\ntags:\n  - r/sports\n  - NFL\n  - AFL\n  - referee signals\npublic_ready: true\n---\n\n## Summary\n\nAfter NFL officials used an Australian football scoring signal in Melbourne,\nan AFL umpire returned the gesture with the NFL version later that day.\n\n## Why It Is Funny\n\nTwo football codes completed an international handshake using only the hand\nsignals that confuse everyone watching the other sport.\n\n## Comment Highlights\n\n- Label: Cross-code translation\n  Summary: The thread became a friendly explainer for fans learning why the two gestures mattered.\n  Why funny: The salute worked immediately for the people who knew both rulebooks and needed subtitles for everyone else.\n  Source URL: https://www.reddit.com/r/sports/comments/1wdcvkd/after_the_nfl_referee_used_the_australian_rules/\n\n## Quote\n\nThe officials exchanged rulebook dialects.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1wdcvkd/after_the_nfl_referee_used_the_australian_rules/\n- Source type: Current Reddit top-day video post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/sports post and visible public explanations on 2026-09-11. The rewrite describes the reciprocal gestures without adding game claims beyond the source context.\n\n## Sports Radar Markdown\n\n```md\n**The NFL and AFL trade scoring signals**\n\nNFL officials borrowed an Australian football signal in Melbourne, and an AFL umpire returned the gesture later that day.\n\nWhy it works: Two football codes completed an international handshake using the signals that confuse everyone watching the other sport.\n```\n"
   },
   {
     "id": "white-sox-sign-of-peace",
@@ -2400,7 +2430,7 @@
     "title": "Craig Stammen changes pitchers by accident",
     "league": "MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-11",
     "heat": 98,
     "tags": [
@@ -2422,7 +2452,7 @@
         "sourceUrl": "https://www.reddit.com/r/baseball/comments/1wcpmgk/highlight_padres_manager_craig_stammen/"
       }
     ],
-    "markdown": "---\nid: craig-stammen-accidental-mound-visit\nrank: 2\ntitle: \"Craig Stammen changes pitchers by accident\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-11\"\nheat: 98\ntags:\n  - r/baseball\n  - Craig Stammen\n  - Walker Buehler\n  - mound visits\npublic_ready: true\n---\n\n## Summary\n\nPadres manager Craig Stammen walked to the mound without realizing an earlier\nvisit meant Walker Buehler now had to leave the game.\n\n## Why It Is Funny\n\nOne supportive stroll became a pitching change because the rulebook had\nalready started counting.\n\n## Comment Highlights\n\n- Label: Accidental strategy\n  Summary: Fans jokingly recast the mistake as an elaborate way to support the pitcher while still making a change.\n  Why funny: The result looked clever only after everyone agreed not to inspect the plan.\n  Source URL: https://www.reddit.com/r/baseball/comments/1wcpmgk/highlight_padres_manager_craig_stammen/\n\n## Quote\n\nThe bullpen move arrived one mound visit early.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1wcpmgk/highlight_padres_manager_craig_stammen/\n- Source type: Current Reddit top-day highlight post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post and visible public replies on 2026-09-11. The rewrite sticks to the posted mound-visit sequence and treats the strategy angle as fan humor.\n\n## Sports Radar Markdown\n\n```md\n**Craig Stammen changes pitchers by accident**\n\nPadres manager Craig Stammen walked to the mound without realizing an earlier visit meant Walker Buehler now had to leave.\n\nWhy it works: One supportive stroll became a pitching change because the rulebook had already started counting.\n```\n"
+    "markdown": "---\nid: craig-stammen-accidental-mound-visit\nrank: 2\ntitle: \"Craig Stammen changes pitchers by accident\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-11\"\nheat: 98\ntags:\n  - r/baseball\n  - Craig Stammen\n  - Walker Buehler\n  - mound visits\npublic_ready: true\n---\n\n## Summary\n\nPadres manager Craig Stammen walked to the mound without realizing an earlier\nvisit meant Walker Buehler now had to leave the game.\n\n## Why It Is Funny\n\nOne supportive stroll became a pitching change because the rulebook had\nalready started counting.\n\n## Comment Highlights\n\n- Label: Accidental strategy\n  Summary: Fans jokingly recast the mistake as an elaborate way to support the pitcher while still making a change.\n  Why funny: The result looked clever only after everyone agreed not to inspect the plan.\n  Source URL: https://www.reddit.com/r/baseball/comments/1wcpmgk/highlight_padres_manager_craig_stammen/\n\n## Quote\n\nThe bullpen move arrived one mound visit early.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1wcpmgk/highlight_padres_manager_craig_stammen/\n- Source type: Current Reddit top-day highlight post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post and visible public replies on 2026-09-11. The rewrite sticks to the posted mound-visit sequence and treats the strategy angle as fan humor.\n\n## Sports Radar Markdown\n\n```md\n**Craig Stammen changes pitchers by accident**\n\nPadres manager Craig Stammen walked to the mound without realizing an earlier visit meant Walker Buehler now had to leave.\n\nWhy it works: One supportive stroll became a pitching change because the rulebook had already started counting.\n```\n"
   },
   {
     "id": "de-la-fuente-best-team-counter",
@@ -3148,6 +3178,36 @@
       }
     ],
     "markdown": "---\nid: murakami-bobblehead-two-homer-day\nrank: 2\ntitle: \"Murakami's bobblehead day becomes a family production\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-07-27\"\nheat: 96\ntags:\n  - r/baseball\n  - Munetaka Murakami\n  - bobblehead day\n  - family\npublic_ready: true\n---\n\n## Summary\n\nAn r/baseball highlight showed Munetaka Murakami hitting two home runs on his\nbobblehead day, with a companion post noting that his parents threw the\nceremonial first pitch.\n\n## Why It Is Funny\n\nThe promotional calendar already had enough plot. Murakami added two home runs\nand turned the whole afternoon into a suspiciously tidy family script.\n\n## Comment Highlights\n\n- Label: Storybook scorecard\n  Summary: Fans stacked the bobblehead giveaway, family first pitch, and two home runs into one increasingly improbable day.\n  Why funny: Every new detail sounded like an editor asking the script to be less believable.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v7fp6d/highlight_munetaka_murakami_has_a_twohomer_game/\n- Label: Both fields covered\n  Summary: The thread noted that the two home runs went to opposite fields.\n  Why funny: Even the direction of the highlights arrived with unnecessary narrative symmetry.\n  Source URL: https://www.reddit.com/r/baseball/comments/1v7fp6d/highlight_munetaka_murakami_has_a_twohomer_game/\n\n## Quote\n\nThe bobblehead promotion came with a full family screenplay.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1v7fp6d/highlight_munetaka_murakami_has_a_twohomer_game/\n- Source type: Reddit highlight post from the public MLB account and public discussion\n- Verification notes: The highlight, discussion, and companion first-pitch post were reviewed on 2026-07-27. The summary is limited to the public posts' framing.\n\n## Sports Radar Markdown\n\n```md\n**Murakami's bobblehead day becomes a family production**\n\nHis parents threw the first pitch, then Murakami supplied two home runs for the giveaway-day script.\n\nWhy it works: The promotional calendar accidentally booked a full movie.\n```\n"
+  },
+  {
+    "id": "nhl-27-face-scan-roast-loop",
+    "rank": 2,
+    "title": "NHL 27 turns one face scan into a daily delivery",
+    "league": "NHL",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-12",
+    "heat": 98,
+    "tags": [
+      "r/hockey",
+      "NHL 27",
+      "Cole Caufield",
+      "Trevor Zegras"
+    ],
+    "public_ready": true,
+    "summary": "ESPN asked NHL players about their NHL 27 facial scans. Trevor Zegras said he\nsends Cole Caufield's bad scan to him every day, and Caufield confirmed his\nphone will not let the image die.",
+    "whyFunny": "A strange video-game likeness became a recurring teammate service with perfect\ndelivery and no unsubscribe button.",
+    "quote": "The face scan became a daily notification.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1wdk98m/nhl_players_react_to_their_odd_nhl_27_facial_scans/",
+    "commentHighlights": [
+      {
+        "label": "Friendship protocol",
+        "summary": "Fans treated the repeated delivery as the natural duty of any teammate who discovers an especially bad photo.",
+        "whyFunny": "The face scan stopped being a graphics problem and became a reliable friendship ritual.",
+        "sourceUrl": "https://www.reddit.com/r/hockey/comments/1wdk98m/nhl_players_react_to_their_odd_nhl_27_facial_scans/"
+      }
+    ],
+    "markdown": "---\nid: nhl-27-face-scan-roast-loop\nrank: 2\ntitle: \"NHL 27 turns one face scan into a daily delivery\"\nleague: \"NHL\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-12\"\nheat: 98\ntags:\n  - r/hockey\n  - NHL 27\n  - Cole Caufield\n  - Trevor Zegras\npublic_ready: true\n---\n\n## Summary\n\nESPN asked NHL players about their NHL 27 facial scans. Trevor Zegras said he\nsends Cole Caufield's bad scan to him every day, and Caufield confirmed his\nphone will not let the image die.\n\n## Why It Is Funny\n\nA strange video-game likeness became a recurring teammate service with perfect\ndelivery and no unsubscribe button.\n\n## Comment Highlights\n\n- Label: Friendship protocol\n  Summary: Fans treated the repeated delivery as the natural duty of any teammate who discovers an especially bad photo.\n  Why funny: The face scan stopped being a graphics problem and became a reliable friendship ritual.\n  Source URL: https://www.reddit.com/r/hockey/comments/1wdk98m/nhl_players_react_to_their_odd_nhl_27_facial_scans/\n\n## Quote\n\nThe face scan became a daily notification.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1wdk98m/nhl_players_react_to_their_odd_nhl_27_facial_scans/\n- Supporting URL: https://www.espn.com/nhl/story/_/id/49897297/nhl-27-player-reaction-facial-scans\n- Source type: Current Reddit top-day link, linked ESPN reporting, and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/hockey post, the linked ESPN article, and visible public discussion on 2026-09-12. The rewrite paraphrases the documented Zegras and Caufield exchange without reproducing the article's longer quotations.\n\n## Sports Radar Markdown\n\n```md\n**NHL 27 turns one face scan into a daily delivery**\n\nTrevor Zegras said he sends Cole Caufield's bad NHL 27 scan to him every day, and Caufield confirmed his phone will not let it die.\n\nWhy it works: A strange likeness became a recurring teammate service with no unsubscribe button.\n```\n"
   },
   {
     "id": "orbit-bald-fan-polish",
@@ -4394,6 +4454,36 @@
       }
     ],
     "markdown": "---\nid: ben-johnson-offseason-office-overnight\nrank: 3\ntitle: \"Ben Johnson's office gets an offseason overnight shift\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-10\"\nheat: 94\ntags:\n  - r/nfl\n  - Ben Johnson\n  - Chicago Bears\n  - coaching lore\npublic_ready: true\n---\n\n## Summary\n\nAn r/nfl clip featured Sam Roush recalling an early-morning June encounter\nthat made it appear Ben Johnson had spent the night at the team facility.\n\n## Why It Is Funny\n\nThe offseason office had apparently become a hotel, and the only response was\nto stop asking follow-up questions. The thread treated it as equal parts coach\nlore and a reminder that football obsession is not a sleep plan.\n\n## Comment Highlights\n\n- Label: Offseason dynasty hours\n  Summary: Fans joked about the overnight shift while also questioning the value of extreme coaching hours.\n  Why funny: A football flex immediately became a workplace wellness review.\n  Source URL: https://www.reddit.com/r/nfl/comments/1vk64l9/highlight_sam_roush_on_ben_johnson_i_was_lifting/\n\n## Quote\n\nThe offseason office quietly added a night shift.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1vk64l9/highlight_sam_roush_on_ben_johnson_i_was_lifting/\n- Source type: Reddit top-day NFL interview clip\n- Verification notes: Sports Radar reviewed the public r/nfl post on 2026-08-10. The summary attributes the anecdote to the posted clip and does not claim a recurring habit or private knowledge.\n\n## Sports Radar Markdown\n\n```md\n**Ben Johnson's office gets an offseason overnight shift**\n\nAn r/nfl clip turned one early-morning facility encounter into instant coaching lore.\n\nWhy it works: The football flex becomes a workplace wellness review.\n```\n"
+  },
+  {
+    "id": "brampton-17-pick-trade",
+    "rank": 3,
+    "title": "Brampton turns one set of rights into 17 picks",
+    "league": "Hockey",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-12",
+    "heat": 97,
+    "tags": [
+      "r/hockey",
+      "Brampton Steelheads",
+      "Sudbury Wolves",
+      "Tanner Adams"
+    ],
+    "public_ready": true,
+    "summary": "The Brampton Steelheads received 17 draft picks from the Sudbury Wolves for\nthe rights to 16-year-old prospect Tanner Adams.",
+    "whyFunny": "A junior-hockey trade arrived with enough future assets to need its own\ninventory system.",
+    "quote": "The trade receipt needed a second page.",
+    "sourceUrl": "https://www.reddit.com/r/hockey/comments/1wdv7sg/the_brampton_steelheads_receive_17_picks_in_trade/",
+    "commentHighlights": [
+      {
+        "label": "Future futures",
+        "summary": "The thread joked that some of the eventual players attached to the deal might not be old enough to enter the conversation yet.",
+        "whyFunny": "Seventeen picks pushed ordinary prospect talk into long-range population planning.",
+        "sourceUrl": "https://www.reddit.com/r/hockey/comments/1wdv7sg/the_brampton_steelheads_receive_17_picks_in_trade/"
+      }
+    ],
+    "markdown": "---\nid: brampton-17-pick-trade\nrank: 3\ntitle: \"Brampton turns one set of rights into 17 picks\"\nleague: \"Hockey\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-12\"\nheat: 97\ntags:\n  - r/hockey\n  - Brampton Steelheads\n  - Sudbury Wolves\n  - Tanner Adams\npublic_ready: true\n---\n\n## Summary\n\nThe Brampton Steelheads received 17 draft picks from the Sudbury Wolves for\nthe rights to 16-year-old prospect Tanner Adams.\n\n## Why It Is Funny\n\nA junior-hockey trade arrived with enough future assets to need its own\ninventory system.\n\n## Comment Highlights\n\n- Label: Future futures\n  Summary: The thread joked that some of the eventual players attached to the deal might not be old enough to enter the conversation yet.\n  Why funny: Seventeen picks pushed ordinary prospect talk into long-range population planning.\n  Source URL: https://www.reddit.com/r/hockey/comments/1wdv7sg/the_brampton_steelheads_receive_17_picks_in_trade/\n\n## Quote\n\nThe trade receipt needed a second page.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/hockey/comments/1wdv7sg/the_brampton_steelheads_receive_17_picks_in_trade/\n- Supporting URL: https://www.espn.com/nhl/story/_/id/49913580/junior-hockey-team-nets-17-picks-top-prospect-tanner-adams\n- Source type: Current Reddit top-day image post, linked public reporting, and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/hockey post, the ESPN report confirming the 17-pick return, and visible public discussion on 2026-09-12. The rewrite keeps the trade facts narrow and treats the inventory framing as fan humor.\n\n## Sports Radar Markdown\n\n```md\n**Brampton turns one set of rights into 17 picks**\n\nThe Brampton Steelheads received 17 draft picks from Sudbury for the rights to 16-year-old prospect Tanner Adams.\n\nWhy it works: The return contained enough future assets to need its own inventory system.\n```\n"
   },
   {
     "id": "brandon-young-soccer-out",
@@ -5838,7 +5928,7 @@
     "title": "The backstop turns a wild pitch into an assist",
     "league": "MLB",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-11",
     "heat": 97,
     "tags": [
@@ -5860,7 +5950,7 @@
         "sourceUrl": "https://www.reddit.com/r/baseball/comments/1wcws3t/lucklight_logan_gilberts_wild_pitch_bounces_off/"
       }
     ],
-    "markdown": "---\nid: logan-gilbert-backstop-assist\nrank: 3\ntitle: \"The backstop turns a wild pitch into an assist\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-11\"\nheat: 97\ntags:\n  - r/baseball\n  - Logan Gilbert\n  - Cal Raleigh\n  - wild pitch\npublic_ready: true\n---\n\n## Summary\n\nLogan Gilbert's wild pitch bounced straight back to catcher Cal Raleigh, who\ntagged the runner at home to end the inning.\n\n## Why It Is Funny\n\nThe mistake took one perfect rebound and returned as defense before anyone\ncould finish reacting to the mistake.\n\n## Comment Highlights\n\n- Label: New trick play\n  Summary: The thread treated the impossible rebound like a designed pitcher-catcher play.\n  Why funny: Baseball briefly rewarded the wild pitch for excellent geometry.\n  Source URL: https://www.reddit.com/r/baseball/comments/1wcws3t/lucklight_logan_gilberts_wild_pitch_bounces_off/\n\n## Quote\n\nThe backstop earned the assist.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1wcws3t/lucklight_logan_gilberts_wild_pitch_bounces_off/\n- Source type: Current Reddit top-day highlight post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post and visible public replies on 2026-09-11. The rewrite describes the posted play and paraphrases the trick-play framing.\n\n## Sports Radar Markdown\n\n```md\n**The backstop turns a wild pitch into an assist**\n\nLogan Gilbert's wild pitch bounced straight back to Cal Raleigh, who tagged the runner at home to end the inning.\n\nWhy it works: The mistake took one perfect rebound and returned as defense before anyone could finish reacting.\n```\n"
+    "markdown": "---\nid: logan-gilbert-backstop-assist\nrank: 3\ntitle: \"The backstop turns a wild pitch into an assist\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-11\"\nheat: 97\ntags:\n  - r/baseball\n  - Logan Gilbert\n  - Cal Raleigh\n  - wild pitch\npublic_ready: true\n---\n\n## Summary\n\nLogan Gilbert's wild pitch bounced straight back to catcher Cal Raleigh, who\ntagged the runner at home to end the inning.\n\n## Why It Is Funny\n\nThe mistake took one perfect rebound and returned as defense before anyone\ncould finish reacting to the mistake.\n\n## Comment Highlights\n\n- Label: New trick play\n  Summary: The thread treated the impossible rebound like a designed pitcher-catcher play.\n  Why funny: Baseball briefly rewarded the wild pitch for excellent geometry.\n  Source URL: https://www.reddit.com/r/baseball/comments/1wcws3t/lucklight_logan_gilberts_wild_pitch_bounces_off/\n\n## Quote\n\nThe backstop earned the assist.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1wcws3t/lucklight_logan_gilberts_wild_pitch_bounces_off/\n- Source type: Current Reddit top-day highlight post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post and visible public replies on 2026-09-11. The rewrite describes the posted play and paraphrases the trick-play framing.\n\n## Sports Radar Markdown\n\n```md\n**The backstop turns a wild pitch into an assist**\n\nLogan Gilbert's wild pitch bounced straight back to Cal Raleigh, who tagged the runner at home to end the inning.\n\nWhy it works: The mistake took one perfect rebound and returned as defense before anyone could finish reacting.\n```\n"
   },
   {
     "id": "bills-stadium-broken-table",
@@ -6220,6 +6310,36 @@
       }
     ],
     "markdown": "---\nid: auburn-greece-competed-caption\nrank: 4\ntitle: \"Auburn's Greece trip discovers the word 'competed'\"\nleague: \"College Basketball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-08-10\"\nheat: 92\ntags:\n  - r/CollegeBasketball\n  - Auburn\n  - Greece\n  - exhibition\npublic_ready: true\n---\n\n## Summary\n\nAn r/CollegeBasketball thread covered Auburn's two-point exhibition loss in\nGreece after a rematch that featured heavy reserve minutes.\n\n## Why It Is Funny\n\nThe thread locked onto the one-word recap \"competed\" and treated it as a tiny\nmasterpiece of preseason damage control. Context survived; the caption still\nbecame the joke.\n\n## Comment Highlights\n\n- Label: Losses scheduled early\n  Summary: Fans reframed an August exhibition loss as strategic calendar management.\n  Why funny: Preseason optimism can turn any result into part of the plan.\n  Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vk1crq/auburn_hoops_drops_second_game_of_greece_trip_7068/\n\n## Quote\n\nCompeted: the entire exhibition press release.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/CollegeBasketball/comments/1vk1crq/auburn_hoops_drops_second_game_of_greece_trip_7068/\n- Source type: Reddit top-day college-basketball exhibition thread\n- Verification notes: Sports Radar reviewed the public r/CollegeBasketball post and discussion on 2026-08-10. The public copy notes the reserve-heavy rematch context and treats the caption reaction as fan framing, not a season forecast.\n\n## Sports Radar Markdown\n\n```md\n**Auburn's Greece trip discovers the word 'competed'**\n\nAn exhibition thread turned one compact recap into the whole preseason story.\n\nWhy it works: Context survived, but the caption became the scoreboard.\n```\n"
+  },
+  {
+    "id": "brian-woo-bullpen-kid",
+    "rank": 4,
+    "title": "Brian Woo promotes one kid to the bullpen",
+    "league": "MLB",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-12",
+    "heat": 96,
+    "tags": [
+      "r/sports",
+      "Brian Woo",
+      "Seattle Mariners",
+      "bullpen"
+    ],
+    "public_ready": true,
+    "summary": "Mariners pitcher Brian Woo invited a kid out of the stands to throw pitches\nfrom the bullpen.",
+    "whyFunny": "One spectator received a surprise bullpen promotion while the rest of the\ncrowd remained stuck at fan level.",
+    "quote": "The bullpen called up one fan.",
+    "sourceUrl": "https://www.reddit.com/r/sports/comments/1we1gbm/brian_woo_pulls_a_kid_from_the_stands_and_lets/",
+    "commentHighlights": [
+      {
+        "label": "Reverse transaction",
+        "summary": "The thread pretended the video ran backward and the bullpen had returned an unsuccessful catcher to the stands.",
+        "whyFunny": "A wholesome invitation became a brutally efficient roster move when the timeline was flipped.",
+        "sourceUrl": "https://www.reddit.com/r/sports/comments/1we1gbm/brian_woo_pulls_a_kid_from_the_stands_and_lets/"
+      }
+    ],
+    "markdown": "---\nid: brian-woo-bullpen-kid\nrank: 4\ntitle: \"Brian Woo promotes one kid to the bullpen\"\nleague: \"MLB\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-12\"\nheat: 96\ntags:\n  - r/sports\n  - Brian Woo\n  - Seattle Mariners\n  - bullpen\npublic_ready: true\n---\n\n## Summary\n\nMariners pitcher Brian Woo invited a kid out of the stands to throw pitches\nfrom the bullpen.\n\n## Why It Is Funny\n\nOne spectator received a surprise bullpen promotion while the rest of the\ncrowd remained stuck at fan level.\n\n## Comment Highlights\n\n- Label: Reverse transaction\n  Summary: The thread pretended the video ran backward and the bullpen had returned an unsuccessful catcher to the stands.\n  Why funny: A wholesome invitation became a brutally efficient roster move when the timeline was flipped.\n  Source URL: https://www.reddit.com/r/sports/comments/1we1gbm/brian_woo_pulls_a_kid_from_the_stands_and_lets/\n\n## Quote\n\nThe bullpen called up one fan.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1we1gbm/brian_woo_pulls_a_kid_from_the_stands_and_lets/\n- Source type: Current Reddit top-day video post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/sports post, the visible video context, and public discussion on 2026-09-12. The rewrite describes the posted invitation and paraphrases the thread's reverse-video joke.\n\n## Sports Radar Markdown\n\n```md\n**Brian Woo promotes one kid to the bullpen**\n\nMariners pitcher Brian Woo invited a kid out of the stands to throw pitches from the bullpen.\n\nWhy it works: One spectator received a surprise promotion while the rest of the crowd remained stuck at fan level.\n```\n"
   },
   {
     "id": "byu-usc-preseason-tie",
@@ -7392,7 +7512,7 @@
     "title": "Teo Davidov deletes the backhand",
     "league": "Tennis",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-11",
     "heat": 96,
     "tags": [
@@ -7414,7 +7534,7 @@
         "sourceUrl": "https://www.reddit.com/r/sports/comments/1wcq7vs/two_forehands_no_backhands_meet_the_us_opens/"
       }
     ],
-    "markdown": "---\nid: teo-davidov-two-forehands\nrank: 4\ntitle: \"Teo Davidov deletes the backhand\"\nleague: \"Tennis\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-11\"\nheat: 96\ntags:\n  - r/sports\n  - Teo Davidov\n  - US Open\n  - ambidextrous tennis\npublic_ready: true\n---\n\n## Summary\n\nJunior player Teo Davidov switches hands during rallies so he can hit a\nforehand from either side and serve with either arm.\n\n## Why It Is Funny\n\nInstead of improving his weaker wing, he appears to have removed the entire\nconcept from the controls menu.\n\n## Comment Highlights\n\n- Label: Dual-wield request\n  Summary: Fans quickly decided the only remaining upgrade was permission to use two rackets.\n  Why funny: A real tactical experiment immediately received video-game equipment logic.\n  Source URL: https://www.reddit.com/r/sports/comments/1wcq7vs/two_forehands_no_backhands_meet_the_us_opens/\n\n## Quote\n\nThe backhand has left the control scheme.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1wcq7vs/two_forehands_no_backhands_meet_the_us_opens/\n- Source type: Current Reddit top-day article post, linked public reporting, and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/sports post, its linked Guardian article, and visible public replies on 2026-09-11. The rewrite uses only the documented two-forehand and two-sided serving details.\n\n## Sports Radar Markdown\n\n```md\n**Teo Davidov deletes the backhand**\n\nJunior player Teo Davidov switches hands during rallies so he can hit a forehand from either side and serve with either arm.\n\nWhy it works: Instead of improving his weaker wing, he removed the entire concept from the controls menu.\n```\n"
+    "markdown": "---\nid: teo-davidov-two-forehands\nrank: 4\ntitle: \"Teo Davidov deletes the backhand\"\nleague: \"Tennis\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-11\"\nheat: 96\ntags:\n  - r/sports\n  - Teo Davidov\n  - US Open\n  - ambidextrous tennis\npublic_ready: true\n---\n\n## Summary\n\nJunior player Teo Davidov switches hands during rallies so he can hit a\nforehand from either side and serve with either arm.\n\n## Why It Is Funny\n\nInstead of improving his weaker wing, he appears to have removed the entire\nconcept from the controls menu.\n\n## Comment Highlights\n\n- Label: Dual-wield request\n  Summary: Fans quickly decided the only remaining upgrade was permission to use two rackets.\n  Why funny: A real tactical experiment immediately received video-game equipment logic.\n  Source URL: https://www.reddit.com/r/sports/comments/1wcq7vs/two_forehands_no_backhands_meet_the_us_opens/\n\n## Quote\n\nThe backhand has left the control scheme.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/sports/comments/1wcq7vs/two_forehands_no_backhands_meet_the_us_opens/\n- Source type: Current Reddit top-day article post, linked public reporting, and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/sports post, its linked Guardian article, and visible public replies on 2026-09-11. The rewrite uses only the documented two-forehand and two-sided serving details.\n\n## Sports Radar Markdown\n\n```md\n**Teo Davidov deletes the backhand**\n\nJunior player Teo Davidov switches hands during rallies so he can hit a forehand from either side and serve with either arm.\n\nWhy it works: Instead of improving his weaker wing, he removed the entire concept from the controls menu.\n```\n"
   },
   {
     "id": "mcdonalds-1977-all-americans-photo",
@@ -8267,6 +8387,36 @@
       }
     ],
     "markdown": "---\nid: aaron-donald-49ers-retirement-reversal\nrank: 5\ntitle: \"Aaron Donald reverses the 49ers' retirement party\"\nleague: \"NFL\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-07\"\nheat: 95\ntags:\n  - r/nfl\n  - Aaron Donald\n  - Kyle Shanahan\n  - retirement reversal\npublic_ready: true\n---\n\n## Summary\n\nKyle Shanahan recalled the 49ers facility celebrating Aaron Donald's\nretirement, then going completely the other direction when he returned.\n\n## Why It Is Funny\n\nThe happiest offseason announcement in the building came with a full refund\nand the original problem back on the schedule.\n\n## Comment Highlights\n\n- Label: Celebration recalled\n  Summary: Fans treated Donald's return as one more item arriving in an already crowded 49ers offseason.\n  Why funny: The retirement party aged into evidence of premature confidence.\n  Source URL: https://www.reddit.com/r/nfl/comments/1w9ilzz/barshop_after_aaron_donald_retired_kyle_shanahan/\n\n## Quote\n\nThe retirement party got recalled.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nfl/comments/1w9ilzz/barshop_after_aaron_donald_retired_kyle_shanahan/\n- Source type: Current Reddit top-day ESPN link post and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nfl post, visible ESPN source summary, and public fan context on 2026-09-07. The rewrite attributes the recollection to Shanahan and avoids unrelated claims from the thread.\n\n## Sports Radar Markdown\n\n```md\n**Aaron Donald reverses the 49ers' retirement party**\n\nKyle Shanahan recalled the 49ers facility celebrating Aaron Donald's retirement before his return flipped the mood.\n\nWhy it works: The happiest offseason announcement in the building came with a full refund and the original problem back on the schedule.\n```\n"
+  },
+  {
+    "id": "anthony-bennett-first-shot-supercut",
+    "rank": 5,
+    "title": "Anthony Bennett's first 22 shots get the supercut",
+    "league": "NBA",
+    "source": "Reddit",
+    "status": "today",
+    "date": "2026-09-12",
+    "heat": 95,
+    "tags": [
+      "r/nba",
+      "Anthony Bennett",
+      "Cleveland Cavaliers",
+      "NBA history"
+    ],
+    "public_ready": true,
+    "summary": "A fan compiled Anthony Bennett's first 22 field-goal attempts from 2013. The\nsurprise first overall pick missed 21 of them, including his first 16.",
+    "whyFunny": "The cold start becomes more surreal when every miss is collected into one\nuninterrupted historical exhibit.",
+    "quote": "The first bucket arrived after sixteen rehearsals.",
+    "sourceUrl": "https://www.reddit.com/r/nba/comments/1wdqjiy/in_2013_anthony_bennett_was_a_surprise_first/",
+    "commentHighlights": [
+      {
+        "label": "Opening exhibit",
+        "summary": "The discussion treated the reel as only the first room in a much larger archive of a famously difficult rookie start.",
+        "whyFunny": "Twenty-one misses already felt complete, and the thread kept discovering more context to file beside them.",
+        "sourceUrl": "https://www.reddit.com/r/nba/comments/1wdqjiy/in_2013_anthony_bennett_was_a_surprise_first/"
+      }
+    ],
+    "markdown": "---\nid: anthony-bennett-first-shot-supercut\nrank: 5\ntitle: \"Anthony Bennett's first 22 shots get the supercut\"\nleague: \"NBA\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-12\"\nheat: 95\ntags:\n  - r/nba\n  - Anthony Bennett\n  - Cleveland Cavaliers\n  - NBA history\npublic_ready: true\n---\n\n## Summary\n\nA fan compiled Anthony Bennett's first 22 field-goal attempts from 2013. The\nsurprise first overall pick missed 21 of them, including his first 16.\n\n## Why It Is Funny\n\nThe cold start becomes more surreal when every miss is collected into one\nuninterrupted historical exhibit.\n\n## Comment Highlights\n\n- Label: Opening exhibit\n  Summary: The discussion treated the reel as only the first room in a much larger archive of a famously difficult rookie start.\n  Why funny: Twenty-one misses already felt complete, and the thread kept discovering more context to file beside them.\n  Source URL: https://www.reddit.com/r/nba/comments/1wdqjiy/in_2013_anthony_bennett_was_a_surprise_first/\n\n## Quote\n\nThe first bucket arrived after sixteen rehearsals.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/nba/comments/1wdqjiy/in_2013_anthony_bennett_was_a_surprise_first/\n- Source type: Current Reddit top-day video compilation and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/nba post, its visible 22-attempt compilation, and public discussion on 2026-09-12. The rewrite uses the attempt totals stated by the source post and avoids unverified biographical claims from the comments.\n\n## Sports Radar Markdown\n\n```md\n**Anthony Bennett's first 22 shots get the supercut**\n\nA fan compiled Anthony Bennett's first 22 attempts from 2013; the surprise first overall pick missed 21 of them.\n\nWhy it works: Every miss is collected into one uninterrupted historical exhibit.\n```\n"
   },
   {
     "id": "alpharetta-mall-hockey-arena",
@@ -9694,7 +9844,7 @@
     "title": "The kiss cam refuses to clock out",
     "league": "Baseball",
     "source": "Reddit",
-    "status": "today",
+    "status": "archive",
     "date": "2026-09-11",
     "heat": 95,
     "tags": [
@@ -9716,7 +9866,7 @@
         "sourceUrl": "https://www.reddit.com/r/baseball/comments/1wcza0i/kiss_cam_operator_not_going_to_stop_until_all/"
       }
     ],
-    "markdown": "---\nid: kiss-cam-completionist\nrank: 5\ntitle: \"The kiss cam refuses to clock out\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"today\"\ndate: \"2026-09-11\"\nheat: 95\ntags:\n  - r/baseball\n  - The Onion\n  - kiss cam\n  - sports satire\npublic_ready: true\n---\n\n## Summary\n\nThe Onion imagined a kiss-cam operator refusing to stop until all 32,000 fans\nhad participated.\n\n## Why It Is Funny\n\nA ten-second stadium diversion becomes a completionist challenge with no exit\ncondition and a rapidly expanding line.\n\n## Comment Highlights\n\n- Label: Stadium math\n  Summary: The thread immediately started calculating whether every fan needed one kiss or every possible pairing needed its turn.\n  Why funny: The satire acquired a combinatorics department before the operator could clock out.\n  Source URL: https://www.reddit.com/r/baseball/comments/1wcza0i/kiss_cam_operator_not_going_to_stop_until_all/\n\n## Quote\n\nThe segment ends when the spreadsheet says so.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1wcza0i/kiss_cam_operator_not_going_to_stop_until_all/\n- Source type: Current Reddit top-day link to The Onion satire and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post and visible public discussion on 2026-09-11. The summary explicitly labels the premise as satire and paraphrases the thread's public math jokes.\n\n## Sports Radar Markdown\n\n```md\n**The kiss cam refuses to clock out**\n\nThe Onion imagined a kiss-cam operator refusing to stop until all 32,000 fans had participated.\n\nWhy it works: A ten-second stadium diversion becomes a completionist challenge with no exit condition.\n```\n"
+    "markdown": "---\nid: kiss-cam-completionist\nrank: 5\ntitle: \"The kiss cam refuses to clock out\"\nleague: \"Baseball\"\nsource: \"Reddit\"\nstatus: \"archive\"\ndate: \"2026-09-11\"\nheat: 95\ntags:\n  - r/baseball\n  - The Onion\n  - kiss cam\n  - sports satire\npublic_ready: true\n---\n\n## Summary\n\nThe Onion imagined a kiss-cam operator refusing to stop until all 32,000 fans\nhad participated.\n\n## Why It Is Funny\n\nA ten-second stadium diversion becomes a completionist challenge with no exit\ncondition and a rapidly expanding line.\n\n## Comment Highlights\n\n- Label: Stadium math\n  Summary: The thread immediately started calculating whether every fan needed one kiss or every possible pairing needed its turn.\n  Why funny: The satire acquired a combinatorics department before the operator could clock out.\n  Source URL: https://www.reddit.com/r/baseball/comments/1wcza0i/kiss_cam_operator_not_going_to_stop_until_all/\n\n## Quote\n\nThe segment ends when the spreadsheet says so.\n\n## Source Notes\n\n- Source URL: https://www.reddit.com/r/baseball/comments/1wcza0i/kiss_cam_operator_not_going_to_stop_until_all/\n- Source type: Current Reddit top-day link to The Onion satire and public fan discussion\n- Verification notes: Sports Radar reviewed the live r/baseball post and visible public discussion on 2026-09-11. The summary explicitly labels the premise as satire and paraphrases the thread's public math jokes.\n\n## Sports Radar Markdown\n\n```md\n**The kiss cam refuses to clock out**\n\nThe Onion imagined a kiss-cam operator refusing to stop until all 32,000 fans had participated.\n\nWhy it works: A ten-second stadium diversion becomes a completionist challenge with no exit condition.\n```\n"
   },
   {
     "id": "nhl-98-intro-memory",
