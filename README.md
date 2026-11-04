@@ -53,7 +53,7 @@ Do not edit generated sports moment content by hand in
 ```bash
 npm run validate:sports
 npm run sync:sports
-npm run check   # typecheck and lint
+npm run check   # typecheck, lint and unit tests
 npm run build
 npm run test:ui
 ```
