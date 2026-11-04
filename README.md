@@ -53,12 +53,17 @@ Do not edit generated sports moment content by hand in
 ```bash
 npm run validate:sports
 npm run sync:sports
-npm run typecheck
+npm run check   # typecheck and lint
 npm run build
+npm run test:ui
 ```
 
 `npm run validate:sports` checks whether generated public data is current
-without rewriting `data/sports-moments.json`.
+without rewriting `data/sports-moments.json`. It reads the sibling
+`../georgesports` repo, so CI does not run it.
+
+CI (`.github/workflows/ci.yml`) runs `npm run check` and `npm run build` on
+every push to `master` and on pull requests.
 
 ## Source Strategy
 

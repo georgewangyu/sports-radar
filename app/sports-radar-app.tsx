@@ -462,7 +462,7 @@ export function SportsRadarApp({ moments }: Props) {
             <h2 id="skill-title">Use Sports Radar in your agent.</h2>
           </div>
           <p>
-            Install the skill to ask for today's sports internet pick, search the
+            Install the skill to ask for today&apos;s sports internet pick, search the
             archive, or turn a weird moment into a concise shareable summary.
           </p>
         </div>
