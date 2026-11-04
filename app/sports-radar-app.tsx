@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { FormEvent, useEffect, useMemo, useState } from "react";
 import { BrandMark } from "./brand-mark";
+import { CopyIcon } from "./moment-actions";
 import type { SportsMoment } from "@/lib/sports";
 import { getTodaysMoments, leagues, sources } from "@/lib/sports";
 
@@ -78,15 +79,6 @@ function SearchIcon() {
   );
 }
 
-function CopyIcon() {
-  return (
-    <svg aria-hidden="true" className="icon" viewBox="0 0 24 24">
-      <rect height="12" rx="2" width="12" x="8" y="8" />
-      <path d="M4 16.2V5.8C4 4.8 4.8 4 5.8 4h10.4" />
-    </svg>
-  );
-}
-
 function SendIcon() {
   return (
     <svg aria-hidden="true" className="icon" viewBox="0 0 24 24">
@@ -114,36 +106,38 @@ function sortMoments(items: SportsMoment[], sortMode: SortMode) {
   return [...items].sort((left, right) => left.rank - right.rank);
 }
 
-async function errorMessageFor(response: Response) {
+type ErrorCopy = {
+  labels: Record<string, string>;
+  unavailable: string;
+  invalid: string;
+};
+
+const submitErrorCopy: ErrorCopy = {
+  labels: issueLabels,
+  unavailable: "Something went wrong. Try again or send the find another way.",
+  invalid: "Please check the form and try again.",
+};
+
+const leadErrorCopy: ErrorCopy = {
+  labels: leadLabels,
+  unavailable: "Could not unlock the install command. Try again in a moment.",
+  invalid: "Please check your email and try again.",
+};
+
+async function errorMessageFor(response: Response, copy: ErrorCopy) {
   if (response.status !== 400) {
-    return "Something went wrong. Try again or send the find another way.";
+    return copy.unavailable;
   }
 
   const body = (await response.json().catch(() => null)) as ErrorResponse | null;
   const fieldMessages = Object.entries(body?.issues || {}).flatMap(
     ([field, messages]) =>
-      (messages || []).map((message) => `${issueLabels[field] || field}: ${message}`),
+      (messages || []).map((message) => `${copy.labels[field] || field}: ${message}`),
   );
 
   return fieldMessages.length > 0
     ? fieldMessages.join(" ")
-    : body?.error || "Please check the form and try again.";
-}
-
-async function leadErrorMessageFor(response: Response) {
-  if (response.status !== 400) {
-    return "Could not unlock the install command. Try again in a moment.";
-  }
-
-  const body = (await response.json().catch(() => null)) as ErrorResponse | null;
-  const fieldMessages = Object.entries(body?.issues || {}).flatMap(
-    ([field, messages]) =>
-      (messages || []).map((message) => `${leadLabels[field] || field}: ${message}`),
-  );
-
-  return fieldMessages.length > 0
-    ? fieldMessages.join(" ")
-    : body?.error || "Please check your email and try again.";
+    : body?.error || copy.invalid;
 }
 
 export function SportsRadarApp({ moments }: Props) {
@@ -244,7 +238,7 @@ export function SportsRadarApp({ moments }: Props) {
 
       if (!response.ok) {
         setLeadStatus("error");
-        setLeadError(await leadErrorMessageFor(response));
+        setLeadError(await errorMessageFor(response, leadErrorCopy));
         return;
       }
 
@@ -254,7 +248,7 @@ export function SportsRadarApp({ moments }: Props) {
       formElement.reset();
     } catch {
       setLeadStatus("error");
-      setLeadError("Could not unlock the install command. Try again in a moment.");
+      setLeadError(leadErrorCopy.unavailable);
     }
   }
 
@@ -291,7 +285,7 @@ export function SportsRadarApp({ moments }: Props) {
 
       if (!response.ok) {
         setFormStatus("error");
-        setError(await errorMessageFor(response));
+        setError(await errorMessageFor(response, submitErrorCopy));
         return;
       }
 
@@ -301,7 +295,7 @@ export function SportsRadarApp({ moments }: Props) {
       flash("submitted");
     } catch {
       setFormStatus("error");
-      setError("Something went wrong. Try again or send the find another way.");
+      setError(submitErrorCopy.unavailable);
     }
   }
 

@@ -3,7 +3,7 @@
 import { useState } from "react";
 import type { SportsMoment } from "@/lib/sports";
 
-function CopyIcon() {
+export function CopyIcon() {
   return (
     <svg aria-hidden="true" className="icon" viewBox="0 0 24 24">
       <rect height="12" rx="2" width="12" x="8" y="8" />
